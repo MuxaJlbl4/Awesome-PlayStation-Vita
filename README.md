@@ -176,5 +176,5 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [PKGj Config](https://psvitamod.com/wp-content/uploads/2019/05/config.txt) - config.txt for PKGj
 - [Bounties](https://github.com/vita-nuova/bounties/issues) - Bounties for new Vita projects
 - [Video conversion](http://community.eu.playstation.com/t5/PS-Vita/Best-PSvita-video-conversion-tutorial-with-sub/td-p/18573158) - Video conversion tutorial
-- [Plugin hotkeys]() - List of plugin hotkeys
+- [Plugin hotkeys](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/PSVHotkeys.md) - List of plugin hotkeys
 <br>
