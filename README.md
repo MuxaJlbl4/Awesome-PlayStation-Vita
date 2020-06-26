@@ -53,7 +53,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [Final h-encore²](https://github.com/soarqin/finalhe/releases) - Homebrew enabler auto installer for firmwares 3.69 - 3.73
 - [Auto h-encore](https://github.com/noahc3/auto-h-encore/releases) - Homebrew enabler auto installer for firmwares 3.65 - 3.68
 - [HENkaku](https://henkaku.xyz/) - Homebrew enabler for firmware 3.60
-- [MLTHaku](mlthaku.tk) - Homebrew enabler for firmware 3.60 without memory card (for [SD2VITA](https://github.com/xyzz/gamecard-microsd/releases))
+- [MLTHaku](http://mlthaku.tk/) - Homebrew enabler for firmware 3.60 without memory card (for [SD2VITA](https://github.com/xyzz/gamecard-microsd/releases))
 - [PS Vita Mod](https://psvitamod.com/) - Guides for hacking
 - [PSV Hacking 4PDA](http://4pda.ru/forum/index.php?showtopic=465175) - Russian guides for hacking
 - [Modoru](https://github.com/TheOfficialFloW/modoru/releases) - Firmware downgrader
