@@ -103,7 +103,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Download Enabler](https://github.com/TheOfficialFloW/VitaTweaks/releases/tag/DownloadEnabler) - Allows download any files from PS Vita browser
 - [NPS Proxy](https://www.reddit.com/r/VitaPiracy/comments/a6mwik/nps_temporary_workaround_for_pkgj_https_errors/) - Preventing HTTPS errors in PKGj by using NPS proxy
 ### 🎞️ Media
-- [ElevenMPV](https://github.com/joel16/ElevenMPV/releases) - Music player
+- [ElevenMPV-A](https://github.com/GrapheneCt/ElevenMPV-A/releases) - Music player with background playback
 - [TubeVita](https://github.com/theheroGAC/TubeVita/releases) - YouTube client
 - [Vita Moonlight](https://github.com/xyzz/vita-moonlight/releases) - NVIDIA Gamestream client for Vita
 - [Vita Media Importer](https://github.com/cnsldv/MediaImporter/releases) - Imports media into the PS Vita video and music players
