@@ -10,6 +10,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [⚙️ Basic Stuff](#%EF%B8%8F-basic-stuff)
 	- [🔓 Hacking](#-hacking)
 	- [🗃️ Apps](#%EF%B8%8F-apps)
+	- [💾 Memory](#-memory)
 - [🎲 Gaming and Emulation](#-gaming-and-emulation)
 	- [🎮 Games](#-games)
 	- [🕹️ Emulators](#%EF%B8%8F-emulators)
@@ -18,7 +19,9 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [🔑 Input](#-input)
 	- [🌍 Network](#-network)
 	- [🎞️ Media](#%EF%B8%8F-media)
+	- [🎥 Streaming](#-streaming)
 	- [🎨 Appearance](#-appearance)
+	- [📺 PS TV](#-ps-tv)
 	- [💻 PC tools](#-pc-tools)
 - [☀️ Enhances](#%EF%B8%8F-enhances)
 	- [🚀 Overclocking](#-overclocking)
@@ -61,7 +64,6 @@ Contains all most important, actual and cool things in my humble opinion.
 - [NoNpDrm](https://github.com/TheOfficialFloW/NoNpDrm/releases) - Disable DRM protection in games
 - [NoPsmDrm](https://github.com/frangarcj/NoPsmDrm/releases) - Disable DRM protection in PSM games
 - [rePatch reDux0](https://github.com/dots-tb/rePatch-reDux0/releases) - Allows to install custom patches
-- [Gamecard-microSD (SD2VITA)](https://github.com/xyzz/gamecard-microsd/releases) - Gamecard to microSD adapter driver
 ### 🗃️ Apps
 - [VitaShell](https://github.com/TheOfficialFloW/VitaShell/releases) - File manager
 - [PKGj](https://github.com/blastrock/pkgj/releases) - [NoPayStation](https://nopaystation.com/) browser and installer
@@ -69,6 +71,11 @@ Contains all most important, actual and cool things in my humble opinion.
 - [Vita HomeBrew Browser](https://github.com/devnoname120/vhbb/releases) - [VitaDB](https://vitadb.rinnegatamante.it/#/) browser and installer
 - [EasyVPK](https://github.com/Electric1447/EasyVPK/releases) - [VitaDB](https://vitadb.rinnegatamante.it/#/) browser and installer
 - [vita-savemgr](https://github.com/d3m3vilurr/vita-savemgr/releases) - Savegame manager
+### 💾 Memory
+- [PSVita-StorageMgr](https://github.com/CelesteBlue-dev/PSVita-StorageMgr/releases) - Mounts/redirects storage devices to mount points
+- [yamt-vita](https://github.com/SKGleba/yamt-vita/releases) - Yet another (re)mount tool kernel plugin
+- [Application Storage Manager](https://bitbucket.org/Lupo511/appstoragemanager/downloads/) - Moves apps to/from internal memory
+- [Gamecard-microSD (SD2VITA)](https://github.com/xyzz/gamecard-microsd/releases) - Gamecard to microSD adapter driver
 <br>
 
 ## 🎲 Gaming and Emulation
@@ -94,6 +101,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 ### 🔑 Input
 - [VitaTester](https://github.com/NamelessGhoul0/VitaTester/releases) - Testing input
 - [vitastick](https://github.com/xerpi/vitastick/releases) - Allows to use PS Vita as an USB gamepad
+- [RemapPSV](https://wololo.net/talk/viewtopic.php?t=49752) - Allows you to remap buttons and touch zones 
 - [Button Swap](https://github.com/Scorpeg/Button-Swap/releases) - Swapping X and O buttons
 - [Analog Enhancer](http://wololo.net/talk/viewtopic.php?f=116&t=49475) - Sets deadzones for sticks
 - [WDNR](https://github.com/Rinnegatamante/WDNR/releases) - Disables rear touchpad
@@ -105,13 +113,21 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 ### 🎞️ Media
 - [ElevenMPV-A](https://github.com/GrapheneCt/ElevenMPV-A/releases) - Music player with background playback
 - [TubeVita](https://github.com/theheroGAC/TubeVita/releases) - YouTube client
-- [Vita Moonlight](https://github.com/xyzz/vita-moonlight/releases) - NVIDIA Gamestream client for Vita
 - [Vita Media Importer](https://github.com/cnsldv/MediaImporter/releases) - Imports media into the PS Vita video and music players
+### 🎥 Streaming
+- [Vita Moonlight](https://github.com/xyzz/vita-moonlight/releases) - NVIDIA Gamestream client for Vita
+- [udcd_uvc](https://github.com/xerpi/vita-udcd-uvc/releases) -  Allows you stream your PSVita screen to PC via USB
 ### 🎨 Appearance
 - [ONEMenu](https://github.com/ONElua/ONEMenu-for-PSVita/releases) - Custom UI and title name editor
+- [SwitchView UI](https://vitadb.rinnegatamante.it/#/info/338) - Nintendo Switch like interface
 - [CBS-Manager](https://github.com/SKGleba/CBS-Manager/releases) - Displays an image/animation/console info during the PSVita boot process
 - [Theme Manager Ex](https://bitbucket.org/kylon/theme-manager-ex-theme-engine/downloads/) - Advanced theme manger
+### 📺 PS TV
+- [AntiBlacklist](https://vitadb.rinnegatamante.it/#/info/11) - Allows you to play all PS Vita games on PS TV
+- [MiniVitaTV](https://github.com/TheOfficialFloW/MiniVitaTV/releases) - Allows you to connect up to 4 DS3/DS4 controllers to PS Vita
+- [Viimote](https://github.com/xerpi/viimote/releases) - Allows you to connect a Wiimote
 ### 💻 PC tools
+- [Vita SDK](https://vitasdk.org/) - Development tools for PS Vita
 - [GeForce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/) - NVIDIA Gamestream for PC
 - [NPS Browser](https://nopaystation.com/vita/npsReleases/NPS_Browser_0.94.exe) - [NoPayStation](https://nopaystation.com/) client for Windows
 - [PSP2-CBAnim](https://github.com/SKGleba/PSP2-CBAnim/releases) - Boot animation creator for [CBS-Manager](https://github.com/SKGleba/CBS-Manager/releases)
@@ -138,6 +154,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [TropHAX](https://bitbucket.org/SilicaAndPina/trophax/downloads/) - Trophy unlocker
 - [Trophy Manager](https://github.com/ONElua/TrophyManager/releases) - Trophy remover
 - [Déjàvu](https://github.com/TheOfficialFloW/dejavu/releases) - Save state plugin
+- [TurboPad](https://wololo.net/talk/viewtopic.php?t=48065) - Allows you to enable RapidFire on any button
 ### 🔎 Reverse Engineering
 - [PSVita Reverse Engineering Tools](https://github.com/CelesteBlue-dev/PSVita-RE-tools/releases) - A bundle of RE tools for PSVita
 - [VGi](https://github.com/Electry/VGi/releases) - Prints useful information about PS Vita games
