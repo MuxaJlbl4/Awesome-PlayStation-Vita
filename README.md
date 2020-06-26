@@ -158,6 +158,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 
 ## ♥️ Fans
 ### 😜 Communities
+- [Wololo PS Vita](http://wololo.net/category/psvita/) - Lastest homebrews, mods and hacking scene news
 - [Reddit Vita](https://www.reddit.com/r/vita) - PS Vita Reddit community
 - [Reddit VitaHacks](https://www.reddit.com/r/vitahacks) - PS Vita hacks and homebrew on Reddit
 - [Reddit VitaPiracy](https://www.reddit.com/r/VitaPiracy) - Reddit discussion of things related to piracy on the PS Vita
