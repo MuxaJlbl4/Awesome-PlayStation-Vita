@@ -56,7 +56,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [MLTHaku](http://mlthaku.tk/) - Homebrew enabler for firmware 3.60 without memory card (for [SD2VITA](https://github.com/xyzz/gamecard-microsd/releases))
 - [PS Vita Mod](https://psvitamod.com/) - Guides for hacking
 - [PSV Hacking 4PDA](http://4pda.ru/forum/index.php?showtopic=465175) - Russian guides for hacking
-- [Modoru](https://github.com/TheOfficialFloW/modoru/releases) - Firmware downgrader
+- [Modoru](https://github.com/SKGleba/modoru/releases) - Firmware downgrader
 - [0syscall6](https://github.com/SKGleba/0syscall6/releases) - Remove SELF checks
 - [NoNpDrm](https://github.com/TheOfficialFloW/NoNpDrm/releases) - Disable DRM protection in games
 - [NoPsmDrm](https://github.com/frangarcj/NoPsmDrm/releases) - Disable DRM protection in PSM games
