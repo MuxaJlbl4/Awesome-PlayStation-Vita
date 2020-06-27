@@ -126,7 +126,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [DolcePolce](https://github.com/KuromeSan/DolcePolce/releases) - Allows you to play all PS Vita games on PS TV
 - [MiniVitaTV](https://github.com/TheOfficialFloW/MiniVitaTV/releases) - Allows you to connect up to 4 DS3/DS4 controllers to PS Vita
 - [Viimote](https://github.com/xerpi/viimote/releases) - Allows you to connect a Wiimote
-### 💻 PC tools
+### 💻 PC Tools
 - [Vita SDK](https://vitasdk.org/) - Development tools for PS Vita
 - [GeForce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/) - NVIDIA Gamestream for PC
 - [NPS Browser](https://nopaystation.com/vita/npsReleases/NPS_Browser_0.94.exe) - [NoPayStation](https://nopaystation.com/) client for Windows
@@ -192,7 +192,6 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 ## 📚 Miscellaneous
 ### 🧩 Misc
 - [AR Play Cards](https://www.retrocomputers.gr/media/kunena/attachments/155/AR-Play-Cards.pdf) - Augmented Reality cards for PS Vita
-- [PKGj Config](https://psvitamod.com/wp-content/uploads/2019/05/config.txt) - config.txt for PKGj
 - [Bounties](https://github.com/vita-nuova/bounties/issues) - Bounties for new Vita projects
 - [Video conversion](http://community.eu.playstation.com/t5/PS-Vita/Best-PSvita-video-conversion-tutorial-with-sub/td-p/18573158) - Video conversion tutorial
 - [Plugin hotkeys](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/PSVHotkeys.md) - List of plugin hotkeys
