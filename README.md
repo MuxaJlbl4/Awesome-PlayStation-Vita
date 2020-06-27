@@ -82,10 +82,11 @@ Contains all most important, actual and cool things in my humble opinion.
 ### 🎮 Games
 - [VitaDB](https://vitadb.rinnegatamante.it/#/) - A collection of ports, emulators and original games
 - [VitaGL Games](https://github.com/Rinnegatamante/vitaGL#projects-actually-using-vitagl) - List of projects using vitaGL
+- [Lua Games](https://github.com/Rinnegatamante/lpp-vita#showcase) - List of projects using Lua Player Plus
 ### 🕹️ Emulators
 - [Adrenaline](https://github.com/TheOfficialFloW/Adrenaline/releases) - Modified official PSP Emulator
 - [RetroArch](https://buildbot.libretro.com/nightly/playstation/vita/) -  Frontend for emulators, game engines and media players
-- [DaedalusX64](https://github.com/DaedalusX64/daedalus/releases) - Nintendo 64 emulator
+- [DaedalusX64](https://github.com/DaedalusX64/daedalus/releases) - Nintendo 64 emulator (vitaGL based)
 - [ScummVM](https://buildbot.scummvm.org/snapshots/stable/psp2-stable-latest.zip) -
 Script Creation Utility for Maniac Mansion Virtual Machine
 <br>
@@ -112,6 +113,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [NPS Proxy](https://www.reddit.com/r/VitaPiracy/comments/a6mwik/nps_temporary_workaround_for_pkgj_https_errors/) - Preventing HTTPS errors in PKGj by using NPS proxy
 ### 🎞️ Media
 - [ElevenMPV-A](https://github.com/GrapheneCt/ElevenMPV-A/releases) - Music player with background playback
+- [Music Premium](https://forum.devchroma.nl/index.php/topic,60.0.html) - Enables background music playback
 - [TubeVita](https://github.com/theheroGAC/TubeVita/releases) - YouTube client
 - [Vita Media Importer](https://github.com/cnsldv/MediaImporter/releases) - Imports media into the PS Vita video and music players
 ### 🎥 Streaming
@@ -124,9 +126,12 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Theme Manager Ex](https://bitbucket.org/kylon/theme-manager-ex-theme-engine/downloads/) - Advanced theme manger
 ### 📺 PS TV
 - [DolcePolce](https://github.com/KuromeSan/DolcePolce/releases) - Allows you to play all PS Vita games on PS TV
+- [Sharpscale](https://forum.devchroma.nl/index.php/topic,112.0.html) - Changes the display scaling method on higher resolutions
 - [MiniVitaTV](https://github.com/TheOfficialFloW/MiniVitaTV/releases) - Allows you to connect up to 4 DS3/DS4 controllers to PS Vita
 - [Viimote](https://github.com/xerpi/viimote/releases) - Allows you to connect a Wiimote
 ### 💻 PC Tools
+- [Vita3K](https://github.com/Vita3K/Vita3K) - PlayStation Vita emulator for PC
+- [QCMA](https://github.com/codestation/qcma/releases) - Open Source Content Manager Assistant for PS Vita
 - [Vita SDK](https://vitasdk.org/) - Development tools for PS Vita
 - [GeForce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/) - NVIDIA Gamestream for PC
 - [NPS Browser](https://nopaystation.com/vita/npsReleases/NPS_Browser_0.94.exe) - [NoPayStation](https://nopaystation.com/) client for Windows
@@ -157,6 +162,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [TurboPad](https://wololo.net/talk/viewtopic.php?t=48065) - Allows you to enable RapidFire on any button
 ### 🔎 Reverse Engineering
 - [PSVita Reverse Engineering Tools](https://github.com/CelesteBlue-dev/PSVita-RE-tools/releases) - A bundle of RE tools for PSVita
+- [VITAident](https://github.com/joel16/VITAident/releases) - System/hardware identity tool for PS Vita
 - [VGi](https://github.com/Electry/VGi/releases) - Prints useful information about PS Vita games
 - [MaiDumpToolEN](https://github.com/LioMajor/MaiDumpToolEN/releases) - Game dumper and patcher
 - [vitaRescale tutorial](http://wololo.net/talk/viewtopic.php?f=65&t=48713) - Getting resolution addresses in games
@@ -193,6 +199,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 ### 🧩 Misc
 - [AR Play Cards](https://www.retrocomputers.gr/media/kunena/attachments/155/AR-Play-Cards.pdf) - Augmented Reality cards for PS Vita
 - [Bounties](https://github.com/vita-nuova/bounties/issues) - Bounties for new Vita projects
-- [Video conversion](http://community.eu.playstation.com/t5/PS-Vita/Best-PSvita-video-conversion-tutorial-with-sub/td-p/18573158) - Video conversion tutorial
+- [DaedalusX64 CL](https://github.com/Rinnegatamante/DaedalusX64-vitaGL-Compatibility/issues) - Compatibility List for [DaedalusX64-vitaGL](https://github.com/DaedalusX64/daedalus/releases)
 - [Plugin hotkeys](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/PSVHotkeys.md) - List of plugin hotkeys
+- [Video conversion](http://community.eu.playstation.com/t5/PS-Vita/Best-PSvita-video-conversion-tutorial-with-sub/td-p/18573158) - Video conversion tutorial
 <br>
