@@ -123,7 +123,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [CBS-Manager](https://github.com/SKGleba/CBS-Manager/releases) - Displays an image/animation/console info during the PSVita boot process
 - [Theme Manager Ex](https://bitbucket.org/kylon/theme-manager-ex-theme-engine/downloads/) - Advanced theme manger
 ### 📺 PS TV
-- [AntiBlacklist](https://vitadb.rinnegatamante.it/#/info/11) - Allows you to play all PS Vita games on PS TV
+- [DolcePolce](https://github.com/KuromeSan/DolcePolce/releases) - Allows you to play all PS Vita games on PS TV
 - [MiniVitaTV](https://github.com/TheOfficialFloW/MiniVitaTV/releases) - Allows you to connect up to 4 DS3/DS4 controllers to PS Vita
 - [Viimote](https://github.com/xerpi/viimote/releases) - Allows you to connect a Wiimote
 ### 💻 PC tools
