@@ -42,6 +42,7 @@ Contains all most important, actual and cool things in my humble opinion.
 ## ⭐ General
 ### 🏠 Main Links
 - [NoPayStation](https://nopaystation.com/) - List of PSV, PSX, PSP, PS3, PS2 and PSM game links
+- [cbpsDB](https://db.cbps.xyz/) - Ultimate source for PS Vita Homebrew apps and Plugins
 - [VitaDB](https://vitadb.rinnegatamante.it/#/) - Main database of PS Vita Homebrews, Plugins and PC Tools
 - [Compatibility Packs](https://gitlab.com/nopaystation_repos/nps_compati_packs/) - Play any 3.60+ game on 3.60 and 3.65 firmwares (Outdated. Use [0syscall6](https://github.com/SKGleba/0syscall6/releases) instead)
 ### 🌌 Game Lists
