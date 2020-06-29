@@ -49,7 +49,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [PS Vita Games](https://store.playstation.com/en-us/grid/STORE-MSF77008-PSVITAALLGAMES/1) - All PS Vita games on Playstation store
 - [Wiki Game List](https://en.wikipedia.org/wiki/Lists_of_PlayStation_Vita_games) - Wikipedia list of all PS Vita games
 - [Metacritic List](https://www.metacritic.com/browse/games/release-date/available/vita/date?view=detailed&page=0) - All PS Vita game releases at Metacritic
-- [Exclusives List](https://www.reddit.com/r/vita/comments/ac9ywp/list_of_true_vita_exclusives/) - List of PS Vita exclusives
+- [Exclusives List](https://www.giantbomb.com/profile/blacklagoon/lists/vita-exclusives/86370) - List of PS Vita exclusives
 <br>
 
 ## ⚙️ Basic Stuff
