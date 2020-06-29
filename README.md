@@ -44,7 +44,6 @@ Contains all most important, actual and cool things in my humble opinion.
 - [NoPayStation](https://nopaystation.com/) - List of PSV, PSX, PSP, PS3, PS2 and PSM game links
 - [cbpsDB](https://db.cbps.xyz/) - Ultimate source for PS Vita Homebrew apps and Plugins
 - [VitaDB](https://vitadb.rinnegatamante.it/#/) - Main database of PS Vita Homebrews, Plugins and PC Tools
-- [Compatibility Packs](https://gitlab.com/nopaystation_repos/nps_compati_packs/) - Play any 3.60+ game on 3.60 and 3.65 firmwares (Outdated. Use [0syscall6](https://github.com/SKGleba/0syscall6/releases) instead)
 ### 🌌 Game Lists
 - [PS Vita Store](https://www.playstation.com/en-us/explore/games/psvita-games/?console=ps%20vita&smcid=store%3Aen-us%3Agrid-STORE-MSF77008-PSVITAALLGAMES-1%3Aprimary%2520nav%3Amsg-games%3Aps-vita-games) - Official Playstation Vita game store
 - [PS Vita Games](https://store.playstation.com/en-us/grid/STORE-MSF77008-PSVITAALLGAMES/1) - All PS Vita games on Playstation store
@@ -65,6 +64,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [0syscall6](https://github.com/SKGleba/0syscall6/releases) - Remove SELF checks
 - [NoNpDrm](https://github.com/TheOfficialFloW/NoNpDrm/releases) - Disable DRM protection in games
 - [NoPsmDrm](https://github.com/frangarcj/NoPsmDrm/releases) - Disable DRM protection in PSM games
+- [FreePSM](https://bitbucket.org/SilicaAndPina/freepsm/downloads) - Free in app purchases in PSM games
 - [rePatch reDux0](https://github.com/dots-tb/rePatch-reDux0/releases) - Allows to install custom patches
 ### 🗃️ Apps
 - [VitaShell](https://github.com/TheOfficialFloW/VitaShell/releases) - File manager
@@ -97,6 +97,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 ### 🔋 Utilites
 - [vita-shellbat](https://github.com/nowrep/vita-shellbat/releases) - Shows battery percent in statusbar
 - [Quietshot](https://github.com/Princess-of-Sleeping/Quietshot/releases) - Disable shutter sound
+- [jav](https://git.shotatoshounenwachigau.moe/vita/jav) - Automatic volume level switching for each audio device
 - [vitabright](https://github.com/devnoname120/vitabright/releases) - Expand bright levels range
 - [pngshot](https://github.com/xyzz/pngshot/releases) - Screenshot plugin
 - [PSP2-batteryFixer](https://github.com/SKGleba/PSP2-batteryFixer/releases) - Fixes most battery related problems
@@ -204,4 +205,5 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [DaedalusX64 CL](https://github.com/Rinnegatamante/DaedalusX64-vitaGL-Compatibility/issues) - Compatibility List for [DaedalusX64-vitaGL](https://github.com/DaedalusX64/daedalus/releases)
 - [Plugin hotkeys](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/PSVHotkeys.md) - List of plugin hotkeys
 - [Video conversion](http://community.eu.playstation.com/t5/PS-Vita/Best-PSvita-video-conversion-tutorial-with-sub/td-p/18573158) - Video conversion tutorial
+- [Compatibility Packs](https://gitlab.com/nopaystation_repos/nps_compati_packs/) - Play any 3.60+ game on 3.60 and 3.65 firmwares (Outdated. Use [0syscall6](https://github.com/SKGleba/0syscall6/releases) instead)
 <br>
