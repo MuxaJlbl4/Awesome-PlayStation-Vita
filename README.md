@@ -179,6 +179,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Minecraft Texture Port](https://www.reddit.com/r/VitaPiracy/comments/cwwcl4/minecraft_playstation_vita_edition_183_1144/) - Minecraft texture pack from PC version 1.14.4
 ### 💉 Adrenaline Plugins
 - [Remastered Controls Collection](https://github.com/TheOfficialFloW/RemasteredControls/releases) - Enables second stick in some PSP games
+- [PSP camera patch lite](https://github.com/Freakler/psp-camera_patch_lite/releases) - Add right analog stick support to some PSP games (based on [DS3Remapper](http://wololo.net/talk/viewtopic.php?f=28&t=47794))
 - [GTA Native Resolution Patch](https://github.com/TheOfficialFloW/GTANativeResolution/releases) - Forces native PS Vita resoliution in GTA:LCS and GTA:VCS PSP games
 <br>
 
