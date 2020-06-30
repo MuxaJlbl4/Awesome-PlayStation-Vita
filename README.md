@@ -107,6 +107,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 ### 🔑 Input
 - [VitaTester](https://github.com/NamelessGhoul0/VitaTester/releases) - Testing input
 - [vitastick](https://github.com/xerpi/vitastick/releases) - Allows to use PS Vita as an USB gamepad
+- [vita-ps4linkcontrols](https://github.com/nowrep/vita-ps4linkcontrols/releases) - Button configuration plugin for Remote Play
 - [RemaPSV](https://wololo.net/talk/viewtopic.php?t=49752) - Allows you to remap buttons and touch zones
 - [RemaPSV2](https://github.com/MERLev/remaPSV2/releases) - Updated RemaPSV
 - [Button Swap](https://github.com/Scorpeg/Button-Swap/releases) - Swapping X and O buttons
