@@ -77,6 +77,7 @@ Contains all most important, actual and cool things in my humble opinion.
 ### 💾 Memory
 - [PSVita-StorageMgr](https://github.com/CelesteBlue-dev/PSVita-StorageMgr/releases) - Mounts/redirects storage devices to mount points
 - [yamt-vita](https://github.com/SKGleba/yamt-vita/releases) - Yet another (re)mount tool kernel plugin
+- [yamt-lite](https://github.com/AuroraWright/yamt-vita-lite/releases) - Yamt that doesn't rely on a mounted storage or config
 - [Application Storage Manager](https://bitbucket.org/Lupo511/appstoragemanager/downloads/) - Moves apps to/from internal memory
 - [Gamecard-microSD (SD2VITA)](https://github.com/xyzz/gamecard-microsd/releases) - Gamecard to microSD adapter driver
 <br>
@@ -106,7 +107,8 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 ### 🔑 Input
 - [VitaTester](https://github.com/NamelessGhoul0/VitaTester/releases) - Testing input
 - [vitastick](https://github.com/xerpi/vitastick/releases) - Allows to use PS Vita as an USB gamepad
-- [RemapPSV](https://wololo.net/talk/viewtopic.php?t=49752) - Allows you to remap buttons and touch zones 
+- [RemaPSV](https://wololo.net/talk/viewtopic.php?t=49752) - Allows you to remap buttons and touch zones
+- [RemaPSV2](https://github.com/MERLev/remaPSV2/releases) - Updated RemaPSV
 - [Button Swap](https://github.com/Scorpeg/Button-Swap/releases) - Swapping X and O buttons
 - [Analog Enhancer](http://wololo.net/talk/viewtopic.php?f=116&t=49475) - Sets deadzones for sticks
 - [WDNR](https://github.com/Rinnegatamante/WDNR/releases) - Disables rear touchpad
