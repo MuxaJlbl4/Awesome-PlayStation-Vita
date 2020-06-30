@@ -32,7 +32,7 @@
 - Move and scroll (in VGi GUI) - **L/R/↑/↓**
 <br>
 
-## <u>[RemaPSV Hotkeys](https://wololo.net/talk/viewtopic.php?t=49752)</u>
+## <u>[RemaPSV/](https://wololo.net/talk/viewtopic.php?t=49752)[RemaPSV2 Hotkeys](https://github.com/MERLev/remaPSV2#installation)</u>
 - Config menu - **Start + ⧠**
 <br>
 
