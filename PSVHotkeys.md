@@ -2,6 +2,7 @@
 <br>
 
 ## <u>System Hotkeys</u>
+- Disable taiHEN plugin loading - **Hold L (during boot)**
 - Reboot to safe mode - **Hold Power (30 sec)**
 - Quick menu  - **Hold PS (1 sec)**
 <br>
@@ -11,7 +12,7 @@
 <br>
 
 ## <u>[PSVshell Hotkeys](https://github.com/Electry/PSVshell#how-to-use)</u>
-- Toggle between 3 GUI modes - **Select + ↑ Select + ↓**
+- Toggle between 3 GUI modes - **Select + ↑/Select + ↓**
 - Navigation (in full GUI mode) - **↑/↓/←/→/╳**
 - Change profile (in full GUI mode) - **Hold L**
 <br>
@@ -38,4 +39,9 @@
 
 ## <u>[TurboPad Hotkeys](https://wololo.net/talk/viewtopic.php?t=48065)</u>
 - Config menu - **Start + △**
+<br>
+
+## <u>Miscelaneous Hotkeys</u>
+- Adrenaline menu - **Hold PS (1 sec); Tap Settings**
+- Retroarch quick menu (default) - **L+R+Start+Select**
 <br>
