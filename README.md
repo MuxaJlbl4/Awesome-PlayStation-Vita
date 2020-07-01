@@ -12,6 +12,7 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [🔓 Hacking](#-hacking)
 	- [🗃️ Apps](#%EF%B8%8F-apps)
 	- [💾 Memory](#-memory)
+	- [⚡ Flash Adapters](#-flash-adapters)
 - [🎲 Gaming and Emulation](#-gaming-and-emulation)
 	- [🎮 Games](#-games)
 	- [🕹️ Emulators](#%EF%B8%8F-emulators)
@@ -20,6 +21,7 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [🔑 Input](#-input)
 	- [🌍 Network](#-network)
 	- [🎞️ Media](#%EF%B8%8F-media)
+	- [📖 Reading](#-reading)
 	- [🎥 Streaming](#-streaming)
 	- [🎨 Appearance](#-appearance)
 	- [📺 PS TV](#-ps-tv)
@@ -79,7 +81,11 @@ Contains all most important, actual and cool things in my humble opinion.
 - [yamt-vita](https://github.com/SKGleba/yamt-vita/releases) - Yet another (re)mount tool kernel plugin
 - [yamt-lite](https://github.com/AuroraWright/yamt-vita-lite/releases) - Yamt that doesn't rely on a mounted storage or config
 - [Application Storage Manager](https://bitbucket.org/Lupo511/appstoragemanager/downloads/) - Moves apps to/from internal memory
-- [Gamecard-microSD (SD2VITA)](https://github.com/xyzz/gamecard-microsd/releases) - Gamecard to microSD adapter driver
+### ⚡ Flash Adapters
+- [SD2VITA](https://www.codedonut.com/ps-vita-hacking/ps-vita-how-to-set-up-sd2vita-tutorial-storagemgr-plugin/) - Game card to MicroSD adapter
+- [PSVSD](https://psvsd.henkaku.xyz) - 3G modem replacement to a USB microSD card adapter
+- [Gamecard-microSD (SD2VITA)](https://github.com/xyzz/gamecard-microsd/releases) - Gamecard to MicroSD adapter driver
+- [usbmc](https://github.com/yifanlu/usbmc/releases) - Driver for PSVSD and external USB storage
 <br>
 
 ## 🎲 Gaming and Emulation
@@ -123,6 +129,9 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Music Premium](https://forum.devchroma.nl/index.php/topic,60.0.html) - Enables background music playback
 - [TubeVita](https://github.com/theheroGAC/TubeVita/releases) - YouTube client
 - [Vita Media Importer](https://github.com/cnsldv/MediaImporter/releases) - Imports media into the PS Vita video and music players
+### 📖 Reading
+- [Bookr](https://github.com/pathway27/bookr-mod-vita/releases) - PDF, CBZ, HTML, ePub, FB2 reader
+- [Noboru](https://github.com/Creckeryop/NOBORU/releases) - Manga/comics browser/reader
 ### 🎥 Streaming
 - [Vita Moonlight](https://github.com/xyzz/vita-moonlight/releases) - NVIDIA Gamestream client for Vita
 - [udcd_uvc](https://github.com/xerpi/vita-udcd-uvc/releases) -  Allows you stream your PSVita screen to PC via USB
@@ -131,6 +140,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [SwitchView UI](https://vitadb.rinnegatamante.it/#/info/338) - Nintendo Switch like interface
 - [CBS-Manager](https://github.com/SKGleba/CBS-Manager/releases) - Displays an image/animation/console info during the PSVita boot process
 - [Theme Manager Ex](https://bitbucket.org/kylon/theme-manager-ex-theme-engine/downloads/) - Advanced theme manger
+- [Shortcuts Enhancer](https://github.com/ONElua/Shortcuts-Enhancer/releases) - Custom shortcuts in the PS Vita index menu
 ### 📺 PS TV
 - [DolcePolce](https://github.com/KuromeSan/DolcePolce/releases) - Allows you to play all PS Vita games on PS TV
 - [Sharpscale](https://forum.devchroma.nl/index.php/topic,112.0.html) - Changes the display scaling method on higher resolutions
