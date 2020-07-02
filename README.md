@@ -20,12 +20,14 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [🔋 Utilites](#-utilites)
 	- [🔑 Input](#-input)
 	- [🌍 Network](#-network)
-	- [🎞️ Media](#%EF%B8%8F-media)
-	- [📖 Reading](#-reading)
-	- [🎥 Streaming](#-streaming)
 	- [🎨 Appearance](#-appearance)
 	- [📺 PS TV](#-ps-tv)
 	- [💻 PC tools](#-pc-tools)
+- [🎞️ Media](#%EF%B8%8F-media)
+	- [🎵 Music](#-music)
+	- [🎬 Video](#-video)
+	- [📖 Reading](#-reading)
+	- [🎥 Streaming](#-streaming)
 - [☀️ Enhances](#%EF%B8%8F-enhances)
 	- [🚀 Overclocking](#-overclocking)
 	- [☢️ Game Tweaks](#%EF%B8%8F-game-tweaks)
@@ -83,7 +85,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [Application Storage Manager](https://bitbucket.org/Lupo511/appstoragemanager/downloads/) - Moves apps to/from internal memory
 ### ⚡ Flash Adapters
 - [SD2VITA](https://www.codedonut.com/ps-vita-hacking/ps-vita-how-to-set-up-sd2vita-tutorial-storagemgr-plugin/) - Game card to MicroSD adapter
-- [PSVSD](https://psvsd.henkaku.xyz) - 3G modem replacement to a USB microSD card adapter
+- [PSVSD](https://psvsd.henkaku.xyz) - 3G modem replacement to a USB MicroSD card adapter
 - [Gamecard-microSD (SD2VITA)](https://github.com/xyzz/gamecard-microsd/releases) - Gamecard to MicroSD adapter driver
 - [usbmc](https://github.com/yifanlu/usbmc/releases) - Driver for PSVSD and external USB storage
 <br>
@@ -124,17 +126,6 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Vita netcheck Bypass](https://github.com/yifanlu/netcheck_bypass/releases) - Bypass PSN login requirement for apps
 - [Download Enabler](https://github.com/TheOfficialFloW/VitaTweaks/releases/tag/DownloadEnabler) - Allows download any files from PS Vita browser
 - [NPS Proxy](https://www.reddit.com/r/VitaPiracy/comments/a6mwik/nps_temporary_workaround_for_pkgj_https_errors/) - Preventing HTTPS errors in PKGj by using NPS proxy
-### 🎞️ Media
-- [ElevenMPV-A](https://github.com/GrapheneCt/ElevenMPV-A/releases) - Music player with background playback
-- [Music Premium](https://forum.devchroma.nl/index.php/topic,60.0.html) - Enables background music playback
-- [TubeVita](https://github.com/theheroGAC/TubeVita/releases) - YouTube client
-- [Vita Media Importer](https://github.com/cnsldv/MediaImporter/releases) - Imports media into the PS Vita video and music players
-### 📖 Reading
-- [Bookr](https://github.com/pathway27/bookr-mod-vita/releases) - PDF, CBZ, HTML, ePub, FB2 reader
-- [Noboru](https://github.com/Creckeryop/NOBORU/releases) - Manga/comics browser/reader
-### 🎥 Streaming
-- [Vita Moonlight](https://github.com/xyzz/vita-moonlight/releases) - NVIDIA Gamestream client for Vita
-- [udcd_uvc](https://github.com/xerpi/vita-udcd-uvc/releases) -  Allows you stream your PSVita screen to PC via USB
 ### 🎨 Appearance
 - [ONEMenu](https://github.com/ONElua/ONEMenu-for-PSVita/releases) - Custom UI and title name editor
 - [SwitchView UI](https://vitadb.rinnegatamante.it/#/info/338) - Nintendo Switch like interface
@@ -149,10 +140,26 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 ### 💻 PC Tools
 - [Vita3K](https://github.com/Vita3K/Vita3K) - PlayStation Vita emulator for PC
 - [QCMA](https://github.com/codestation/qcma/releases) - Open Source Content Manager Assistant for PS Vita
+- [HandBrake](https://github.com/HandBrake/HandBrake/releases) - Video files converter (contains Playstation presets)
 - [Vita SDK](https://vitasdk.org/) - Development tools for PS Vita
 - [GeForce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/) - NVIDIA Gamestream for PC
 - [NPS Browser](https://nopaystation.com/vita/npsReleases/NPS_Browser_0.94.exe) - [NoPayStation](https://nopaystation.com/) client for Windows
 - [PSP2-CBAnim](https://github.com/SKGleba/PSP2-CBAnim/releases) - Boot animation creator for [CBS-Manager](https://github.com/SKGleba/CBS-Manager/releases)
+<br>
+
+## 🎞️ Media
+### 🎵 Music
+- [ElevenMPV-A](https://github.com/GrapheneCt/ElevenMPV-A/releases) - Music player with background playback
+- [Music Premium](https://forum.devchroma.nl/index.php/topic,60.0.html) - Enables background music playback
+### 🎬 Video
+- [TubeVita](https://github.com/theheroGAC/TubeVita/releases) - YouTube client
+- [Vita Media Importer](https://github.com/cnsldv/MediaImporter/releases) - Imports media into the PS Vita video and music players
+### 📖 Reading
+- [Bookr](https://github.com/pathway27/bookr-mod-vita/releases) - PDF, CBZ, HTML, ePub, FB2 reader
+- [Noboru](https://github.com/Creckeryop/NOBORU/releases) - Manga/comics browser/reader
+### 🎥 Streaming
+- [Vita Moonlight](https://github.com/xyzz/vita-moonlight/releases) - NVIDIA Gamestream client for Vita
+- [udcd_uvc](https://github.com/xerpi/vita-udcd-uvc/releases) -  Allows you stream your PSVita screen to PC via USB
 <br>
 
 ## ☀️ Enhances
@@ -219,6 +226,5 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Bounties](https://github.com/vita-nuova/bounties/issues) - Bounties for new Vita projects
 - [DaedalusX64 CL](https://github.com/Rinnegatamante/DaedalusX64-vitaGL-Compatibility/issues) - Compatibility List for [DaedalusX64-vitaGL](https://github.com/DaedalusX64/daedalus/releases)
 - [Plugin hotkeys](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/PSVHotkeys.md) - List of plugin hotkeys
-- [Video conversion](http://community.eu.playstation.com/t5/PS-Vita/Best-PSvita-video-conversion-tutorial-with-sub/td-p/18573158) - Video conversion tutorial
 - [Compatibility Packs](https://gitlab.com/nopaystation_repos/nps_compati_packs/) - Play any 3.60+ game on 3.60 and 3.65 firmwares (Outdated. Use [0syscall6](https://github.com/SKGleba/0syscall6/releases) instead)
 <br>
