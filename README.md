@@ -144,6 +144,8 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Vita SDK](https://vitasdk.org/) - Development tools for PS Vita
 - [GeForce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/) - NVIDIA Gamestream for PC
 - [NPS Browser](https://nopaystation.com/vita/npsReleases/NPS_Browser_0.94.exe) - [NoPayStation](https://nopaystation.com/) client for Windows
+- [GayMaker](https://github.com/KuromeSan/GayMaker/tree/master/GayMaker) - GameMaker:Studio to PSVita compiler.
+- [Chovy Sign](https://github.com/KuromeSan/chovy-sign) - PSP ISOs on unhacked PSVita.
 - [PSP2-CBAnim](https://github.com/SKGleba/PSP2-CBAnim/releases) - Boot animation creator for [CBS-Manager](https://github.com/SKGleba/CBS-Manager/releases)
 <br>
 
@@ -164,8 +166,8 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 
 ## ☀️ Enhances
 ### 🚀 Overclocking
+- [LOLIcon](https://github.com/dots-tb/LOLIcon) - Overclock up to 500mhz.
 - [PSVshell](https://github.com/Electry/PSVshell/releases) - Overclock plugin with FPS counter and CPU usage
-- [ioPlus](https://github.com/CelesteBlue-dev/PSVita-RE-tools/blob/master/ioPlus/ioPlus-0.1/release/ioplus.skprx) - Elevated IO permissions
 - [CoreUnlocker80000H](https://github.com/GrapheneCt/CoreUnlocker80000H/releases) - Allows to use system reserved 4th CPU core
 - [Thread Optimizer](https://github.com/GrapheneCt/ThreadOptimizer/releases) - Adjusts thread parameters
 - [CPU Affinity Mask Changer](https://github.com/GrapheneCt/Affinity-Changer/releases) - Changes CPU affinity mask to all cores
@@ -173,6 +175,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [NoPowerLimits](https://github.com/Electry/NoPowerLimitsVita/releases) - Remove power mode restrictions
 ### ☢️ Game Tweaks
 - [VitaGrafix](https://github.com/Electry/VitaGrafix/releases) - Change resolution and FPS cap in games
+- [ioPlus](https://github.com/CelesteBlue-dev/PSVita-RE-tools/blob/master/ioPlus/ioPlus-0.1/release/ioplus.skprx) - Elevated IO permissions
 - [VitaGrafixConfigurator](https://github.com/Kirezar/VitaGrafixConfigurator/releases) - GUI configurator for VitaGrafix
 - [VitaGrafixPatchlist](https://github.com/Electry/VitaGrafixPatchlist) - A collection of patches for VitaGrafix
 - [reRescaler](http://wololo.net/talk/viewtopic.php?f=52&t=49666) - Replacement for built-in rescaler
@@ -182,10 +185,13 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Cheat Plugins](https://github.com/r0ah/vitacheat/tree/master/plg) - Cheat plugins
 - [TropHAX](https://bitbucket.org/SilicaAndPina/trophax/downloads/) - Trophy unlocker
 - [Trophy Manager](https://github.com/ONElua/TrophyManager/releases) - Trophy remover
+- [ScoreHAX](https://github.com/KuromeSan/ScoreHax) - Leaderboards hack
 - [Déjàvu](https://github.com/TheOfficialFloW/dejavu/releases) - Save state plugin
 - [TurboPad](https://wololo.net/talk/viewtopic.php?t=48065) - Allows you to enable RapidFire on any button
 ### 🔎 Reverse Engineering
 - [PSVita Reverse Engineering Tools](https://github.com/CelesteBlue-dev/PSVita-RE-tools/releases) - A bundle of RE tools for PSVita
+- [Ghidra Vita Loader](https://github.com/xerpi/GhidraVitaLoader) - Scripts for loading PSVita ELF Binaries into NSA's Ghidra.
+- [Vita Loader](https://github.com/mailwl/vitaldr) - IDA Plugin for loading PSVita ELF Binaries into IDA Pro.
 - [VITAident](https://github.com/joel16/VITAident/releases) - System/hardware identity tool for PS Vita
 - [VGi](https://github.com/Electry/VGi/releases) - Prints useful information about PS Vita games
 - [MaiDumpToolEN](https://github.com/LioMajor/MaiDumpToolEN/releases) - Game dumper and patcher
