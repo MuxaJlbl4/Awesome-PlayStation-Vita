@@ -34,7 +34,7 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [☢️ Game Tweaks](#%EF%B8%8F-game-tweaks)
 	- [📝 Cheats](#-cheats)
 	- [🔎 Reverse Engineering](#-reverse-engineering)
-	- [ℹ️ Info](#%EF%B8%8F-info)
+	- [ℹ️ Info](#%E2%84%B9%EF%B8%8F-info)
 - [🛠️ Mods](#%EF%B8%8F-mods)
 	- [💊 Game Patches](#-game-patches)
 	- [💉 Adrenaline Plugins](#-adrenaline-plugins)
@@ -239,8 +239,8 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 
 ## 📚 Miscellaneous
 ### 🧪 Compability Lists
-- [Adrenaline 60 FPS](https://docs.google.com/spreadsheets/d/1yunmCa_7zmoI0H8qPRYJEd7D7rm6Vxc1SJFYPF9DCIM/edit#gid=0) - Compatibility List for Adrenaline 60 FPS patches via CWCheat
-- [DaedalusX64](https://github.com/Rinnegatamante/DaedalusX64-vitaGL-Compatibility/issues) - Compatibility List for [DaedalusX64-vitaGL](https://github.com/DaedalusX64/daedalus)
+- [Adrenaline 60 FPS](https://docs.google.com/spreadsheets/d/1yunmCa_7zmoI0H8qPRYJEd7D7rm6Vxc1SJFYPF9DCIM/edit#gid=0) - Compatibility list for Adrenaline 60 FPS patches via CWCheat
+- [DaedalusX64](https://github.com/Rinnegatamante/DaedalusX64-vitaGL-Compatibility/issues) - Compatibility list for [DaedalusX64-vitaGL](https://github.com/DaedalusX64/daedalus)
 ### 🧩 Misc
 - [AR Play Cards](https://www.retrocomputers.gr/media/kunena/attachments/155/AR-Play-Cards.pdf) - Augmented Reality cards for PS Vita
 - [Bounties](https://github.com/vita-nuova/bounties/issues) - Bounties for new Vita projects
