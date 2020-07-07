@@ -24,6 +24,7 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [📺 PS TV](#-ps-tv)
 	- [💻 PC tools](#-pc-tools)
 - [🎞️ Media](#%EF%B8%8F-media)
+	- [🖼️ Image](#%EF%B8%8F-image)
 	- [🎵 Music](#-music)
 	- [🎬 Video](#-video)
 	- [📖 Reading](#-reading)
@@ -33,6 +34,7 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [☢️ Game Tweaks](#%EF%B8%8F-game-tweaks)
 	- [📝 Cheats](#-cheats)
 	- [🔎 Reverse Engineering](#-reverse-engineering)
+	- [ℹ️ Info](#%EF%B8%8F-info)
 - [🛠️ Mods](#%EF%B8%8F-mods)
 	- [💊 Game Patches](#-game-patches)
 	- [💉 Adrenaline Plugins](#-adrenaline-plugins)
@@ -40,6 +42,7 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [😜 Communities](#-communities)
 	- [💬 Game Translations](#-game-translations)
 - [📚 Miscellaneous](#-miscellaneous)
+	- [🧪 Compability Lists](#-compability-lists)
 	- [🧩 Misc](#-misc)
 <br>
 
@@ -145,17 +148,21 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Vita SDK](https://vitasdk.org) - Development tools for PS Vita
 - [GeForce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience) - NVIDIA Gamestream for PC
 - [NPS Browser](https://nopaystation.com/vita/npsReleases/NPS_Browser_0.94.exe) - [NoPayStation](https://nopaystation.com) client for Windows
+- [ContentServer](https://github.com/KuromeSan/ContentServer) - Server for Content Downloader
 - [GayMaker](https://github.com/KuromeSan/GayMaker/tree/master/GayMaker) - GameMaker:Studio to PSVita compiler
 - [Chovy Sign](https://github.com/KuromeSan/chovy-sign) - PSP ISOs on unhacked PSVita
 - [PSP2-CBAnim](https://github.com/SKGleba/PSP2-CBAnim) - Boot animation creator for [CBS-Manager](https://github.com/SKGleba/CBS-Manager)
 <br>
 
 ## 🎞️ Media
+### 🖼️ Image
+- [VITAlbum](https://github.com/joel16/VITAlbum) - Image viewer
 ### 🎵 Music
 - [ElevenMPV-A](https://github.com/GrapheneCt/ElevenMPV-A) - Music player with background playback
 - [Music Premium](https://forum.devchroma.nl/index.php/topic,60.0.html) - Enables background music playback
 ### 🎬 Video
 - [TubeVita](https://github.com/theheroGAC/TubeVita) - YouTube client
+- [Vita Media Center](http://wololo.net/talk/viewtopic.php?f=116&t=48887&sid=dbbf2c139506b7daab4486cf84ff41db) - MP4 video player
 - [Vita Media Importer](https://github.com/cnsldv/MediaImporter) - Imports media into the PS Vita video and music players
 ### 📖 Reading
 - [Bookr](https://github.com/pathway27/bookr-mod-vita) - PDF, CBZ, HTML, ePub, FB2 reader
@@ -191,10 +198,12 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [PSVita Reverse Engineering Tools](https://github.com/CelesteBlue-dev/PSVita-RE-tools) - A bundle of RE tools for PSVita
 - [Ghidra Vita Loader](https://github.com/xerpi/GhidraVitaLoader) - Scripts for loading PSVita ELF Binaries into NSA's Ghidra
 - [Vita Loader](https://github.com/mailwl/vitaldr) - IDA Plugin for loading PSVita ELF Binaries into IDA Pro
-- [VITAident](https://github.com/joel16/VITAident) - System/hardware identity tool for PS Vita
-- [VGi](https://github.com/Electry/VGi) - Prints useful information about PS Vita games
+- [RegistryEditorMOD](https://github.com/devnoname120/RegistryEditorMOD) - Allows you to read and edit all registry settings
 - [MaiDumpToolEN](https://github.com/LioMajor/MaiDumpToolEN) - Game dumper and patcher
 - [vitaRescale tutorial](http://wololo.net/talk/viewtopic.php?f=65&t=48713) - Getting resolution addresses in games
+### ℹ️ Info
+- [VGi](https://github.com/Electry/VGi) - Prints useful information about PS Vita games
+- [VITAident](https://github.com/joel16/VITAident) - System/hardware identity tool for PS Vita
 <br>
 
 ## 🛠️ Mods
@@ -207,6 +216,9 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Remastered Controls Collection](https://github.com/TheOfficialFloW/RemasteredControls) - Enables second stick in some PSP games
 - [PSP camera patch lite](https://github.com/Freakler/psp-camera_patch_lite) - Add right analog stick support to some PSP games (based on [DS3Remapper](http://wololo.net/talk/viewtopic.php?f=28&t=47794))
 - [GTA Native Resolution Patch](https://github.com/TheOfficialFloW/GTANativeResolution) - Forces native PS Vita resolution in GTA:LCS and GTA:VCS PSP games
+- [CWCheat Adrenaline](https://www.cfwaifu.com/cwcheat-adrenaline/) - Allows you to use custom cheats and patches in PSP and PSX games
+- [60 FPS Patches List](https://forums.ppsspp.org/showthread.php?tid=22800) - 60 FPS patches for PSP games (for CWCheat)
+- [CWCheat Database](https://forums.ppsspp.org/showthread.php?tid=11961) - List of cheats for CWCheat
 <br>
 
 ## ♥️ Fans
@@ -226,10 +238,11 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 <br>
 
 ## 📚 Miscellaneous
+### 🧪 Compability Lists
+- [Adrenaline 60 FPS](https://docs.google.com/spreadsheets/d/1yunmCa_7zmoI0H8qPRYJEd7D7rm6Vxc1SJFYPF9DCIM/edit#gid=0) - Compatibility List for Adrenaline 60 FPS patches via CWCheat
+- [DaedalusX64](https://github.com/Rinnegatamante/DaedalusX64-vitaGL-Compatibility/issues) - Compatibility List for [DaedalusX64-vitaGL](https://github.com/DaedalusX64/daedalus)
 ### 🧩 Misc
 - [AR Play Cards](https://www.retrocomputers.gr/media/kunena/attachments/155/AR-Play-Cards.pdf) - Augmented Reality cards for PS Vita
 - [Bounties](https://github.com/vita-nuova/bounties/issues) - Bounties for new Vita projects
-- [DaedalusX64 CL](https://github.com/Rinnegatamante/DaedalusX64-vitaGL-Compatibility/issues) - Compatibility List for [DaedalusX64-vitaGL](https://github.com/DaedalusX64/daedalus)
 - [Plugin hotkeys](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/PSVHotkeys.md) - List of plugin hotkeys
-- [Compatibility Packs](https://gitlab.com/nopaystation_repos/nps_compati_packs) - Play any 3.60+ game on 3.60 and 3.65 firmwares (Outdated. Use [0syscall6](https://github.com/SKGleba/0syscall6) instead)
 <br>
