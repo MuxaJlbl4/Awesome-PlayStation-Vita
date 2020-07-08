@@ -102,7 +102,7 @@ Contains all most important, actual and cool things in my humble opinion.
 ### 🕹️ Emulators
 - [Adrenaline](https://github.com/TheOfficialFloW/Adrenaline) - Modified official PSP Emulator
 - [RetroArch](https://buildbot.libretro.com/nightly/playstation/vita) -  Frontend for emulators, game engines and media players
-- [DaedalusX64](https://github.com/DaedalusX64/daedalus) - Nintendo 64 emulator (vitaGL based)
+- [DaedalusX64-vitaGL](https://github.com/Rinnegatamante/daedalusx64-vitagl) - Nintendo 64 emulator (vitaGL based)
 - [ScummVM](https://buildbot.scummvm.org/snapshots/stable/psp2-stable-latest.zip) -
 Script Creation Utility for Maniac Mansion Virtual Machine
 <br>
@@ -240,7 +240,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 ## 📚 Miscellaneous
 ### 🧪 Compability Lists
 - [Adrenaline 60 FPS](https://docs.google.com/spreadsheets/d/1yunmCa_7zmoI0H8qPRYJEd7D7rm6Vxc1SJFYPF9DCIM/edit#gid=0) - Compatibility list for Adrenaline 60 FPS patches via CWCheat
-- [DaedalusX64](https://github.com/Rinnegatamante/DaedalusX64-vitaGL-Compatibility/issues) - Compatibility list for [DaedalusX64-vitaGL](https://github.com/DaedalusX64/daedalus)
+- [DaedalusX64](https://github.com/Rinnegatamante/DaedalusX64-vitaGL-Compatibility/issues) - Compatibility list for [DaedalusX64-vitaGL](https://github.com/Rinnegatamante/daedalusx64-vitagl)
 - [Vita3K](https://github.com/Vita3K/compatibility/issues) - Compatibility list for [Vita3K](https://github.com/Vita3K/Vita3K)
 ### 🧩 Misc
 - [AR Play Cards](https://www.retrocomputers.gr/media/kunena/attachments/155/AR-Play-Cards.pdf) - Augmented Reality cards for PS Vita
