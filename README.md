@@ -22,7 +22,8 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [🌍 Network](#-network)
 	- [🎨 Appearance](#-appearance)
 	- [📺 PS TV](#-ps-tv)
-	- [💻 PC tools](#-pc-tools)
+	- [💻 PC Tools](#-pc-tools)
+	- [📱 Android Tools](#-android-tools)
 - [🎞️ Media](#%EF%B8%8F-media)
 	- [🖼️ Image](#%EF%B8%8F-image)
 	- [🎵 Music](#-music)
@@ -42,6 +43,7 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [😜 Communities](#-communities)
 	- [💬 Game Translations](#-game-translations)
 - [📚 Miscellaneous](#-miscellaneous)
+	- [⚙️ Emulation Necessaries](#-emulation-necessaries)
 	- [🧪 Compatibility Lists](#-compatibility-lists)
 	- [🧩 Misc](#-misc)
 <br>
@@ -76,6 +78,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [FreePSM](https://bitbucket.org/SilicaAndPina/freepsm/src/master) - Free in app purchases in PSM games
 - [rePatch reDux0](https://github.com/dots-tb/rePatch-reDux0) - Allows to install custom patches
 - [ioPlus](https://github.com/CelesteBlue-dev/PSVita-RE-tools/blob/master/ioPlus/ioPlus-0.1/release/ioplus.skprx) - Elevated IO permissions
+- [ShaRKF00D](https://github.com/OsirizX/ShaRKF00D) - Allows you to access runtime shader compiler
 ### 🗃️ Apps
 - [VitaShell](https://github.com/TheOfficialFloW/VitaShell) - File manager
 - [PKGj](https://github.com/blastrock/pkgj) - [NoPayStation](https://nopaystation.com) browser and installer
@@ -119,6 +122,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [VitaTweaks](https://github.com/TheOfficialFloW/VitaTweaks) - A collection of small tweaks
 ### 🔑 Input
 - [VitaTester](https://github.com/NamelessGhoul0/VitaTester) - Testing input
+- [VitaPad](https://www.psx-place.com/threads/vitapad.30520) - Allows to use PS Vita as a wireless gamepad
 - [vitastick](https://github.com/xerpi/vitastick) - Allows to use PS Vita as an USB gamepad
 - [vita-ps4linkcontrols](https://github.com/nowrep/vita-ps4linkcontrols) - Button configuration plugin for Remote Play
 - [RemaPSV](https://wololo.net/talk/viewtopic.php?t=49752) - Allows you to remap buttons and touch zones
@@ -134,6 +138,9 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 ### 🎨 Appearance
 - [ONEMenu](https://github.com/ONElua/ONEMenu-for-PSVita) - Custom UI and title name editor
 - [SwitchView UI](https://vitadb.rinnegatamante.it/#/info/338) - Nintendo Switch like interface
+- [Bubble Studio](https://anthe.studio/bubblestudio) - Web editor for app.db
+- [Adrenaline Bubbles Manager](https://github.com/ONElua/AdrenalineBubbleManager) - Allows you to create bubbles to launch PSP games without XMB via [AdrBubbleBooter plugin](https://sites.google.com/site/theleecherman/adrbubblebooter)
+- [Custom Bubble Tutorial](https://www.reddit.com/r/vitahacks/comments/hjmn5k/ps_vita_daedalusx64_and_retroarch_custom_bubbles/) - Tutorial on how to create bubbles for RetroArch and DaedalusX64
 - [CBS-Manager](https://github.com/SKGleba/CBS-Manager) - Displays an image/animation/console info during the PSVita boot process
 - [Theme Manager Ex](https://bitbucket.org/kylon/theme-manager-ex-theme-engine/src/master) - Advanced theme manger
 - [Shortcuts Enhancer](https://github.com/ONElua/Shortcuts-Enhancer) - Custom shortcuts in the PS Vita index menu
@@ -153,6 +160,9 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [GayMaker](https://github.com/KuromeSan/GayMaker/tree/master/GayMaker) - GameMaker:Studio to PSVita compiler
 - [Chovy Sign](https://github.com/KuromeSan/chovy-sign) - PSP ISOs on unhacked PSVita
 - [PSP2-CBAnim](https://github.com/SKGleba/PSP2-CBAnim) - Boot animation creator for [CBS-Manager](https://github.com/SKGleba/CBS-Manager)
+### 📱 Android Tools
+- [VHBB-Android](https://github.com/Electric1447/VHBB-Android) - [VitaDB](https://vitadb.rinnegatamante.it/#) client for Android
+- [NPS Browser](https://github.com/IllusionMan1212/NPS-Browser) - [NoPayStation](https://nopaystation.com) client app for Android
 <br>
 
 ## 🎞️ Media
@@ -239,6 +249,9 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 <br>
 
 ## 📚 Miscellaneous
+### ⚙️ Emulation Necessaries
+- [Emulator Files](https://emulation.gametechwiki.com/index.php/Emulator_Files) - BIOS/Firmware files for emulators
+- [ROM & ISO Sites](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) - List of ROM sites
 ### 🧪 Compatibility Lists
 - [Adrenaline 60 FPS](https://docs.google.com/spreadsheets/d/1yunmCa_7zmoI0H8qPRYJEd7D7rm6Vxc1SJFYPF9DCIM/edit#gid=0) - Compatibility list for Adrenaline 60 FPS patches via CWCheat
 - [DaedalusX64](https://github.com/Rinnegatamante/DaedalusX64-vitaGL-Compatibility/issues) - Compatibility list for [DaedalusX64-vitaGL](https://github.com/Rinnegatamante/daedalusx64-vitagl)

@@ -4,7 +4,7 @@
 ## <u>System Hotkeys</u>
 - Disable taiHEN plugin loading - **Hold L (during boot)**
 - Reboot to safe mode - **Hold Power (30 sec)**
-- Start in safe mode - **R + PS + Power (5 sec)**
+- Start in safe mode - **Hold (R + PS + Power) (5 sec)**
 - Power off - **Hold Power (2 sec); Tap Power Off**
 - Quick menu  - **Hold PS (1 sec)**
 <br>
