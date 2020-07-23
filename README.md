@@ -43,7 +43,7 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [😜 Communities](#-communities)
 	- [💬 Game Translations](#-game-translations)
 - [📚 Miscellaneous](#-miscellaneous)
-	- [⚙️ Emulation Necessaries](#-emulation-necessaries)
+	- [✏ Emulation Necessaries](#-emulation-necessaries)
 	- [🧪 Compatibility Lists](#-compatibility-lists)
 	- [🧩 Misc](#-misc)
 <br>
@@ -249,7 +249,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 <br>
 
 ## 📚 Miscellaneous
-### ⚙️ Emulation Necessaries
+### ✏ Emulation Necessaries
 - [Emulator Files](https://emulation.gametechwiki.com/index.php/Emulator_Files) - BIOS/Firmware files for emulators
 - [ROM & ISO Sites](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) - List of ROM sites
 ### 🧪 Compatibility Lists
