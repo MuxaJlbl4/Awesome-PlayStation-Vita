@@ -17,7 +17,7 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [🎮 Games](#-games)
 	- [🕹️ Emulators](#%EF%B8%8F-emulators)
 - [💡 Customization](#-customization)
-	- [🔋 Utilites](#-utilites)
+	- [🔋 Utilities](#-utilities)
 	- [🔑 Input](#-input)
 	- [🌍 Network](#-network)
 	- [🎨 Appearance](#-appearance)
@@ -42,7 +42,7 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [😜 Communities](#-communities)
 	- [💬 Game Translations](#-game-translations)
 - [📚 Miscellaneous](#-miscellaneous)
-	- [🧪 Compability Lists](#-compability-lists)
+	- [🧪 Compatibility Lists](#-compatibility-lists)
 	- [🧩 Misc](#-misc)
 <br>
 
@@ -109,7 +109,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 <br>
 
 ## 💡 Customization
-### 🔋 Utilites
+### 🔋 Utilities
 - [vita-shellbat](https://github.com/nowrep/vita-shellbat) - Shows battery percent in statusbar
 - [Quietshot](https://github.com/Princess-of-Sleeping/Quietshot) - Disable shutter sound
 - [jav](https://git.shotatoshounenwachigau.moe/vita/jav/about) - Automatic volume level switching for each audio device
@@ -239,7 +239,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 <br>
 
 ## 📚 Miscellaneous
-### 🧪 Compability Lists
+### 🧪 Compatibility Lists
 - [Adrenaline 60 FPS](https://docs.google.com/spreadsheets/d/1yunmCa_7zmoI0H8qPRYJEd7D7rm6Vxc1SJFYPF9DCIM/edit#gid=0) - Compatibility list for Adrenaline 60 FPS patches via CWCheat
 - [DaedalusX64](https://github.com/Rinnegatamante/DaedalusX64-vitaGL-Compatibility/issues) - Compatibility list for [DaedalusX64-vitaGL](https://github.com/Rinnegatamante/daedalusx64-vitagl)
 - [Vita3K](https://github.com/Vita3K/compatibility/issues) - Compatibility list for [Vita3K](https://github.com/Vita3K/Vita3K)
