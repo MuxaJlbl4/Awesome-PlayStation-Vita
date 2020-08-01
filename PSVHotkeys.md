@@ -30,6 +30,15 @@
 - Load state from slot - **L + (Select / Start / △ / ◯ / ╳ / ⧠) + PS**
 <br>
 
+## <u>[VITABatteryPlus Hotkeys](https://github.com/Electric1447/VITABatteryPlus#controls)</u>
+- Battery percentage - **Start + ↑**
+- Battery temperature - **Start + →**
+- Battery life time - **Start + ←**
+- Change text position - **Start + L**
+- Change text color - **Start + R**
+- Close all - **Start + ↓**
+<br>
+
 ## <u>[VGi Hotkeys](https://github.com/Electry/VGi#controls)</u>
 - Open/Close VGi - **Select + L**
 - Move and scroll (in VGi GUI) - **L / R / ↑ / ↓**

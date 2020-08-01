@@ -114,12 +114,14 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 ## 💡 Customization
 ### 🔋 Utilities
 - [vita-shellbat](https://github.com/nowrep/vita-shellbat) - Shows battery percent in statusbar
-- [Quietshot](https://github.com/Princess-of-Sleeping/Quietshot) - Disable shutter sound
+- [VITABatteryPlus](https://github.com/Electric1447/VITABatteryPlus) - Battery info plugin
+- [Quietshot](https://github.com/Princess-of-Sleeping/Quietshot) - Disables camera shutter sound
 - [jav](https://git.shotatoshounenwachigau.moe/vita/jav/about) - Automatic volume level switching for each audio device
 - [vitabright](https://github.com/devnoname120/vitabright) - Expand bright levels range
 - [pngshot](https://github.com/xyzz/pngshot) - Screenshot plugin
 - [PSP2-batteryFixer](https://github.com/SKGleba/PSP2-batteryFixer) - Fixes most battery related problems
 - [VitaTweaks](https://github.com/TheOfficialFloW/VitaTweaks) - A collection of small tweaks
+- [vitatricks.tk](https://vitatricks.tk) - Online set of useful PS Vita tools
 ### 🔑 Input
 - [VitaTester](https://github.com/NamelessGhoul0/VitaTester) - Testing input
 - [VitaPad](https://www.psx-place.com/threads/vitapad.30520) - Allows to use PS Vita as a wireless gamepad
@@ -153,6 +155,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Vita3K](https://github.com/Vita3K/Vita3K) - PlayStation Vita emulator for PC
 - [QCMA](https://github.com/codestation/qcma) - Open Source Content Manager Assistant for PS Vita
 - [HandBrake](https://github.com/HandBrake/HandBrake) - Video files converter (contains Playstation presets)
+- [AT9&AT3 Converter](https://www.modconsoles.fr/club-articles.html/pc/at9at3-converter-v23-r36) - At9/At3 files converter
 - [Vita SDK](https://vitasdk.org) - Development tools for PS Vita
 - [GeForce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience) - NVIDIA Gamestream for PC
 - [NPS Browser](https://nopaystation.com/vita/npsReleases/NPS_Browser_0.94.exe) - [NoPayStation](https://nopaystation.com) client for Windows
