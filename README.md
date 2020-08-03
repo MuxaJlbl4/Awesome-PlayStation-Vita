@@ -223,9 +223,12 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 ## 🛠️ Mods
 ### 💊 Game Patches
 - [Vita Mods Table](https://docs.google.com/spreadsheets/d/1OkS1S2sJqs2p8jp6pxBfrQkHT4Tn2-__NmAl6BYIUw8/edit#gid=17733003) - PS Vita mods and repatches list
-- [Super Meat Boy Original Music](https://www.reddit.com/r/VitaPiracy/comments/52g7fa/super_meat_boy_danny_b_music_mod) - Original music by Danny Baranowsky
-- [The Binding of Isaac: Rebirth Original Music](https://www.reddit.com/r/themoddingofisaac/comments/50rvkg/ps_vita_original_music_for_binding_of_isaac) - Original music by Danny Baranowsky
+- [Super Meat Boy Original Music](https://www.reddit.com/r/VitaPiracy/comments/52g7fa/super_meat_boy_danny_b_music_mod) - Original music by Danny Baranowsky for SMB
+- [The Binding of Isaac: Rebirth Original Music](https://www.reddit.com/r/themoddingofisaac/comments/50rvkg/ps_vita_original_music_for_binding_of_isaac) - Original music by Danny Baranowsky for TBoI:R
 - [Minecraft Texture Port](https://www.reddit.com/r/VitaPiracy/comments/cwwcl4/minecraft_playstation_vita_edition_183_1144) - Minecraft texture pack from PC version 1.14.4
+- [NFSMW_Settings](https://github.com/Electry/NFSMW_Settings) - Fixes some of the glaring issues with NFS:MW
+- [Persona 4 Golden Patches](https://github.com/zarroboogs/p4g-patches) - Set of patches for P4G
+- [Persona 3/4/5 Dancing Patches](https://github.com/zarroboogs/pXd-patches) - Set of patches for P3D, P4D and P5D
 ### 💉 Adrenaline Plugins
 - [Remastered Controls Collection](https://github.com/TheOfficialFloW/RemasteredControls) - Enables second stick in some PSP games
 - [PSP camera patch lite](https://github.com/Freakler/psp-camera_patch_lite) - Add right analog stick support to some PSP games (based on [DS3Remapper](http://wololo.net/talk/viewtopic.php?f=28&t=47794))
