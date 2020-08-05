@@ -146,6 +146,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [CBS-Manager](https://github.com/SKGleba/CBS-Manager) - Displays an image/animation/console info during the PSVita boot process
 - [Theme Manager Ex](https://bitbucket.org/kylon/theme-manager-ex-theme-engine/src/master) - Advanced theme manger
 - [Shortcuts Enhancer](https://github.com/ONElua/Shortcuts-Enhancer) - Custom shortcuts in the PS Vita index menu
+- [fontIntaller](https://github.com/cxziaho/fontInstaller) - An app for installing the [fontRedirect](https://github.com/cxziaho/fontRedirect) plugin for injecting custom fonts
 ### 📺 PS TV
 - [DolcePolce](https://github.com/KuromeSan/DolcePolce) - Allows you to play all PS Vita games on PS TV
 - [Sharpscale](https://forum.devchroma.nl/index.php/topic,112.0.html) - Changes the display scaling method on higher resolutions
@@ -162,6 +163,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [ContentServer](https://github.com/KuromeSan/ContentServer) - Server for Content Downloader
 - [GayMaker](https://github.com/KuromeSan/GayMaker/tree/master/GayMaker) - GameMaker:Studio to PSVita compiler
 - [Chovy Sign](https://github.com/KuromeSan/chovy-sign) - PSP ISOs on unhacked PSVita
+- [PSX2PSP​](https://www.psx-place.com/resources/psx2psp.586) - Allows you to convert PS1/PSX game into format playable on PSP/Adrenaline
 - [PSP2-CBAnim](https://github.com/SKGleba/PSP2-CBAnim) - Boot animation creator for [CBS-Manager](https://github.com/SKGleba/CBS-Manager)
 ### 📱 Android Tools
 - [VHBB-Android](https://github.com/Electric1447/VHBB-Android) - [VitaDB](https://vitadb.rinnegatamante.it/#) client for Android
@@ -266,4 +268,5 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [AR Play Cards](https://www.retrocomputers.gr/media/kunena/attachments/155/AR-Play-Cards.pdf) - Augmented Reality cards for PS Vita
 - [Bounties](https://github.com/vita-nuova/bounties/issues) - Bounties for new Vita projects
 - [Plugin hotkeys](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/PSVHotkeys.md) - List of plugin hotkeys
+- [Tech Specs](https://www.playstation.com/en-us/explore/psvita/system/system-specs/) - PS Vita technical specifications
 <br>
