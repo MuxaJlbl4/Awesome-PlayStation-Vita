@@ -82,7 +82,7 @@ Contains all most important, actual and cool things in my humble opinion.
 ### 🗃️ Apps
 - [VitaShell](https://github.com/TheOfficialFloW/VitaShell) - File manager
 - [PKGj](https://github.com/blastrock/pkgj) - [NoPayStation](https://nopaystation.com) browser and installer
-- [Autoplugin 2](https://github.com/theheroGAC/AutoPlugin2) - Plugin browser and installer
+- [Autoplugin 2](https://github.com/ONElua/AutoPlugin2) - Plugin browser and installer
 - [Vita HomeBrew Browser](https://github.com/devnoname120/vhbb) - [VitaDB](https://vitadb.rinnegatamante.it/#) browser and installer
 - [EasyVPK](https://github.com/Electric1447/EasyVPK) - [VitaDB](https://vitadb.rinnegatamante.it/#) browser and installer
 - [vita-savemgr](https://github.com/d3m3vilurr/vita-savemgr) - Savegame manager
@@ -109,6 +109,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [DaedalusX64-vitaGL](https://github.com/Rinnegatamante/daedalusx64-vitagl) - Nintendo 64 emulator (vitaGL based)
 - [ScummVM](https://buildbot.scummvm.org/snapshots/stable/psp2-stable-latest.zip) -
 Script Creation Utility for Maniac Mansion Virtual Machine
+- [GemRB](https://github.com/Northfear/gemrb-vita) - Infinity Engine reimplementation (Game Engine Made with preRendered Background)
 <br>
 
 ## 💡 Customization
@@ -166,7 +167,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [PSX2PSP​](https://www.psx-place.com/resources/psx2psp.586) - Allows you to convert PS1/PSX game into format playable on PSP/Adrenaline
 - [PSP2-CBAnim](https://github.com/SKGleba/PSP2-CBAnim) - Boot animation creator for [CBS-Manager](https://github.com/SKGleba/CBS-Manager)
 ### 📱 Android Tools
-- [VHBB-Android](https://github.com/Electric1447/VHBB-Android) - [VitaDB](https://vitadb.rinnegatamante.it/#) client for Android
+- [VHBB-Android](https://github.com/Electric1447/VHBB-Android) - [VitaDB](https://vitadb.rinnegatamante.it/#) & [cbpsDB](https://db.cbps.xyz) client for Android
 - [NPS Browser](https://github.com/IllusionMan1212/NPS-Browser) - [NoPayStation](https://nopaystation.com) client app for Android
 <br>
 
