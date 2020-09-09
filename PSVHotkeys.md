@@ -1,12 +1,18 @@
 # <u>PlayStation Vita plugin hotkeys</u>
 <br>
 
-## <u>System Hotkeys</u>
-- Disable taiHEN plugin loading - **Hold L (during boot)**
-- Reboot to safe mode - **Hold Power (30 sec)**
+## <u>Basic Hotkeys</u>
+- Power off - **Hold Power; Tap Power Off**
+- Quick menu - **Hold PS**
+- Mute - **Hold (VOL+ + VOL-)**
+- Screenshot - **PS + Start** *(doesn't work everywhere)*
+- Zoom - **PS + ⧠** *(needs enabled option; doesn't work everywhere)*
+<br>
+
+## <u>Safe Mode Hotkeys</u>
+- Disable taiHEN plugin loading - **Hold L (during startup)**
 - Start in safe mode - **Hold (R + PS + Power) (5 sec)**
-- Power off - **Hold Power (2 sec); Tap Power Off**
-- Quick menu  - **Hold PS (1 sec)**
+- Reboot to safe mode - **Hold Power (30 sec)**
 <br>
 
 ## <u>[Pngshot Hotkeys](https://github.com/xyzz/pngshot#usage)</u>
@@ -56,4 +62,3 @@
 - Adrenaline menu - **Hold PS (1 sec); Tap Settings**
 - RetroArch quick menu (default) - **L + R + Start + Select**
 <br>
-
