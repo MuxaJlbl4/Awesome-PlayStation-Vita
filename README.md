@@ -136,6 +136,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 ### 🌍 Network
 - [iTLS-Enso](https://github.com/SKGleba/iTLS-Enso) - Adds TLS v1.2 support
 - [Vita netcheck Bypass](https://github.com/yifanlu/netcheck_bypass) - Bypass PSN login requirement for apps
+- [accountswitcher](https://github.com/elpendor/accountswitcher) - Switch between your PSN accounts on your Vita
 - [Download Enabler](https://github.com/TheOfficialFloW/VitaTweaks/releases/tag/DownloadEnabler) - Allows download any files from PS Vita browser
 - [NPS Proxy](https://www.reddit.com/r/VitaPiracy/comments/a6mwik/nps_temporary_workaround_for_pkgj_https_errors) - Preventing HTTPS errors in PKGj by using NPS proxy
 ### 🎨 Appearance
@@ -153,6 +154,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Sharpscale](https://forum.devchroma.nl/index.php/topic,112.0.html) - Changes the display scaling method on higher resolutions
 - [MiniVitaTV](https://github.com/TheOfficialFloW/MiniVitaTV) - Allows you to connect up to 4 DS3/DS4 controllers to PS Vita
 - [Viimote](https://github.com/xerpi/viimote) - Allows you to connect a Wiimote
+- [ds4Touch](https://github.com/MERLev/ds4Touch) - Adds ds4 touchpad support ([ds4vita](https://github.com/xerpi/ds4vita) way) to PS TV and Vita with [MiniVitaTV](https://github.com/TheOfficialFloW/MiniVitaTV)
 ### 💻 PC Tools
 - [Vita3K](https://github.com/Vita3K/Vita3K) - PlayStation Vita emulator for PC
 - [QCMA](https://github.com/codestation/qcma) - Open Source Content Manager Assistant for PS Vita
@@ -233,7 +235,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Persona 4 Golden Patches](https://github.com/zarroboogs/p4g-patches) - Set of patches for P4G
 - [Persona 3/4/5 Dancing Patches](https://github.com/zarroboogs/pXd-patches) - Set of patches for P3D, P4D and P5D
 ### 💉 Adrenaline Plugins
-- [GE Patch](https://github.com/TheOfficialFloW/GePatch) - Allows you to play some PSP games in native PS Vita resolution
+- [GePatch](https://github.com/TheOfficialFloW/GePatch) - Allows you to play some PSP games in native PS Vita resolution
 - [Remastered Controls Collection](https://github.com/TheOfficialFloW/RemasteredControls) - Enables second stick in some PSP games
 - [PSP camera patch lite](https://github.com/Freakler/psp-camera_patch_lite) - Add right analog stick support to some PSP games (based on [DS3Remapper](http://wololo.net/talk/viewtopic.php?f=28&t=47794))
 - [GTA Native Resolution Patch](https://github.com/TheOfficialFloW/GTANativeResolution) - Forces native PS Vita resolution in GTA:LCS and GTA:VCS PSP games
@@ -263,7 +265,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Emulator Files](https://emulation.gametechwiki.com/index.php/Emulator_Files) - BIOS/Firmware files for emulators
 - [ROM & ISO Sites](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) - List of ROM sites
 ### 🧪 Compatibility Lists
-- [GePatch](https://docs.google.com/spreadsheets/d/1aZlmKwELcdpCb9ezI5iRfgcX9hoGxgL4tNC-673aKqk) - Compatibility list for [GE Patch](https://github.com/TheOfficialFloW/GePatch)
+- [GePatch](https://docs.google.com/spreadsheets/d/1aZlmKwELcdpCb9ezI5iRfgcX9hoGxgL4tNC-673aKqk) - Compatibility list for [GePatch](https://github.com/TheOfficialFloW/GePatch)
 - [Adrenaline 60 FPS](https://docs.google.com/spreadsheets/d/1yunmCa_7zmoI0H8qPRYJEd7D7rm6Vxc1SJFYPF9DCIM) - Compatibility list for Adrenaline 60 FPS patches via CWCheat
 - [DaedalusX64](https://github.com/Rinnegatamante/DaedalusX64-vitaGL-Compatibility/issues) - Compatibility list for [DaedalusX64-vitaGL](https://github.com/Rinnegatamante/daedalusx64-vitagl)
 - [Vita3K](https://github.com/Vita3K/compatibility/issues) - Compatibility list for [Vita3K](https://github.com/Vita3K/Vita3K)
