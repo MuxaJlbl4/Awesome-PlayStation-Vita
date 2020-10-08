@@ -21,7 +21,7 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [🔑 Input](#-input)
 	- [🌍 Network](#-network)
 	- [🎨 Appearance](#-appearance)
-	- [📺 PS Vita 2000](#-ps-vita-2000)
+	- [🧿 PS Vita 2000](#-ps-vita-2000)
 	- [📺 PS TV](#-ps-tv)
 	- [💻 PC Tools](#-pc-tools)
 	- [📱 Android Tools](#-android-tools)
@@ -154,7 +154,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Theme Manager Ex](https://bitbucket.org/kylon/theme-manager-ex-theme-engine/src/master) - Advanced theme manger
 - [Shortcuts Enhancer](https://github.com/ONElua/Shortcuts-Enhancer) - Custom shortcuts in the PS Vita index menu
 - [fontIntaller](https://github.com/cxziaho/fontInstaller) - An app for installing the [fontRedirect](https://github.com/cxziaho/fontRedirect) plugin for injecting custom fonts
-## 🧿 PS Vita 2000
+### 🧿 PS Vita 2000
 - [LCD Color Saturation](https://github.com/Electric1447/lcd-color-saturation) - App for improving color saturation on your Vita 2000
 - [LCD Colour Space Changer](https://forum.devchroma.nl/index.php?topic=201.0) - Plugin for improving color saturation on your Vita 2000
 ### 📺 PS TV
@@ -214,7 +214,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [VitaGrafixConfigurator](https://github.com/Kirezar/VitaGrafixConfigurator) - GUI configurator for VitaGrafix
 - [VitaGrafixPatchlist](https://github.com/Electry/VitaGrafixPatchlist) - A collection of patches for VitaGrafix
 - [reRescaler](http://wololo.net/talk/viewtopic.php?f=52&t=49666) - Replacement for built-in rescaler
-# 🏆 Trophies
+### 🏆 Trophies
 - [TropHAXSE](https://bitbucket.org/SilicaAndPina/trophaxse/src/master) - Trophy unlocker app
 - [Trophy Manager](https://github.com/ONElua/TrophyManager) - Trophy remover app
 - [TrophyShot](https://github.com/FMudanyali/TrophyShot) - Takes a screenshot whenever you unlock a trophy
