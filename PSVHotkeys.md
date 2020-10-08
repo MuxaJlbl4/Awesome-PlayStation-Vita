@@ -45,6 +45,10 @@
 - Close all - **Start + ↓**
 <br>
 
+## <u>[PSV-VSH-Menu Hotkeys](https://github.com/SilentNightx/PSV-VSH-Menu#installation)</u>
+- Open/Close VSH - **L + R + Start / L + R + Select**
+<br>
+
 ## <u>[VGi Hotkeys](https://github.com/Electry/VGi#controls)</u>
 - Open/Close VGi - **Select + L**
 - Move and scroll (in VGi GUI) - **L / R / ↑ / ↓**
@@ -59,6 +63,6 @@
 <br>
 
 ## <u>Miscellaneous Hotkeys</u>
-- Adrenaline menu - **Hold PS (1 sec); Tap Settings**
+- Adrenaline menu - **Hold PS; Tap Settings**
 - RetroArch quick menu (default) - **L + R + Start + Select**
 <br>
