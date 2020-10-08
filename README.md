@@ -21,6 +21,7 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [🔑 Input](#-input)
 	- [🌍 Network](#-network)
 	- [🎨 Appearance](#-appearance)
+	- [📺 PS Vita 2000](#-ps-vita-2000)
 	- [📺 PS TV](#-ps-tv)
 	- [💻 PC Tools](#-pc-tools)
 	- [📱 Android Tools](#-android-tools)
@@ -33,6 +34,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [☀️ Enhances](#%EF%B8%8F-enhances)
 	- [🚀 Overclocking](#-overclocking)
 	- [☢️ Game Tweaks](#%EF%B8%8F-game-tweaks)
+	- [🏆 Trophies](#-trophies)
 	- [📝 Cheats](#-cheats)
 	- [🔎 Reverse Engineering](#-reverse-engineering)
 	- [ℹ️ Info](#%E2%84%B9%EF%B8%8F-info)
@@ -59,7 +61,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [Wiki Game List](https://en.wikipedia.org/wiki/Lists_of_PlayStation_Vita_games) - Wikipedia list of all PS Vita games
 - [Metacritic List](https://www.metacritic.com/browse/games/release-date/available/vita/date?view=detailed&page=0) - All PS Vita game releases at Metacritic
 - [Exclusives List](https://www.giantbomb.com/profile/blacklagoon/lists/vita-exclusives/86370) - List of PS Vita exclusives
-- [Some Visual Novel](https://www.reddit.com/r/VitaPiracy/comments/90espv/vnds_clone_games_on_this_reddit/) - VNDS Clone games for Vita
+- [Some Visual Novel](https://www.reddit.com/r/VitaPiracy/comments/90espv/vnds_clone_games_on_this_reddit) - VNDS Clone games for Vita
 <br>
 
 ## ⚙️ Basic Stuff
@@ -116,6 +118,8 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 ### 🔋 Utilities
 - [vita-shellbat](https://github.com/nowrep/vita-shellbat) - Shows battery percent in statusbar
 - [VITABatteryPlus](https://github.com/Electric1447/VITABatteryPlus) - Battery info plugin
+- [PSV-VSH-Menu](https://github.com/SilentNightx/PSV-VSH-Menu) - Visual SHell menu for PS Vita
+- [BetterTrackPlug](https://github.com/fmudanyali/BetterTrackPlug) - Playtime tracker plugin for PS Vita
 - [Quietshot](https://github.com/Princess-of-Sleeping/Quietshot) - Disables camera shutter sound
 - [jav](https://git.shotatoshounenwachigau.moe/vita/jav/about) - Automatic volume level switching for each audio device
 - [vitabright](https://github.com/devnoname120/vitabright) - Expand bright levels range
@@ -144,17 +148,23 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [SwitchView UI](https://vitadb.rinnegatamante.it/#/info/338) - Nintendo Switch like interface
 - [Bubble Studio](https://anthe.studio/bubblestudio) - Web editor for app.db
 - [Adrenaline Bubbles Manager](https://github.com/ONElua/AdrenalineBubbleManager) - Allows you to create bubbles to launch PSP games without XMB via [AdrBubbleBooter plugin](https://sites.google.com/site/theleecherman/adrbubblebooter)
-- [Custom Bubble Tutorial](https://www.reddit.com/r/vitahacks/comments/hjmn5k/ps_vita_daedalusx64_and_retroarch_custom_bubbles/) - Tutorial on how to create bubbles for RetroArch and DaedalusX64
+- [Bubble booter](https://sites.google.com/site/theleecherman/adrbubblebooter) - Directly boots any PSP file (ISO\CSO\PBP\PSOne) from LiveArea's Bubbles
+- [Custom Bubble Tutorial](https://www.reddit.com/r/vitahacks/comments/hjmn5k/ps_vita_daedalusx64_and_retroarch_custom_bubbles) - Tutorial on how to create bubbles for RetroArch and DaedalusX64
 - [CBS-Manager](https://github.com/SKGleba/CBS-Manager) - Displays an image/animation/console info during the PSVita boot process
 - [Theme Manager Ex](https://bitbucket.org/kylon/theme-manager-ex-theme-engine/src/master) - Advanced theme manger
 - [Shortcuts Enhancer](https://github.com/ONElua/Shortcuts-Enhancer) - Custom shortcuts in the PS Vita index menu
 - [fontIntaller](https://github.com/cxziaho/fontInstaller) - An app for installing the [fontRedirect](https://github.com/cxziaho/fontRedirect) plugin for injecting custom fonts
+## 🧿 PS Vita 2000
+- [LCD Color Saturation](https://github.com/Electric1447/lcd-color-saturation) - App for improving color saturation on your Vita 2000
+- [LCD Colour Space Changer](https://forum.devchroma.nl/index.php?topic=201.0) - Plugin for improving color saturation on your Vita 2000
 ### 📺 PS TV
 - [DolcePolce](https://github.com/KuromeSan/DolcePolce) - Allows you to play all PS Vita games on PS TV
 - [Sharpscale](https://forum.devchroma.nl/index.php/topic,112.0.html) - Changes the display scaling method on higher resolutions
 - [MiniVitaTV](https://github.com/TheOfficialFloW/MiniVitaTV) - Allows you to connect up to 4 DS3/DS4 controllers to PS Vita
 - [Viimote](https://github.com/xerpi/viimote) - Allows you to connect a Wiimote
 - [ds4Touch](https://github.com/MERLev/ds4Touch) - Adds ds4 touchpad support ([ds4vita](https://github.com/xerpi/ds4vita) way) to PS TV and Vita with [MiniVitaTV](https://github.com/TheOfficialFloW/MiniVitaTV)
+- [VitaDock tutorial](https://www.reddit.com/r/vitahacks/comments/bhaclc/psvitaopz_beta_b_stream_psvita_to_tv_with_pi_zero) - [VitaDock](https://github.com/CrashCortez/VitaDock-DIY) tutorial
+- [VitaDock+](https://github.com/SilentNightx/VitaDockPlus) - Software for VitaDock
 ### 💻 PC Tools
 - [Vita3K](https://github.com/Vita3K/Vita3K) - PlayStation Vita emulator for PC
 - [QCMA](https://github.com/codestation/qcma) - Open Source Content Manager Assistant for PS Vita
@@ -188,7 +198,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Noboru](https://github.com/Creckeryop/NOBORU) - Manga/comics browser/reader
 ### 🎥 Streaming
 - [Vita Moonlight](https://github.com/xyzz/vita-moonlight) - NVIDIA Gamestream client for Vita
-- [udcd_uvc](https://github.com/xerpi/vita-udcd-uvc) -  Allows you stream your PSVita screen to PC via USB
+- [udcd_uvc](https://github.com/xerpi/vita-udcd-uvc) -  Allows you stream your PSVita screen to PC/Android via USB
 <br>
 
 ## ☀️ Enhances
@@ -204,15 +214,18 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [VitaGrafixConfigurator](https://github.com/Kirezar/VitaGrafixConfigurator) - GUI configurator for VitaGrafix
 - [VitaGrafixPatchlist](https://github.com/Electry/VitaGrafixPatchlist) - A collection of patches for VitaGrafix
 - [reRescaler](http://wololo.net/talk/viewtopic.php?f=52&t=49666) - Replacement for built-in rescaler
+# 🏆 Trophies
+- [TropHAXSE](https://bitbucket.org/SilicaAndPina/trophaxse/src/master) - Trophy unlocker app
+- [Trophy Manager](https://github.com/ONElua/TrophyManager) - Trophy remover app
+- [TrophyShot](https://github.com/FMudanyali/TrophyShot) - Takes a screenshot whenever you unlock a trophy
 ### 📝 Cheats
 - [VitaCheat](https://github.com/r0ah/vitacheat) - Cheat plugin
 - [VitaCheatDatabase](https://github.com/ShumnoT/VitaCheatDatabase) - Database for VitaCheat 
 - [Cheat Plugins](https://github.com/r0ah/vitacheat/tree/master/plg) - Cheat plugins
-- [TropHAX](https://bitbucket.org/SilicaAndPina/trophax/src/master) - Trophy unlocker
-- [Trophy Manager](https://github.com/ONElua/TrophyManager) - Trophy remover
 - [ScoreHAX](https://github.com/KuromeSan/ScoreHax) - Leaderboards hack
 - [Déjàvu](https://github.com/TheOfficialFloW/dejavu) - Save state plugin
 - [TurboPad](https://wololo.net/talk/viewtopic.php?t=48065) - Allows you to enable RapidFire on any button
+- [save-editor.com](http://www.save-editor.com/tools) - Set of save editor tools
 ### 🔎 Reverse Engineering
 - [PSVita Reverse Engineering Tools](https://github.com/CelesteBlue-dev/PSVita-RE-tools) - A bundle of RE tools for PSVita
 - [Ghidra Vita Loader](https://github.com/xerpi/GhidraVitaLoader) - Scripts for loading PSVita ELF Binaries into NSA's Ghidra
@@ -239,7 +252,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Remastered Controls Collection](https://github.com/TheOfficialFloW/RemasteredControls) - Enables second stick in some PSP games
 - [PSP camera patch lite](https://github.com/Freakler/psp-camera_patch_lite) - Add right analog stick support to some PSP games (based on [DS3Remapper](http://wololo.net/talk/viewtopic.php?f=28&t=47794))
 - [GTA Native Resolution Patch](https://github.com/TheOfficialFloW/GTANativeResolution) - Forces native PS Vita resolution in GTA:LCS and GTA:VCS PSP games
-- [CWCheat Adrenaline](https://www.cfwaifu.com/cwcheat-adrenaline/) - Allows you to use custom cheats and patches in PSP and PSX games
+- [CWCheat Adrenaline](https://www.cfwaifu.com/cwcheat-adrenaline) - Allows you to use custom cheats and patches in PSP and PSX games
 - [60 FPS Patches List](https://forums.ppsspp.org/showthread.php?tid=22800) - 60 FPS patches for PSP games (for CWCheat)
 - [CWCheat Database](https://forums.ppsspp.org/showthread.php?tid=11961) - List of cheats for CWCheat
 <br>
@@ -273,5 +286,5 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [AR Play Cards](https://www.retrocomputers.gr/media/kunena/attachments/155/AR-Play-Cards.pdf) - Augmented Reality cards for PS Vita
 - [Bounties](https://github.com/vita-nuova/bounties/issues) - Bounties for new Vita projects
 - [Plugin hotkeys](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/PSVHotkeys.md) - List of plugin hotkeys
-- [Tech Specs](https://www.playstation.com/en-us/explore/psvita/system/system-specs/) - PS Vita technical specifications
+- [Tech Specs](https://www.playstation.com/en-us/explore/psvita/system/system-specs) - PS Vita technical specifications
 <br>
