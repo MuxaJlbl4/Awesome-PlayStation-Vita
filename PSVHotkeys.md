@@ -21,8 +21,8 @@
 
 ## <u>[PSVshell Hotkeys](https://github.com/Electry/PSVshell#how-to-use)</u>
 - Toggle between 3 GUI modes - **(Select + ↑) / (Select + ↓)**
-- Navigation (in full GUI mode) - **↑ / ↓ / ← / → / ╳**
-- Change profile (in full GUI mode) - **Hold L**
+- Navigation - **↑ / ↓ / ← / → / ╳** *(GUI mode)*
+- Change profile - **Hold L** *(GUI mode)*
 <br>
 
 ## <u>[ReRescaler Hotkeys](http://wololo.net/talk/viewtopic.php?f=52&t=49666)</u>
@@ -51,11 +51,12 @@
 
 ## <u>[VGi Hotkeys](https://github.com/Electry/VGi#controls)</u>
 - Open/Close VGi - **Select + L**
-- Move and scroll (in VGi GUI) - **L / R / ↑ / ↓**
+- Move and scroll - **L / R / ↑ / ↓** *(GUI mode)*
 <br>
 
-## <u>[RemaPSV/](https://wololo.net/talk/viewtopic.php?t=49752)[RemaPSV2 Hotkeys](https://github.com/MERLev/remaPSV2#installation)</u>
+## <u>[ReVita ](https://github.com/MERLev/reVita#usage)[/ RemaPSV ](https://wololo.net/talk/viewtopic.php?t=49752)[/ RemaPSV2 Hotkeys](https://github.com/MERLev/remaPSV2#installation)</u>
 - Config menu - **Start + ⧠**
+- Enable/Disable - **Start + △** *(reVita)*
 <br>
 
 ## <u>[TurboPad Hotkeys](https://wololo.net/talk/viewtopic.php?t=48065)</u>
@@ -64,5 +65,5 @@
 
 ## <u>Miscellaneous Hotkeys</u>
 - Adrenaline menu - **Hold PS; Tap Settings**
-- RetroArch quick menu (default) - **L + R + Start + Select**
+- RetroArch quick menu - **L + R + Start + Select** *(default)*
 <br>
