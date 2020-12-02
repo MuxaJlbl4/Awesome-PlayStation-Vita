@@ -135,7 +135,8 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [vitastick](https://github.com/xerpi/vitastick) - Allows to use PS Vita as an USB gamepad
 - [vita-ps4linkcontrols](https://github.com/nowrep/vita-ps4linkcontrols) - Button configuration plugin for Remote Play
 - [ds34vita](https://github.com/MERLev/ds34vita) - Allows to use Dualshock 3/4 controllers
-- [Revita](https://github.com/MERLev/reVita) - Allows you to remap inputs and trigger actions
+- [DS34Motion](https://github.com/MERLev/DS34Motion) - Adds motion control support for PlayStation TV with DualShock
+- [reVita](https://github.com/MERLev/reVita) - Allows you to remap inputs and trigger actions
 - [RemaPSV](https://wololo.net/talk/viewtopic.php?t=49752) - Allows you to remap buttons and touch zones
 - [RemaPSV2](https://github.com/MERLev/remaPSV2) - Updated RemaPSV
 - [Button Swap](https://github.com/Scorpeg/Button-Swap) - Swapping X and O buttons
