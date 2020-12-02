@@ -5,46 +5,47 @@ Contains all most important, actual and cool things in my humble opinion.
 <br>
 
 ## 🧭 Table of Contents
-- [⭐ General](#-general)
+- <u>**[⭐ General](#-general)**</u>
 	- [🏠 Main Links](#-main-links)
 	- [🌌 Game Lists](#-game-lists)
-- [⚙️ Basic Stuff](#%EF%B8%8F-basic-stuff)
+- <u>**[⚙️ Basic Stuff](#%EF%B8%8F-basic-stuff)**</u>
 	- [🔓 Hacking](#-hacking)
 	- [🗃️ Apps](#%EF%B8%8F-apps)
 	- [💾 Memory](#-memory)
 	- [⚡ Flash Adapters](#-flash-adapters)
-- [🎲 Gaming and Emulation](#-gaming-and-emulation)
+- <u>**[🎲 Gaming and Emulation](#-gaming-and-emulation)**</u>
 	- [🎮 Games](#-games)
 	- [🕹️ Emulators](#%EF%B8%8F-emulators)
-- [💡 Customization](#-customization)
+- <u>**[💡 Customization](#-customization)**</u>
 	- [🔋 Utilities](#-utilities)
 	- [🔑 Input](#-input)
 	- [🌍 Network](#-network)
+	- [🔧 Fixes](#-fixes)
 	- [🎨 Appearance](#-appearance)
 	- [🧿 PS Vita 2000](#-ps-vita-2000)
 	- [📺 PS TV](#-ps-tv)
 	- [💻 PC Tools](#-pc-tools)
 	- [📱 Android Tools](#-android-tools)
-- [🎞️ Media](#%EF%B8%8F-media)
+- <u>**[🎞️ Media](#%EF%B8%8F-media)**</u>
 	- [🖼️ Image](#%EF%B8%8F-image)
 	- [🎵 Music](#-music)
 	- [🎬 Video](#-video)
 	- [📖 Reading](#-reading)
 	- [🎥 Streaming](#-streaming)
-- [☀️ Enhances](#%EF%B8%8F-enhances)
+- <u>**[☀️ Enhances](#%EF%B8%8F-enhances)**</u>
 	- [🚀 Overclocking](#-overclocking)
 	- [☢️ Game Tweaks](#%EF%B8%8F-game-tweaks)
 	- [🏆 Trophies](#-trophies)
 	- [📝 Cheats](#-cheats)
 	- [🔎 Reverse Engineering](#-reverse-engineering)
 	- [ℹ️ Info](#%E2%84%B9%EF%B8%8F-info)
-- [🛠️ Mods](#%EF%B8%8F-mods)
+- <u>**[🛠️ Mods](#%EF%B8%8F-mods)**</u>
 	- [💊 Game Patches](#-game-patches)
 	- [💉 Adrenaline Plugins](#-adrenaline-plugins)
-- [♥️ Fans](#%EF%B8%8F-fans)
+- <u>**[♥️ Fans](#%EF%B8%8F-fans)**</u>
 	- [😜 Communities](#-communities)
 	- [💬 Game Translations](#-game-translations)
-- [📚 Miscellaneous](#-miscellaneous)
+- <u>**[📚 Miscellaneous](#-miscellaneous)**</u>
 	- [✏ Emulation Necessaries](#-emulation-necessaries)
 	- [🧪 Compatibility Lists](#-compatibility-lists)
 	- [🧩 Misc](#-misc)
@@ -126,7 +127,6 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [dt2s-vita](https://github.com/joel16/dt2s-vita) - Puts your PS VITA to sleep if you double tap the touch screen
 - [TransparentImpose](https://github.com/GrapheneCt/TransparentImpose) - Makes impose menu transparent
 - [pngshot](https://github.com/xyzz/pngshot) - Screenshot plugin
-- [PSP2-batteryFixer](https://github.com/SKGleba/PSP2-batteryFixer) - Fixes most battery related problems
 - [VitaTweaks](https://github.com/TheOfficialFloW/VitaTweaks) - A collection of small tweaks
 - [vitatricks.tk](https://vitatricks.tk) - Online set of useful PS Vita tools
 ### 🔑 Input
@@ -147,6 +147,9 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [accountswitcher](https://github.com/elpendor/accountswitcher) - Switch between your PSN accounts on your Vita
 - [Download Enabler](https://github.com/TheOfficialFloW/VitaTweaks/releases/tag/DownloadEnabler) - Allows download any files from PS Vita browser
 - [NPS Proxy](https://www.reddit.com/r/VitaPiracy/comments/a6mwik/nps_temporary_workaround_for_pkgj_https_errors) - Preventing HTTPS errors in PKGj by using NPS proxy
+### 🔧 Fixes
+- [FdFix](https://github.com/TheOfficialFloW/FdFix) - Fixes an issue in PS Vita homebrews where file descriptors are invalidated after suspend and resume (for example [re3-vita](https://www.psx-place.com/threads/re3-vita-a-full-reverse-engineered-reimplementation-of-gta-iii.31588/))
+- [PSP2-batteryFixer](https://github.com/SKGleba/PSP2-batteryFixer) - Fixes most battery related problems
 ### 🎨 Appearance
 - [HexFlow-Launcher](https://github.com/VitaHEX-Games/HexFlow-Launcher) - A 3d coverflow like launcher for PS Vita
 - [ONEMenu](https://github.com/ONElua/ONEMenu-for-PSVita) - Custom UI and title name editor
@@ -247,7 +250,6 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 ## 🛠️ Mods
 ### 💊 Game Patches
 - [Vita Mods Table](https://docs.google.com/spreadsheets/d/1OkS1S2sJqs2p8jp6pxBfrQkHT4Tn2-__NmAl6BYIUw8/edit#gid=17733003) - PS Vita mods and repatches list
-- [FdFix](https://github.com/TheOfficialFloW/FdFix) - Fixes an issue in PS Vita homebrews where file descriptors are invalidated after suspend and resume (for example [re3-vita](https://www.psx-place.com/threads/re3-vita-a-full-reverse-engineered-reimplementation-of-gta-iii.31588/))
 - [Super Meat Boy Original Music](https://www.reddit.com/r/VitaPiracy/comments/52g7fa/super_meat_boy_danny_b_music_mod) - Original music by Danny Baranowsky for SMB
 - [The Binding of Isaac: Rebirth Original Music](https://www.reddit.com/r/themoddingofisaac/comments/50rvkg/ps_vita_original_music_for_binding_of_isaac) - Original music by Danny Baranowsky for TBoI:R
 - [Minecraft Texture Port](https://www.reddit.com/r/VitaPiracy/comments/cwwcl4/minecraft_playstation_vita_edition_183_1144) - Minecraft texture pack from PC version 1.14.4
