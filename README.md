@@ -123,6 +123,8 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Quietshot](https://github.com/Princess-of-Sleeping/Quietshot) - Disables camera shutter sound
 - [jav](https://git.shotatoshounenwachigau.moe/vita/jav/about) - Automatic volume level switching for each audio device
 - [vitabright](https://github.com/devnoname120/vitabright) - Expand bright levels range
+- [dt2s-vita](https://github.com/joel16/dt2s-vita) - Puts your PS VITA to sleep if you double tap the touch screen
+- [TransparentImpose](https://github.com/GrapheneCt/TransparentImpose) - Makes impose menu transparent
 - [pngshot](https://github.com/xyzz/pngshot) - Screenshot plugin
 - [PSP2-batteryFixer](https://github.com/SKGleba/PSP2-batteryFixer) - Fixes most battery related problems
 - [VitaTweaks](https://github.com/TheOfficialFloW/VitaTweaks) - A collection of small tweaks
@@ -132,6 +134,8 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [VitaPad](https://www.psx-place.com/threads/vitapad.30520) - Allows to use PS Vita as a wireless gamepad
 - [vitastick](https://github.com/xerpi/vitastick) - Allows to use PS Vita as an USB gamepad
 - [vita-ps4linkcontrols](https://github.com/nowrep/vita-ps4linkcontrols) - Button configuration plugin for Remote Play
+- [ds34vita](https://github.com/MERLev/ds34vita) - Allows to use Dualshock 3/4 controllers
+- [Revita](https://github.com/MERLev/reVita) - Allows you to remap inputs and trigger actions
 - [RemaPSV](https://wololo.net/talk/viewtopic.php?t=49752) - Allows you to remap buttons and touch zones
 - [RemaPSV2](https://github.com/MERLev/remaPSV2) - Updated RemaPSV
 - [Button Swap](https://github.com/Scorpeg/Button-Swap) - Swapping X and O buttons
@@ -144,7 +148,9 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Download Enabler](https://github.com/TheOfficialFloW/VitaTweaks/releases/tag/DownloadEnabler) - Allows download any files from PS Vita browser
 - [NPS Proxy](https://www.reddit.com/r/VitaPiracy/comments/a6mwik/nps_temporary_workaround_for_pkgj_https_errors) - Preventing HTTPS errors in PKGj by using NPS proxy
 ### 🎨 Appearance
+- [HexFlow-Launcher](https://github.com/VitaHEX-Games/HexFlow-Launcher) - A 3d coverflow like launcher for PS Vita
 - [ONEMenu](https://github.com/ONElua/ONEMenu-for-PSVita) - Custom UI and title name editor
+- [vita-launcher](https://github.com/cy33hc/vita-launcher) - App/game launcher application
 - [SwitchView UI](https://vitadb.rinnegatamante.it/#/info/338) - Nintendo Switch like interface
 - [Bubble Studio](https://anthe.studio/bubblestudio) - Web editor for app.db
 - [Adrenaline Bubbles Manager](https://github.com/ONElua/AdrenalineBubbleManager) - Allows you to create bubbles to launch PSP games without XMB via [AdrBubbleBooter plugin](https://sites.google.com/site/theleecherman/adrbubblebooter)
@@ -241,10 +247,12 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 ## 🛠️ Mods
 ### 💊 Game Patches
 - [Vita Mods Table](https://docs.google.com/spreadsheets/d/1OkS1S2sJqs2p8jp6pxBfrQkHT4Tn2-__NmAl6BYIUw8/edit#gid=17733003) - PS Vita mods and repatches list
+- [FdFix](https://github.com/TheOfficialFloW/FdFix) - Fixes an issue in PS Vita homebrews where file descriptors are invalidated after suspend and resume (for example [re3-vita](https://www.psx-place.com/threads/re3-vita-a-full-reverse-engineered-reimplementation-of-gta-iii.31588/))
 - [Super Meat Boy Original Music](https://www.reddit.com/r/VitaPiracy/comments/52g7fa/super_meat_boy_danny_b_music_mod) - Original music by Danny Baranowsky for SMB
 - [The Binding of Isaac: Rebirth Original Music](https://www.reddit.com/r/themoddingofisaac/comments/50rvkg/ps_vita_original_music_for_binding_of_isaac) - Original music by Danny Baranowsky for TBoI:R
 - [Minecraft Texture Port](https://www.reddit.com/r/VitaPiracy/comments/cwwcl4/minecraft_playstation_vita_edition_183_1144) - Minecraft texture pack from PC version 1.14.4
 - [NFSMW_Settings](https://github.com/Electry/NFSMW_Settings) - Fixes some of the glaring issues with NFS:MW
+- [Borderlands-2-Altered-Config](https://github.com/justalex95/Borderlands-2-Vita-TweakyBlinders-config) - An altered config file for Borderlands 2 to increase playability and fps
 - [Persona 4 Golden Patches](https://github.com/zarroboogs/p4g-patches) - Set of patches for P4G
 - [Persona 3/4/5 Dancing Patches](https://github.com/zarroboogs/pXd-patches) - Set of patches for P3D, P4D and P5D
 ### 💉 Adrenaline Plugins
