@@ -93,6 +93,8 @@ Contains all most important, actual and cool things in my humble opinion.
 - [PSVita-StorageMgr](https://github.com/CelesteBlue-dev/PSVita-StorageMgr) - Mounts/redirects storage devices to mount points
 - [yamt-vita](https://github.com/SKGleba/yamt-vita) - Yet another (re)mount tool kernel plugin
 - [yamt-lite](https://github.com/AuroraWright/yamt-vita-lite) - Yamt that doesn't rely on a mounted storage or config
+- [IMCUnlock](https://github.com/SKGleba/IMCUnlock) - Internal ux storage enabler/manager
+- [EmergencyMount](https://github.com/teakhanirons/EmergencyMount) - A pseudo recovery menu
 - [Application Storage Manager](https://bitbucket.org/Lupo511/appstoragemanager/src/master) - Moves apps to/from internal memory
 ### ⚡ Flash Adapters
 - [SD2VITA](https://www.codedonut.com/ps-vita-hacking/ps-vita-how-to-set-up-sd2vita-tutorial-storagemgr-plugin) - Game card to MicroSD adapter
@@ -137,8 +139,6 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [ds34vita](https://github.com/MERLev/ds34vita) - Allows to use Dualshock 3/4 controllers
 - [DS34Motion](https://github.com/MERLev/DS34Motion) - Adds motion control support for PlayStation TV with DualShock
 - [reVita](https://github.com/MERLev/reVita) - Allows you to remap inputs and trigger actions
-- [RemaPSV](https://wololo.net/talk/viewtopic.php?t=49752) - Allows you to remap buttons and touch zones
-- [RemaPSV2](https://github.com/MERLev/remaPSV2) - Updated RemaPSV
 - [Button Swap](https://github.com/Scorpeg/Button-Swap) - Swapping X and O buttons
 - [Analog Enhancer](http://wololo.net/talk/viewtopic.php?f=116&t=49475) - Sets deadzones for sticks
 - [WDNR](https://github.com/Rinnegatamante/WDNR) - Disables rear touchpad
@@ -147,6 +147,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Vita netcheck Bypass](https://github.com/yifanlu/netcheck_bypass) - Bypass PSN login requirement for apps
 - [accountswitcher](https://github.com/elpendor/accountswitcher) - Switch between your PSN accounts on your Vita
 - [Download Enabler](https://github.com/TheOfficialFloW/VitaTweaks/releases/tag/DownloadEnabler) - Allows download any files from PS Vita browser
+- [Multidownload Vita](https://github.com/DavisDev/Multidownload-Vita) - Advanced downloader app
 - [NPS Proxy](https://www.reddit.com/r/VitaPiracy/comments/a6mwik/nps_temporary_workaround_for_pkgj_https_errors) - Preventing HTTPS errors in PKGj by using NPS proxy
 ### 🔧 Fixes
 - [FdFix](https://github.com/TheOfficialFloW/FdFix) - Fixes an issue in PS Vita homebrews where file descriptors are invalidated after suspend and resume (for example [re3-vita](https://www.psx-place.com/threads/re3-vita-a-full-reverse-engineered-reimplementation-of-gta-iii.31588/))
@@ -155,7 +156,6 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [HexFlow-Launcher](https://github.com/VitaHEX-Games/HexFlow-Launcher) - A 3d coverflow like launcher for PS Vita
 - [ONEMenu](https://github.com/ONElua/ONEMenu-for-PSVita) - Custom UI and title name editor
 - [vita-launcher](https://github.com/cy33hc/vita-launcher) - App/game launcher application
-- [SwitchView UI](https://vitadb.rinnegatamante.it/#/info/338) - Nintendo Switch like interface
 - [Bubble Studio](https://anthe.studio/bubblestudio) - Web editor for app.db
 - [Adrenaline Bubbles Manager](https://github.com/ONElua/AdrenalineBubbleManager) - Allows you to create bubbles to launch PSP games without XMB via [AdrBubbleBooter plugin](https://sites.google.com/site/theleecherman/adrbubblebooter)
 - [Bubble booter](https://sites.google.com/site/theleecherman/adrbubblebooter) - Directly boots any PSP file (ISO\CSO\PBP\PSOne) from LiveArea's Bubbles
@@ -289,7 +289,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Emulator Files](https://emulation.gametechwiki.com/index.php/Emulator_Files) - BIOS/Firmware files for emulators
 - [ROM & ISO Sites](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) - List of ROM sites
 ### 🧪 Compatibility Lists
-- [GePatch](https://docs.google.com/spreadsheets/d/1aZlmKwELcdpCb9ezI5iRfgcX9hoGxgL4tNC-673aKqk) - Compatibility list for [GePatch](https://github.com/TheOfficialFloW/GePatch)
+- [GePatch](https://docs.google.com/spreadsheets/d/1aZlmKwELcdpCb9ezI5iRfgcX9hoGxgL4tNC-673aKqk/edit#gid=0) - Compatibility list for [GePatch](https://github.com/TheOfficialFloW/GePatch)
 - [Adrenaline 60 FPS](https://docs.google.com/spreadsheets/d/1yunmCa_7zmoI0H8qPRYJEd7D7rm6Vxc1SJFYPF9DCIM) - Compatibility list for Adrenaline 60 FPS patches via CWCheat
 - [DaedalusX64](https://github.com/Rinnegatamante/DaedalusX64-vitaGL-Compatibility/issues) - Compatibility list for [DaedalusX64-vitaGL](https://github.com/Rinnegatamante/daedalusx64-vitagl)
 - [Vita3K](https://github.com/Vita3K/compatibility/issues) - Compatibility list for [Vita3K](https://github.com/Vita3K/Vita3K)
@@ -297,5 +297,5 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [AR Play Cards](https://www.retrocomputers.gr/media/kunena/attachments/155/AR-Play-Cards.pdf) - Augmented Reality cards for PS Vita
 - [Bounties](https://github.com/vita-nuova/bounties/issues) - Bounties for new Vita projects
 - [Plugin hotkeys](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/PSVHotkeys.md) - List of plugin hotkeys
-- [Tech Specs](https://www.playstation.com/en-us/explore/psvita/system/system-specs) - PS Vita technical specifications
+- [Tech Specs](https://web.archive.org/web/20201116183455/https://www.playstation.com/en-us/explore/psvita/system/system-specs) - PS Vita technical specifications
 <br>
