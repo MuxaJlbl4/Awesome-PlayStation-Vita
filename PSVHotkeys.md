@@ -36,6 +36,14 @@
 - Load state from slot - **L + (Select / Start / △ / ◯ / ╳ / ⧠) + PS**
 <br>
 
+## <u>[GePatch Hotkeys](https://github.com/TheOfficialFloW/GePatch#changelog-v02)
+- Skip GE patch - **Hold L (during starting a game)**
+<br>
+
+## <u>[EmergencyMount Hotkeys](https://forum.devchroma.nl/index.php/topic,183.0.html)</u>
+- Call recovery menu - **Hold △ (during startup)**
+<br>
+
 ## <u>[VITABatteryPlus Hotkeys](https://github.com/Electric1447/VITABatteryPlus#controls)</u>
 - Battery percentage - **Start + ↑**
 - Battery temperature - **Start + →**
