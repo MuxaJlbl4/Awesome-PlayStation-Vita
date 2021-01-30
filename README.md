@@ -299,6 +299,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 ### 🧩 Misc
 - [AR Play Cards](https://www.retrocomputers.gr/media/kunena/attachments/155/AR-Play-Cards.pdf) - Augmented Reality cards for PS Vita
 - [Bounties](https://github.com/vita-nuova/bounties/issues) - Bounties for new Vita projects
-- [Plugin hotkeys](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/PSVHotkeys.md) - List of plugin hotkeys
+- [Plugin descriptions](https://github.com/ONElua/AutoPlugin2/tree/master/AUTOPLUG2/lang) - Short plugin descriptions from [Autoplugin 2](https://github.com/ONElua/AutoPlugin2)
 - [Tech Specs](https://web.archive.org/web/20201116183455/https://www.playstation.com/en-us/explore/psvita/system/system-specs) - PS Vita technical specifications
+- [Plugin hotkeys](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/PSVHotkeys.md) - List of plugin hotkeys
 <br>
