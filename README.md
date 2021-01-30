@@ -54,11 +54,10 @@ Contains all most important, actual and cool things in my humble opinion.
 ## ⭐ General
 ### 🏠 Main Links
 - [NoPayStation](https://nopaystation.com) - List of PSV, PSX, PSP, PS3, PS2 and PSM game links
-- [cbpsDB](https://db.cbps.xyz) - Ultimate source for PS Vita Homebrew apps and Plugins
 - [VitaDB](https://vitadb.rinnegatamante.it/#) - Main database of PS Vita Homebrews, Plugins and PC Tools
+- [CbpsDB](https://db.cbps.xyz) - Alternative source for PS Vita Homebrew apps and Plugins
 ### 🌌 Game Lists
-- [PS Vita Store](https://www.playstation.com/en-us/explore/games/psvita-games/?console=ps%20vita&smcid=store%3Aen-us%3Agrid-STORE-MSF77008-PSVITAALLGAMES-1%3Aprimary%2520nav%3Amsg-games%3Aps-vita-games) - Official Playstation Vita game store
-- [PS Vita Games](https://store.playstation.com/en-us/grid/STORE-MSF77008-PSVITAALLGAMES/1) - All PS Vita games on Playstation store
+- [PS Vita Store](https://store.playstation.com/en-gb/grid/STORE-MSF75508-PLATFORMPSVITA/1?smcid=psapp) - Official Playstation Vita game store (English)
 - [Wiki Game List](https://en.wikipedia.org/wiki/Lists_of_PlayStation_Vita_games) - Wikipedia list of all PS Vita games
 - [Metacritic List](https://www.metacritic.com/browse/games/release-date/available/vita/date?view=detailed&page=0) - All PS Vita game releases at Metacritic
 - [Exclusives List](https://www.giantbomb.com/profile/blacklagoon/lists/vita-exclusives/86370) - List of PS Vita exclusives
