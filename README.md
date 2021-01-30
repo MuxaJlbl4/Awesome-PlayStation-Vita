@@ -274,7 +274,9 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Reddit Vita](https://www.reddit.com/r/vita) - PS Vita Reddit community
 - [Reddit VitaHacks](https://www.reddit.com/r/vitahacks) - PS Vita hacks and homebrew on Reddit
 - [Reddit VitaPiracy](https://www.reddit.com/r/VitaPiracy) - Reddit discussion of things related to piracy on the PS Vita
+- [PSX-Place](https://www.psx-place.com/forums/#playstation-vita-forums.8) - Latest Homebrew, Hacking, Exploits, CFW, Jailbreak & PlayStation Scene News
 - [GBAtemp](https://gbatemp.net/categories/sony-ps-vita-discussions.214) - Sony PS Vita discussions and guides
+- [PSNProfiles](https://psnprofiles.com/games?order=owners&platform=psvita) - Trophies stats and guides
 - [4PDA PS Vita](https://4pda.ru/forum/index.php?showtopic=214976) - Russian PS Vita discussions and guides
 ### 💬 Game Translations
 - [English Translations](https://www.reddit.com/r/VitaPiracy/comments/b9kxta/list_of_fan_translated_vita_games) - List of fan translated Vita games
