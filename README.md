@@ -301,6 +301,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Vita3K](https://github.com/Vita3K/compatibility/issues) - Compatibility list for [Vita3K](https://github.com/Vita3K/Vita3K)
 ### 🧩 Misc
 - [AR Play Cards](https://www.retrocomputers.gr/media/kunena/attachments/155/AR-Play-Cards.pdf) - Augmented Reality cards for PS Vita
+- [cpython-vita](https://github.com/SonicMastr/cpython-vita) - Python 2.7.18 Interpreter
 - [Bounties](https://github.com/vita-nuova/bounties/issues) - Bounties for new Vita projects
 - [Plugin descriptions](https://github.com/ONElua/AutoPlugin2/tree/master/AUTOPLUG2/lang) - Short plugin descriptions from [Autoplugin 2](https://github.com/ONElua/AutoPlugin2)
 - [Tech Specs](https://web.archive.org/web/20201116183455/https://www.playstation.com/en-us/explore/psvita/system/system-specs) - PS Vita technical specifications
