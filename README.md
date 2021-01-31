@@ -80,7 +80,6 @@ Contains all most important, actual and cool things in my humble opinion.
 - [FreePSM](https://bitbucket.org/SilicaAndPina/freepsm/src/master) - Free in app purchases in PSM games
 - [rePatch reDux0](https://github.com/dots-tb/rePatch-reDux0) - Allows to install custom patches
 - [ioPlus](https://github.com/CelesteBlue-dev/PSVita-RE-tools/blob/master/ioPlus/ioPlus-0.1/release/ioplus.skprx) - Elevated IO permissions
-- [ShaRKF00D](https://github.com/OsirizX/ShaRKF00D) - Allows you to access runtime shader compiler
 ### 🗃️ Apps
 - [VitaShell](https://github.com/TheOfficialFloW/VitaShell) - File manager
 - [PKGj](https://github.com/blastrock/pkgj) - [NoPayStation](https://nopaystation.com) browser and installer
@@ -150,7 +149,9 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Multidownload Vita](https://github.com/DavisDev/Multidownload-Vita) - Advanced downloader app
 - [NPS Proxy](https://www.reddit.com/r/VitaPiracy/comments/a6mwik/nps_temporary_workaround_for_pkgj_https_errors) - Preventing HTTPS errors in PKGj by using NPS proxy
 ### 🔧 Fixes
-- [FdFix](https://github.com/TheOfficialFloW/FdFix) - Fixes an issue in PS Vita homebrews where file descriptors are invalidated after suspend and resume (for example [re3-vita](https://www.psx-place.com/threads/re3-vita-a-full-reverse-engineered-reimplementation-of-gta-iii.31588/))
+- [ShaRKF00D](https://github.com/OsirizX/ShaRKF00D) - Allows you to access runtime shader compiler (for [AvP Gold](https://www.psx-place.com/threads/avp-gold.30555))
+- [kubridge](https://github.com/TheOfficialFloW/kubridge) - DynaRec feature extender (for [max_vita](https://github.com/fgsfdsfgs/max_vita))
+- [FdFix](https://github.com/TheOfficialFloW/FdFix) - Fixes an issue in PS Vita homebrews where file descriptors are invalidated after suspend and resume (for [re3-vita](https://www.psx-place.com/threads/re3-vita-a-full-reverse-engineered-reimplementation-of-gta-iii.31588/))
 - [PSP2-batteryFixer](https://github.com/SKGleba/PSP2-batteryFixer) - Fixes most battery related problems
 ### 🎨 Appearance
 - [HexFlow-Launcher](https://github.com/VitaHEX-Games/HexFlow-Launcher) - A 3d coverflow like launcher for PS Vita
