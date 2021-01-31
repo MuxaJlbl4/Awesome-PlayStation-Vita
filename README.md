@@ -151,7 +151,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 ### 🔧 Fixes
 - [ShaRKF00D](https://github.com/OsirizX/ShaRKF00D) - Allows you to access runtime shader compiler (for [AvP Gold](https://www.psx-place.com/threads/avp-gold.30555))
 - [kubridge](https://github.com/TheOfficialFloW/kubridge) - DynaRec feature extender (for [max_vita](https://github.com/fgsfdsfgs/max_vita))
-- [FdFix](https://github.com/TheOfficialFloW/FdFix) - Fixes invalidated file descriptors after suspend and resume (for [re3-vita](https://www.psx-place.com/threads/re3-vita-a-full-reverse-engineered-reimplementation-of-gta-iii.31588/))
+- [FdFix](https://github.com/TheOfficialFloW/FdFix) - Fixes invalidated file descriptors after suspend and resume (for [re3-vita](https://www.psx-place.com/threads/re3-vita-a-full-reverse-engineered-reimplementation-of-gta-iii.31588))
 - [PSP2-batteryFixer](https://github.com/SKGleba/PSP2-batteryFixer) - Fixes most battery related problems
 ### 🎨 Appearance
 - [HexFlow-Launcher](https://github.com/VitaHEX-Games/HexFlow-Launcher) - A 3d coverflow like launcher for PS Vita
@@ -259,6 +259,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Borderlands-2-Altered-Config](https://github.com/justalex95/Borderlands-2-Vita-TweakyBlinders-config) - An altered config file for Borderlands 2 to increase playability and fps
 - [Persona 4 Golden Patches](https://github.com/zarroboogs/p4g-patches) - Set of patches for P4G
 - [Persona 3/4/5 Dancing Patches](https://github.com/zarroboogs/pXd-patches) - Set of patches for P3D, P4D and P5D
+- [GTA III 10th Anniversary Edition](https://vk.com/@portablegaming-gta3ae10th) - 10th Anniversary Edition extensions for [re3-vita](https://www.psx-place.com/threads/re3-vita-a-full-reverse-engineered-reimplementation-of-gta-iii.31588)
 ### 💉 Adrenaline Plugins
 - [GePatch](https://github.com/TheOfficialFloW/GePatch) - Allows you to play some PSP games in native PS Vita resolution
 - [Remastered Controls Collection](https://github.com/TheOfficialFloW/RemasteredControls) - Enables second stick in some PSP games
@@ -279,6 +280,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [GBAtemp](https://gbatemp.net/categories/sony-ps-vita-discussions.214) - Sony PS Vita discussions and guides
 - [PSNProfiles](https://psnprofiles.com/games?order=owners&platform=psvita) - Trophies stats and guides
 - [4PDA PS Vita](https://4pda.ru/forum/index.php?showtopic=214976) - Russian PS Vita discussions and guides
+- [VK Portablegaming](https://vk.com/wall-47742407?own=1) - Portablegaming VK group
 ### 💬 Game Translations
 - [English Translations](https://www.reddit.com/r/VitaPiracy/comments/b9kxta/list_of_fan_translated_vita_games) - List of fan translated Vita games
 - [English Translations](https://vitaenglishtranslations.wordpress.com) - Fan translations and patches for Playstation Vita games
