@@ -181,6 +181,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [QCMA](https://github.com/codestation/qcma) - Open Source Content Manager Assistant for PS Vita
 - [HandBrake](https://github.com/HandBrake/HandBrake) - Video files converter (contains Playstation presets)
 - [AT9&AT3 Converter](https://www.modconsoles.fr/club-articles.html/pc/at9at3-converter-v23-r36) - At9/At3 files converter
+- [PSMRC](https://psmrc.herokuapp.com) - Resource Pack Converter for Minecraft PS Vita Edition
 - [Vita SDK](https://vitasdk.org) - Development tools for PS Vita
 - [GeForce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience) - NVIDIA Gamestream for PC
 - [NPS Browser](https://nopaystation.com/vita/npsReleases/NPS_Browser_0.94.exe) - [NoPayStation](https://nopaystation.com) client for Windows
