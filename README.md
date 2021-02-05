@@ -15,12 +15,12 @@ Contains all most important, actual and cool things in my humble opinion.
 - <u>**[🎮 Games](#-games)**</u>
 	- [👾 Native](#-native)
 	- [🌱 HomeBrew](#-homebrew)
-- <u>**[🕹️ Emulators](#-emulators)**</u>
+- <u>**[🕹️ Emulators](#%EF%B8%8F-emulators)**</u>
 	- [🎁 Collections](#-collections)
-	- [7️⃣ 7th Gen](#7-7th-gen)
-	- [6️⃣ 6th Gen](#6-6th-gen)
-	- [5️⃣ 5th Gen](#5-5th-gen)
-	- [🖥️ Computers](#-computer)
+	- [7️⃣ 7th Gen](#7%EF%B8%8F%E2%83%A3-7th-gen)
+	- [6️⃣ 6th Gen](#6%EF%B8%8F%E2%83%A3-6th-gen)
+	- [5️⃣ 5th Gen](#5%EF%B8%8F%E2%83%A3-5th-gen)
+	- [🖥️ Computers](#%EF%B8%8F-computers)
 	- [💎 Game Engines](#-game-engines)
 	- [📑 Interpreters](#-interpreters)
 - <u>**[💡 Customization](#-customization)**</u>
@@ -118,16 +118,16 @@ Contains all most important, actual and cool things in my humble opinion.
 - [RetroArch](https://buildbot.libretro.com/nightly/playstation/vita) -  Frontend for emulators, game engines and media players with bunch of cores
 - [pFBN](https://github.com/Cpasjuste/pemu/tree/master/pfba) - Several Arcade and Console systems emulator
 ### 7️⃣ 7th Gen
-- [Adrenaline](https://github.com/TheOfficialFloW/Adrenaline) - Modified official PSP emulator
+- [Adrenaline](https://github.com/TheOfficialFloW/Adrenaline) - Modified official PlayStation Portable (PSP) emulator
 - [MelonDS-Vita](https://github.com/Rinnegatamante/melonDS-Vita) - Nintendo DS emulator
 ### 6️⃣ 6th Gen
-- [Flycast-vita​](https://www.psx-place.com/threads/release-flycast-vita-dreamcast-emulator-for-psvita-pstv.32449) - Port of Dreamcast emulator
-- [mGBA](https://github.com/mgba-emu/mgba) - Game Boy Advance emulator
+- [Flycast-vita​](https://www.psx-place.com/threads/release-flycast-vita-dreamcast-emulator-for-psvita-pstv.32449) - Sega Dreamcast emulator
+- [mGBA](https://github.com/mgba-emu/mgba) - Nintendo Game Boy Advance emulator
 ### 5️⃣ 5th Gen
-- [Adrenaline Pops](https://github.com/TheOfficialFloW/Adrenaline) - Modified built in PlayStation emulator
+- [Adrenaline Pops](https://github.com/TheOfficialFloW/Adrenaline) - Modified built in PlayStation One emulator
 - [DaedalusX64-vitaGL](https://github.com/Rinnegatamante/daedalusx64-vitagl) - Nintendo 64 emulator (vitaGL based)
 ### 🖥️ Computers
-- [Basilisk II](https://github.com/rsn8887/basiliskii-vita) - Macintosh II emulator
+- [Basilisk II](https://github.com/rsn8887/basiliskii-vita) - Apple Macintosh II emulator
 - [UAE4ALL](https://github.com/rsn8887/uae4all2) - Amiga emulator
 - [VICEVita](https://github.com/ammeir/vicevita) - Commodore 64 emulator
 - [ZXVita](https://vitadb.rinnegatamante.it/#/info/478) - Sinclair ZX Spectrum emulator
