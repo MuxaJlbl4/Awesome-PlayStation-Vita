@@ -7,15 +7,22 @@ Contains all most important, actual and cool things in my humble opinion.
 ## 🧭 Table of Contents
 - <u>**[⭐ General](#-general)**</u>
 	- [🏠 Main Links](#-main-links)
-	- [🌌 Game Lists](#-game-lists)
 - <u>**[⚙️ Basic Stuff](#%EF%B8%8F-basic-stuff)**</u>
 	- [🔓 Hacking](#-hacking)
 	- [🗃️ Apps](#%EF%B8%8F-apps)
 	- [💾 Memory](#-memory)
 	- [⚡ Flash Adapters](#-flash-adapters)
-- <u>**[🎲 Gaming and Emulation](#-gaming-and-emulation)**</u>
-	- [🎮 Games](#-games)
-	- [🕹️ Emulators](#%EF%B8%8F-emulators)
+- <u>**[🎮 Games](#-games)**</u>
+	- [👾 Native](#-native)
+	- [🌱 HomeBrew](#-homebrew)
+- <u>**[🕹️ Emulators](#-emulators)**</u>
+	- [🎁 Collections](#-collections)
+	- [7️⃣ 7th Gen](#7-7th-gen)
+	- [6️⃣ 6th Gen](#6-6th-gen)
+	- [5️⃣ 5th Gen](#5-5th-gen)
+	- [🖥️ Computers](#-computer)
+	- [💎 Game Engines](#-game-engines)
+	- [📑 Interpreters](#-interpreters)
 - <u>**[💡 Customization](#-customization)**</u>
 	- [🔋 Utilities](#-utilities)
 	- [🔑 Input](#-input)
@@ -53,17 +60,10 @@ Contains all most important, actual and cool things in my humble opinion.
 
 ## ⭐ General
 ### 🏠 Main Links
-- [NoPayStation](https://nopaystation.com) - List of PSV, PSX, PSP, PS3, PS2 and PSM game links
 - [VitaDB](https://vitadb.rinnegatamante.it/#) - Main database of PS Vita Homebrews, Plugins and PC Tools
+- [PS Vita Store](https://store.playstation.com/en-gb/grid/STORE-MSF75508-PLATFORMPSVITA/1?smcid=psapp) - Official Playstation Vita game store
+- [NoPayStation](https://nopaystation.com) - List of PSV, PSX, PSP, PS3, PS2 and PSM game links
 - [CbpsDB](https://db.cbps.xyz) - Alternative source for PS Vita Homebrew apps and Plugins
-### 🌌 Game Lists
-- [PS Vita Store](https://store.playstation.com/en-gb/grid/STORE-MSF75508-PLATFORMPSVITA/1?smcid=psapp) - Official Playstation Vita game store (English)
-- [Wiki Game List](https://en.wikipedia.org/wiki/Lists_of_PlayStation_Vita_games) - Wikipedia list of all PS Vita games
-- [Metacritic List](https://www.metacritic.com/browse/games/release-date/available/vita/date?view=detailed&page=0) - All PS Vita game releases at Metacritic
-- [Exclusives List](https://www.giantbomb.com/profile/blacklagoon/lists/vita-exclusives/86370) - List of PS Vita exclusives
-- [Some Visual Novel](https://www.reddit.com/r/VitaPiracy/comments/90espv/vnds_clone_games_on_this_reddit) - VNDS Clone games for Vita
-<br>
-
 ## ⚙️ Basic Stuff
 ### 🔓 Hacking
 - [Final h-encore²](https://github.com/soarqin/finalhe) - Homebrew enabler auto installer for firmwares 3.69 - 3.73
@@ -101,19 +101,46 @@ Contains all most important, actual and cool things in my humble opinion.
 - [usbmc](https://github.com/yifanlu/usbmc) - Driver for PSVSD and external USB storage
 <br>
 
-## 🎲 Gaming and Emulation
-### 🎮 Games
+## 🎮 Games
+### 👾 Native
+- [Wiki Game List](https://en.wikipedia.org/wiki/Lists_of_PlayStation_Vita_games) - Wikipedia list of all PS Vita games
+- [Metacritic List](https://www.metacritic.com/browse/games/release-date/available/vita/date?view=detailed&page=0) - All PS Vita game releases at Metacritic
+- [Exclusives List](https://www.giantbomb.com/profile/blacklagoon/lists/vita-exclusives/86370) - List of PS Vita exclusives
+### 🌱 HomeBrew
 - [VitaDB](https://vitadb.rinnegatamante.it/#) - A collection of ports, emulators and original games
 - [VitaGL Games](https://github.com/Rinnegatamante/vitaGL#projects-actually-using-vitagl) - List of projects using vitaGL
 - [Lua Games](https://github.com/Rinnegatamante/lpp-vita#showcase) - List of projects using Lua Player Plus
-### 🕹️ Emulators
-- [Adrenaline](https://github.com/TheOfficialFloW/Adrenaline) - Modified official PSP Emulator
-- [RetroArch](https://buildbot.libretro.com/nightly/playstation/vita) -  Frontend for emulators, game engines and media players
-- [DaedalusX64-vitaGL](https://github.com/Rinnegatamante/daedalusx64-vitagl) - Nintendo 64 emulator (vitaGL based)
+- [Some Visual Novel](https://www.reddit.com/r/VitaPiracy/comments/90espv/vnds_clone_games_on_this_reddit) - VNDS Clone games for Vita
+<br>
+
+## 🕹️ Emulators
+### 🎁 Collections
+- [RetroArch](https://buildbot.libretro.com/nightly/playstation/vita) -  Frontend for emulators, game engines and media players with bunch of cores
+- [pFBN](https://github.com/Cpasjuste/pemu/tree/master/pfba) - Several Arcade and Console systems emulator
+### 7️⃣ 7th Gen
+- [Adrenaline](https://github.com/TheOfficialFloW/Adrenaline) - Modified official PSP emulator
+- [MelonDS-Vita](https://github.com/Rinnegatamante/melonDS-Vita) - Nintendo DS emulator
+### 6️⃣ 6th Gen
 - [Flycast-vita​](https://www.psx-place.com/threads/release-flycast-vita-dreamcast-emulator-for-psvita-pstv.32449) - Port of Dreamcast emulator
+- [mGBA](https://github.com/mgba-emu/mgba) - Game Boy Advance emulator
+### 5️⃣ 5th Gen
+- [Adrenaline Pops](https://github.com/TheOfficialFloW/Adrenaline) - Modified built in PlayStation emulator
+- [DaedalusX64-vitaGL](https://github.com/Rinnegatamante/daedalusx64-vitagl) - Nintendo 64 emulator (vitaGL based)
+### 🖥️ Computers
+- [Basilisk II](https://github.com/rsn8887/basiliskii-vita) - Macintosh II emulator
+- [UAE4ALL](https://github.com/rsn8887/uae4all2) - Amiga emulator
+- [VICEVita](https://github.com/ammeir/vicevita) - Commodore 64 emulator
+- [ZXVita](https://vitadb.rinnegatamante.it/#/info/478) - Sinclair ZX Spectrum emulator
+### 💎 Game Engines
 - [ScummVM](https://buildbot.scummvm.org/snapshots/stable/psp2-stable-latest.zip) -
 Script Creation Utility for Maniac Mansion Virtual Machine
 - [GemRB](https://github.com/Northfear/gemrb-vita) - Infinity Engine reimplementation (Game Engine Made with preRendered Background)
+- [EasyRPG Player](https://github.com/EasyRPG/Player) - Interpreter for RPG Maker 2000, 2003 and EasyRPG engines
+- [OpenBOR](https://github.com/rsn8887/openbor) - Beats Of Rage 2D game engine
+### 📑 Interpreters
+- [cpython-vita](https://github.com/SonicMastr/cpython-vita) - Python 2.7.18 Interpreter
+- [MicroCHIP](https://wololo.net/talk/viewtopic.php?f=116&t=48620)- Interpreter for CHIP-8/SCHIP-8 games
+- [PSPKVM](https://github.com/vadosnaprimer/pspkvm) - Java ME emulator for PSP (analog for RetroArch [SquirrelJME core](https://github.com/SquirrelJME/SquirrelJME))
 <br>
 
 ## 💡 Customization
@@ -262,6 +289,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Persona 4 Golden Patches](https://github.com/zarroboogs/p4g-patches) - Set of patches for P4G
 - [Persona 3/4/5 Dancing Patches](https://github.com/zarroboogs/pXd-patches) - Set of patches for P3D, P4D and P5D
 - [GTA III 10th Anniversary Edition](https://vk.com/@portablegaming-gta3ae10th) - 10th Anniversary Edition extensions for [re3-vita](https://www.psx-place.com/threads/re3-vita-a-full-reverse-engineered-reimplementation-of-gta-iii.31588)
+- [Max Payne PC Anniversary Edition](https://vk.com/@portablegaming-maxpaynepcae) - PC version features for [max_vita](https://github.com/fgsfdsfgs/max_vita)
 ### 💉 Adrenaline Plugins
 - [GePatch](https://github.com/TheOfficialFloW/GePatch) - Allows you to play some PSP games in native PS Vita resolution
 - [Remastered Controls Collection](https://github.com/TheOfficialFloW/RemasteredControls) - Enables second stick in some PSP games
@@ -303,7 +331,6 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Vita3K](https://github.com/Vita3K/compatibility/issues) - Compatibility list for [Vita3K](https://github.com/Vita3K/Vita3K)
 ### 🧩 Misc
 - [AR Play Cards](https://www.retrocomputers.gr/media/kunena/attachments/155/AR-Play-Cards.pdf) - Augmented Reality cards for PS Vita
-- [cpython-vita](https://github.com/SonicMastr/cpython-vita) - Python 2.7.18 Interpreter
 - [Bounties](https://github.com/vita-nuova/bounties/issues) - Bounties for new Vita projects
 - [Plugin descriptions](https://github.com/ONElua/AutoPlugin2/tree/master/AUTOPLUG2/lang) - Short plugin descriptions from [Autoplugin 2](https://github.com/ONElua/AutoPlugin2)
 - [Tech Specs](https://web.archive.org/web/20201116183455/https://www.playstation.com/en-us/explore/psvita/system/system-specs) - PS Vita technical specifications
