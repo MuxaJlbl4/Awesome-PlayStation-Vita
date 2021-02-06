@@ -5,8 +5,7 @@ Contains all most important, actual and cool things in my humble opinion.
 <br>
 
 ## 🧭 Table of Contents
-- <u>**[⭐ General](#-general)**</u>
-	- [🏠 Main Links](#-main-links)
+- <u>**[✅ Main Links](#-main-links)**</u>
 - <u>**[⚙️ Basic Stuff](#%EF%B8%8F-basic-stuff)**</u>
 	- [🔓 Hacking](#-hacking)
 	- [🗃️ Apps](#%EF%B8%8F-apps)
@@ -16,7 +15,7 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [👾 Native](#-native)
 	- [🌱 HomeBrew](#-homebrew)
 - <u>**[🕹️ Emulators](#%EF%B8%8F-emulators)**</u>
-	- [🎁 Collections](#-collections)
+	- [🌌 Collections](#-collections)
 	- [7️⃣ 7th Gen](#7%EF%B8%8F%E2%83%A3-7th-gen)
 	- [6️⃣ 6th Gen](#6%EF%B8%8F%E2%83%A3-6th-gen)
 	- [5️⃣ 5th Gen](#5%EF%B8%8F%E2%83%A3-5th-gen)
@@ -29,7 +28,7 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [🌍 Network](#-network)
 	- [🔧 Fixes](#-fixes)
 	- [🎨 Appearance](#-appearance)
-	- [🧿 PS Vita 2000](#-ps-vita-2000)
+	- [🔅 PS Vita 2000](#-ps-vita-2000)
 	- [📺 PS TV](#-ps-tv)
 	- [💻 PC Tools](#-pc-tools)
 	- [📱 Android Tools](#-android-tools)
@@ -39,7 +38,7 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [🎬 Video](#-video)
 	- [📖 Reading](#-reading)
 	- [🎥 Streaming](#-streaming)
-- <u>**[☀️ Enhances](#%EF%B8%8F-enhances)**</u>
+- <u>**[🔆 Enhances](#-enhances)**</u>
 	- [🚀 Overclocking](#-overclocking)
 	- [☢️ Game Tweaks](#%EF%B8%8F-game-tweaks)
 	- [🏆 Trophies](#-trophies)
@@ -52,14 +51,13 @@ Contains all most important, actual and cool things in my humble opinion.
 - <u>**[♥️ Fans](#%EF%B8%8F-fans)**</u>
 	- [😜 Communities](#-communities)
 	- [💬 Game Translations](#-game-translations)
-- <u>**[📚 Miscellaneous](#-miscellaneous)**</u>
-	- [✏ Emulation Necessaries](#-emulation-necessaries)
+- <u>**[🍂 Miscellaneous](#-miscellaneous)**</u>
+	- [📦 Emulation Necessaries](#-emulation-necessaries)
 	- [🧪 Compatibility Lists](#-compatibility-lists)
 	- [🧩 Misc](#-misc)
 <br>
 
-## ⭐ General
-### 🏠 Main Links
+## ✅ Main Links
 - [VitaDB](https://vitadb.rinnegatamante.it/#) - Main database of PS Vita Homebrews, Plugins and PC Tools
 - [PS Vita Store](https://store.playstation.com/en-gb/grid/STORE-MSF75508-PLATFORMPSVITA/1?smcid=psapp) - Official Playstation Vita game store
 - [NoPayStation](https://nopaystation.com) - List of PSV, PSX, PSP, PS3, PS2 and PSM game links
@@ -114,7 +112,7 @@ Contains all most important, actual and cool things in my humble opinion.
 <br>
 
 ## 🕹️ Emulators
-### 🎁 Collections
+### 🌌 Collections
 - [RetroArch](https://buildbot.libretro.com/nightly/playstation/vita) -  Frontend for emulators, game engines and media players with bunch of cores
 - [pFBN](https://github.com/Cpasjuste/pemu/tree/master/pfba) - Several Arcade and Console systems emulator
 ### 7️⃣ 7th Gen
@@ -192,7 +190,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Theme Manager Ex](https://bitbucket.org/kylon/theme-manager-ex-theme-engine/src/master) - Advanced theme manger
 - [Shortcuts Enhancer](https://github.com/ONElua/Shortcuts-Enhancer) - Custom shortcuts in the PS Vita index menu
 - [fontIntaller](https://github.com/cxziaho/fontInstaller) - An app for installing the [fontRedirect](https://github.com/cxziaho/fontRedirect) plugin for injecting custom fonts
-### 🧿 PS Vita 2000
+### 🔅 PS Vita 2000
 - [LCD Color Saturation](https://github.com/Electric1447/lcd-color-saturation) - App for improving color saturation on your Vita 2000
 - [LCD Colour Space Changer](https://forum.devchroma.nl/index.php?topic=201.0) - Plugin for improving color saturation on your Vita 2000
 ### 📺 PS TV
@@ -240,7 +238,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [udcd_uvc](https://github.com/xerpi/vita-udcd-uvc) -  Allows you stream your PSVita screen to PC/Android via USB
 <br>
 
-## ☀️ Enhances
+## 🔆 Enhances
 ### 🚀 Overclocking
 - [PSVshell](https://github.com/Electry/PSVshell) - Overclock plugin with FPS counter and CPU usage
 - [CoreUnlocker80000H](https://github.com/GrapheneCt/CoreUnlocker80000H) - Allows to use system reserved 4th CPU core
@@ -319,8 +317,8 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [forcelang](https://github.com/xdanieldzd/forcelang) - Overrides application language
 <br>
 
-## 📚 Miscellaneous
-### ✏ Emulation Necessaries
+## 🍂 Miscellaneous
+### 📦 Emulation Necessaries
 - [Emulator Files](https://emulation.gametechwiki.com/index.php/Emulator_Files) - BIOS/Firmware files for emulators
 - [ROM & ISO Sites](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) - List of ROM sites
 ### 🧪 Compatibility Lists
