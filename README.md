@@ -135,7 +135,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [GemRB](https://github.com/Northfear/gemrb-vita) - Infinity Engine reimplementation (Game Engine Made with preRendered Background)
 - [EasyRPG Player](https://github.com/EasyRPG/Player) - Interpreter for RPG Maker 2000, 2003 and EasyRPG engines
 - [OpenBOR](https://github.com/rsn8887/openbor) - Beats Of Rage 2D game engine
-### 📑 Interpreters
+### 📑 Interpreters & Virtual Machines
 - [cpython-vita](https://github.com/SonicMastr/cpython-vita) - Python 2.7.18 Interpreter
 - [MicroCHIP](https://wololo.net/talk/viewtopic.php?f=116&t=48620)- Interpreter for CHIP-8/SCHIP-8 games
 - [PSPKVM](https://github.com/vadosnaprimer/pspkvm) - Java ME emulator for PSP (analog for RetroArch [SquirrelJME core](https://github.com/SquirrelJME/SquirrelJME))
