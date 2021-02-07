@@ -21,7 +21,7 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [5️⃣ 5th Gen](#5%EF%B8%8F%E2%83%A3-5th-gen)
 	- [🖥️ Computers](#%EF%B8%8F-computers)
 	- [💎 Game Engines](#-game-engines)
-	- [📑 Interpreters](#-interpreters)
+	- [📑 Interpreters & Virtual Machines](#-interpreters--virtual-machines)
 - <u>**[💡 Customization](#-customization)**</u>
 	- [🔋 Utilities](#-utilities)
 	- [🔑 Input](#-input)
