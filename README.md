@@ -114,6 +114,7 @@ Contains all most important, actual and cool things in my humble opinion.
 ## 🕹️ Emulators
 ### 🌌 Collections
 - [RetroArch](https://buildbot.libretro.com/nightly/playstation/vita) -  Frontend for emulators, game engines and media players with bunch of cores
+- [Cores List](https://github.com/libretro/libretro-super/blob/master/recipes/playstation/vita) - List of RetroArch Cores for Vita
 - [pFBN](https://github.com/Cpasjuste/pemu/tree/master/pfba) - Several Arcade and Console systems emulator
 ### 7️⃣ 7th Gen
 - [Adrenaline](https://github.com/TheOfficialFloW/Adrenaline) - Modified official PlayStation Portable (PSP) emulator
