@@ -138,6 +138,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [OpenBOR](https://github.com/rsn8887/openbor) - Beats Of Rage 2D game engine
 ### 📑 Interpreters & Virtual Machines
 - [cpython-vita](https://github.com/SonicMastr/cpython-vita) - Python 2.7.18 Interpreter
+- [fake-08](https://github.com/jtothebell/fake-08) - PICO-8 virtual machine emulator
 - [MicroCHIP](https://wololo.net/talk/viewtopic.php?f=116&t=48620)- Interpreter for CHIP-8/SCHIP-8 games
 - [PSPKVM](https://github.com/vadosnaprimer/pspkvm) - Java ME emulator for PSP (analog for RetroArch [SquirrelJME core](https://github.com/SquirrelJME/SquirrelJME))
 <br>
