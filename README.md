@@ -62,6 +62,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [PS Vita Store](https://store.playstation.com/en-gb/grid/STORE-MSF75508-PLATFORMPSVITA/1?smcid=psapp) - Official Playstation Vita game store
 - [NoPayStation](https://nopaystation.com) - List of PSV, PSX, PSP, PS3, PS2 and PSM game links
 - [CbpsDB](https://db.cbps.xyz) - Alternative source for PS Vita Homebrew apps and Plugins
+- [Brewology](https://store.brewology.com/vita/whatsnew.php) - Yet another homebrew source for PS Vita and other consoles
 ## ⚙️ Basic Stuff
 ### 🔓 Hacking
 - [Final h-encore²](https://github.com/soarqin/finalhe) - Homebrew enabler auto installer for firmwares 3.69 - 3.73
