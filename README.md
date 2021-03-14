@@ -292,6 +292,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Persona 3/4/5 Dancing Patches](https://github.com/zarroboogs/pXd-patches) - Set of patches for P3D, P4D and P5D
 - [GTA III 10th Anniversary Edition](https://vk.com/@portablegaming-gta3ae10th) - 10th Anniversary Edition extensions for [re3-vita](https://www.psx-place.com/threads/re3-vita-a-full-reverse-engineered-reimplementation-of-gta-iii.31588)
 - [Max Payne PC Anniversary Edition](https://vk.com/@portablegaming-maxpaynepcae) - PC version features for [max_vita](https://github.com/fgsfdsfgs/max_vita)
+- [Various GTA Downgraders](https://gtaforums.com/topic/936600-iii-iv-various-gta-downgraders) - Downgrade guides for GTA games (PC)
 ### 💉 Adrenaline Plugins
 - [GePatch](https://github.com/TheOfficialFloW/GePatch) - Allows you to play some PSP games in native PS Vita resolution
 - [Remastered Controls Collection](https://github.com/TheOfficialFloW/RemasteredControls) - Enables second stick in some PSP games
