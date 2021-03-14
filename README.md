@@ -301,6 +301,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [CWCheat Adrenaline](https://www.cfwaifu.com/cwcheat-adrenaline) - Allows you to use custom cheats and patches in PSP and PSX games
 - [60 FPS Patches List](https://forums.ppsspp.org/showthread.php?tid=22800) - 60 FPS patches for PSP games (for CWCheat)
 - [CWCheat Database](https://forums.ppsspp.org/showthread.php?tid=11961) - List of cheats for CWCheat
+- [psp-dev.org](http://psp-dev.org/hb) - PSP Homebrew Store
 <br>
 
 ## ♥️ Fans
