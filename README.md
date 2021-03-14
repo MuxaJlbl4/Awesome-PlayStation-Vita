@@ -124,7 +124,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [Flycast-vita​](https://www.psx-place.com/threads/release-flycast-vita-dreamcast-emulator-for-psvita-pstv.32449) - Sega Dreamcast emulator
 - [mGBA](https://github.com/mgba-emu/mgba) - Nintendo Game Boy Advance emulator
 ### 5️⃣ 5th Gen
-- [Adrenaline Pops](https://github.com/TheOfficialFloW/Adrenaline) - Modified built in PlayStation One emulator
+- [Adrenaline Pops](https://github.com/TheOfficialFloW/Adrenaline) - Modified built in PlayStation One emulator ([PSX2PSP​](https://www.psx-place.com/resources/psx2psp.586) might be helpful)
 - [DaedalusX64-vitaGL](https://github.com/Rinnegatamante/daedalusx64-vitagl) - Nintendo 64 emulator (vitaGL based)
 ### 🖥️ Computers
 - [Basilisk II](https://github.com/rsn8887/basiliskii-vita) - Apple Macintosh II emulator
