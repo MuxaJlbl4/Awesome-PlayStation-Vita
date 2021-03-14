@@ -230,7 +230,8 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [ElevenMPV-A](https://github.com/GrapheneCt/ElevenMPV-A) - Music player with background playback
 - [Music Premium](https://forum.devchroma.nl/index.php/topic,60.0.html) - Enables background music playback
 ### 🎬 Video
-- [TubeVita](https://github.com/theheroGAC/TubeVita) - YouTube client
+- [CBPSTube](https://forum.devchroma.nl/index.php/topic,331.0.html) - YouTube client with more features
+- [TubeVita](https://github.com/theheroGAC/TubeVita) - Alternative YouTube client
 - [Vita Media Center](http://wololo.net/talk/viewtopic.php?f=116&t=48887&sid=dbbf2c139506b7daab4486cf84ff41db) - MP4 video player
 - [Vita Media Importer](https://github.com/cnsldv/MediaImporter) - Imports media into the PS Vita video and music players
 ### 📖 Reading
