@@ -254,6 +254,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [VitaGrafix](https://github.com/Electry/VitaGrafix) - Change resolution and FPS cap in games
 - [VitaGrafixConfigurator](https://github.com/Kirezar/VitaGrafixConfigurator) - GUI configurator for VitaGrafix
 - [VitaGrafixPatchlist](https://github.com/Electry/VitaGrafixPatchlist) - A collection of patches for VitaGrafix
+- [Vita Nearest Neighbour](https://github.com/MuxaJlbl4/Vita-Nearest-Neighbour) - Changes texture sampling to point filtering method
 - [reRescaler](http://wololo.net/talk/viewtopic.php?f=52&t=49666) - Replacement for built-in rescaler
 ### 🏆 Trophies
 - [TropHAXSE](https://bitbucket.org/SilicaAndPina/trophaxse/src/master) - Trophy unlocker app
