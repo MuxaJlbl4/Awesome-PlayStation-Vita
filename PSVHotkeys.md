@@ -5,12 +5,13 @@
 - Power off - **Hold Power; Tap Power Off**
 - Quick menu - **Hold PS**
 - Mute - **Hold (VOL+ + VOL-)**
-- Screenshot - **PS + Start** *(doesn't work everywhere)*
-- Zoom - **PS + ⧠** *(needs enabled option; doesn't work everywhere)*
+- Screenshot - **PS + Start**
+- Zoom - **PS + ⧠** *(enables in settings)*
 <br>
 
 ## <u>Safe Mode Hotkeys</u>
-- Disable taiHEN plugin loading - **Hold L (during startup)**
+- Disable all taiHEN plugins - **Hold L (during PS Vita startup)**
+- Disable taiHEN plugins for single app - **Hold L (during app launch)**
 - Start in safe mode - **Hold (R + PS + Power) (5 sec)**
 - Reboot to safe mode - **Hold Power (30 sec)**
 <br>
@@ -71,7 +72,16 @@
 - Config menu - **Start + △**
 <br>
 
+## <u>[VitaCheat Hotkeys](https://www.cfwaifu.com/vitacheat)</u>
+- VitaCheat menu - **L + →** *(default)*
+<br>
+
+## <u>[RinCheat](https://github.com/Rinnegatamante/rinCheat#controls)</u>
+- RinCheat menu - **Start + Select**
+<br>
+
 ## <u>Miscellaneous Hotkeys</u>
 - Adrenaline menu - **Hold PS; Tap Settings**
+- Minimize Adrenaline - **Double tap PS**
 - RetroArch quick menu - **L + R + Start + Select** *(default)*
 <br>
