@@ -59,7 +59,7 @@ Contains all most important, actual and cool things in my humble opinion.
 
 ## ✅ Main Links
 - [VitaDB](https://vitadb.rinnegatamante.it/#) - Main database of PS Vita Homebrews, Plugins and PC Tools
-- [PS Vita Store](https://store.playstation.com/en-gb/grid/STORE-MSF75508-PLATFORMPSVITA/1?smcid=psapp) - Official Playstation Vita game store
+- [PS Vita Store](https://store.playstation.com/en-gb/grid/STORE-MSF75508-PLATFORMPSVITA/1?smcid=psapp) - Links to Official Playstation Vita game store(https://www.reddit.com/r/vita/comments/jicdgc/seems_like_you_can_still_access_the_proper_psn))
 - [NoPayStation](https://nopaystation.com) - List of PSV, PSX, PSP, PS3, PS2 and PSM game links
 - [CbpsDB](https://db.cbps.xyz) - Alternative source for PS Vita Homebrew apps and Plugins
 - [Brewology](https://store.brewology.com/vita/whatsnew.php) - Yet another homebrew source for PS Vita and other consoles
@@ -141,7 +141,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [cpython-vita](https://github.com/SonicMastr/cpython-vita) - Python 2.7.18 Interpreter
 - [fake-08](https://github.com/jtothebell/fake-08) - PICO-8 virtual machine emulator
 - [MicroCHIP](https://wololo.net/talk/viewtopic.php?f=116&t=48620)- Interpreter for CHIP-8/SCHIP-8 games
-- [PSPKVM](https://github.com/vadosnaprimer/pspkvm) - Java ME emulator for PSP (analog for RetroArch [SquirrelJME core](https://github.com/SquirrelJME/SquirrelJME))
+- [PSPKVM](https://sourceforge.net/projects/pspkvm) - Java ME emulator for PSP (analog for RetroArch [SquirrelJME core](https://github.com/SquirrelJME/SquirrelJME))
 <br>
 
 ## 💡 Customization
