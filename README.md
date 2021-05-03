@@ -155,7 +155,6 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [vitabright](https://github.com/devnoname120/vitabright) - Expand bright levels range
 - [dt2s-vita](https://github.com/joel16/dt2s-vita) - Puts your PS VITA to sleep if you double tap the touch screen
 - [TransparentImpose](https://github.com/GrapheneCt/TransparentImpose) - Makes impose menu transparent
-- [pngshot](https://github.com/xyzz/pngshot) - Screenshot plugin
 - [VitaTweaks](https://github.com/TheOfficialFloW/VitaTweaks) - A collection of small tweaks
 - [vitatricks.tk](https://vitatricks.tk) - Online set of useful PS Vita tools
 ### 🔑 Input
@@ -226,6 +225,8 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 ## 🎞️ Media
 ### 🖼️ Image
 - [VITAlbum](https://github.com/joel16/VITAlbum) - Image viewer
+- [Pngshot](https://github.com/xyzz/pngshot) - Makes screenshot in PNG format
+- [PSOneScrot](https://forum.devchroma.nl/index.php/topic,106.msg162.html) - Fixes screenshots in PS1 games
 ### 🎵 Music
 - [ElevenMPV-A](https://github.com/GrapheneCt/ElevenMPV-A) - Music player with background playback
 - [Music Premium](https://forum.devchroma.nl/index.php/topic,60.0.html) - Enables background music playback
