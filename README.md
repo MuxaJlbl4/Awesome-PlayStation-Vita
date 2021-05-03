@@ -59,7 +59,7 @@ Contains all most important, actual and cool things in my humble opinion.
 
 ## ✅ Main Links
 - [VitaDB](https://vitadb.rinnegatamante.it/#) - Main database of PS Vita Homebrews, Plugins and PC Tools
-- [PS Vita Store](https://store.playstation.com/en-gb/grid/STORE-MSF75508-PLATFORMPSVITA/1?smcid=psapp) - Links to Official Playstation Vita game store(https://www.reddit.com/r/vita/comments/jicdgc/seems_like_you_can_still_access_the_proper_psn)
+- [PS Vita Store](https://www.reddit.com/r/vita/comments/jicdgc/seems_like_you_can_still_access_the_proper_psn) - Links to Official Playstation Vita game store
 - [NoPayStation](https://nopaystation.com) - List of PSV, PSX, PSP, PS3, PS2 and PSM game links
 - [CbpsDB](https://db.cbps.xyz) - Alternative source for PS Vita Homebrew apps and Plugins
 - [Brewology](https://store.brewology.com/vita/whatsnew.php) - Yet another homebrew source for PS Vita and other consoles
