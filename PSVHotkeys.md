@@ -20,6 +20,11 @@
 - Take a screenshot - **PS + Start**
 <br>
 
+## <u>[Vita Recorder Hotkeys](https://github.com/Rinnegatamante/Vita-Recorder#controls)</u>
+- Open/Close config menu - **L + Select / △**
+- Start/Stop recording - **L + Start**
+<br>
+
 ## <u>[PSVshell Hotkeys](https://github.com/Electry/PSVshell#how-to-use)</u>
 - Toggle between 3 GUI modes - **(Select + ↑) / (Select + ↓)**
 - Navigation - **↑ / ↓ / ← / → / ╳** *(GUI mode)*
