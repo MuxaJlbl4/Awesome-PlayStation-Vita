@@ -86,6 +86,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [Vita HomeBrew Browser](https://github.com/devnoname120/vhbb) - [VitaDB](https://vitadb.rinnegatamante.it/#) browser and installer
 - [EasyVPK](https://github.com/Electric1447/EasyVPK) - [VitaDB](https://vitadb.rinnegatamante.it/#) browser and installer
 - [vita-savemgr](https://github.com/d3m3vilurr/vita-savemgr) - Savegame manager
+- [hbRedirect](https://github.com/Rinnegatamante/hbRedirect) - Redirects ux0 usage to other partitions
 ### 💾 Memory
 - [PSVita-StorageMgr](https://github.com/CelesteBlue-dev/PSVita-StorageMgr) - Mounts/redirects storage devices to mount points
 - [yamt-vita](https://github.com/SKGleba/yamt-vita) - Yet another (re)mount tool kernel plugin
@@ -231,6 +232,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [ElevenMPV-A](https://github.com/GrapheneCt/ElevenMPV-A) - Music player with background playback
 - [Music Premium](https://forum.devchroma.nl/index.php/topic,60.0.html) - Enables background music playback
 ### 🎬 Video
+- [Vita Recorder](https://github.com/Rinnegatamante/Vita-Recorder) - Allows to record video clips
 - [CBPSTube](https://forum.devchroma.nl/index.php/topic,331.0.html) - YouTube client with more features
 - [TubeVita](https://github.com/theheroGAC/TubeVita) - Alternative YouTube client
 - [Vita Media Center](http://wololo.net/talk/viewtopic.php?f=116&t=48887&sid=dbbf2c139506b7daab4486cf84ff41db) - MP4 video player
