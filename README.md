@@ -21,7 +21,7 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [5️⃣ 5th Gen](#5%EF%B8%8F%E2%83%A3-5th-gen)
 	- [🖥️ Computers](#%EF%B8%8F-computers)
 	- [💎 Game Engines](#-game-engines)
-	- [📑 Interpreters & Virtual Machines](#-interpreters--virtual-machines)
+	- [⌨️ Interpreters & Virtual Machines](#-interpreters--virtual-machines)
 - <u>**[💡 Customization](#-customization)**</u>
 	- [🔋 Utilities](#-utilities)
 	- [🔑 Input](#-input)
@@ -30,8 +30,6 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [🎨 Appearance](#-appearance)
 	- [🔅 PS Vita 2000](#-ps-vita-2000)
 	- [📺 PS TV](#-ps-tv)
-	- [💻 PC Tools](#-pc-tools)
-	- [📱 Android Tools](#-android-tools)
 - <u>**[🎞️ Media](#%EF%B8%8F-media)**</u>
 	- [🖼️ Image](#%EF%B8%8F-image)
 	- [🎵 Music](#-music)
@@ -43,11 +41,20 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [☢️ Game Tweaks](#%EF%B8%8F-game-tweaks)
 	- [🏆 Trophies](#-trophies)
 	- [📝 Cheats](#-cheats)
-	- [🔎 Reverse Engineering](#-reverse-engineering)
-	- [ℹ️ Info](#%E2%84%B9%EF%B8%8F-info)
 - <u>**[🛠️ Mods](#%EF%B8%8F-mods)**</u>
 	- [💊 Game Patches](#-game-patches)
 	- [💉 Adrenaline Plugins](#-adrenaline-plugins)
+- <u>**[🧰 Tools](#-tools)**</u>
+	- [👨‍💻 Development](#-development)
+	- [🔎 Reverse Engineering](#-reverse-engineering)
+	- [💻 PC](#-pc)
+	- [📱 Android](#-android)
+	- [🕸️ Web](#-web)
+	- [ℹ️ Info](#%E2%84%B9%EF%B8%8F-info)
+- <u>**[🗺️ Guides](#-guides)**</u>
+	- [👣 Hacks](#-hacks)
+	- [👩‍💻 Dev Docs](#-dev-docs)
+	- [🧶 RE Tutorials](#-re-tutorials)
 - <u>**[♥️ Fans](#%EF%B8%8F-fans)**</u>
 	- [😜 Communities](#-communities)
 	- [💬 Game Translations](#-game-translations)
@@ -69,11 +76,8 @@ Contains all most important, actual and cool things in my humble opinion.
 - [Auto h-encore](https://github.com/noahc3/auto-h-encore) - Homebrew enabler auto installer for firmwares 3.65 - 3.68
 - [HENkaku](https://henkaku.xyz) - Homebrew enabler for firmware 3.60
 - [MLTHaku](http://mlthaku.tk) - Homebrew enabler for firmware 3.60 without memory card (for [SD2VITA](https://github.com/xyzz/gamecard-microsd))
-- [PS Vita (TV) Hacks Guide](https://vita.hacks.guide) - A complete hack guide
-- [PS Vita Mod](https://psvitamod.com) - Guides for hacking
-- [PSV Hacking 4PDA](http://4pda.ru/forum/index.php?showtopic=465175) - Russian guides for hacking
 - [Modoru](https://github.com/SKGleba/modoru) - Firmware downgrader
-- [0syscall6](https://github.com/SKGleba/0syscall6) - Remove SELF checks
+- [0syscall6](https://github.com/SKGleba/0syscall6) - Remove SELF checks (allows play games on lower firmware)
 - [NoNpDrm](https://github.com/TheOfficialFloW/NoNpDrm) - Disable DRM protection in games
 - [NoPsmDrm](https://github.com/frangarcj/NoPsmDrm) - Disable DRM protection in PSM games
 - [FreePSM](https://bitbucket.org/SilicaAndPina/freepsm/src/master) - Free in app purchases in PSM games
@@ -87,6 +91,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [EasyVPK](https://github.com/Electric1447/EasyVPK) - [VitaDB](https://vitadb.rinnegatamante.it/#) browser and installer
 - [vita-savemgr](https://github.com/d3m3vilurr/vita-savemgr) - Savegame manager
 - [hbRedirect](https://github.com/Rinnegatamante/hbRedirect) - Redirects ux0 usage to other partitions
+- [PlayStation Mini Store](https://forum.devchroma.nl/index.php/topic,353.0.html) - Fast text UI store app for Vita and PS3 stores
 ### 💾 Memory
 - [PSVita-StorageMgr](https://github.com/CelesteBlue-dev/PSVita-StorageMgr) - Mounts/redirects storage devices to mount points
 - [yamt-vita](https://github.com/SKGleba/yamt-vita) - Yet another (re)mount tool kernel plugin
@@ -138,7 +143,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [GemRB](https://github.com/Northfear/gemrb-vita) - Infinity Engine reimplementation (Game Engine Made with preRendered Background)
 - [EasyRPG Player](https://github.com/EasyRPG/Player) - Interpreter for RPG Maker 2000, 2003 and EasyRPG engines
 - [OpenBOR](https://github.com/rsn8887/openbor) - Beats Of Rage 2D game engine
-### 📑 Interpreters & Virtual Machines
+### ⌨️ Interpreters & Virtual Machines
 - [cpython-vita](https://github.com/SonicMastr/cpython-vita) - Python 2.7.18 Interpreter
 - [fake-08](https://github.com/jtothebell/fake-08) - PICO-8 virtual machine emulator
 - [MicroCHIP](https://wololo.net/talk/viewtopic.php?f=116&t=48620)- Interpreter for CHIP-8/SCHIP-8 games
@@ -185,7 +190,6 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [HexFlow-Launcher](https://github.com/VitaHEX-Games/HexFlow-Launcher) - A 3d coverflow like launcher for PS Vita
 - [ONEMenu](https://github.com/ONElua/ONEMenu-for-PSVita) - Custom UI and title name editor
 - [vita-launcher](https://github.com/cy33hc/vita-launcher) - App/game launcher application
-- [Bubble Studio](https://anthe.studio/bubblestudio) - Web editor for app.db
 - [Adrenaline Bubbles Manager](https://github.com/ONElua/AdrenalineBubbleManager) - Allows you to create bubbles to launch PSP games without XMB via [AdrBubbleBooter plugin](https://sites.google.com/site/theleecherman/adrbubblebooter)
 - [Bubble booter](https://sites.google.com/site/theleecherman/adrbubblebooter) - Directly boots any PSP file (ISO\CSO\PBP\PSOne) from LiveArea's Bubbles
 - [Custom Bubble Tutorial](https://www.reddit.com/r/vitahacks/comments/hjmn5k/ps_vita_daedalusx64_and_retroarch_custom_bubbles) - Tutorial on how to create bubbles for RetroArch and DaedalusX64
@@ -204,23 +208,6 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [ds4Touch](https://github.com/MERLev/ds4Touch) - Adds ds4 touchpad support ([ds4vita](https://github.com/xerpi/ds4vita) way) to PS TV and Vita with [MiniVitaTV](https://github.com/TheOfficialFloW/MiniVitaTV)
 - [VitaDock tutorial](https://www.reddit.com/r/vitahacks/comments/bhaclc/psvitaopz_beta_b_stream_psvita_to_tv_with_pi_zero) - [VitaDock](https://github.com/CrashCortez/VitaDock-DIY) tutorial
 - [VitaDock+](https://github.com/SilentNightx/VitaDockPlus) - Software for VitaDock
-### 💻 PC Tools
-- [Vita3K](https://github.com/Vita3K/Vita3K) - PlayStation Vita emulator for PC
-- [QCMA](https://github.com/codestation/qcma) - Open Source Content Manager Assistant for PS Vita
-- [HandBrake](https://github.com/HandBrake/HandBrake) - Video files converter (contains Playstation presets)
-- [AT9&AT3 Converter](https://www.modconsoles.fr/club-articles.html/pc/at9at3-converter-v23-r36) - At9/At3 files converter
-- [PSMRC](https://psmrc.herokuapp.com) - Resource Pack Converter for Minecraft PS Vita Edition
-- [Vita SDK](https://vitasdk.org) - Development tools for PS Vita
-- [GeForce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience) - NVIDIA Gamestream for PC
-- [NPS Browser](https://nopaystation.com/vita/npsReleases/NPS_Browser_0.94.exe) - [NoPayStation](https://nopaystation.com) client for Windows
-- [ContentServer](https://github.com/KuromeSan/ContentServer) - Server for Content Downloader
-- [GayMaker](https://github.com/KuromeSan/GayMaker/tree/master/GayMaker) - GameMaker:Studio to PSVita compiler
-- [Chovy Sign](https://github.com/KuromeSan/chovy-sign) - PSP ISOs on unhacked PSVita
-- [PSX2PSP​](https://www.psx-place.com/resources/psx2psp.586) - Allows you to convert PS1/PSX game into format playable on PSP/Adrenaline
-- [PSP2-CBAnim](https://github.com/SKGleba/PSP2-CBAnim) - Boot animation creator for [CBS-Manager](https://github.com/SKGleba/CBS-Manager)
-### 📱 Android Tools
-- [VHBB-Android](https://github.com/Electric1447/VHBB-Android) - [VitaDB](https://vitadb.rinnegatamante.it/#) & [cbpsDB](https://db.cbps.xyz) client for Android
-- [NPS Browser](https://github.com/IllusionMan1212/NPS-Browser) - [NoPayStation](https://nopaystation.com) client app for Android
 <br>
 
 ## 🎞️ Media
@@ -231,6 +218,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 ### 🎵 Music
 - [ElevenMPV-A](https://github.com/GrapheneCt/ElevenMPV-A) - Music player with background playback
 - [Music Premium](https://forum.devchroma.nl/index.php/topic,60.0.html) - Enables background music playback
+- [VITA-NoAutoAvls](https://github.com/SKGleba/VITA-NoAutoAvls) - Enable/disable the auto-avls feature
 ### 🎬 Video
 - [Vita Recorder](https://github.com/Rinnegatamante/Vita-Recorder) - Allows to record video clips
 - [CBPSTube](https://forum.devchroma.nl/index.php/topic,331.0.html) - YouTube client with more features
@@ -271,16 +259,6 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Déjàvu](https://github.com/TheOfficialFloW/dejavu) - Save state plugin
 - [TurboPad](https://wololo.net/talk/viewtopic.php?t=48065) - Allows you to enable RapidFire on any button
 - [save-editor.com](http://www.save-editor.com/tools) - Set of save editor tools
-### 🔎 Reverse Engineering
-- [PSVita Reverse Engineering Tools](https://github.com/CelesteBlue-dev/PSVita-RE-tools) - A bundle of RE tools for PSVita
-- [Ghidra Vita Loader](https://github.com/xerpi/GhidraVitaLoader) - Scripts for loading PSVita ELF Binaries into NSA's Ghidra
-- [Vita Loader](https://github.com/mailwl/vitaldr) - IDA Plugin for loading PSVita ELF Binaries into IDA Pro
-- [RegistryEditorMOD](https://github.com/devnoname120/RegistryEditorMOD) - Allows you to read and edit all registry settings
-- [MaiDumpToolEN](https://github.com/LioMajor/MaiDumpToolEN) - Game dumper and patcher
-- [vitaRescale tutorial](http://wololo.net/talk/viewtopic.php?f=65&t=48713) - Getting resolution addresses in games
-### ℹ️ Info
-- [VGi](https://github.com/Electry/VGi) - Prints useful information about PS Vita games
-- [VITAident](https://github.com/joel16/VITAident) - System/hardware identity tool for PS Vita
 <br>
 
 ## 🛠️ Mods
@@ -308,6 +286,58 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [psp-dev.org](http://psp-dev.org/hb) - PSP Homebrew Store
 <br>
 
+## 🧰 Tools
+### 👨‍💻 Development
+- [Vita SDK](https://vitasdk.org) - Development SDK for PS Vita
+- [Vita Development Suite](https://forum.devchroma.nl/index.php?topic=332.0) - Additional features for the PlayStation Vita SDK
+- [VitaDeploy](https://github.com/SKGleba/VitaDeploy) - Toolbox that makes homebrewing the Playstation Vita/TV easier
+### 🔎 Reverse Engineering
+- [PSVita Reverse Engineering Tools](https://github.com/CelesteBlue-dev/PSVita-RE-tools) - A bundle of RE tools for PSVita
+- [KVDB](https://github.com/DaveeFTW/kvdb) - Vita Debugger Kernel Plugin
+- [Ghidra Vita Loader](https://github.com/xerpi/GhidraVitaLoader) - Scripts for loading PSVita ELF Binaries into NSA's Ghidra
+- [Vita Loader](https://github.com/mailwl/vitaldr) - IDA Plugin for loading PSVita ELF Binaries into IDA Pro
+- [RegistryEditorMOD](https://github.com/devnoname120/RegistryEditorMOD) - Allows you to read and edit all registry settings
+- [MaiDumpToolEN](https://github.com/LioMajor/MaiDumpToolEN) - Game dumper and patcher
+- [PS Vita Decrypted Firmwares](https://files.olebeck.com/firmware/vita/decrypted) - A collection of decrypted PS Vita firmwares
+### 💻 PC
+- [Vita3K](https://github.com/Vita3K/Vita3K) - PlayStation Vita emulator for PC
+- [QCMA](https://github.com/codestation/qcma) - Open Source Content Manager Assistant for PS Vita
+- [HandBrake](https://github.com/HandBrake/HandBrake) - Video files converter (contains Playstation presets)
+- [AT9&AT3 Converter](https://www.psx-place.com/resources/at9-at3-converter.566/) - At9/At3 files converter
+- [GeForce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience) - NVIDIA Gamestream for PC
+- [NPS Browser](https://nopaystation.com/vita/npsReleases/NPS_Browser_0.94.exe) - [NoPayStation](https://nopaystation.com) client for Windows
+- [ContentServer](https://github.com/KuromeSan/ContentServer) - Server for Content Downloader
+- [GayMaker](https://github.com/KuromeSan/GayMaker/tree/master/GayMaker) - GameMaker:Studio to PSVita compiler
+- [Chovy Sign](https://github.com/KuromeSan/chovy-sign) - PSP ISOs on unhacked PSVita
+- [PSX2PSP​](https://www.psx-place.com/resources/psx2psp.586) - Allows you to convert PS1/PSX game into format playable on PSP/Adrenaline
+- [PSP2-CBAnim](https://github.com/SKGleba/PSP2-CBAnim) - Boot animation creator for [CBS-Manager](https://github.com/SKGleba/CBS-Manager)
+### 📱 Android
+- [VHBB-Android](https://github.com/Electric1447/VHBB-Android) - [VitaDB](https://vitadb.rinnegatamante.it/#) & [cbpsDB](https://db.cbps.xyz) client for Android
+- [NPS Browser](https://github.com/IllusionMan1212/NPS-Browser) - [NoPayStation](https://nopaystation.com) client app for Android
+### 🕸️ Web
+- [Bubble Studio](https://anthe.studio/bubblestudio) - Web editor for app.db
+- [PSMRC](https://psmrc.herokuapp.com) - Resource Pack Converter for Minecraft PS Vita Edition
+### ℹ️ Info
+- [VGi](https://github.com/Electry/VGi) - Prints useful information about PS Vita games
+- [VITAident](https://github.com/joel16/VITAident) - System/hardware identity tool for PS Vita
+<br>
+
+## 🗺️ Guides
+### 👣 Hacks
+- [PS Vita (TV) Hacks Guide](https://vita.hacks.guide) - A complete hack guide
+- [Vita Troubleshooting Guide](https://samilops2.gitbook.io/vita-troubleshooting-guide) - Useful tutorials for installing hacks, complex homebrews/plugins etc
+- [PSV Hacking 4PDA](http://4pda.ru/forum/index.php?showtopic=465175) - Russian guides for hacking
+### 👩‍💻 Dev Docs
+- [Vita SDK](https://vitasdk.org/) - Getting Started with Vita SDK
+- [Vita Development Wiki](https://wiki.henkaku.xyz/vita/Main_Page) - Vita SDK wiki
+- [PS Vita Dev Wiki](https://playstationdev.wiki/psvitadevwiki/index.php?title=Main_Page) - Another wiki for developers
+- [Unity setup](https://www.patreon.com/posts/guide-how-to-to-24906451) - How to setup Unity to develop PS Vita Games
+### 🧶 RE Tutorials
+- [Dots_tb tutorials](https://forum.devchroma.nl/index.php/topic,204.msg524.html#msg524) - Useful RE tutorials by [dots_tb](https://github.com/dots-tb)
+- [Unity debugging](https://forum.devchroma.nl/index.php/topic,21.0.html) - Debugging some Unity games
+- [VitaRescale tutorial](http://wololo.net/talk/viewtopic.php?f=65&t=48713) - Getting resolution addresses in games
+<br>
+
 ## ♥️ Fans
 ### 😜 Communities
 - [Wololo PS Vita](http://wololo.net/category/psvita) - Lastest homebrews, mods and hacking scene news
@@ -315,6 +345,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Reddit VitaHacks](https://www.reddit.com/r/vitahacks) - PS Vita hacks and homebrew on Reddit
 - [Reddit VitaPiracy](https://www.reddit.com/r/VitaPiracy) - Reddit discussion of things related to piracy on the PS Vita
 - [PSX-Place](https://www.psx-place.com/forums/#playstation-vita-forums.8) - Latest Homebrew, Hacking, Exploits, CFW, Jailbreak & PlayStation Scene News
+- [CBPS forum](https://forum.devchroma.nl/index.php/board,2.0.html) - Hacking information or applications related to the PS Vita
 - [GBAtemp](https://gbatemp.net/categories/sony-ps-vita-discussions.214) - Sony PS Vita discussions and guides
 - [PSNProfiles](https://psnprofiles.com/games?order=owners&platform=psvita) - Trophies stats and guides
 - [4PDA PS Vita](https://4pda.ru/forum/index.php?showtopic=214976) - Russian PS Vita discussions and guides
@@ -341,7 +372,6 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [AR Play Cards](https://www.retrocomputers.gr/media/kunena/attachments/155/AR-Play-Cards.pdf) - Augmented Reality cards for PS Vita
 - [Bounties](https://github.com/vita-nuova/bounties/issues) - Bounties for new Vita projects
 - [Plugin descriptions](https://github.com/ONElua/AutoPlugin2/tree/master/AUTOPLUG2/lang) - Short plugin descriptions from [Autoplugin 2](https://github.com/ONElua/AutoPlugin2)
-- [Vita Troubleshooting Guide](https://samilops2.gitbook.io/vita-troubleshooting-guide) - Useful tutorials for installing hacks, complex homebrews/plugins etc
 - [Tech Specs](https://web.archive.org/web/20201116183455/https://www.playstation.com/en-us/explore/psvita/system/system-specs) - PS Vita technical specifications
 - [Plugin hotkeys](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/PSVHotkeys.md) - List of plugin hotkeys
 <br>
