@@ -21,7 +21,7 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [5️⃣ 5th Gen](#5%EF%B8%8F%E2%83%A3-5th-gen)
 	- [🖥️ Computers](#%EF%B8%8F-computers)
 	- [💎 Game Engines](#-game-engines)
-	- [⌨️ Interpreters & Virtual Machines](#-interpreters--virtual-machines)
+	- [⌨️ Interpreters & Virtual Machines](#%EF%B8%8F-interpreters--virtual-machines)
 - <u>**[💡 Customization](#-customization)**</u>
 	- [🔋 Utilities](#-utilities)
 	- [🔑 Input](#-input)
@@ -49,9 +49,9 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [🔎 Reverse Engineering](#-reverse-engineering)
 	- [💻 PC](#-pc)
 	- [📱 Android](#-android)
-	- [🕸️ Web](#-web)
+	- [🕸️ Web](#%EF%B8%8F-web)
 	- [ℹ️ Info](#%E2%84%B9%EF%B8%8F-info)
-- <u>**[🗺️ Guides](#-guides)**</u>
+- <u>**[🗺️ Guides](#%EF%B8%8F-guides)**</u>
 	- [👣 Hacks](#-hacks)
 	- [👩‍💻 Dev Docs](#-dev-docs)
 	- [🧶 RE Tutorials](#-re-tutorials)
