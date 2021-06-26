@@ -205,7 +205,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [DolcePolce](https://github.com/KuromeSan/DolcePolce) - Allows you to play all PS Vita games on PS TV
 - [Sharpscale](https://forum.devchroma.nl/index.php/topic,112.0.html) - Changes the display scaling method on higher resolutions
 - [MiniVitaTV](https://github.com/TheOfficialFloW/MiniVitaTV) - Allows you to connect up to 4 DS3/DS4 controllers to PS Vita
-- [ds4vita] (https://github.com/xerpi/ds4vita) - Adds DualShock support
+- [ds4vita](https://github.com/xerpi/ds4vita) - Adds DualShock support
 - [ds4Touch](https://github.com/MERLev/ds4Touch) - Adds DualShock touchpad support ([ds4vita](https://github.com/xerpi/ds4vita) way) to PS TV and Vita with [MiniVitaTV](https://github.com/TheOfficialFloW/MiniVitaTV)
 - [X1Vita](https://github.com/Ibrahim778/X1Vita) - Adds Xbox One controller support
 - [Viimote](https://github.com/xerpi/viimote) - Adds Wiimote support
@@ -307,7 +307,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Vita3K](https://github.com/Vita3K/Vita3K) - PlayStation Vita emulator for PC
 - [QCMA](https://github.com/codestation/qcma) - Open Source Content Manager Assistant for PS Vita
 - [HandBrake](https://github.com/HandBrake/HandBrake) - Video files converter (contains Playstation presets)
-- [AT9&AT3 Converter](https://www.psx-place.com/resources/at9-at3-converter.566/) - At9/At3 files converter
+- [AT9&AT3 Converter](https://www.psx-place.com/resources/at9-at3-converter.566) - At9/At3 files converter
 - [GeForce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience) - NVIDIA Gamestream for PC
 - [NPS Browser](https://nopaystation.com/vita/npsReleases/NPS_Browser_0.94.exe) - [NoPayStation](https://nopaystation.com) client for Windows
 - [TempAR-Vita](https://github.com/Yohoki/TempAR-Vita) - Pointer scanner for use with Vita, PSP, and NDS
