@@ -81,7 +81,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [NoNpDrm](https://github.com/TheOfficialFloW/NoNpDrm) - Disable DRM protection in games
 - [NoPsmDrm](https://github.com/frangarcj/NoPsmDrm) - Disable DRM protection in PSM games
 - [FreePSM](https://bitbucket.org/SilicaAndPina/freepsm/src/master) - Free in app purchases in PSM games
-- [rePatch reDux0](https://github.com/dots-tb/rePatch-reDux0) - Allows to install custom patches
+- [rePatch reLoaded](https://github.com/SonicMastr/rePatch-reLoaded) - Allows to install custom patches
 - [ioPlus](https://github.com/CelesteBlue-dev/PSVita-RE-tools/blob/master/ioPlus/ioPlus-0.1/release/ioplus.skprx) - Elevated IO permissions
 ### 🗃️ Apps
 - [VitaShell](https://github.com/TheOfficialFloW/VitaShell) - File manager
@@ -91,6 +91,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [EasyVPK](https://github.com/Electric1447/EasyVPK) - [VitaDB](https://vitadb.rinnegatamante.it/#) browser and installer
 - [vita-savemgr](https://github.com/d3m3vilurr/vita-savemgr) - Savegame manager
 - [hbRedirect](https://github.com/Rinnegatamante/hbRedirect) - Redirects ux0 usage to other partitions
+- [reAuth](https://forum.devchroma.nl/index.php/topic,362.0.html) - Use PlayStation Store and sign-in on 3.60-3.65
 - [PlayStation Mini Store](https://forum.devchroma.nl/index.php/topic,353.0.html) - Fast text UI store app for Vita and PS3 stores
 ### 💾 Memory
 - [PSVita-StorageMgr](https://github.com/CelesteBlue-dev/PSVita-StorageMgr) - Mounts/redirects storage devices to mount points
@@ -204,8 +205,10 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [DolcePolce](https://github.com/KuromeSan/DolcePolce) - Allows you to play all PS Vita games on PS TV
 - [Sharpscale](https://forum.devchroma.nl/index.php/topic,112.0.html) - Changes the display scaling method on higher resolutions
 - [MiniVitaTV](https://github.com/TheOfficialFloW/MiniVitaTV) - Allows you to connect up to 4 DS3/DS4 controllers to PS Vita
-- [Viimote](https://github.com/xerpi/viimote) - Allows you to connect a Wiimote
-- [ds4Touch](https://github.com/MERLev/ds4Touch) - Adds ds4 touchpad support ([ds4vita](https://github.com/xerpi/ds4vita) way) to PS TV and Vita with [MiniVitaTV](https://github.com/TheOfficialFloW/MiniVitaTV)
+- [ds4vita] (https://github.com/xerpi/ds4vita) - Adds DualShock support
+- [ds4Touch](https://github.com/MERLev/ds4Touch) - Adds DualShock touchpad support ([ds4vita](https://github.com/xerpi/ds4vita) way) to PS TV and Vita with [MiniVitaTV](https://github.com/TheOfficialFloW/MiniVitaTV)
+- [X1Vita](https://github.com/Ibrahim778/X1Vita) - Adds Xbox One controller support
+- [Viimote](https://github.com/xerpi/viimote) - Adds Wiimote support
 - [VitaDock tutorial](https://www.reddit.com/r/vitahacks/comments/bhaclc/psvitaopz_beta_b_stream_psvita_to_tv_with_pi_zero) - [VitaDock](https://github.com/CrashCortez/VitaDock-DIY) tutorial
 - [VitaDock+](https://github.com/SilentNightx/VitaDockPlus) - Software for VitaDock
 <br>
@@ -281,8 +284,9 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [PSP camera patch lite](https://github.com/Freakler/psp-camera_patch_lite) - Add right analog stick support to some PSP games (based on [DS3Remapper](http://wololo.net/talk/viewtopic.php?f=28&t=47794))
 - [GTA Native Resolution Patch](https://github.com/TheOfficialFloW/GTANativeResolution) - Forces native PS Vita resolution in GTA:LCS and GTA:VCS PSP games
 - [CWCheat Adrenaline](https://www.cfwaifu.com/cwcheat-adrenaline) - Allows you to use custom cheats and patches in PSP and PSX games
-- [60 FPS Patches List](https://forums.ppsspp.org/showthread.php?tid=22800) - 60 FPS patches for PSP games (for CWCheat)
-- [CWCheat Database](https://forums.ppsspp.org/showthread.php?tid=11961) - List of cheats for CWCheat
+- [TempAR](https://github.com/raing3/tempar) - PSP cheat plugin
+- [60 FPS Patches List](https://forums.ppsspp.org/showthread.php?tid=22800) - 60 FPS patches for PSP games (for CWCheat/TempAR)
+- [CWCheat Database +](https://github.com/Saramagrean/CWCheat-Database-Plus-) - List of cheats for CWCheat/TempAR
 - [psp-dev.org](http://psp-dev.org/hb) - PSP Homebrew Store
 <br>
 
@@ -306,6 +310,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [AT9&AT3 Converter](https://www.psx-place.com/resources/at9-at3-converter.566/) - At9/At3 files converter
 - [GeForce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience) - NVIDIA Gamestream for PC
 - [NPS Browser](https://nopaystation.com/vita/npsReleases/NPS_Browser_0.94.exe) - [NoPayStation](https://nopaystation.com) client for Windows
+- [TempAR-Vita](https://github.com/Yohoki/TempAR-Vita) - Pointer scanner for use with Vita, PSP, and NDS
 - [ContentServer](https://github.com/KuromeSan/ContentServer) - Server for Content Downloader
 - [GayMaker](https://github.com/KuromeSan/GayMaker/tree/master/GayMaker) - GameMaker:Studio to PSVita compiler
 - [Chovy Sign](https://github.com/KuromeSan/chovy-sign) - PSP ISOs on unhacked PSVita
@@ -326,9 +331,10 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 ### 👣 Hacks
 - [PS Vita (TV) Hacks Guide](https://vita.hacks.guide) - A complete hack guide
 - [Vita Troubleshooting Guide](https://samilops2.gitbook.io/vita-troubleshooting-guide) - Useful tutorials for installing hacks, complex homebrews/plugins etc
+- [Wololo Tutorials](https://wololo.net/talk/viewforum.php?f=65) - Wololo.net/talk Vita tutorials
 - [PSV Hacking 4PDA](http://4pda.ru/forum/index.php?showtopic=465175) - Russian guides for hacking
 ### 👩‍💻 Dev Docs
-- [Vita SDK](https://vitasdk.org/) - Getting Started with Vita SDK
+- [Vita SDK Docs](https://docs.vitasdk.org) - Vita SDK Docs
 - [Vita Development Wiki](https://wiki.henkaku.xyz/vita/Main_Page) - Vita SDK wiki
 - [PS Vita Dev Wiki](https://playstationdev.wiki/psvitadevwiki/index.php?title=Main_Page) - Another wiki for developers
 - [Unity setup](https://www.patreon.com/posts/guide-how-to-to-24906451) - How to setup Unity to develop PS Vita Games
@@ -347,6 +353,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [PSX-Place](https://www.psx-place.com/forums/#playstation-vita-forums.8) - Latest Homebrew, Hacking, Exploits, CFW, Jailbreak & PlayStation Scene News
 - [CBPS forum](https://forum.devchroma.nl/index.php/board,2.0.html) - Hacking information or applications related to the PS Vita
 - [GBAtemp](https://gbatemp.net/categories/sony-ps-vita-discussions.214) - Sony PS Vita discussions and guides
+- [Wololo.net/talk](https://wololo.net/talk/viewforum.php?f=22) - Wololo PS Vita forum
 - [PSNProfiles](https://psnprofiles.com/games?order=owners&platform=psvita) - Trophies stats and guides
 - [4PDA PS Vita](https://4pda.ru/forum/index.php?showtopic=214976) - Russian PS Vita discussions and guides
 - [VK Portablegaming](https://vk.com/wall-47742407?own=1) - Portablegaming VK group
@@ -364,7 +371,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [ROM & ISO Sites](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) - List of ROM sites
 ### 🧪 Compatibility Lists
 - [GePatch](https://docs.google.com/spreadsheets/d/1aZlmKwELcdpCb9ezI5iRfgcX9hoGxgL4tNC-673aKqk/edit#gid=0) - Compatibility list for [GePatch](https://github.com/TheOfficialFloW/GePatch)
-- [Adrenaline 60 FPS](https://docs.google.com/spreadsheets/d/1yunmCa_7zmoI0H8qPRYJEd7D7rm6Vxc1SJFYPF9DCIM) - Compatibility list for Adrenaline 60 FPS patches via CWCheat
+- [Adrenaline 60 FPS](https://docs.google.com/spreadsheets/d/1yunmCa_7zmoI0H8qPRYJEd7D7rm6Vxc1SJFYPF9DCIM) - Compatibility list for Adrenaline 60 FPS patches via CWCheat/TempAR
 - [DaedalusX64](https://github.com/Rinnegatamante/DaedalusX64-vitaGL-Compatibility/issues) - Compatibility list for [DaedalusX64-vitaGL](https://github.com/Rinnegatamante/daedalusx64-vitagl)
 - [Flycast​](https://github.com/Rinnegatamante/flycast-vita-Compatibility/issues) - Compatibility list for [Flycast-vita](https://www.psx-place.com/threads/release-flycast-vita-dreamcast-emulator-for-psvita-pstv.32449)
 - [Vita3K](https://github.com/Vita3K/compatibility/issues) - Compatibility list for [Vita3K](https://github.com/Vita3K/Vita3K)
