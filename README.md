@@ -55,6 +55,7 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [👣 Hacks](#-hacks)
 	- [👩‍💻 Dev Docs](#-dev-docs)
 	- [🧶 RE Tutorials](#-re-tutorials)
+	- [💲 Cheat Tutorials](#-cheat-tutorials)
 - <u>**[♥️ Fans](#%EF%B8%8F-fans)**</u>
 	- [😜 Communities](#-communities)
 	- [💬 Game Translations](#-game-translations)
@@ -176,7 +177,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Analog Enhancer](http://wololo.net/talk/viewtopic.php?f=116&t=49475) - Sets deadzones for sticks
 - [WDNR](https://github.com/Rinnegatamante/WDNR) - Disables rear touchpad
 ### 🌍 Network
-- [iTLS-Enso](https://github.com/SKGleba/iTLS-Enso) - Adds TLS v1.2 support
+- [iTLS-Enso](https://github.com/SKGleba/iTLS-Enso) - Adds TLS v1.2 and custom web certificates support
 - [Vita netcheck Bypass](https://github.com/yifanlu/netcheck_bypass) - Bypass PSN login requirement for apps
 - [accountswitcher](https://github.com/elpendor/accountswitcher) - Switch between your PSN accounts on your Vita
 - [Download Enabler](https://github.com/TheOfficialFloW/VitaTweaks/releases/tag/DownloadEnabler) - Allows download any files from PS Vita browser
@@ -276,6 +277,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Persona 4 Golden Patches](https://github.com/zarroboogs/p4g-patches) - Set of patches for P4G
 - [Persona 3/4/5 Dancing Patches](https://github.com/zarroboogs/pXd-patches) - Set of patches for P3D, P4D and P5D
 - [GTA III 10th Anniversary Edition](https://vk.com/@portablegaming-gta3ae10th) - 10th Anniversary Edition extensions for [re3-vita](https://www.psx-place.com/threads/re3-vita-a-full-reverse-engineered-reimplementation-of-gta-iii.31588)
+- [GTA: SA 10th Anniversary Edition](https://vk.com/@portablegaming-gtasa10thae) - 10th Anniversary Edition extensions for [GTA: SA Vita](https://github.com/TheOfficialFloW/gtasa_vita)
 - [Max Payne PC Anniversary Edition](https://vk.com/@portablegaming-maxpaynepcae) - PC version features for [max_vita](https://github.com/fgsfdsfgs/max_vita)
 - [Various GTA Downgraders](https://gtaforums.com/topic/936600-iii-iv-various-gta-downgraders) - Downgrade guides for GTA games (PC)
 ### 💉 Adrenaline Plugins
@@ -331,8 +333,9 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 ### 👣 Hacks
 - [PS Vita (TV) Hacks Guide](https://vita.hacks.guide) - A complete hack guide
 - [Vita Troubleshooting Guide](https://samilops2.gitbook.io/vita-troubleshooting-guide) - Useful tutorials for installing hacks, complex homebrews/plugins etc
+- [CFWaifu Vita Tutorials](https://www.cfwaifu.com/psvita) - CFWaifu guides
 - [Wololo Tutorials](https://wololo.net/talk/viewforum.php?f=65) - Wololo.net/talk Vita tutorials
-- [PSV Hacking 4PDA](http://4pda.ru/forum/index.php?showtopic=465175) - Russian guides for hacking
+- [PSV Hacking 4PDA](https://4pda.to/forum/index.php?showtopic=465175) - Russian guides for hacking
 ### 👩‍💻 Dev Docs
 - [Vita SDK Docs](https://docs.vitasdk.org) - Vita SDK Docs
 - [Vita Development Wiki](https://wiki.henkaku.xyz/vita/Main_Page) - Vita SDK wiki
@@ -342,6 +345,9 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Dots_tb tutorials](https://forum.devchroma.nl/index.php/topic,204.msg524.html#msg524) - Useful RE tutorials by [dots_tb](https://github.com/dots-tb)
 - [Unity debugging](https://forum.devchroma.nl/index.php/topic,21.0.html) - Debugging some Unity games
 - [VitaRescale tutorial](http://wololo.net/talk/viewtopic.php?f=65&t=48713) - Getting resolution addresses in games
+### 💲 Cheat Tutorials
+- [VitaCheat/FinalCheat Database](https://gbatemp.net/threads/vitacheat-finalcheat-database.485343) - VitaCheat User Manuals
+- [Creating Cheats with PPSSPP](https://github.com/raing3/psp-cheat-guides) - Creating cheats with PPSSPP and CheatEngine
 <br>
 
 ## ♥️ Fans
@@ -355,12 +361,12 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [GBAtemp](https://gbatemp.net/categories/sony-ps-vita-discussions.214) - Sony PS Vita discussions and guides
 - [Wololo.net/talk](https://wololo.net/talk/viewforum.php?f=22) - Wololo PS Vita forum
 - [PSNProfiles](https://psnprofiles.com/games?order=owners&platform=psvita) - Trophies stats and guides
-- [4PDA PS Vita](https://4pda.ru/forum/index.php?showtopic=214976) - Russian PS Vita discussions and guides
+- [4PDA PS Vita](https://4pda.to/forum/index.php?showtopic=214976) - Russian PS Vita discussions and guides
 - [VK Portablegaming](https://vk.com/wall-47742407?own=1) - Portablegaming VK group
 ### 💬 Game Translations
 - [English Translations](https://www.reddit.com/r/VitaPiracy/comments/b9kxta/list_of_fan_translated_vita_games) - List of fan translated Vita games
 - [English Translations](https://vitaenglishtranslations.wordpress.com) - Fan translations and patches for Playstation Vita games
-- [Russian Translations](https://4pda.ru/forum/index.php?showtopic=771459) - A collection of russian language patches
+- [Russian Translations](https://4pda.to/forum/index.php?showtopic=771459) - A collection of russian language patches
 - [Russian Language Games](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9UEPSbNOi39PugwWJlXERBJGfYgDhrh3FDHoJ74hUbtq9ZNL3qd3vtj9W8FR7ObuUSpoLpGZrGHBP/pubhtml) - List of games with russian language and russian patches
 - [forcelang](https://github.com/xdanieldzd/forcelang) - Overrides application language
 <br>
