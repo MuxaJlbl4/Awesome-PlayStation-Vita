@@ -83,6 +83,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [NoPsmDrm](https://github.com/frangarcj/NoPsmDrm) - Disable DRM protection in PSM games
 - [FreePSM](https://bitbucket.org/SilicaAndPina/freepsm/src/master) - Free in app purchases in PSM games
 - [rePatch reLoaded](https://github.com/SonicMastr/rePatch-reLoaded) - Allows to install custom patches
+- [vshPatch](https://github.com/KuromeSan/vshPatch) - Like rePatch, but for system applications
 - [ioPlus](https://github.com/CelesteBlue-dev/PSVita-RE-tools/blob/master/ioPlus/ioPlus-0.1/release/ioplus.skprx) - Elevated IO permissions
 ### 🗃️ Apps
 - [VitaShell](https://github.com/TheOfficialFloW/VitaShell) - File manager
@@ -94,6 +95,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [hbRedirect](https://github.com/Rinnegatamante/hbRedirect) - Redirects ux0 usage to other partitions
 - [reAuth](https://forum.devchroma.nl/index.php/topic,362.0.html) - Use PlayStation Store and sign-in on 3.60-3.65
 - [PlayStation Mini Store](https://forum.devchroma.nl/index.php/topic,353.0.html) - Fast text UI store app for Vita and PS3 stores
+- [RIF Ripper](https://forum.devchroma.nl/index.php/topic,354.0.html) - License backup tool for purchased digital content for PSP, PS3, PS Vita
 ### 💾 Memory
 - [PSVita-StorageMgr](https://github.com/CelesteBlue-dev/PSVita-StorageMgr) - Mounts/redirects storage devices to mount points
 - [yamt-vita](https://github.com/SKGleba/yamt-vita) - Yet another (re)mount tool kernel plugin
@@ -165,6 +167,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [TransparentImpose](https://github.com/GrapheneCt/TransparentImpose) - Makes impose menu transparent
 - [VitaTweaks](https://github.com/TheOfficialFloW/VitaTweaks) - A collection of small tweaks
 - [vitatricks.tk](https://vitatricks.tk) - Online set of useful PS Vita tools
+- [VitaTools](https://github.com/SKGleba/VitaTools) - Useful tools for PSP2 Vita and Dolce
 ### 🔑 Input
 - [VitaTester](https://github.com/NamelessGhoul0/VitaTester) - Testing input
 - [VitaPad](https://www.psx-place.com/threads/vitapad.30520) - Allows to use PS Vita as a wireless gamepad
@@ -188,6 +191,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [kubridge](https://github.com/TheOfficialFloW/kubridge) - DynaRec feature extender (for [max_vita](https://github.com/fgsfdsfgs/max_vita))
 - [FdFix](https://github.com/TheOfficialFloW/FdFix) - Fixes invalidated file descriptors after suspend and resume (for [re3-vita](https://www.psx-place.com/threads/re3-vita-a-full-reverse-engineered-reimplementation-of-gta-iii.31588))
 - [PSP2-batteryFixer](https://github.com/SKGleba/PSP2-batteryFixer) - Fixes most battery related problems
+- [USBDisable](https://github.com/Ibrahim778/USBDisable) - Disable the annoying "Connecting" dialog when you connect your vita to your PC
 ### 🎨 Appearance
 - [HexFlow-Launcher](https://github.com/VitaHEX-Games/HexFlow-Launcher) - A 3d coverflow like launcher for PS Vita
 - [ONEMenu](https://github.com/ONElua/ONEMenu-for-PSVita) - Custom UI and title name editor
@@ -195,9 +199,12 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Adrenaline Bubbles Manager](https://github.com/ONElua/AdrenalineBubbleManager) - Allows you to create bubbles to launch PSP games without XMB via [AdrBubbleBooter plugin](https://sites.google.com/site/theleecherman/adrbubblebooter)
 - [Bubble booter](https://sites.google.com/site/theleecherman/adrbubblebooter) - Directly boots any PSP file (ISO\CSO\PBP\PSOne) from LiveArea's Bubbles
 - [Custom Bubble Tutorial](https://www.reddit.com/r/vitahacks/comments/hjmn5k/ps_vita_daedalusx64_and_retroarch_custom_bubbles) - Tutorial on how to create bubbles for RetroArch and DaedalusX64
+- [Bubble-Builder](https://github.com/DRok17/Bubble-Builder) - VPK re-packaging tool for Homebrew and Adrenaline Bubble Booter assets
+- [RetroBuilder](https://github.com/DRok17/RetroBuilder) - LiveArea Bubbles for RetroArch and Daedalus X64 
 - [CBS-Manager](https://github.com/SKGleba/CBS-Manager) - Displays an image/animation/console info during the PSVita boot process
 - [Theme Manager Ex](https://bitbucket.org/kylon/theme-manager-ex-theme-engine/src/master) - Advanced theme manger
 - [Shortcuts Enhancer](https://github.com/ONElua/Shortcuts-Enhancer) - Custom shortcuts in the PS Vita index menu
+- [QuickLaunch-Installer](https://github.com/DRok17/QuickLaunch-Installer) - Allows you to customize the quick menu shortcuts
 - [fontIntaller](https://github.com/cxziaho/fontInstaller) - An app for installing the [fontRedirect](https://github.com/cxziaho/fontRedirect) plugin for injecting custom fonts
 ### 🔅 PS Vita 2000
 - [LCD Color Saturation](https://github.com/Electric1447/lcd-color-saturation) - App for improving color saturation on your Vita 2000
@@ -209,6 +216,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [ds4vita](https://github.com/xerpi/ds4vita) - Adds DualShock support
 - [ds4Touch](https://github.com/MERLev/ds4Touch) - Adds DualShock touchpad support ([ds4vita](https://github.com/xerpi/ds4vita) way) to PS TV and Vita with [MiniVitaTV](https://github.com/TheOfficialFloW/MiniVitaTV)
 - [X1Vita](https://github.com/Ibrahim778/X1Vita) - Adds Xbox One controller support
+- [8BitVita](https://github.com/Ibrahim778/8BitVita) - Adds 8BitDo controller support
 - [Viimote](https://github.com/xerpi/viimote) - Adds Wiimote support
 - [VitaDock tutorial](https://www.reddit.com/r/vitahacks/comments/bhaclc/psvitaopz_beta_b_stream_psvita_to_tv_with_pi_zero) - [VitaDock](https://github.com/CrashCortez/VitaDock-DIY) tutorial
 - [VitaDock+](https://github.com/SilentNightx/VitaDockPlus) - Software for VitaDock
@@ -229,6 +237,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [TubeVita](https://github.com/theheroGAC/TubeVita) - Alternative YouTube client
 - [Vita Media Center](http://wololo.net/talk/viewtopic.php?f=116&t=48887&sid=dbbf2c139506b7daab4486cf84ff41db) - MP4 video player
 - [Vita Media Importer](https://github.com/cnsldv/MediaImporter) - Imports media into the PS Vita video and music players
+- [Vita Media Player](https://github.com/SonicMastr/Vita-Media-Player) - An Open Source PSVita/TV MP4 player with 1080p playback and subtitle support
 ### 📖 Reading
 - [Bookr](https://github.com/pathway27/bookr-mod-vita) - PDF, CBZ, HTML, ePub, FB2 reader
 - [Noboru](https://github.com/Creckeryop/NOBORU) - Manga/comics browser/reader
@@ -274,6 +283,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Minecraft Texture Port](https://www.reddit.com/r/VitaPiracy/comments/cwwcl4/minecraft_playstation_vita_edition_183_1144) - Minecraft texture pack from PC version 1.14.4
 - [NFSMW_Settings](https://github.com/Electry/NFSMW_Settings) - Fixes some of the glaring issues with NFS:MW
 - [Borderlands-2-Altered-Config](https://github.com/justalex95/Borderlands-2-Vita-TweakyBlinders-config) - An altered config file for Borderlands 2 to increase playability and fps
+- [God of War Remastered videos](https://www.reddit.com/r/vitahacks/comments/pd5t1n/release_god_of_war_ps_vita_remastered_videos_v20) - GoW HQ Cutscenes
 - [Persona 4 Golden Patches](https://github.com/zarroboogs/p4g-patches) - Set of patches for P4G
 - [Persona 3/4/5 Dancing Patches](https://github.com/zarroboogs/pXd-patches) - Set of patches for P3D, P4D and P5D
 - [GTA III 10th Anniversary Edition](https://vk.com/@portablegaming-gta3ae10th) - 10th Anniversary Edition extensions for [re3-vita](https://www.psx-place.com/threads/re3-vita-a-full-reverse-engineered-reimplementation-of-gta-iii.31588)
@@ -297,11 +307,16 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Vita SDK](https://vitasdk.org) - Development SDK for PS Vita
 - [Vita Development Suite](https://forum.devchroma.nl/index.php?topic=332.0) - Additional features for the PlayStation Vita SDK
 - [VitaDeploy](https://github.com/SKGleba/VitaDeploy) - Toolbox that makes homebrewing the Playstation Vita/TV easier
+https://github.com/GrapheneCt/PVR_PSP2
+- [VitaGL](https://github.com/Rinnegatamante/vitaGL) - Wrapper between OpenGL and sceGxm
+- [PVR_PSP2](https://github.com/GrapheneCt/PVR_PSP2) - Native EGL, WSEGL, OpenGL ES v1.1 ports
+- [QuickMenuReborn](https://github.com/Ibrahim778/QuickMenuReborn) - Library for developers to easily add their own widgets, to the Vita's Quick Menu
 ### 🔎 Reverse Engineering
 - [PSVita Reverse Engineering Tools](https://github.com/CelesteBlue-dev/PSVita-RE-tools) - A bundle of RE tools for PSVita
 - [KVDB](https://github.com/DaveeFTW/kvdb) - Vita Debugger Kernel Plugin
 - [Ghidra Vita Loader](https://github.com/xerpi/GhidraVitaLoader) - Scripts for loading PSVita ELF Binaries into NSA's Ghidra
 - [Vita Loader](https://github.com/mailwl/vitaldr) - IDA Plugin for loading PSVita ELF Binaries into IDA Pro
+- [CXML-Decompiler](https://bitbucket.org/SilicaAndPina/cxml-decompiler/src/master/) - Playstation Mobile (app.info), RCOF (.rco) and RCSF (.rcs) decompiler
 - [RegistryEditorMOD](https://github.com/devnoname120/RegistryEditorMOD) - Allows you to read and edit all registry settings
 - [MaiDumpToolEN](https://github.com/LioMajor/MaiDumpToolEN) - Game dumper and patcher
 - [PS Vita Decrypted Firmwares](https://files.olebeck.com/firmware/vita/decrypted) - A collection of decrypted PS Vita firmwares
