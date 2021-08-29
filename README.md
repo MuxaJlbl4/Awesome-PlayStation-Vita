@@ -308,7 +308,6 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Vita SDK](https://vitasdk.org) - Development SDK for PS Vita
 - [Vita Development Suite](https://forum.devchroma.nl/index.php?topic=332.0) - Additional features for the PlayStation Vita SDK
 - [VitaDeploy](https://github.com/SKGleba/VitaDeploy) - Toolbox that makes homebrewing the Playstation Vita/TV easier
-https://github.com/GrapheneCt/PVR_PSP2
 - [VitaGL](https://github.com/Rinnegatamante/vitaGL) - Wrapper between OpenGL and sceGxm
 - [PVR_PSP2](https://github.com/GrapheneCt/PVR_PSP2) - Native EGL, WSEGL, OpenGL ES v1.1 ports
 - [QuickMenuReborn](https://github.com/Ibrahim778/QuickMenuReborn) - Library for developers to easily add their own widgets, to the Vita's Quick Menu
@@ -405,6 +404,6 @@ https://github.com/GrapheneCt/PVR_PSP2
 - [Bounties](https://github.com/vita-nuova/bounties/issues) - Bounties for new Vita projects
 - [Plugin descriptions](https://github.com/ONElua/AutoPlugin2/tree/master/AUTOPLUG2/lang) - Short plugin descriptions from [Autoplugin 2](https://github.com/ONElua/AutoPlugin2)
 - [Tech Specs](https://web.archive.org/web/20201116183455/https://www.playstation.com/en-us/explore/psvita/system/system-specs) - PS Vita technical specifications
-- [SKU Models] - PS Vita models table
+- [SKU Models](https://playstationdev.wiki/psvitadevwiki/index.php?title=SKU_Models) - PS Vita models table
 - [Plugin hotkeys](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/PSVHotkeys.md) - List of plugin hotkeys
 <br>
