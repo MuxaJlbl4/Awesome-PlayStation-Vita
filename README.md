@@ -117,7 +117,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [Exclusives List](https://www.giantbomb.com/profile/blacklagoon/lists/vita-exclusives/86370) - List of PS Vita exclusives
 ### 🌱 HomeBrew
 - [VitaDB](https://vitadb.rinnegatamante.it/#) - A collection of ports, emulators and original games
-- [VitaGL Games](https://github.com/Rinnegatamante/vitaGL#projects-actually-using-vitagl) - List of projects using vitaGL
+- [VitaGL Games](https://github.com/Rinnegatamante/vitaGL#projects-actually-using-vitagl) - List of projects using VitaGL
 - [Lua Games](https://github.com/Rinnegatamante/lpp-vita#showcase) - List of projects using Lua Player Plus
 - [Some Visual Novel](https://www.reddit.com/r/VitaPiracy/comments/90espv/vnds_clone_games_on_this_reddit) - VNDS Clone games for Vita
 <br>
@@ -191,7 +191,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [kubridge](https://github.com/TheOfficialFloW/kubridge) - DynaRec feature extender (for [max_vita](https://github.com/fgsfdsfgs/max_vita))
 - [FdFix](https://github.com/TheOfficialFloW/FdFix) - Fixes invalidated file descriptors after suspend and resume (for [re3-vita](https://www.psx-place.com/threads/re3-vita-a-full-reverse-engineered-reimplementation-of-gta-iii.31588))
 - [PSP2-batteryFixer](https://github.com/SKGleba/PSP2-batteryFixer) - Fixes most battery related problems
-- [USBDisable](https://github.com/Ibrahim778/USBDisable) - Disable the annoying "Connecting" dialog when you connect your vita to your PC
+- [USBDisable](https://github.com/Ibrahim778/USBDisable) - Disable the annoying "Connecting" dialog when you connect your Vita to your PC
 ### 🎨 Appearance
 - [HexFlow-Launcher](https://github.com/VitaHEX-Games/HexFlow-Launcher) - A 3d coverflow like launcher for PS Vita
 - [ONEMenu](https://github.com/ONElua/ONEMenu-for-PSVita) - Custom UI and title name editor
@@ -259,6 +259,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [VitaGrafixConfigurator](https://github.com/Kirezar/VitaGrafixConfigurator) - GUI configurator for VitaGrafix
 - [VitaGrafixPatchlist](https://github.com/Electry/VitaGrafixPatchlist) - A collection of patches for VitaGrafix
 - [Vita Nearest Neighbour](https://github.com/MuxaJlbl4/Vita-Nearest-Neighbour) - Changes texture sampling to point filtering method
+- [Vita Bilinear](https://github.com/swosho/Vita-Bilinear) - Changes texture sampling to linear filtering method
 - [reRescaler](http://wololo.net/talk/viewtopic.php?f=52&t=49666) - Replacement for built-in rescaler
 ### 🏆 Trophies
 - [TropHAXSE](https://bitbucket.org/SilicaAndPina/trophaxse/src/master) - Trophy unlocker app
@@ -316,7 +317,7 @@ https://github.com/GrapheneCt/PVR_PSP2
 - [KVDB](https://github.com/DaveeFTW/kvdb) - Vita Debugger Kernel Plugin
 - [Ghidra Vita Loader](https://github.com/xerpi/GhidraVitaLoader) - Scripts for loading PSVita ELF Binaries into NSA's Ghidra
 - [Vita Loader](https://github.com/mailwl/vitaldr) - IDA Plugin for loading PSVita ELF Binaries into IDA Pro
-- [CXML-Decompiler](https://bitbucket.org/SilicaAndPina/cxml-decompiler/src/master/) - Playstation Mobile (app.info), RCOF (.rco) and RCSF (.rcs) decompiler
+- [CXML-Decompiler](https://bitbucket.org/SilicaAndPina/cxml-decompiler/src/master) - Playstation Mobile (app.info), RCOF (.rco) and RCSF (.rcs) decompiler
 - [RegistryEditorMOD](https://github.com/devnoname120/RegistryEditorMOD) - Allows you to read and edit all registry settings
 - [MaiDumpToolEN](https://github.com/LioMajor/MaiDumpToolEN) - Game dumper and patcher
 - [PS Vita Decrypted Firmwares](https://files.olebeck.com/firmware/vita/decrypted) - A collection of decrypted PS Vita firmwares
@@ -330,6 +331,7 @@ https://github.com/GrapheneCt/PVR_PSP2
 - [TempAR-Vita](https://github.com/Yohoki/TempAR-Vita) - Pointer scanner for use with Vita, PSP, and NDS
 - [ContentServer](https://github.com/KuromeSan/ContentServer) - Server for Content Downloader
 - [GayMaker](https://github.com/KuromeSan/GayMaker/tree/master/GayMaker) - GameMaker:Studio to PSVita compiler
+- [GameMakerVPKBuilder](https://wololo.net/2021/08/12/vita-release-gamemakervpkbuilder-1-0) - GameMaker PC games recompiler
 - [Chovy Sign](https://github.com/KuromeSan/chovy-sign) - PSP ISOs on unhacked PSVita
 - [PSX2PSP​](https://www.psx-place.com/resources/psx2psp.586) - Allows you to convert PS1/PSX game into format playable on PSP/Adrenaline
 - [PSP2-CBAnim](https://github.com/SKGleba/PSP2-CBAnim) - Boot animation creator for [CBS-Manager](https://github.com/SKGleba/CBS-Manager)
@@ -351,6 +353,7 @@ https://github.com/GrapheneCt/PVR_PSP2
 - [CFWaifu Vita Tutorials](https://www.cfwaifu.com/psvita) - CFWaifu guides
 - [Wololo Tutorials](https://wololo.net/talk/viewforum.php?f=65) - Wololo.net/talk Vita tutorials
 - [PSV Hacking 4PDA](https://4pda.to/forum/index.php?showtopic=465175) - Russian guides for hacking
+- [Project Rinascita](https://wololo.net/2021/07/10/project-rinascita-taking-the-vita-from-zero-to-hero) - Most common hacking problems and solves
 ### 👩‍💻 Dev Docs
 - [Vita SDK Docs](https://docs.vitasdk.org) - Vita SDK Docs
 - [Vita Development Wiki](https://wiki.henkaku.xyz/vita/Main_Page) - Vita SDK wiki
@@ -398,8 +401,10 @@ https://github.com/GrapheneCt/PVR_PSP2
 - [Vita3K](https://github.com/Vita3K/compatibility/issues) - Compatibility list for [Vita3K](https://github.com/Vita3K/Vita3K)
 ### 🧩 Misc
 - [AR Play Cards](https://www.retrocomputers.gr/media/kunena/attachments/155/AR-Play-Cards.pdf) - Augmented Reality cards for PS Vita
+- [Android games](https://android.rinnegatamante.it) - List of Android games portable to PS Vita
 - [Bounties](https://github.com/vita-nuova/bounties/issues) - Bounties for new Vita projects
 - [Plugin descriptions](https://github.com/ONElua/AutoPlugin2/tree/master/AUTOPLUG2/lang) - Short plugin descriptions from [Autoplugin 2](https://github.com/ONElua/AutoPlugin2)
 - [Tech Specs](https://web.archive.org/web/20201116183455/https://www.playstation.com/en-us/explore/psvita/system/system-specs) - PS Vita technical specifications
+- [SKU Models] - PS Vita models table
 - [Plugin hotkeys](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/PSVHotkeys.md) - List of plugin hotkeys
 <br>
