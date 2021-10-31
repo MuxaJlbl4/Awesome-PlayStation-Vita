@@ -291,6 +291,9 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [GTA: SA 10th Anniversary Edition](https://vk.com/@portablegaming-gtasa10thae) - 10th Anniversary Edition extensions for [GTA: SA Vita](https://github.com/TheOfficialFloW/gtasa_vita)
 - [Max Payne PC Anniversary Edition](https://vk.com/@portablegaming-maxpaynepcae) - PC version features for [max_vita](https://github.com/fgsfdsfgs/max_vita)
 - [Various GTA Downgraders](https://gtaforums.com/topic/936600-iii-iv-various-gta-downgraders) - Downgrade guides for GTA games (PC)
+- [Super Mario 64 Patches] - [SM64](https://github.com/bythos14/sm64-vita) with 60 FPS and Puppy Camera patches
+- [Need for Speed: Most Wanted REDUX](https://www.reddit.com/r/VitaPiracy/comments/pnnif4/mod_need_for_speed_most_wanted_psvita_redux) - Makes NfS:MW(2012) more similar to the PC version
+- [Crazy Taxi Fare Wars Music Mod](https://disk.yandex.ru/d/P-OQHRHCfkI0ng) - Music from Crazy Taxi 1,2
 ### 💉 Adrenaline Plugins
 - [GePatch](https://github.com/TheOfficialFloW/GePatch) - Allows you to play some PSP games in native PS Vita resolution
 - [Remastered Controls Collection](https://github.com/TheOfficialFloW/RemasteredControls) - Enables second stick in some PSP games
