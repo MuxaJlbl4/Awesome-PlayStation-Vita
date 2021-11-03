@@ -89,7 +89,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [VitaShell](https://github.com/TheOfficialFloW/VitaShell) - File manager
 - [PKGj](https://github.com/blastrock/pkgj) - [NoPayStation](https://nopaystation.com) browser and installer
 - [Autoplugin 2](https://github.com/ONElua/AutoPlugin2) - Plugin browser and installer
-- [Vita HomeBrew Browser](https://github.com/devnoname120/vhbb) - [VitaDB](https://vitadb.rinnegatamante.it/#) browser and installer
+- [Better Homebrew Browser](https://store.brewology.com/vita/ahomebrew.php?brewid=1022) - [VitaDB](https://vitadb.rinnegatamante.it/#) browser and installer
 - [EasyVPK](https://github.com/Electric1447/EasyVPK) - [VitaDB](https://vitadb.rinnegatamante.it/#) browser and installer
 - [vita-savemgr](https://github.com/d3m3vilurr/vita-savemgr) - Savegame manager
 - [hbRedirect](https://github.com/Rinnegatamante/hbRedirect) - Redirects ux0 usage to other partitions
@@ -128,13 +128,15 @@ Contains all most important, actual and cool things in my humble opinion.
 - [Cores List](https://github.com/libretro/libretro-super/blob/master/recipes/playstation/vita) - List of RetroArch Cores for Vita
 - [pFBN](https://github.com/Cpasjuste/pemu/tree/master/pfba) - Several Arcade and Console systems emulator
 ### 7️⃣ 7th Gen
-- [Adrenaline](https://github.com/TheOfficialFloW/Adrenaline) - Modified official PlayStation Portable (PSP) emulator
-- [MelonDS-Vita](https://github.com/Rinnegatamante/melonDS-Vita) - Nintendo DS emulator
+- [Adrenaline](https://github.com/TheOfficialFloW/Adrenaline) - Allows you to run natively PlayStation Portable (PSP) games on Vita
+- [NooDS](https://github.com/Hydr8gon/NooDS) - Multiplatform DS/GBA emulator (slow on Vita)
+- [DeSmuME-Vita](https://github.com/masterfeizz/DeSmuME-Vita) - DeSmuME port for Vita (slow)
+- [MelonDS-Vita](https://github.com/Rinnegatamante/melonDS-Vita) - Nintendo DS emulator (slow)
 ### 6️⃣ 6th Gen
 - [Flycast-vita​](https://www.psx-place.com/threads/release-flycast-vita-dreamcast-emulator-for-psvita-pstv.32449) - Sega Dreamcast emulator
 - [mGBA](https://github.com/mgba-emu/mgba) - Nintendo Game Boy Advance emulator
 ### 5️⃣ 5th Gen
-- [Adrenaline Pops](https://github.com/TheOfficialFloW/Adrenaline) - Modified built in PlayStation One emulator ([PSX2PSP​](https://www.psx-place.com/resources/psx2psp.586) might be helpful)
+- [Adrenaline](https://github.com/TheOfficialFloW/Adrenaline) - Allows you to run natively PlayStation One games as on PSP ([PSX2PSP​](https://www.psx-place.com/resources/psx2psp.586) might be helpful)
 - [DaedalusX64-vitaGL](https://github.com/Rinnegatamante/daedalusx64-vitagl) - Nintendo 64 emulator (vitaGL based)
 ### 🖥️ Computers
 - [Basilisk II](https://github.com/rsn8887/basiliskii-vita) - Apple Macintosh II emulator
@@ -162,6 +164,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [BetterTrackPlug](https://github.com/fmudanyali/BetterTrackPlug) - Playtime tracker plugin for PS Vita
 - [Quietshot](https://github.com/Princess-of-Sleeping/Quietshot) - Disables camera shutter sound
 - [jav](https://git.shotatoshounenwachigau.moe/vita/jav/about) - Automatic volume level switching for each audio device
+- [PasteUnlock](https://github.com/GrapheneCt/PasteUnlock) - Unlocks hidden copy/paste feature in system software
 - [vitabright](https://github.com/devnoname120/vitabright) - Expand bright levels range
 - [dt2s-vita](https://github.com/joel16/dt2s-vita) - Puts your PS VITA to sleep if you double tap the touch screen
 - [TransparentImpose](https://github.com/GrapheneCt/TransparentImpose) - Makes impose menu transparent
@@ -287,9 +290,10 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [God of War Remastered videos](https://www.reddit.com/r/vitahacks/comments/pd5t1n/release_god_of_war_ps_vita_remastered_videos_v20) - GoW HQ Cutscenes
 - [Persona 4 Golden Patches](https://github.com/zarroboogs/p4g-patches) - Set of patches for P4G
 - [Persona 3/4/5 Dancing Patches](https://github.com/zarroboogs/pXd-patches) - Set of patches for P3D, P4D and P5D
-- [GTA III 10th Anniversary Edition](https://vk.com/@portablegaming-gta3ae10th) - 10th Anniversary Edition extensions for [re3-vita](https://www.psx-place.com/threads/re3-vita-a-full-reverse-engineered-reimplementation-of-gta-iii.31588)
-- [GTA: SA 10th Anniversary Edition](https://vk.com/@portablegaming-gtasa10thae) - 10th Anniversary Edition extensions for [GTA: SA Vita](https://github.com/TheOfficialFloW/gtasa_vita)
-- [Max Payne PC Anniversary Edition](https://vk.com/@portablegaming-maxpaynepcae) - PC version features for [max_vita](https://github.com/fgsfdsfgs/max_vita)
+- [GTA III 10th Anniversary Edition](https://pgteam.gitbook.io/pgbook/10thae) - 10th Anniversary Edition extensions for [re3](https://dl.coolatoms.org/vitadb/GTA3.vpk)[-vita](https://dl.coolatoms.org/vitadb/gta3.zip)
+- [GTA: VC 10th Anniversary Edition](https://pgteam.gitbook.io/pgbook/vc10thae) - 10th Anniversary Edition extensions for [re3-miami](https://dl.coolatoms.org/vitadb/GTAVC.vpk)[-vita](https://dl.coolatoms.org/vitadb/vcdata.zip)
+- [GTA: SA 10th Anniversary Edition](https://pgteam.gitbook.io/pgbook/sapcae) - 10th Anniversary Edition extensions for [GTA:SA](https://dl.coolatoms.org/vitadb/GTASA.vpk)[-vita](https://dl.coolatoms.org/vitadb/gtasa.zip)
+- [Max Payne PC Anniversary Edition](https://pgteam.gitbook.io/pgbook/pcae) - PC version features for [max_vita](https://github.com/fgsfdsfgs/max_vita)
 - [Various GTA Downgraders](https://gtaforums.com/topic/936600-iii-iv-various-gta-downgraders) - Downgrade guides for GTA games (PC)
 - [Super Mario 64 Patches](https://drive.google.com/drive/folders/12JO4SOzOT89pXLxZ3WXfGI8cLSp6u2Gm) - [SM64](https://github.com/bythos14/sm64-vita) with 60 FPS and Puppy Camera patches
 - [Need for Speed: Most Wanted REDUX](https://www.reddit.com/r/VitaPiracy/comments/pnnif4/mod_need_for_speed_most_wanted_psvita_redux) - Makes NfS:MW(2012) more similar to the PC version
@@ -354,6 +358,8 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Vita Troubleshooting Guide](https://samilops2.gitbook.io/vita-troubleshooting-guide) - Useful tutorials for installing hacks, complex homebrews/plugins etc
 - [CFWaifu Vita Tutorials](https://www.cfwaifu.com/psvita) - CFWaifu guides
 - [Wololo Tutorials](https://wololo.net/talk/viewforum.php?f=65) - Wololo.net/talk Vita tutorials
+- [PGBook](https://pgteam.gitbook.io/pgbook) - PortableGaming guides and articles
+- [PortableGaming](https://vk.com/@portablegaming) - Russian PortableGaming guides and articles
 - [PSV Hacking 4PDA](https://4pda.to/forum/index.php?showtopic=465175) - Russian guides for hacking
 - [Project Rinascita](https://wololo.net/2021/07/10/project-rinascita-taking-the-vita-from-zero-to-hero) - Most common hacking problems and solves
 ### 👩‍💻 Dev Docs
@@ -361,6 +367,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Vita Development Wiki](https://wiki.henkaku.xyz/vita/Main_Page) - Vita SDK wiki
 - [PS Vita Dev Wiki](https://playstationdev.wiki/psvitadevwiki/index.php?title=Main_Page) - Another wiki for developers
 - [Unity setup](https://www.patreon.com/posts/guide-how-to-to-24906451) - How to setup Unity to develop PS Vita Games
+- [Compiling VitaQuake](https://forum.devchroma.nl/index.php?topic=148.0) - Compiling VitaQuake tutorial
 ### 🧶 RE Tutorials
 - [Dots_tb tutorials](https://forum.devchroma.nl/index.php/topic,204.msg524.html#msg524) - Useful RE tutorials by [dots_tb](https://github.com/dots-tb)
 - [Unity debugging](https://forum.devchroma.nl/index.php/topic,21.0.html) - Debugging some Unity games
