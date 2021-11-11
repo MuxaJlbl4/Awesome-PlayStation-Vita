@@ -290,10 +290,10 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [God of War Remastered videos](https://www.reddit.com/r/vitahacks/comments/pd5t1n/release_god_of_war_ps_vita_remastered_videos_v20) - GoW HQ Cutscenes
 - [Persona 4 Golden Patches](https://github.com/zarroboogs/p4g-patches) - Set of patches for P4G
 - [Persona 3/4/5 Dancing Patches](https://github.com/zarroboogs/pXd-patches) - Set of patches for P3D, P4D and P5D
-- [GTA III 10th Anniversary Edition](https://pgteam.gitbook.io/pgbook/10thae) - 10th Anniversary Edition extensions for [re3](https://dl.coolatoms.org/vitadb/GTA3.vpk)[-vita](https://dl.coolatoms.org/vitadb/gta3.zip)
-- [GTA: VC 10th Anniversary Edition](https://pgteam.gitbook.io/pgbook/vc10thae) - 10th Anniversary Edition extensions for [re3-miami](https://dl.coolatoms.org/vitadb/GTAVC.vpk)[-vita](https://dl.coolatoms.org/vitadb/vcdata.zip)
-- [GTA: SA 10th Anniversary Edition](https://pgteam.gitbook.io/pgbook/sapcae) - 10th Anniversary Edition extensions for [GTA:SA](https://dl.coolatoms.org/vitadb/GTASA.vpk)[-vita](https://dl.coolatoms.org/vitadb/gtasa.zip)
-- [Max Payne PC Anniversary Edition](https://pgteam.gitbook.io/pgbook/pcae) - PC version features for [max_vita](https://github.com/fgsfdsfgs/max_vita)
+- [GTA III 10th Anniversary Edition](https://pgtmp.gitbook.io/pgbook/grand-theft-auto/revisited-trilogy/gta-iii) - 10th Anniversary Edition extensions for [re3](https://dl.coolatoms.org/vitadb/GTA3.vpk)[-vita](https://dl.coolatoms.org/vitadb/gta3.zip)
+- [GTA: VC 10th Anniversary Edition](https://pgtmp.gitbook.io/pgbook/grand-theft-auto/revisited-trilogy/gta-vice-city) - 10th Anniversary Edition extensions for [re3-miami](https://dl.coolatoms.org/vitadb/GTAVC.vpk)[-vita](https://dl.coolatoms.org/vitadb/vcdata.zip)
+- [GTA: SA 10th Anniversary Edition](https://pgtmp.gitbook.io/pgbook/grand-theft-auto/revisited-trilogy/gta-san-andreas) - 10th Anniversary Edition extensions for [GTA:SA](https://dl.coolatoms.org/vitadb/GTASA.vpk)[-vita](https://dl.coolatoms.org/vitadb/gtasa.zip)
+- [Max Payne PC Anniversary Edition](https://pgtmp.gitbook.io/pgbook/other/max-payne) - PC version features for [max_vita](https://github.com/fgsfdsfgs/max_vita)
 - [Various GTA Downgraders](https://gtaforums.com/topic/936600-iii-iv-various-gta-downgraders) - Downgrade guides for GTA games (PC)
 - [Super Mario 64 Patches](https://drive.google.com/drive/folders/12JO4SOzOT89pXLxZ3WXfGI8cLSp6u2Gm) - [SM64](https://github.com/bythos14/sm64-vita) with 60 FPS and Puppy Camera patches
 - [Need for Speed: Most Wanted REDUX](https://www.reddit.com/r/VitaPiracy/comments/pnnif4/mod_need_for_speed_most_wanted_psvita_redux) - Makes NfS:MW(2012) more similar to the PC version
@@ -358,7 +358,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Vita Troubleshooting Guide](https://samilops2.gitbook.io/vita-troubleshooting-guide) - Useful tutorials for installing hacks, complex homebrews/plugins etc
 - [CFWaifu Vita Tutorials](https://www.cfwaifu.com/psvita) - CFWaifu guides
 - [Wololo Tutorials](https://wololo.net/talk/viewforum.php?f=65) - Wololo.net/talk Vita tutorials
-- [PGBook](https://pgteam.gitbook.io/pgbook) - PortableGaming guides and articles
+- [PGBook](https://pgtmp.gitbook.io/pgbook) - PortableGaming guides and articles
 - [PortableGaming](https://vk.com/@portablegaming) - Russian PortableGaming guides and articles
 - [PSV Hacking 4PDA](https://4pda.to/forum/index.php?showtopic=465175) - Russian guides for hacking
 - [Project Rinascita](https://wololo.net/2021/07/10/project-rinascita-taking-the-vita-from-zero-to-hero) - Most common hacking problems and solves
