@@ -2,7 +2,7 @@
 | Title | Source Code | Max FPS | Comment |
 | ----- | ----------- | ------- | ------- |
 | [NBlood (Blood)](https://github.com/Rinnegatamante/NBlood-Vita) | ✅ | 240 |  |
-| [Gish](https://github.com/isage /Gish-vita) | ✅ | 60 | [New Player Issue](https://github.com/isage/Gish-vita/issues/1) |
+| [Gish](https://github.com/isage/Gish-vita) | ✅ | 60 | [New Player Issue](https://github.com/isage/Gish-vita/issues/1) |
 | [re3 (Grand Theft Auto 3)](https://dl.coolatoms.org/vitadb/GTA3.vpk) | ✅ | 30/♾️ | [Data Files](https://dl.coolatoms.org/vitadb/gta3.zip); [How to Install](https://samilops2.gitbook.io/vita-troubleshooting-guide/grand-theft-auto/gta-iii) |
 | [re3-miami (Grand Theft Auto: Vice City)](https://dl.coolatoms.org/vitadb/GTAVC.vpk) | ✅ | 30/♾️ | [Data Files](https://dl.coolatoms.org/vitadb/vcdata.zip) |
 | [OpenLara (Tomb Raider)](https://github.com/XProger/OpenLara) | ✅ | 60 |  |
