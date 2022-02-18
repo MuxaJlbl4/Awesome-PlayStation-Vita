@@ -126,6 +126,7 @@ Contains all most important, actual and cool things in my humble opinion.
 ### 🌌 Collections
 - [RetroArch](https://buildbot.libretro.com/nightly/playstation/vita) -  Frontend for emulators, game engines and media players with bunch of cores
 - [Cores List](https://github.com/libretro/libretro-super/blob/master/recipes/playstation/vita) - List of RetroArch Cores for Vita
+- [Recommended Cores](https://www.reddit.com/r/vitahacks/comments/rts9an/my_recommended_retroarch_cores_to_emulate_nes) - Best cores for Vita
 - [pFBN](https://github.com/Cpasjuste/pemu/tree/master/pfba) - Several Arcade and Console systems emulator
 ### 7️⃣ 7th Gen
 - [Adrenaline](https://github.com/TheOfficialFloW/Adrenaline) - Allows you to run natively PlayStation Portable (PSP) games on Vita
@@ -175,6 +176,8 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [VitaTester](https://github.com/NamelessGhoul0/VitaTester) - Testing input
 - [VitaPad](https://www.psx-place.com/threads/vitapad.30520) - Allows to use PS Vita as a wireless gamepad
 - [vitastick](https://github.com/xerpi/vitastick) - Allows to use PS Vita as an USB gamepad
+- [hidmouse](https://github.com/xerpi/hidmouse) - Allows to use PS Vita as an USB Mouse
+- [VitaKeyboard](https://github.com/mswlandi/vitakeyboard) Allows to use PS Vita as an USB Keyboard
 - [vita-ps4linkcontrols](https://github.com/nowrep/vita-ps4linkcontrols) - Button configuration plugin for Remote Play
 - [ds34vita](https://github.com/MERLev/ds34vita) - Allows to use Dualshock 3/4 controllers
 - [DS34Motion](https://github.com/MERLev/DS34Motion) - Adds motion control support for PlayStation TV with DualShock
@@ -199,11 +202,11 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [HexFlow-Launcher](https://github.com/VitaHEX-Games/HexFlow-Launcher) - A 3d coverflow like launcher for PS Vita
 - [ONEMenu](https://github.com/ONElua/ONEMenu-for-PSVita) - Custom UI and title name editor
 - [vita-launcher](https://github.com/cy33hc/vita-launcher) - App/game launcher application
+- [Retroarch Bubble Builder](https://github.com/AntHJ/Retroarch-Bubble-Builder) -  Allows you to create RetroArch bubbles natively on your PS Vita
 - [Adrenaline Bubbles Manager](https://github.com/ONElua/AdrenalineBubbleManager) - Allows you to create bubbles to launch PSP games without XMB via [AdrBubbleBooter plugin](https://sites.google.com/site/theleecherman/adrbubblebooter)
 - [Bubble booter](https://sites.google.com/site/theleecherman/adrbubblebooter) - Directly boots any PSP file (ISO\CSO\PBP\PSOne) from LiveArea's Bubbles
 - [Custom Bubble Tutorial](https://www.reddit.com/r/vitahacks/comments/hjmn5k/ps_vita_daedalusx64_and_retroarch_custom_bubbles) - Tutorial on how to create bubbles for RetroArch and DaedalusX64
-- [Bubble-Builder](https://github.com/DRok17/Bubble-Builder) - VPK re-packaging tool for Homebrew and Adrenaline Bubble Booter assets
-- [RetroBuilder](https://github.com/DRok17/RetroBuilder) - LiveArea Bubbles for RetroArch and Daedalus X64 
+- [Multi-Builder](https://github.com/DRok17/Multi-Builder) - Combines [RetroBuilder](https://github.com/DRok17/RetroBuilder), [FAKE08-Builder](https://github.com/DRok17/Fake-08-Builder), [ScummVM-Builder](https://github.com/DRok17/Scummvm-Builder) and [Bubble-Builder](https://github.com/DRok17/Bubble-Builder)
 - [CBS-Manager](https://github.com/SKGleba/CBS-Manager) - Displays an image/animation/console info during the PSVita boot process
 - [Theme Manager Ex](https://bitbucket.org/kylon/theme-manager-ex-theme-engine/src/master) - Advanced theme manger
 - [Shortcuts Enhancer](https://github.com/ONElua/Shortcuts-Enhancer) - Custom shortcuts in the PS Vita index menu
@@ -241,6 +244,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Vita Media Center](http://wololo.net/talk/viewtopic.php?f=116&t=48887&sid=dbbf2c139506b7daab4486cf84ff41db) - MP4 video player
 - [Vita Media Importer](https://github.com/cnsldv/MediaImporter) - Imports media into the PS Vita video and music players
 - [Vita Media Player](https://github.com/SonicMastr/Vita-Media-Player) - An Open Source PSVita/TV MP4 player with 1080p playback and subtitle support
+- [Video Bubbles Creator](https://vitadb.rinnegatamante.it/#/info/323) - Convert a video in whatever format to a Vita bubble (.vpk)
 ### 📖 Reading
 - [Bookr](https://github.com/pathway27/bookr-mod-vita) - PDF, CBZ, HTML, ePub, FB2 reader
 - [Noboru](https://github.com/Creckeryop/NOBORU) - Manga/comics browser/reader
@@ -284,7 +288,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Super Meat Boy Original Music](https://www.reddit.com/r/VitaPiracy/comments/52g7fa/super_meat_boy_danny_b_music_mod) - Original music by Danny Baranowsky for SMB
 - [The Binding of Isaac: Rebirth Original Music](https://www.reddit.com/r/themoddingofisaac/comments/50rvkg/ps_vita_original_music_for_binding_of_isaac) - Original music by Danny Baranowsky for TBoI:R
 - [Filter Fix for Duke Nukem 3D: Megaton Edition](https://github.com/MuxaJlbl4/DN3DME-Vita-Filter-Fix) - Linear filter disabler for DN3D:ME
-- [Minecraft Texture Port](https://www.reddit.com/r/VitaPiracy/comments/cwwcl4/minecraft_playstation_vita_edition_183_1144) - Minecraft texture pack from PC version 1.14.4
+- [Minecraft Texture Port](https://www.mediafire.com/file/oz05izc5gqyfnv0/1.14.4_Textures_-_PS_Vita.zip/file) - Minecraft texture pack from PC version 1.14.4
 - [NFSMW_Settings](https://github.com/Electry/NFSMW_Settings) - Fixes some of the glaring issues with NFS:MW
 - [Borderlands-2-Altered-Config](https://github.com/justalex95/Borderlands-2-Vita-TweakyBlinders-config) - An altered config file for Borderlands 2 to increase playability and fps
 - [God of War Remastered videos](https://www.reddit.com/r/vitahacks/comments/pd5t1n/release_god_of_war_ps_vita_remastered_videos_v20) - GoW HQ Cutscenes
@@ -292,12 +296,13 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Persona 3/4/5 Dancing Patches](https://github.com/zarroboogs/pXd-patches) - Set of patches for P3D, P4D and P5D
 - [GTA III 10th Anniversary Edition](https://pgtmp.gitbook.io/pgbook/grand-theft-auto/revisited-trilogy/gta-iii) - 10th Anniversary Edition extensions for [re3](https://dl.coolatoms.org/vitadb/GTA3.vpk)[-vita](https://dl.coolatoms.org/vitadb/gta3.zip)
 - [GTA: VC 10th Anniversary Edition](https://pgtmp.gitbook.io/pgbook/grand-theft-auto/revisited-trilogy/gta-vice-city) - 10th Anniversary Edition extensions for [re3-miami](https://dl.coolatoms.org/vitadb/GTAVC.vpk)[-vita](https://dl.coolatoms.org/vitadb/vcdata.zip)
-- [GTA: SA 10th Anniversary Edition](https://pgtmp.gitbook.io/pgbook/grand-theft-auto/revisited-trilogy/gta-san-andreas) - 10th Anniversary Edition extensions for [GTA:SA](https://dl.coolatoms.org/vitadb/GTASA.vpk)[-vita](https://dl.coolatoms.org/vitadb/gtasa.zip)
+- [GTA: SA 10th Anniversary Edition](https://pgtmp.gitbook.io/pgbook/grand-theft-auto/revisited-trilogy/gta-san-andreas) - 10th Anniversary Edition extensions for [GTA:SA-vita](https://github.com/TheOfficialFloW/gtasa_vita)
 - [Max Payne PC Anniversary Edition](https://pgtmp.gitbook.io/pgbook/other/max-payne) - PC version features for [max_vita](https://github.com/fgsfdsfgs/max_vita)
 - [Various GTA Downgraders](https://gtaforums.com/topic/936600-iii-iv-various-gta-downgraders) - Downgrade guides for GTA games (PC)
 - [Super Mario 64 Patches](https://drive.google.com/drive/folders/12JO4SOzOT89pXLxZ3WXfGI8cLSp6u2Gm) - [SM64](https://github.com/bythos14/sm64-vita) with 60 FPS and Puppy Camera patches
 - [Need for Speed: Most Wanted REDUX](https://www.reddit.com/r/VitaPiracy/comments/pnnif4/mod_need_for_speed_most_wanted_psvita_redux) - Makes NfS:MW(2012) more similar to the PC version
 - [Crazy Taxi Fare Wars Music Mod](https://disk.yandex.ru/d/P-OQHRHCfkI0ng) - Music from Crazy Taxi 1,2
+- [LittleBigPlanet Project Lighthouse](https://www.lbpunion.com/post/project-lighthouse-littlebigplanet-private-servers) - LittleBigPlanet alternative server (currently only private access)
 ### 💉 Adrenaline Plugins
 - [GePatch](https://github.com/TheOfficialFloW/GePatch) - Allows you to play some PSP games in native PS Vita resolution
 - [Remastered Controls Collection](https://github.com/TheOfficialFloW/RemasteredControls) - Enables second stick in some PSP games
@@ -318,6 +323,8 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [VitaGL](https://github.com/Rinnegatamante/vitaGL) - Wrapper between OpenGL and sceGxm
 - [PVR_PSP2](https://github.com/GrapheneCt/PVR_PSP2) - Native EGL, WSEGL, OpenGL ES v1.1 ports
 - [QuickMenuReborn](https://github.com/Ibrahim778/QuickMenuReborn) - Library for developers to easily add their own widgets, to the Vita's Quick Menu
+- [libAppSettings](https://github.com/GrapheneCt/libAppSettings) - Library that implements simple bridge for system software app settings dialog
+- [PSVita Unity Utilities](https://github.com/GlitcherOG/PSVita-Unity-Utilities) - Tools to help speed up PSVita Unity Development
 ### 🔎 Reverse Engineering
 - [PSVita Reverse Engineering Tools](https://github.com/CelesteBlue-dev/PSVita-RE-tools) - A bundle of RE tools for PSVita
 - [KVDB](https://github.com/DaveeFTW/kvdb) - Vita Debugger Kernel Plugin
@@ -372,6 +379,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Dots_tb tutorials](https://forum.devchroma.nl/index.php/topic,204.msg524.html#msg524) - Useful RE tutorials by [dots_tb](https://github.com/dots-tb)
 - [Unity debugging](https://forum.devchroma.nl/index.php/topic,21.0.html) - Debugging some Unity games
 - [VitaRescale tutorial](http://wololo.net/talk/viewtopic.php?f=65&t=48713) - Getting resolution addresses in games
+- [Unity Porting](https://rentry.co/unityvitaporting) - Porting Guide for Unity Games
 ### 💲 Cheat Tutorials
 - [VitaCheat/FinalCheat Database](https://gbatemp.net/threads/vitacheat-finalcheat-database.485343) - VitaCheat User Manuals
 - [Creating Cheats with PPSSPP](https://github.com/raing3/psp-cheat-guides) - Creating cheats with PPSSPP and CheatEngine
@@ -390,6 +398,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [PSNProfiles](https://psnprofiles.com/games?order=owners&platform=psvita) - Trophies stats and guides
 - [4PDA PS Vita](https://4pda.to/forum/index.php?showtopic=214976) - Russian PS Vita discussions and guides
 - [VK Portablegaming](https://vk.com/wall-47742407?own=1) - Portablegaming VK group
+- [Dan's Palace](https://discord.gg/ZANjvz8EUH) - Unity games porting Discord community
 ### 💬 Game Translations
 - [English Translations](https://www.reddit.com/r/VitaPiracy/comments/b9kxta/list_of_fan_translated_vita_games) - List of fan translated Vita games
 - [English Translations](https://vitaenglishtranslations.wordpress.com) - Fan translations and patches for Playstation Vita games
@@ -411,10 +420,12 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 ### 🧩 Misc
 - [AR Play Cards](https://www.retrocomputers.gr/media/kunena/attachments/155/AR-Play-Cards.pdf) - Augmented Reality cards for PS Vita
 - [Android games](https://android.rinnegatamante.it) - List of Android games portable to PS Vita
+- [Unity games](https://docs.google.com/spreadsheets/d/1Hhxr2ODdtAlR8WM08m9v7yVi4_crwoXQe0XvSnd1raU/edit#gid=0) - List of Unity games portable to PS Vita
 - [Bounties](https://github.com/vita-nuova/bounties/issues) - Bounties for new Vita projects
 - [Plugin descriptions](https://github.com/ONElua/AutoPlugin2/tree/master/AUTOPLUG2/lang) - Short plugin descriptions from [Autoplugin 2](https://github.com/ONElua/AutoPlugin2)
 - [Tech Specs](https://web.archive.org/web/20201116183455/https://www.playstation.com/en-us/explore/psvita/system/system-specs) - PS Vita Slim technical specifications
 - [PlayStation Vita Secrets](http://www.edepot.com/playstation.html) - PS Vita Fat technical specifications, some features and secrets
 - [SKU Models](https://playstationdev.wiki/psvitadevwiki/index.php?title=SKU_Models) - PS Vita models table
 - [Plugin hotkeys](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/PSVHotkeys.md) - List of plugin hotkeys
+- [Missed Games](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/MissedGames.md) - Awesome games that not mentioned in [VitaDB](https://vitadb.rinnegatamante.it/#) and [NoPayStation](https://nopaystation.com)
 <br>
