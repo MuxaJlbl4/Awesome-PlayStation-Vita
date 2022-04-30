@@ -1,24 +1,20 @@
 ## [VitaDB](https://vitadb.rinnegatamante.it/#) missed homebrews
-| Title | Source Code | Max FPS | Comment |
-| ----- | ----------- | ------- | ------- |
-| [Gish](https://github.com/isage/Gish-vita) | ✅ | 60 | [New Player Issue](https://github.com/isage/Gish-vita/issues/1) |
-| [NBlood (Blood)](https://github.com/Rinnegatamante/NBlood-Vita) | ✅ | 250 | Some Performance Issues; [VPK file](https://rutracker.org/forum/viewtopic.php?t=6063876) |
-| [OpenLara (Tomb Raider)](https://github.com/XProger/OpenLara) | ✅ | 60 |  |
-| [re3 (Grand Theft Auto 3)](https://dl.coolatoms.org/vitadb/GTA3.vpk) | ✅ | 30/♾️ | [Data Files](https://dl.coolatoms.org/vitadb/gta3.zip); [How to Install](https://samilops2.gitbook.io/vita-troubleshooting-guide/grand-theft-auto/gta-iii) |
-| [re3-miami (Grand Theft Auto: Vice City)](https://dl.coolatoms.org/vitadb/GTAVC.vpk) | ✅ | 30/♾️ | [Data Files](https://dl.coolatoms.org/vitadb/vcdata.zip) |
-| [SM64 (Super Mario 64)](https://github.com/bythos14/sm64-vita) | ✅ | 60 | Supports Puppy Camera Mod; [VPK file](https://drive.google.com/drive/folders/12JO4SOzOT89pXLxZ3WXfGI8cLSp6u2Gm) |
-| [SoRR (Streets of Rage Remake)](https://github.com/isage/sorr-vita) | ✅ | 60 |  |
-| [Spelunky Classic HD](https://store.brewology.com/vita/ahomebrew.php?brewid=737) | ❌ | 30 | Better Play with [Vita Nearest Neighbour](https://github.com/MuxaJlbl4/Vita-Nearest-Neighbour) |
-| [VVVVVV](https://github.com/isage/VVVVVV) | ✅ | 60 | Supports Mods |
+| Homebrew | Game Title | Developer | Comment |
+| -------- | ---------- |---------- | ------- |
+| [ArxLibertatis](https://github.com/Rinnegatamante/ArxLibertatis) | Arx Fatalis | [Rinnegatamante](https://github.com/Rinnegatamante) | Broken and unfinished |
+| [D3es-vita](https://github.com/Rinnegatamante/d3es-vita) | Doom 3 | [Rinnegatamante](https://github.com/Rinnegatamante) |  |
+| [Gish](https://github.com/isage/Gish-vita) | Gish | [Isage](https://github.com/isage) | [New Player Issue](https://github.com/isage/Gish-vita/issues/1) |
+| [Homm3hd-vita](https://github.com/Rinnegatamante/homm3hd-vita)| Heroes of Might and Magic 3 | [Rinnegatamante](https://github.com/Rinnegatamante) | Broken and unfinished |
+| [NBlood](https://github.com/Rinnegatamante/NBlood-Vita) | Blood | [Rinnegatamante](https://github.com/Rinnegatamante) | Some performance issues; [VPK file](https://rutracker.org/forum/viewtopic.php?t=6063876) |
+| [OpenLara](https://github.com/XProger/OpenLara) | Tomb Raider | [XProger](https://github.com/XProger) |  |
+| [SM64](https://github.com/bythos14/sm64-vita) | Super Mario 64 | [Bythos14](https://github.com/bythos14) | Supports 60 FPS and Puppy camera mod; [VPK file](https://drive.google.com/drive/folders/12JO4SOzOT89pXLxZ3WXfGI8cLSp6u2Gm) |
+| [Sakura-Swim-Vita](https://github.com/deepestdrive/Sakura-Swim-Vita) | Sakura Swim Club | [Deepestdrive](https://github.com/deepestdrive) |  |
+| [Septerra-core-vita](https://github.com/isage/septerra-core-vita) | Septerra Core: Legacy of the Creator | [Isage](https://github.com/isage) |  |
+| [SoRR](https://github.com/isage/sorr-vita) | Streets of Rage Remake | [Isage](https://github.com/isage) |  |
+| [VVVVVV](https://github.com/isage/VVVVVV) | VVVVVV | [Isage](https://github.com/isage) | Supports 60 FPS and mods |
+| [re3-miami](https://dl.coolatoms.org/vitadb/GTAVC.vpk) | Grand Theft Auto: Vice City | [Rinnegatamante](https://github.com/Rinnegatamante) | [Data Files](https://dl.coolatoms.org/vitadb/vcdata.zip) |
+| [re3](https://dl.coolatoms.org/vitadb/GTA3.vpk) | Grand Theft Auto 3 | [Rinnegatamante](https://github.com/Rinnegatamante) | [Data Files](https://dl.coolatoms.org/vitadb/gta3.zip); [How to Install](https://samilops2.gitbook.io/vita-troubleshooting-guide/grand-theft-auto/gta-iii) |
 
-## Homebrews in development (Alpha builds / Demo versions)
-- Cuphead
-- Dead Knight
-- Deltarune
-- Henry Stickman Collection
-- Hollow Knight
-- Mario Kart DS
-- Unearthed
 
 ## [NoPayStation](https://nopaystation.com) missed games
 - Death Tales
