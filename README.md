@@ -22,6 +22,7 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [🖥️ Computers](#%EF%B8%8F-computers)
 	- [💎 Game Engines](#-game-engines)
 	- [⌨️ Interpreters & Virtual Machines](#%EF%B8%8F-interpreters--virtual-machines)
+	- [🙅‍♀️ Non-Emulation](#-non-emulation)
 - <u>**[💡 Customization](#-customization)**</u>
 	- [🔋 Utilities](#-utilities)
 	- [🔑 Input](#-input)
@@ -89,6 +90,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [VitaShell](https://github.com/TheOfficialFloW/VitaShell) - File manager
 - [PKGj](https://github.com/blastrock/pkgj) - [NoPayStation](https://nopaystation.com) browser and installer
 - [Autoplugin 2](https://github.com/ONElua/AutoPlugin2) - Plugin browser and installer
+- [rePatch-Manager](https://github.com/Eyeman420/rePatch-Manager) - Tool to enable and disable specific rePatch game
 - [Better Homebrew Browser](https://store.brewology.com/vita/ahomebrew.php?brewid=1022) - [VitaDB](https://vitadb.rinnegatamante.it/#) browser and installer
 - [EasyVPK](https://github.com/Electric1447/EasyVPK) - [VitaDB](https://vitadb.rinnegatamante.it/#) browser and installer
 - [vita-savemgr](https://github.com/d3m3vilurr/vita-savemgr) - Savegame manager
@@ -115,11 +117,13 @@ Contains all most important, actual and cool things in my humble opinion.
 - [Wiki Game List](https://en.wikipedia.org/wiki/Lists_of_PlayStation_Vita_games) - Wikipedia list of all PS Vita games
 - [Metacritic List](https://www.metacritic.com/browse/games/release-date/available/vita/date?view=detailed&page=0) - All PS Vita game releases at Metacritic
 - [Exclusives List](https://www.giantbomb.com/profile/blacklagoon/lists/vita-exclusives/86370) - List of PS Vita exclusives
+- [PlayStation Vita undumped](https://wiki.no-intro.org/index.php?title=Sony_-_PlayStation_Vita_undumped) - List of undumped games
 ### 🌱 HomeBrew
 - [VitaDB](https://vitadb.rinnegatamante.it/#) - A collection of ports, emulators and original games
 - [VitaGL Games](https://github.com/Rinnegatamante/vitaGL#projects-actually-using-vitagl) - List of projects using VitaGL
 - [Lua Games](https://github.com/Rinnegatamante/lpp-vita#showcase) - List of projects using Lua Player Plus
 - [Some Visual Novel](https://www.reddit.com/r/VitaPiracy/comments/90espv/vnds_clone_games_on_this_reddit) - VNDS Clone games for Vita
+- [PSM Reborn](http://psmreborn.com/libary.php) - PSM games list
 <br>
 
 ## 🕹️ Emulators
@@ -145,16 +149,20 @@ Contains all most important, actual and cool things in my humble opinion.
 - [VICEVita](https://github.com/ammeir/vicevita) - Commodore 64 emulator
 - [ZXVita](https://vitadb.rinnegatamante.it/#/info/478) - Sinclair ZX Spectrum emulator
 ### 💎 Game Engines
-- [ScummVM](https://buildbot.scummvm.org/snapshots/stable/psp2-stable-latest.zip) -
-Script Creation Utility for Maniac Mansion Virtual Machine
+- [ScummVM](https://buildbot.scummvm.org/snapshots/stable/psp2-stable-latest.zip) - Script Creation Utility for Maniac Mansion Virtual Machine
 - [GemRB](https://github.com/Northfear/gemrb-vita) - Infinity Engine reimplementation (Game Engine Made with preRendered Background)
 - [EasyRPG Player](https://github.com/EasyRPG/Player) - Interpreter for RPG Maker 2000, 2003 and EasyRPG engines
 - [OpenBOR](https://github.com/rsn8887/openbor) - Beats Of Rage 2D game engine
 ### ⌨️ Interpreters & Virtual Machines
 - [cpython-vita](https://github.com/SonicMastr/cpython-vita) - Python 2.7.18 Interpreter
 - [fake-08](https://github.com/jtothebell/fake-08) - PICO-8 virtual machine emulator
-- [MicroCHIP](https://wololo.net/talk/viewtopic.php?f=116&t=48620)- Interpreter for CHIP-8/SCHIP-8 games
+- [MicroCHIP](https://wololo.net/talk/viewtopic.php?f=116&t=48620) - Interpreter for CHIP-8/SCHIP-8 games
+- [VITA-8](https://github.com/xerpi/VITA-8/tree/sw-render) - CHIP-8 emulator
 - [PSPKVM](https://sourceforge.net/projects/pspkvm) - Java ME emulator for PSP (analog for RetroArch [SquirrelJME core](https://github.com/SquirrelJME/SquirrelJME))
+### 🙅‍♀️ Non-Emulation
+- [YoYo Loader Vita](https://github.com/Rinnegatamante/yoyoloader_vita) - A loader for libyoyo.so, the official GameMaker Studio Runner application for Android, for the PS Vita
+- [vita2hos](https://github.com/xerpi/vita2hos) - A PlayStation Vita to Horizon OS (Nintendo Switch OS) translation layer
+- [linux_vita](https://github.com/xerpi/linux_vita) - Linux kernel Vita port
 <br>
 
 ## 💡 Customization
@@ -172,6 +180,8 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [VitaTweaks](https://github.com/TheOfficialFloW/VitaTweaks) - A collection of small tweaks
 - [vitatricks.tk](https://vitatricks.tk) - Online set of useful PS Vita tools
 - [VitaTools](https://github.com/SKGleba/VitaTools) - Useful tools for PSP2 Vita and Dolce
+- [Homebrew Software](https://git.shotatoshounenwachigau.moe/vita) - Another homebrew list
+- [GameBrew](https://www.gamebrew.org/wiki/List_of_all_Vita_homebrew) - Yet another homebrew list
 ### 🔑 Input
 - [VitaTester](https://github.com/NamelessGhoul0/VitaTester) - Testing input
 - [VitaPad](https://www.psx-place.com/threads/vitapad.30520) - Allows to use PS Vita as a wireless gamepad
@@ -191,6 +201,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [accountswitcher](https://github.com/elpendor/accountswitcher) - Switch between your PSN accounts on your Vita
 - [Download Enabler](https://github.com/TheOfficialFloW/VitaTweaks/releases/tag/DownloadEnabler) - Allows download any files from PS Vita browser
 - [Multidownload Vita](https://github.com/DavisDev/Multidownload-Vita) - Advanced downloader app
+- [Vita Ftp Client](https://github.com/cy33hc/vita-ftp-client) - Simple FTP client app
 - [NPS Proxy](https://www.reddit.com/r/VitaPiracy/comments/a6mwik/nps_temporary_workaround_for_pkgj_https_errors) - Preventing HTTPS errors in PKGj by using NPS proxy
 ### 🔧 Fixes
 - [ShaRKF00D](https://github.com/OsirizX/ShaRKF00D) - Allows you to access runtime shader compiler (for [AvP Gold](https://www.psx-place.com/threads/avp-gold.30555))
@@ -198,6 +209,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [FdFix](https://github.com/TheOfficialFloW/FdFix) - Fixes invalidated file descriptors after suspend and resume (for [re3-vita](https://www.psx-place.com/threads/re3-vita-a-full-reverse-engineered-reimplementation-of-gta-iii.31588))
 - [PSP2-batteryFixer](https://github.com/SKGleba/PSP2-batteryFixer) - Fixes most battery related problems
 - [USBDisable](https://github.com/Ibrahim778/USBDisable) - Disable the annoying "Connecting" dialog when you connect your Vita to your PC
+- [PS1 games fix](https://gbatemp.net/threads/new-mode-to-fix-ps1-games-for-psp-and-psvita.607286) - Way to fix broken PS1 games for PSP and PSVita
 ### 🎨 Appearance
 - [HexFlow-Launcher](https://github.com/VitaHEX-Games/HexFlow-Launcher) - A 3d coverflow like launcher for PS Vita
 - [ONEMenu](https://github.com/ONElua/ONEMenu-for-PSVita) - Custom UI and title name editor
@@ -237,6 +249,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [ElevenMPV-A](https://github.com/GrapheneCt/ElevenMPV-A) - Music player with background playback
 - [Music Premium](https://forum.devchroma.nl/index.php/topic,60.0.html) - Enables background music playback
 - [VITA-NoAutoAvls](https://github.com/SKGleba/VITA-NoAutoAvls) - Enable/disable the auto-avls feature
+- [Monaural](https://forum.devchroma.nl/index.php/topic,57.0.html) - Mono audio and channel balance
 ### 🎬 Video
 - [Vita Recorder](https://github.com/Rinnegatamante/Vita-Recorder) - Allows to record video clips
 - [CBPSTube](https://forum.devchroma.nl/index.php/topic,331.0.html) - YouTube client with more features
@@ -245,6 +258,8 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Vita Media Importer](https://github.com/cnsldv/MediaImporter) - Imports media into the PS Vita video and music players
 - [Vita Media Player](https://github.com/SonicMastr/Vita-Media-Player) - An Open Source PSVita/TV MP4 player with 1080p playback and subtitle support
 - [Video Bubbles Creator](https://vitadb.rinnegatamante.it/#/info/323) - Convert a video in whatever format to a Vita bubble (.vpk)
+- [MVPlayer](https://github.com/AntHJ/MVPlayer) - Video library app
+- [Boxset-Bubble-Creator](https://github.com/AntHJ/Boxset-Bubble-Creator) - Convert and prepare video files for MVPlayer
 ### 📖 Reading
 - [Bookr](https://github.com/pathway27/bookr-mod-vita) - PDF, CBZ, HTML, ePub, FB2 reader
 - [Noboru](https://github.com/Creckeryop/NOBORU) - Manga/comics browser/reader
@@ -293,6 +308,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Borderlands-2-Altered-Config](https://github.com/justalex95/Borderlands-2-Vita-TweakyBlinders-config) - An altered config file for Borderlands 2 to increase playability and fps
 - [God of War Remastered videos](https://www.reddit.com/r/vitahacks/comments/pd5t1n/release_god_of_war_ps_vita_remastered_videos_v20) - GoW HQ Cutscenes
 - [Persona 4 Golden Patches](https://github.com/zarroboogs/p4g-patches) - Set of patches for P4G
+- [P4G Vita Mod Ports](https://github.com/ARandomGuy231/p4gvitamodports) - P4G mods and enhances ports
 - [Persona 3/4/5 Dancing Patches](https://github.com/zarroboogs/pXd-patches) - Set of patches for P3D, P4D and P5D
 - [GTA III 10th Anniversary Edition](https://pgtmp.gitbook.io/pgbook/grand-theft-auto/revisited-trilogy/gta-iii) - 10th Anniversary Edition extensions for [re3](https://dl.coolatoms.org/vitadb/GTA3.vpk)[-vita](https://dl.coolatoms.org/vitadb/gta3.zip)
 - [GTA: VC 10th Anniversary Edition](https://pgtmp.gitbook.io/pgbook/grand-theft-auto/revisited-trilogy/gta-vice-city) - 10th Anniversary Edition extensions for [re3-miami](https://dl.coolatoms.org/vitadb/GTAVC.vpk)[-vita](https://dl.coolatoms.org/vitadb/vcdata.zip)
@@ -313,15 +329,18 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [60 FPS Patches List](https://forums.ppsspp.org/showthread.php?tid=22800) - 60 FPS patches for PSP games (for CWCheat/TempAR)
 - [CWCheat Database +](https://github.com/Saramagrean/CWCheat-Database-Plus-) - List of cheats for CWCheat/TempAR
 - [psp-dev.org](http://psp-dev.org/hb) - PSP Homebrew Store
+- [GameBrew PSP](https://www.gamebrew.org/wiki/List_of_all_PSP_homebrew) - List of PSP homebrews
 <br>
 
 ## 🧰 Tools
 ### 👨‍💻 Development
+- [PSM Reborn](http://psmreborn.com/devtools.php) - SDK's and Unity Builds and bunch of other development tools for Vita
 - [Vita SDK](https://vitasdk.org) - Development SDK for PS Vita
 - [Vita Development Suite](https://forum.devchroma.nl/index.php?topic=332.0) - Additional features for the PlayStation Vita SDK
 - [VitaDeploy](https://github.com/SKGleba/VitaDeploy) - Toolbox that makes homebrewing the Playstation Vita/TV easier
 - [VitaGL](https://github.com/Rinnegatamante/vitaGL) - Wrapper between OpenGL and sceGxm
 - [PVR_PSP2](https://github.com/GrapheneCt/PVR_PSP2) - Native EGL, WSEGL, OpenGL ES v1.1 ports
+- [TriGL](https://github.com/GrapheneCt/TriGL) - WebGL implementation for SCE Trilithium Javascript engine
 - [QuickMenuReborn](https://github.com/Ibrahim778/QuickMenuReborn) - Library for developers to easily add their own widgets, to the Vita's Quick Menu
 - [libAppSettings](https://github.com/GrapheneCt/libAppSettings) - Library that implements simple bridge for system software app settings dialog
 - [PSVita Unity Utilities](https://github.com/GlitcherOG/PSVita-Unity-Utilities) - Tools to help speed up PSVita Unity Development
@@ -336,6 +355,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [PS Vita Decrypted Firmwares](https://files.olebeck.com/firmware/vita/decrypted) - A collection of decrypted PS Vita firmwares
 ### 💻 PC
 - [Vita3K](https://github.com/Vita3K/Vita3K) - PlayStation Vita emulator for PC
+- [PSMUI](http://psmreborn.com) - GUI for PSM Simulator (allow to play PSM Games on PC)
 - [QCMA](https://github.com/codestation/qcma) - Open Source Content Manager Assistant for PS Vita
 - [HandBrake](https://github.com/HandBrake/HandBrake) - Video files converter (contains Playstation presets)
 - [AT9&AT3 Converter](https://www.psx-place.com/resources/at9-at3-converter.566) - At9/At3 files converter
@@ -369,6 +389,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [PortableGaming](https://vk.com/@portablegaming) - Russian PortableGaming guides and articles
 - [PSV Hacking 4PDA](https://4pda.to/forum/index.php?showtopic=465175) - Russian guides for hacking
 - [Project Rinascita](https://wololo.net/2021/07/10/project-rinascita-taking-the-vita-from-zero-to-hero) - Most common hacking problems and solves
+- [Remove PSN Account](https://www.reddit.com/r/vitahacks/comments/tbjbqa/guide_how_to_completely_remove_psn_account_from) - How to Completely Remove PSN Account From PS Vita + Earn Trophies Again
 ### 👩‍💻 Dev Docs
 - [Vita SDK Docs](https://docs.vitasdk.org) - Vita SDK Docs
 - [Vita Development Wiki](https://wiki.henkaku.xyz/vita/Main_Page) - Vita SDK wiki
@@ -380,6 +401,7 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [Unity debugging](https://forum.devchroma.nl/index.php/topic,21.0.html) - Debugging some Unity games
 - [VitaRescale tutorial](http://wololo.net/talk/viewtopic.php?f=65&t=48713) - Getting resolution addresses in games
 - [Unity Porting](https://rentry.co/unityvitaporting) - Porting Guide for Unity Games
+- [GMS Vita Port Instructions](https://github.com/hatoving/GMSVitaPortInstructions) - GameMaker Studio PS Vita Port Instructions
 ### 💲 Cheat Tutorials
 - [VitaCheat/FinalCheat Database](https://gbatemp.net/threads/vitacheat-finalcheat-database.485343) - VitaCheat User Manuals
 - [Creating Cheats with PPSSPP](https://github.com/raing3/psp-cheat-guides) - Creating cheats with PPSSPP and CheatEngine
@@ -417,13 +439,14 @@ Script Creation Utility for Maniac Mansion Virtual Machine
 - [DaedalusX64](https://github.com/Rinnegatamante/DaedalusX64-vitaGL-Compatibility/issues) - Compatibility list for [DaedalusX64-vitaGL](https://github.com/Rinnegatamante/daedalusx64-vitagl)
 - [Flycast​](https://github.com/Rinnegatamante/flycast-vita-Compatibility/issues) - Compatibility list for [Flycast-vita](https://www.psx-place.com/threads/release-flycast-vita-dreamcast-emulator-for-psvita-pstv.32449)
 - [Vita3K](https://github.com/Vita3K/compatibility/issues) - Compatibility list for [Vita3K](https://github.com/Vita3K/Vita3K)
+- [YoYo Loader](https://yoyo.rinnegatamante.it) - [YoYo Loader Vita](https://github.com/Rinnegatamante/yoyoloader_vita) Compatibility List
 ### 🧩 Misc
 - [AR Play Cards](https://www.retrocomputers.gr/media/kunena/attachments/155/AR-Play-Cards.pdf) - Augmented Reality cards for PS Vita
 - [Android games](https://android.rinnegatamante.it) - List of Android games portable to PS Vita
 - [Unity games](https://docs.google.com/spreadsheets/d/1Hhxr2ODdtAlR8WM08m9v7yVi4_crwoXQe0XvSnd1raU/edit#gid=0) - List of Unity games portable to PS Vita
 - [Bounties](https://github.com/vita-nuova/bounties/issues) - Bounties for new Vita projects
 - [Plugin descriptions](https://github.com/ONElua/AutoPlugin2/tree/master/AUTOPLUG2/lang) - Short plugin descriptions from [Autoplugin 2](https://github.com/ONElua/AutoPlugin2)
-- [Tech Specs](https://web.archive.org/web/20201116183455/https://www.playstation.com/en-us/explore/psvita/system/system-specs) - PS Vita Slim technical specifications
+- [Tech Specs](https://www.reddit.com/r/vita/wiki/thehardware/#wiki_specifications) - PS Vita/PS TV technical specifications
 - [PlayStation Vita Secrets](http://www.edepot.com/playstation.html) - PS Vita Fat technical specifications, some features and secrets
 - [SKU Models](https://playstationdev.wiki/psvitadevwiki/index.php?title=SKU_Models) - PS Vita models table
 - [Plugin hotkeys](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/PSVHotkeys.md) - List of plugin hotkeys
