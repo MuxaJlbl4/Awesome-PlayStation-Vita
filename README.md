@@ -22,7 +22,7 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [🖥️ Computers](#%EF%B8%8F-computers)
 	- [💎 Game Engines](#-game-engines)
 	- [⌨️ Interpreters & Virtual Machines](#%EF%B8%8F-interpreters--virtual-machines)
-	- [🙅‍♀️ Non-Emulation](#-non-emulation)
+	- [🙅‍♀️ Non-Emulation](#%EF%B8%8F-non-emulation)
 - <u>**[💡 Customization](#-customization)**</u>
 	- [🔋 Utilities](#-utilities)
 	- [🔑 Input](#-input)
