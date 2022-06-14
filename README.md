@@ -456,6 +456,6 @@ Contains all most important, actual and cool things in my humble opinion.
 - [Tech Specs](https://www.reddit.com/r/vita/wiki/thehardware/#wiki_specifications) - PS Vita/PS TV technical specifications
 - [PlayStation Vita Secrets](http://www.edepot.com/playstation.html) - PS Vita Fat technical specifications, some features and secrets
 - [SKU Models](https://playstationdev.wiki/psvitadevwiki/index.php?title=SKU_Models) - PS Vita models table
-- [Plugin hotkeys](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/PSVHotkeys.md) - List of plugin hotkeys
-- [Missed Games](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/MissedGames.md) - Awesome games that not mentioned in [VitaDB](https://vitadb.rinnegatamante.it/#) and [NoPayStation](https://nopaystation.com)
+- [Plugin hotkeys](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/Hotkeys.md) - List of plugin hotkeys
+- [Missed Games](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/Games.md) - Awesome games that not mentioned in [VitaDB](https://vitadb.rinnegatamante.it/#) and [NoPayStation](https://nopaystation.com)
 <br>
