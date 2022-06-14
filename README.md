@@ -98,6 +98,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [reAuth](https://forum.devchroma.nl/index.php/topic,362.0.html) - Use PlayStation Store and sign-in on 3.60-3.65
 - [PlayStation Mini Store](https://forum.devchroma.nl/index.php/topic,353.0.html) - Fast text UI store app for Vita and PS3 stores
 - [RIF Ripper](https://forum.devchroma.nl/index.php/topic,354.0.html) - License backup tool for purchased digital content for PSP, PS3, PS Vita
+- [VBackup](https://github.com/GrapheneCt/VBackup) - Advanced backup tool for PS Vita
 ### 💾 Memory
 - [PSVita-StorageMgr](https://github.com/CelesteBlue-dev/PSVita-StorageMgr) - Mounts/redirects storage devices to mount points
 - [yamt-vita](https://github.com/SKGleba/yamt-vita) - Yet another (re)mount tool kernel plugin
@@ -160,7 +161,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [VITA-8](https://github.com/xerpi/VITA-8/tree/sw-render) - CHIP-8 emulator
 - [PSPKVM](https://sourceforge.net/projects/pspkvm) - Java ME emulator for PSP (analog for RetroArch [SquirrelJME core](https://github.com/SquirrelJME/SquirrelJME))
 ### 🙅‍♀️ Non-Emulation
-- [YoYo Loader Vita](https://github.com/Rinnegatamante/yoyoloader_vita) - A loader for libyoyo.so, the official GameMaker Studio Runner application for Android, for the PS Vita
+- [YoYo Loader Vita](https://github.com/Rinnegatamante/yoyoloader_vita) - Android GameMaker Studio Runner application for the PS Vita ([Log Reset](https://github.com/DRok17/Log-Reset-for-YYL))
 - [vita2hos](https://github.com/xerpi/vita2hos) - A PlayStation Vita to Horizon OS (Nintendo Switch OS) translation layer
 - [linux_vita](https://github.com/xerpi/linux_vita) - Linux kernel Vita port
 <br>
@@ -203,6 +204,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [Multidownload Vita](https://github.com/DavisDev/Multidownload-Vita) - Advanced downloader app
 - [Vita Ftp Client](https://github.com/cy33hc/vita-ftp-client) - Simple FTP client app
 - [NPS Proxy](https://www.reddit.com/r/VitaPiracy/comments/a6mwik/nps_temporary_workaround_for_pkgj_https_errors) - Preventing HTTPS errors in PKGj by using NPS proxy
+- [UserAgentSpoofer](https://github.com/GrapheneCt/UserAgentSpoofer) - Changes what device the browser/web page sees your vita as
 ### 🔧 Fixes
 - [ShaRKF00D](https://github.com/OsirizX/ShaRKF00D) - Allows you to access runtime shader compiler (for [AvP Gold](https://www.psx-place.com/threads/avp-gold.30555))
 - [kubridge](https://github.com/TheOfficialFloW/kubridge) - DynaRec feature extender (for [max_vita](https://github.com/fgsfdsfgs/max_vita))
@@ -210,6 +212,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [PSP2-batteryFixer](https://github.com/SKGleba/PSP2-batteryFixer) - Fixes most battery related problems
 - [USBDisable](https://github.com/Ibrahim778/USBDisable) - Disable the annoying "Connecting" dialog when you connect your Vita to your PC
 - [PS1 games fix](https://gbatemp.net/threads/new-mode-to-fix-ps1-games-for-psp-and-psvita.607286) - Way to fix broken PS1 games for PSP and PSVita
+- [PocketstationUnlocker](https://silica.codes/SilicaAndPina/PocketstationUnlocker) - Forces pocketstation support in all PS1 games
 ### 🎨 Appearance
 - [HexFlow-Launcher](https://github.com/VitaHEX-Games/HexFlow-Launcher) - A 3d coverflow like launcher for PS Vita
 - [ONEMenu](https://github.com/ONElua/ONEMenu-for-PSVita) - Custom UI and title name editor
@@ -223,7 +226,8 @@ Contains all most important, actual and cool things in my humble opinion.
 - [Theme Manager Ex](https://bitbucket.org/kylon/theme-manager-ex-theme-engine/src/master) - Advanced theme manger
 - [Shortcuts Enhancer](https://github.com/ONElua/Shortcuts-Enhancer) - Custom shortcuts in the PS Vita index menu
 - [QuickLaunch-Installer](https://github.com/DRok17/QuickLaunch-Installer) - Allows you to customize the quick menu shortcuts
-- [fontIntaller](https://github.com/cxziaho/fontInstaller) - An app for installing the [fontRedirect](https://github.com/cxziaho/fontRedirect) plugin for injecting custom fonts
+- [fontInstaller](https://github.com/cxziaho/fontInstaller) - An app for installing the [fontRedirect](https://github.com/cxziaho/fontRedirect) plugin for injecting custom fonts
+- [FAQ to Vita Manual Converter](https://github.com/RawBOT/faq-to-vita-manual) - Converts URL into a format suitable to use as a Vita game's bubble manual
 ### 🔅 PS Vita 2000
 - [LCD Color Saturation](https://github.com/Electric1447/lcd-color-saturation) - App for improving color saturation on your Vita 2000
 - [LCD Colour Space Changer](https://forum.devchroma.nl/index.php?topic=201.0) - Plugin for improving color saturation on your Vita 2000
@@ -341,6 +345,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [VitaGL](https://github.com/Rinnegatamante/vitaGL) - Wrapper between OpenGL and sceGxm
 - [PVR_PSP2](https://github.com/GrapheneCt/PVR_PSP2) - Native EGL, WSEGL, OpenGL ES v1.1 ports
 - [TriGL](https://github.com/GrapheneCt/TriGL) - WebGL implementation for SCE Trilithium Javascript engine
+- [VitaMonoLoader](https://github.com/GrapheneCt/VitaMonoLoader) - Standalone Mono (C#) execution on PS Vita
 - [QuickMenuReborn](https://github.com/Ibrahim778/QuickMenuReborn) - Library for developers to easily add their own widgets, to the Vita's Quick Menu
 - [libAppSettings](https://github.com/GrapheneCt/libAppSettings) - Library that implements simple bridge for system software app settings dialog
 - [PSVita Unity Utilities](https://github.com/GlitcherOG/PSVita-Unity-Utilities) - Tools to help speed up PSVita Unity Development
@@ -413,6 +418,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [Reddit Vita](https://www.reddit.com/r/vita) - PS Vita Reddit community
 - [Reddit VitaHacks](https://www.reddit.com/r/vitahacks) - PS Vita hacks and homebrew on Reddit
 - [Reddit VitaPiracy](https://www.reddit.com/r/VitaPiracy) - Reddit discussion of things related to piracy on the PS Vita
+- [Reddit Vita3k](https://www.reddit.com/r/vita3k) - Vita3k Reddit community
 - [PSX-Place](https://www.psx-place.com/forums/#playstation-vita-forums.8) - Latest Homebrew, Hacking, Exploits, CFW, Jailbreak & PlayStation Scene News
 - [CBPS forum](https://forum.devchroma.nl/index.php/board,2.0.html) - Hacking information or applications related to the PS Vita
 - [GBAtemp](https://gbatemp.net/categories/sony-ps-vita-discussions.214) - Sony PS Vita discussions and guides
@@ -442,9 +448,10 @@ Contains all most important, actual and cool things in my humble opinion.
 - [YoYo Loader](https://yoyo.rinnegatamante.it) - [YoYo Loader Vita](https://github.com/Rinnegatamante/yoyoloader_vita) Compatibility List
 ### 🧩 Misc
 - [AR Play Cards](https://www.retrocomputers.gr/media/kunena/attachments/155/AR-Play-Cards.pdf) - Augmented Reality cards for PS Vita
-- [Android games](https://android.rinnegatamante.it) - List of Android games portable to PS Vita
-- [Unity games](https://docs.google.com/spreadsheets/d/1Hhxr2ODdtAlR8WM08m9v7yVi4_crwoXQe0XvSnd1raU/edit#gid=0) - List of Unity games portable to PS Vita
+- [Android games](https://android.rinnegatamante.it) - List of Android games theoretically portable to PS Vita
+- [Unity games](https://docs.google.com/spreadsheets/d/1Hhxr2ODdtAlR8WM08m9v7yVi4_crwoXQe0XvSnd1raU/edit#gid=0) - List of Unity games theoretically portable to PS Vita
 - [Bounties](https://github.com/vita-nuova/bounties/issues) - Bounties for new Vita projects
+- [Compass](about:compass) - Built in Vita browser compass app ([about:compass](about:compass))
 - [Plugin descriptions](https://github.com/ONElua/AutoPlugin2/tree/master/AUTOPLUG2/lang) - Short plugin descriptions from [Autoplugin 2](https://github.com/ONElua/AutoPlugin2)
 - [Tech Specs](https://www.reddit.com/r/vita/wiki/thehardware/#wiki_specifications) - PS Vita/PS TV technical specifications
 - [PlayStation Vita Secrets](http://www.edepot.com/playstation.html) - PS Vita Fat technical specifications, some features and secrets
