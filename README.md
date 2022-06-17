@@ -143,7 +143,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [mGBA](https://github.com/mgba-emu/mgba) - Nintendo Game Boy Advance emulator
 ### 5️⃣ 5th Gen
 - [Adrenaline](https://github.com/TheOfficialFloW/Adrenaline) - Allows you to run natively PlayStation One games as on PSP ([PSX2PSP​](https://www.psx-place.com/resources/psx2psp.586) might be helpful)
-- [DaedalusX64-vitaGL](https://github.com/Rinnegatamante/daedalusx64-vitagl) - Nintendo 64 emulator (vitaGL based)
+- [DaedalusX64-vitaGL](https://github.com/Rinnegatamante/daedalusx64-vitagl) - Nintendo 64 emulator ([Nightly](https://github.com/Rinnegatamante/DaedalusX64-vitaGL/releases/tag/Nightly))
 ### 🖥️ Computers
 - [Basilisk II](https://github.com/rsn8887/basiliskii-vita) - Apple Macintosh II emulator
 - [UAE4ALL](https://github.com/rsn8887/uae4all2) - Amiga emulator
@@ -323,6 +323,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [Need for Speed: Most Wanted REDUX](https://www.reddit.com/r/VitaPiracy/comments/pnnif4/mod_need_for_speed_most_wanted_psvita_redux) - Makes NfS:MW(2012) more similar to the PC version
 - [Crazy Taxi Fare Wars Music Mod](https://disk.yandex.ru/d/P-OQHRHCfkI0ng) - Music from Crazy Taxi 1,2
 - [LittleBigPlanet Project Lighthouse](https://www.lbpunion.com/post/project-lighthouse-littlebigplanet-private-servers) - LittleBigPlanet alternative server (currently only private access)
+- [Illusion Vita Patches](https://github.com/illusion0001/console-game-patches/tree/main/_patch0/ngp) - Vita patches by [illusion0001](https://illusion0001.com)
 ### 💉 Adrenaline Plugins
 - [GePatch](https://github.com/TheOfficialFloW/GePatch) - Allows you to play some PSP games in native PS Vita resolution
 - [Remastered Controls Collection](https://github.com/TheOfficialFloW/RemasteredControls) - Enables second stick in some PSP games
@@ -408,6 +409,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [Unity Porting](https://rentry.co/unityvitaporting) - Porting Guide for Unity Games
 - [GMS Vita Port Instructions](https://github.com/hatoving/GMSVitaPortInstructions) - GameMaker Studio PS Vita Port Instructions
 ### 💲 Cheat Tutorials
+- [Illusion Patches](https://wololo.net/2022/06/17/ps-vita-release-uncharted-golden-abyss-debug-menu) - How to install [illusion0001](https://illusion0001.com) patches
 - [VitaCheat/FinalCheat Database](https://gbatemp.net/threads/vitacheat-finalcheat-database.485343) - VitaCheat User Manuals
 - [Creating Cheats with PPSSPP](https://github.com/raing3/psp-cheat-guides) - Creating cheats with PPSSPP and CheatEngine
 <br>
@@ -445,13 +447,13 @@ Contains all most important, actual and cool things in my humble opinion.
 - [DaedalusX64](https://github.com/Rinnegatamante/DaedalusX64-vitaGL-Compatibility/issues) - Compatibility list for [DaedalusX64-vitaGL](https://github.com/Rinnegatamante/daedalusx64-vitagl)
 - [Flycast​](https://github.com/Rinnegatamante/flycast-vita-Compatibility/issues) - Compatibility list for [Flycast-vita](https://www.psx-place.com/threads/release-flycast-vita-dreamcast-emulator-for-psvita-pstv.32449)
 - [Vita3K](https://github.com/Vita3K/compatibility/issues) - Compatibility list for [Vita3K](https://github.com/Vita3K/Vita3K)
-- [YoYo Loader](https://yoyo.rinnegatamante.it) - [YoYo Loader Vita](https://github.com/Rinnegatamante/yoyoloader_vita) Compatibility List
+- [YoYo Loader](https://yoyo.rinnegatamante.it) - Compatibility list for [YoYo Loader Vita](https://github.com/Rinnegatamante/yoyoloader_vita)
 ### 🧩 Misc
 - [AR Play Cards](https://www.retrocomputers.gr/media/kunena/attachments/155/AR-Play-Cards.pdf) - Augmented Reality cards for PS Vita
 - [Android games](https://android.rinnegatamante.it) - List of Android games theoretically portable to PS Vita
 - [Unity games](https://docs.google.com/spreadsheets/d/1Hhxr2ODdtAlR8WM08m9v7yVi4_crwoXQe0XvSnd1raU/edit#gid=0) - List of Unity games theoretically portable to PS Vita
 - [Bounties](https://github.com/vita-nuova/bounties/issues) - Bounties for new Vita projects
-- [Compass](about:compass) - Built in Vita browser compass app ([about:compass](about:compass))
+- [Compass](https://www.reddit.com/r/vitahacks/comments/us2woq/not_release_simple_compass_for_ps_vita) - Built in Vita browser compass/gyro app ([about:compass](about:compass))
 - [Plugin descriptions](https://github.com/ONElua/AutoPlugin2/tree/master/AUTOPLUG2/lang) - Short plugin descriptions from [Autoplugin 2](https://github.com/ONElua/AutoPlugin2)
 - [Tech Specs](https://www.reddit.com/r/vita/wiki/thehardware/#wiki_specifications) - PS Vita/PS TV technical specifications
 - [PlayStation Vita Secrets](http://www.edepot.com/playstation.html) - PS Vita Fat technical specifications, some features and secrets
