@@ -7,9 +7,9 @@
 | [Gish](https://store.steampowered.com/app/9500/Gish) | [Gish-vita](https://github.com/isage/Gish-vita) | [Isage](https://github.com/isage) | [New Player Issue](https://github.com/isage/Gish-vita/issues/1) |
 | [Grand Theft Auto 3](https://www.rockstargames.com/games/grandtheftauto3) | [re3](https://dl.coolatoms.org/vitadb/GTA3.vpk) | [Rinnegatamante](https://github.com/Rinnegatamante) | [Data Files](https://dl.coolatoms.org/vitadb/gta3.zip); [How to Install](https://samilops2.gitbook.io/vita-troubleshooting-guide/grand-theft-auto/gta-iii) |
 | [Grand Theft Auto: Vice City](https://www.rockstargames.com/games/vicecity) | [re3-miami](https://dl.coolatoms.org/vitadb/GTAVC.vpk) | [Rinnegatamante](https://github.com/Rinnegatamante) | [Data Files](https://dl.coolatoms.org/vitadb/vcdata.zip) |
-| [Hollow Knight](https://www.gog.com/game/hollow_knight) | [hk-vita](https://dsc.gg/danspalace) | [UniVitaPorts](https://github.com/UniVitaPorts) | Early version |
+| [Hollow Knight](https://www.gog.com/game/hollow_knight) | [hk-vita](https://dsc.gg/danspalace) | [Dan Cooper]([https://github.com/UniVitaPorts](https://www.youtube.com/channel/UCnmRRj6fy_RItoJKNFQIF6A)) | Early version |
 | [Mari0](https://stabyourself.net/mari0) | [Mari0-vita](https://github.com/isage/Mari0-vita) | [Isage](https://github.com/isage) |  |
-| [PAKO 2](https://store.steampowered.com/app/612370/PAKO_2) | [pako2-build](https://t.me/danspalace) | [UniVitaPorts](https://github.com/UniVitaPorts) | Early version |
+| [PAKO 2](https://store.steampowered.com/app/612370/PAKO_2) | [pako2-build](https://t.me/danspalace) | [Dan Cooper]([https://github.com/UniVitaPorts](https://www.youtube.com/channel/UCnmRRj6fy_RItoJKNFQIF6A)) | Early version |
 | [Sakura Swim Club](https://store.steampowered.com/app/402180/Sakura_Swim_Club) | [Sakura-Swim-Vita](https://github.com/deepestdrive/Sakura-Swim-Vita) | [Deepestdrive](https://github.com/deepestdrive) |  |
 | [Septerra Core: Legacy of the Creator](https://www.gog.com/ru/game/septerra_core_legacy_of_the_creator) | [septerra-core-vita](https://github.com/isage/septerra-core-vita) | [Isage](https://github.com/isage) |  |
 | [Streets of Rage Remake](https://sorr.forumotion.net/t838-new-streets-of-rage-remake-v5-2-download-and-info) | [SoRR](https://github.com/isage/sorr-vita) | [Isage](https://github.com/isage) |  |
