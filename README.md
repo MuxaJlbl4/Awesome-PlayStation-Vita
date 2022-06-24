@@ -44,6 +44,8 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [📝 Cheats](#-cheats)
 - <u>**[🛠️ Mods](#%EF%B8%8F-mods)**</u>
 	- [💊 Game Patches](#-game-patches)
+	- [🍬 Content Mods](#-content-mods)
+	- [🎼 OST Patches](#-ost-patches)
 	- [💉 Adrenaline Plugins](#-adrenaline-plugins)
 - <u>**[🧰 Tools](#-tools)**</u>
 	- [👨‍💻 Development](#-development)
@@ -74,7 +76,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [Brewology](https://store.brewology.com/vita/whatsnew.php) - Yet another homebrew source for PS Vita and other consoles
 ## ⚙️ Basic Stuff
 ### 🔓 Hacking
-- [Final h-encore²](https://github.com/soarqin/finalhe) - Homebrew enabler auto installer for firmwares 3.69 - 3.73
+- [Final h-encore²](https://github.com/soarqin/finalhe) - Homebrew enabler auto installer for firmwares 3.69 - 3.74
 - [Auto h-encore](https://github.com/noahc3/auto-h-encore) - Homebrew enabler auto installer for firmwares 3.65 - 3.68
 - [HENkaku](https://henkaku.xyz) - Homebrew enabler for firmware 3.60
 - [MLTHaku](http://mlthaku.tk) - Homebrew enabler for firmware 3.60 without memory card (for [SD2VITA](https://github.com/xyzz/gamecard-microsd))
@@ -275,7 +277,7 @@ Contains all most important, actual and cool things in my humble opinion.
 ## 🔆 Enhances
 ### 🚀 Overclocking
 - [PSVshell](https://github.com/Electry/PSVshell) - Overclock plugin with FPS counter and CPU usage
-- [CoreUnlocker80000H](https://github.com/GrapheneCt/CoreUnlocker80000H) - Allows to use system reserved 4th CPU core
+- [CapUnlocker](https://github.com/GrapheneCt/CapUnlocker) - Allows to use system reserved 4th CPU core and other capabilities
 - [Thread Optimizer](https://github.com/GrapheneCt/ThreadOptimizer) - Adjusts thread parameters
 - [CPU Affinity Mask Changer](https://github.com/GrapheneCt/Affinity-Changer) - Changes CPU affinity mask to all cores
 - [LowMemMode](https://github.com/GrapheneCt/LowMemMode) - Allows launch applications in LOWPHYMEM mode
@@ -303,27 +305,33 @@ Contains all most important, actual and cool things in my humble opinion.
 
 ## 🛠️ Mods
 ### 💊 Game Patches
-- [Vita Mods Table](https://docs.google.com/spreadsheets/d/1OkS1S2sJqs2p8jp6pxBfrQkHT4Tn2-__NmAl6BYIUw8/edit#gid=17733003) - PS Vita mods and repatches list
-- [Super Meat Boy Original Music](https://www.reddit.com/r/VitaPiracy/comments/52g7fa/super_meat_boy_danny_b_music_mod) - Original music by Danny Baranowsky for SMB
-- [The Binding of Isaac: Rebirth Original Music](https://www.reddit.com/r/themoddingofisaac/comments/50rvkg/ps_vita_original_music_for_binding_of_isaac) - Original music by Danny Baranowsky for TBoI:R
+- [Illusion Vita Patches](https://github.com/illusion0001/console-game-patches/tree/main/_patch0/ngp) - Vita patches by [illusion0001](https://illusion0001.com) (FPS uncaps, debug menu unlockers, etc...)
+- [Doom_YXZ Vita Patches](https://www.youtube.com/channel/UC3z4pAaC_gqLJv551vHagDw) - Vita patches by Doom_YXZ
 - [Filter Fix for Duke Nukem 3D: Megaton Edition](https://github.com/MuxaJlbl4/DN3DME-Vita-Filter-Fix) - Linear filter disabler for DN3D:ME
-- [Minecraft Texture Port](https://www.mediafire.com/file/oz05izc5gqyfnv0/1.14.4_Textures_-_PS_Vita.zip/file) - Minecraft texture pack from PC version 1.14.4
-- [NFSMW_Settings](https://github.com/Electry/NFSMW_Settings) - Fixes some of the glaring issues with NFS:MW
+- [Alien Shooter DLC unlocker](https://github.com/isage/alienhook) - Unlocks Alien Shooter DLCs for free
 - [Borderlands-2-Altered-Config](https://github.com/justalex95/Borderlands-2-Vita-TweakyBlinders-config) - An altered config file for Borderlands 2 to increase playability and fps
-- [God of War Remastered videos](https://www.reddit.com/r/vitahacks/comments/pd5t1n/release_god_of_war_ps_vita_remastered_videos_v20) - GoW HQ Cutscenes
+- [Killzone: Mercenary Threads Profile](https://github.com/GrapheneCt/ThreadOptimizer/issues/7) - Optimized threads profile for Kz:M (US)
 - [Persona 4 Golden Patches](https://github.com/zarroboogs/p4g-patches) - Set of patches for P4G
-- [P4G Vita Mod Ports](https://github.com/ARandomGuy231/p4gvitamodports) - P4G mods and enhances ports
 - [Persona 3/4/5 Dancing Patches](https://github.com/zarroboogs/pXd-patches) - Set of patches for P3D, P4D and P5D
+- [Super Mario 64 Patches](https://drive.google.com/drive/folders/12JO4SOzOT89pXLxZ3WXfGI8cLSp6u2Gm) - [SM64](https://github.com/bythos14/sm64-vita) with 60 FPS and Puppy Camera patches
+- [Need for Speed: Most Wanted REDUX](https://www.reddit.com/r/VitaPiracy/comments/pnnif4/mod_need_for_speed_most_wanted_psvita_redux) - Makes NfS:MW(2012) more similar to the PC version
+- [Need for Speed: Most Wanted Settings](https://github.com/Electry/NFSMW_Settings) - Fixes some of the glaring issues with NfS:MW
+- [LittleBigPlanet Project Lighthouse](https://www.lbpunion.com/post/project-lighthouse-littlebigplanet-private-servers) - LittleBigPlanet alternative server (currently only private access)
+### 🍬 Content Mods
+- [Vita Mods Table](https://docs.google.com/spreadsheets/d/1OkS1S2sJqs2p8jp6pxBfrQkHT4Tn2-__NmAl6BYIUw8/edit#gid=17733003) - PS Vita mods and repatches list
 - [GTA III 10th Anniversary Edition](https://pgtmp.gitbook.io/pgbook/grand-theft-auto/revisited-trilogy/gta-iii) - 10th Anniversary Edition extensions for [re3](https://dl.coolatoms.org/vitadb/GTA3.vpk)[-vita](https://dl.coolatoms.org/vitadb/gta3.zip)
 - [GTA: VC 10th Anniversary Edition](https://pgtmp.gitbook.io/pgbook/grand-theft-auto/revisited-trilogy/gta-vice-city) - 10th Anniversary Edition extensions for [re3-miami](https://dl.coolatoms.org/vitadb/GTAVC.vpk)[-vita](https://dl.coolatoms.org/vitadb/vcdata.zip)
 - [GTA: SA 10th Anniversary Edition](https://pgtmp.gitbook.io/pgbook/grand-theft-auto/revisited-trilogy/gta-san-andreas) - 10th Anniversary Edition extensions for [GTA:SA-vita](https://github.com/TheOfficialFloW/gtasa_vita)
-- [Max Payne PC Anniversary Edition](https://pgtmp.gitbook.io/pgbook/other/max-payne) - PC version features for [max_vita](https://github.com/fgsfdsfgs/max_vita)
 - [Various GTA Downgraders](https://gtaforums.com/topic/936600-iii-iv-various-gta-downgraders) - Downgrade guides for GTA games (PC)
-- [Super Mario 64 Patches](https://drive.google.com/drive/folders/12JO4SOzOT89pXLxZ3WXfGI8cLSp6u2Gm) - [SM64](https://github.com/bythos14/sm64-vita) with 60 FPS and Puppy Camera patches
-- [Need for Speed: Most Wanted REDUX](https://www.reddit.com/r/VitaPiracy/comments/pnnif4/mod_need_for_speed_most_wanted_psvita_redux) - Makes NfS:MW(2012) more similar to the PC version
-- [Crazy Taxi Fare Wars Music Mod](https://disk.yandex.ru/d/P-OQHRHCfkI0ng) - Music from Crazy Taxi 1,2
-- [LittleBigPlanet Project Lighthouse](https://www.lbpunion.com/post/project-lighthouse-littlebigplanet-private-servers) - LittleBigPlanet alternative server (currently only private access)
-- [Illusion Vita Patches](https://github.com/illusion0001/console-game-patches/tree/main/_patch0/ngp) - Vita patches by [illusion0001](https://illusion0001.com)
+- [Max Payne PC Anniversary Edition](https://pgtmp.gitbook.io/pgbook/other/max-payne) - PC version features for [max_vita](https://github.com/fgsfdsfgs/max_vita)
+- [Minecraft: Enhanced](https://pgtmp.gitbook.io/pgbook/other-games/minecraft-enhanced) - Minecraft 1.49 with tons of restores and improves
+- [Minecraft Texture Port](https://www.mediafire.com/file/oz05izc5gqyfnv0/1.14.4_Textures_-_PS_Vita.zip/file) - Minecraft texture pack from PC version 1.14.4
+- [God of War Remastered Videos](https://discord.gg/w6pnxJmebx) - GoW HQ Cutscenes
+- [Sly Cooper Remastered Videos](https://discord.gg/w6pnxJmebx) - SC HQ Cutscenes
+- [P4G Vita Mod Ports](https://github.com/ARandomGuy231/p4gvitamodports) - P4G mods and enhances ports
+### 🎼 OST Patches
+- [Super Meat Boy Original Music](https://www.reddit.com/r/VitaPiracy/comments/52g7fa/super_meat_boy_danny_b_music_mod) - Original music by Danny Baranowsky for SMB
+- [The Binding of Isaac: Rebirth Original Music](https://www.reddit.com/r/themoddingofisaac/comments/50rvkg/ps_vita_original_music_for_binding_of_isaac) - Original music by Danny Baranowsky for TBoI:R
 ### 💉 Adrenaline Plugins
 - [GePatch](https://github.com/TheOfficialFloW/GePatch) - Allows you to play some PSP games in native PS Vita resolution
 - [Remastered Controls Collection](https://github.com/TheOfficialFloW/RemasteredControls) - Enables second stick in some PSP games
@@ -347,6 +355,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [PVR_PSP2](https://github.com/GrapheneCt/PVR_PSP2) - Native EGL, WSEGL, OpenGL ES v1.1 ports
 - [TriGL](https://github.com/GrapheneCt/TriGL) - WebGL implementation for SCE Trilithium Javascript engine
 - [VitaMonoLoader](https://github.com/GrapheneCt/VitaMonoLoader) - Standalone Mono (C#) execution on PS Vita
+- [PHP-Player-plus-plus (pp++)](https://github.com/isage/pppp-vita) - PHP interpreter for PS Vita
 - [QuickMenuReborn](https://github.com/Ibrahim778/QuickMenuReborn) - Library for developers to easily add their own widgets, to the Vita's Quick Menu
 - [libAppSettings](https://github.com/GrapheneCt/libAppSettings) - Library that implements simple bridge for system software app settings dialog
 - [PSVita Unity Utilities](https://github.com/GlitcherOG/PSVita-Unity-Utilities) - Tools to help speed up PSVita Unity Development
