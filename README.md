@@ -152,6 +152,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [VICEVita](https://github.com/ammeir/vicevita) - Commodore 64 emulator
 - [ZXVita](https://vitadb.rinnegatamante.it/#/info/478) - Sinclair ZX Spectrum emulator
 ### 💎 Game Engines
+- [Godot](https://github.com/SonicMastr/godot) - Godot engine with included support for PS Vita
 - [ScummVM](https://buildbot.scummvm.org/snapshots/stable/psp2-stable-latest.zip) - Script Creation Utility for Maniac Mansion Virtual Machine
 - [GemRB](https://github.com/Northfear/gemrb-vita) - Infinity Engine reimplementation (Game Engine Made with preRendered Background)
 - [EasyRPG Player](https://github.com/EasyRPG/Player) - Interpreter for RPG Maker 2000, 2003 and EasyRPG engines
