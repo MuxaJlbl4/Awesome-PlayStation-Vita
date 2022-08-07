@@ -101,6 +101,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [PlayStation Mini Store](https://forum.devchroma.nl/index.php/topic,353.0.html) - Fast text UI store app for Vita and PS3 stores
 - [RIF Ripper](https://forum.devchroma.nl/index.php/topic,354.0.html) - License backup tool for purchased digital content for PSP, PS3, PS Vita
 - [VBackup](https://github.com/GrapheneCt/VBackup) - Advanced backup tool for PS Vita
+- [Apps for 3.74](https://wololo.net/2022/07/23/ps-vita-vitashell-2-04-by-yoti-and-other-vita-tools-get-3-74-firmware-support/) - Main apps with 3.74 support by [RealYoti](https://github.com/RealYoti)
 ### 💾 Memory
 - [PSVita-StorageMgr](https://github.com/CelesteBlue-dev/PSVita-StorageMgr) - Mounts/redirects storage devices to mount points
 - [yamt-vita](https://github.com/SKGleba/yamt-vita) - Yet another (re)mount tool kernel plugin
@@ -295,6 +296,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [Trophy Manager](https://github.com/ONElua/TrophyManager) - Trophy remover app
 - [TrophyShot](https://github.com/FMudanyali/TrophyShot) - Takes a screenshot whenever you unlock a trophy
 ### 📝 Cheats
+- [Apollo Save Tool](https://github.com/bucanero/apollo-vita) - Allows to download, unlock, patch and resign save-games
 - [VitaCheat](https://github.com/r0ah/vitacheat) - Cheat plugin
 - [VitaCheatDatabase](https://github.com/ShumnoT/VitaCheatDatabase) - Database for VitaCheat 
 - [Cheat Plugins](https://github.com/r0ah/vitacheat/tree/master/plg) - Cheat plugins
@@ -406,6 +408,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [PSV Hacking 4PDA](https://4pda.to/forum/index.php?showtopic=465175) - Russian guides for hacking
 - [Project Rinascita](https://wololo.net/2021/07/10/project-rinascita-taking-the-vita-from-zero-to-hero) - Most common hacking problems and solves
 - [Remove PSN Account](https://www.reddit.com/r/vitahacks/comments/tbjbqa/guide_how_to_completely_remove_psn_account_from) - How to Completely Remove PSN Account From PS Vita + Earn Trophies Again
+- [Hacking without Memory Card](https://www.reddit.com/r/vitahacks/comments/wfd5vu/guide_complete_guide_of_hacking_a_psvita_1xxx/) - Complete Guide of Hacking a PSVita 1xxx without Memory Card
 ### 👩‍💻 Dev Docs
 - [Vita SDK Docs](https://docs.vitasdk.org) - Vita SDK Docs
 - [Vita Development Wiki](https://wiki.henkaku.xyz/vita/Main_Page) - Vita SDK wiki
