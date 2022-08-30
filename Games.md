@@ -11,14 +11,15 @@
 | [Grand Theft Auto: Vice City](https://www.rockstargames.com/games/vicecity) | [re3-miami](https://dl.coolatoms.org/vitadb/GTAVC.vpk) | [Rinnegatamante](https://github.com/Rinnegatamante) | [Data Files](https://dl.coolatoms.org/vitadb/vcdata.zip) |
 | [Hollow Knight](https://www.gog.com/game/hollow_knight) | [hk-vita](https://dsc.gg/danspalace) | [Dan Cooper](https://www.youtube.com/channel/UCnmRRj6fy_RItoJKNFQIF6A) | Early version |
 | [Mari0](https://stabyourself.net/mari0) | [Mari0-vita](https://github.com/isage/Mari0-vita) | [Isage](https://github.com/isage) |  |
-| [PAKO 2](https://store.steampowered.com/app/612370/PAKO_2) | [pako2-build](https://t.me/danspalace) | [Dan Cooper](https://www.youtube.com/channel/UCnmRRj6fy_RItoJKNFQIF6A) | Early version |
+| [PAKO 2](https://store.steampowered.com/app/612370/PAKO_2) | [pako2-build](https://dsc.gg/danspalace) | [Dan Cooper](https://www.youtube.com/channel/UCnmRRj6fy_RItoJKNFQIF6A) | Early version |
 | [Sakura Swim Club](https://store.steampowered.com/app/402180/Sakura_Swim_Club) | [Sakura-Swim-Vita](https://github.com/deepestdrive/Sakura-Swim-Vita) | [Deepestdrive](https://github.com/deepestdrive) |  |
 | [Septerra Core: Legacy of the Creator](https://www.gog.com/ru/game/septerra_core_legacy_of_the_creator) | [septerra-core-vita](https://github.com/isage/septerra-core-vita) | [Isage](https://github.com/isage) |  |
 | [Streets of Rage Remake](https://sorr.forumotion.net/t838-new-streets-of-rage-remake-v5-2-download-and-info) | [SoRR](https://github.com/isage/sorr-vita) | [Isage](https://github.com/isage) |  |
 | [Super Mario 64](https://www.nintendo.ru/-/Nintendo-64/Super-Mario-64-269745.html) | [sm64-vita](https://github.com/bythos14/sm64-vita) | [Bythos14](https://github.com/bythos14) | Supports 60 FPS and [puppycam](https://github.com/FazanaJ/puppycam); [VPK file](https://drive.google.com/drive/folders/12JO4SOzOT89pXLxZ3WXfGI8cLSp6u2Gm) |
-| [Tomb Raider](https://www.gog.com/ru/game/tomb_raider_123) | [OpenLara](https://github.com/XProger/OpenLara) | [XProger](https://github.com/XProger) | Better use [raider-vita](https://vitadb.rinnegatamante.it/#/info/845) by [Rinnegatamante](https://github.com/Rinnegatamante) |
+| [Tomb Raider](https://www.gog.com/ru/game/tomb_raider_123) | [OpenLara](https://github.com/XProger/OpenLara) | [XProger](https://github.com/XProger) | Better use [raider-vita](https://github.com/Rinnegatamante/raider-vita) by [Rinnegatamante](https://github.com/Rinnegatamante) |
 | [VVVVVV](https://www.gog.com/ru/game/vvvvvv) | [VVVVVV](https://github.com/isage/VVVVVV) | [Isage](https://github.com/isage) | Supports 60 FPS and mods |
 
+<br>
 
 ## [NoPayStation](https://nopaystation.com) missed games
 - Death Tales
