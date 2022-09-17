@@ -115,6 +115,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [RIF Ripper](https://forum.devchroma.nl/index.php/topic,354.0.html) - License backup tool for purchased digital content for PSP, PS3, PS Vita
 - [VBackup](https://github.com/GrapheneCt/VBackup) - Advanced backup tool for PS Vita
 - [Apps for 3.74](https://wololo.net/2022/07/23/ps-vita-vitashell-2-04-by-yoti-and-other-vita-tools-get-3-74-firmware-support) - Main apps with 3.74 support by [RealYoti](https://github.com/RealYoti)
+- [VitaDB Downloader](https://github.com/Rinnegatamante/VitaDB-Downloader) - Official client for VitaDB by Rinnegatamante
 ### 💾 Memory
 - [PSVita-StorageMgr](https://github.com/CelesteBlue-dev/PSVita-StorageMgr) - Mounts/redirects storage devices to mount points
 - [yamt-vita](https://github.com/SKGleba/yamt-vita) - Yet another (re)mount tool kernel plugin
