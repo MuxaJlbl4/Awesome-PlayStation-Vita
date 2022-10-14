@@ -80,9 +80,7 @@ Contains all most important, actual and cool things in my humble opinion.
 
 ## ✅ Main Links
 - [VitaDB](https://vitadb.rinnegatamante.it/#) - Main database of PS Vita Homebrews, Plugins and PC Tools
-- [PS Vita Store](https://www.reddit.com/r/vita/comments/jicdgc/seems_like_you_can_still_access_the_proper_psn) - Links to Official Playstation Vita game store
 - [NoPayStation](https://nopaystation.com) - List of PSV, PSX, PSP, PS3, PS2 and PSM game links
-- [CbpsDB](https://db.cbps.xyz) - Alternative source for PS Vita Homebrew apps and Plugins
 - [Brewology](https://store.brewology.com/vita/whatsnew.php) - Yet another homebrew source for PS Vita and other consoles<br>
 
 <br>
@@ -102,6 +100,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [vshPatch](https://github.com/KuromeSan/vshPatch) - Like rePatch, but for system applications
 - [ioPlus](https://github.com/CelesteBlue-dev/PSVita-RE-tools/blob/master/ioPlus/ioPlus-0.1/release/ioplus.skprx) - Elevated IO permissions
 ### 🗃️ Apps
+- [VitaDB Downloader](https://github.com/Rinnegatamante/VitaDB-Downloader) - Official client for VitaDB by Rinnegatamante
 - [VitaShell](https://github.com/TheOfficialFloW/VitaShell) - File manager
 - [PKGj](https://github.com/blastrock/pkgj) - [NoPayStation](https://nopaystation.com) browser and installer
 - [Autoplugin 2](https://github.com/ONElua/AutoPlugin2) - Plugin browser and installer
@@ -115,7 +114,6 @@ Contains all most important, actual and cool things in my humble opinion.
 - [RIF Ripper](https://forum.devchroma.nl/index.php/topic,354.0.html) - License backup tool for purchased digital content for PSP, PS3, PS Vita
 - [VBackup](https://github.com/GrapheneCt/VBackup) - Advanced backup tool for PS Vita
 - [Apps for 3.74](https://wololo.net/2022/07/23/ps-vita-vitashell-2-04-by-yoti-and-other-vita-tools-get-3-74-firmware-support) - Main apps with 3.74 support by [RealYoti](https://github.com/RealYoti)
-- [VitaDB Downloader](https://github.com/Rinnegatamante/VitaDB-Downloader) - Official client for VitaDB by Rinnegatamante
 ### 💾 Memory
 - [PSVita-StorageMgr](https://github.com/CelesteBlue-dev/PSVita-StorageMgr) - Mounts/redirects storage devices to mount points
 - [yamt-vita](https://github.com/SKGleba/yamt-vita) - Yet another (re)mount tool kernel plugin
@@ -174,6 +172,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [GemRB](https://github.com/Northfear/gemrb-vita) - Infinity Engine reimplementation (Game Engine Made with preRendered Background)
 - [EasyRPG Player](https://github.com/EasyRPG/Player) - Interpreter for RPG Maker 2000, 2003 and EasyRPG engines
 - [OpenBOR](https://github.com/rsn8887/openbor) - Beats Of Rage 2D game engine
+- [renpy-vita](https://github.com/SonicMastr/renpy-vita) - Visual novel engine Ren'Py
 ### ⌨️ Interpreters & Virtual Machines
 - [cpython-vita](https://github.com/SonicMastr/cpython-vita) - Python 2.7.18 Interpreter
 - [fake-08](https://github.com/jtothebell/fake-08) - PICO-8 virtual machine emulator
@@ -203,6 +202,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [VitaTweaks](https://github.com/TheOfficialFloW/VitaTweaks) - A collection of small tweaks
 - [vitatricks.tk](https://vitatricks.tk) - Online set of useful PS Vita tools
 - [VitaTools](https://github.com/SKGleba/VitaTools) - Useful tools for PSP2 Vita and Dolce
+- [CbpsDB](https://db.cbps.xyz) - Alternative source for PS Vita Homebrew apps and Plugins
 - [Homebrew Software](https://git.shotatoshounenwachigau.moe/vita) - Another homebrew list
 - [GameBrew](https://www.gamebrew.org/wiki/List_of_all_Vita_homebrew) - Yet another homebrew list
 ### 🌍 Network
@@ -214,6 +214,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [Vita Ftp Client](https://github.com/cy33hc/vita-ftp-client) - Simple FTP client app
 - [NPS Proxy](https://www.reddit.com/r/VitaPiracy/comments/a6mwik/nps_temporary_workaround_for_pkgj_https_errors) - Preventing HTTPS errors in PKGj by using NPS proxy
 - [UserAgentSpoofer](https://github.com/GrapheneCt/UserAgentSpoofer) - Changes what device the browser/web page sees your vita as
+- [Vita generic RTL enabler](https://github.com/isage/vita-usb-ether) - Allows to use pc usb-ethernet rtl8152 dongle on vita
 ### 🔧 Fixes
 - [ShaRKF00D](https://github.com/OsirizX/ShaRKF00D) - Allows you to access runtime shader compiler (for [AvP Gold](https://www.psx-place.com/threads/avp-gold.30555))
 - [kubridge](https://github.com/bythos14/kubridge) - DynaRec feature extender for VitaGL games
@@ -254,7 +255,9 @@ games
 - [X1Vita](https://github.com/Ibrahim778/X1Vita) - Adds Xbox One controller support
 - [8BitVita](https://github.com/Ibrahim778/8BitVita) - Adds 8BitDo controller support
 - [Viimote](https://github.com/xerpi/viimote) - Adds Wiimote support
+- [VitaMote](https://www.reddit.com/r/vitahacks/comments/x5negr/release_vitamote_with_useu_button_layout_and_l2r2) - Modded Viimote
 ### 🖱 Device Emulation
+- [VitaPad](https://github.com/carlelieser/vitapad) - Plugin that turns your Playstation Vita into a fully functional gaming controller (improved version of the vitastick)
 - [VitaPad](https://www.psx-place.com/threads/vitapad.30520) - Allows to use PS Vita as a wireless gamepad
 - [vitastick](https://github.com/xerpi/vitastick) - Allows to use PS Vita as an USB gamepad
 - [hidmouse](https://github.com/xerpi/hidmouse) - Allows to use PS Vita as an USB Mouse
@@ -264,13 +267,17 @@ games
 
 ## 🎨 Appearance
 ### 🧮 Launchers
+- [RetroFlow-Launcher](https://github.com/jimbob4000/RetroFlow-Launcher) - Modded version of HexFlow Launcher with retro games support
+- [HexFlow-Launcher-Unofficial-Custom](https://github.com/BlackSheepBoy69/HexFlow-Launcher-Unofficial-Custom) - Revamp mod for VitaHEX's 3D coverflow style launcher for PS Vita
 - [HexFlow-Launcher](https://github.com/VitaHEX-Games/HexFlow-Launcher) - A 3d coverflow like launcher for PS Vita
 - [vita-launcher](https://github.com/cy33hc/vita-launcher) - App/game launcher application
-- [ONEMenu](https://github.com/ONElua/ONEMenu-for-PSVita) - Custom UI and title name editor
+- [ONEMenu](https://github.com/ONElua/ONEMenu-for-PSVita) - Custom UI, title name editor and installer
 ### 🧬 System
 - [fontInstaller](https://github.com/cxziaho/fontInstaller) - An app for installing the [fontRedirect](https://github.com/cxziaho/fontRedirect) plugin for injecting custom fonts
 - [vita-bootanim](https://github.com/SKGleba/VitaTools#vita-bootanim) - Custom boot animations
 ### 🎹 Interface
+- [PSVita Custom Themes Free Repository](https://psv.altervista.org/index.php) - Custom Themes Repository
+- [Custom Themes Manager](http://redsquirrel87.altervista.org/doku.php/custom-themes-manager) - App to browse, view, download and install custom themes
 - [Quick Menu Plus](https://forum.devchroma.nl/index.php/topic,78.html) - Function and style enhancements for the Quick Menu
 - [psp2wpp](https://github.com/Princess-of-Sleeping/psp2wpp) - Adds wave on background
 - [Shortcuts Enhancer](https://github.com/ONElua/Shortcuts-Enhancer) - Custom shortcuts in the PS Vita index menu
@@ -313,6 +320,7 @@ games
 
 ## 🔆 Enhances
 ### 🚀 Overclocking
+- [PSVshellPlus](https://github.com/GrapheneCt/PSVshellPlus) - Advanced overclock and info plugin for PS Vita
 - [PSVshell](https://github.com/Electry/PSVshell) - Overclock plugin with FPS counter and CPU usage
 - [CapUnlocker](https://github.com/GrapheneCt/CapUnlocker) - Allows to use system reserved 4th CPU core and other capabilities
 - [Thread Optimizer](https://github.com/GrapheneCt/ThreadOptimizer) - Adjusts thread parameters
