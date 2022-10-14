@@ -6,6 +6,7 @@
 | [Cannon Fodder](https://www.gog.com/game/cannon_fodder) | [openfodder](https://github.com/isage/openfodder) | [Isage](https://github.com/isage) |  |
 | [Cave Story](https://www.nicalis.com/games/cavestory+) | [NXEngine-Evo-Vita](https://github.com/nxengine/nxengine-evo) | [NXEngine-evo](https://github.com/nxengine) | Also available as RetroArch core |
 | [Doom 3](https://www.gog.com/ru/game/doom_3_bfg_edition) | [d3es-vita](https://github.com/Rinnegatamante/d3es-vita) | [Rinnegatamante](https://github.com/Rinnegatamante) |  |
+| [Everlasting Summer](https://store.steampowered.com/app/331470/Everlasting_Summer) | [Everlasting Summer](https://vk.com/wall-47742407_229898) | [???](https://github.com/ghost) |  |
 | [Gish](https://store.steampowered.com/app/9500/Gish) | [Gish-vita](https://github.com/isage/Gish-vita) | [Isage](https://github.com/isage) | |
 | [Grand Theft Auto 3](https://www.rockstargames.com/games/grandtheftauto3) | [re3](https://dl.coolatoms.org/vitadb/GTA3.vpk) | [Rinnegatamante](https://github.com/Rinnegatamante) | [Data Files](https://dl.coolatoms.org/vitadb/gta3.zip); [How to Install](https://samilops2.gitbook.io/vita-troubleshooting-guide/grand-theft-auto/gta-iii) |
 | [Grand Theft Auto: Vice City](https://www.rockstargames.com/games/vicecity) | [re3-miami](https://dl.coolatoms.org/vitadb/GTAVC.vpk) | [Rinnegatamante](https://github.com/Rinnegatamante) | [Data Files](https://dl.coolatoms.org/vitadb/vcdata.zip) |
