@@ -10,6 +10,8 @@
 | [Gish](https://store.steampowered.com/app/9500/Gish) | [Gish-vita](https://github.com/isage/Gish-vita) | [Isage](https://github.com/isage) | |
 | [Grand Theft Auto 3](https://www.rockstargames.com/games/grandtheftauto3) | [re3](https://dl.coolatoms.org/vitadb/GTA3.vpk) | [Rinnegatamante](https://github.com/Rinnegatamante) | [Data Files](https://dl.coolatoms.org/vitadb/gta3.zip); [How to Install](https://samilops2.gitbook.io/vita-troubleshooting-guide/grand-theft-auto/gta-iii) |
 | [Grand Theft Auto: Vice City](https://www.rockstargames.com/games/vicecity) | [re3-miami](https://dl.coolatoms.org/vitadb/GTAVC.vpk) | [Rinnegatamante](https://github.com/Rinnegatamante) | [Data Files](https://dl.coolatoms.org/vitadb/vcdata.zip) |
+| [Deltarune](https://deltarune.com) | [DLTR00000](https://db.cbps.xyz/getdownload.php?id=DLTR00000) | [tijesef](https://www.reddit.com/user/tijesef) | Chapter 1 only; [YoYo Loader alternative](https://github.com/Rinnegatamante/YoYo-Loader-Vita-Compatibility/issues/18) |
+| [The Henry Stickmin Collection](https://store.steampowered.com/app/1089980/The_Henry_Stickmin_Collection) | [The Henry Stickmin Collection](https://db.cbps.xyz/getdownload.php?id=ABCD12345_1) | [???](https://github.com/ghost) |  |
 | [Hollow Knight](https://www.gog.com/game/hollow_knight) | [hk-vita](https://dsc.gg/danspalace) | [Dan Cooper](https://www.youtube.com/channel/UCnmRRj6fy_RItoJKNFQIF6A) | Early version |
 | [Mari0](https://stabyourself.net/mari0) | [Mari0-vita](https://github.com/isage/Mari0-vita) | [Isage](https://github.com/isage) |  |
 | [PAKO 2](https://store.steampowered.com/app/612370/PAKO_2) | [pako2-build](https://dsc.gg/danspalace) | [Dan Cooper](https://www.youtube.com/channel/UCnmRRj6fy_RItoJKNFQIF6A) | Early version |
@@ -19,6 +21,7 @@
 | [Super Mario 64](https://www.nintendo.ru/-/Nintendo-64/Super-Mario-64-269745.html) | [sm64-vita](https://github.com/bythos14/sm64-vita) | [Bythos14](https://github.com/bythos14) | Supports 60 FPS and [puppycam](https://github.com/FazanaJ/puppycam); [VPK file](https://drive.google.com/drive/folders/12JO4SOzOT89pXLxZ3WXfGI8cLSp6u2Gm) |
 | [Tomb Raider](https://www.gog.com/ru/game/tomb_raider_123) | [OpenLara](https://github.com/XProger/OpenLara) | [XProger](https://github.com/XProger) | Better use [raider-vita](https://github.com/Rinnegatamante/raider-vita) by [Rinnegatamante](https://github.com/Rinnegatamante) |
 | [VVVVVV](https://www.gog.com/ru/game/vvvvvv) | [VVVVVV](https://github.com/isage/VVVVVV) | [Isage](https://github.com/isage) | Supports 60 FPS and mods |
+| [Zork I: The Great Underground Empire](https://www.gog.com/ru/game/the_zork_anthology) | [zork](https://github.com/robDevs/zork) | [robDevs](https://github.com/robDevs) |  |
 
 <br>
 
