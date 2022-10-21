@@ -99,6 +99,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [rePatch reLoaded](https://github.com/SonicMastr/rePatch-reLoaded) - Allows to install custom patches
 - [vshPatch](https://github.com/KuromeSan/vshPatch) - Like rePatch, but for system applications
 - [ioPlus](https://github.com/CelesteBlue-dev/PSVita-RE-tools/blob/master/ioPlus/ioPlus-0.1/release/ioplus.skprx) - Elevated IO permissions
+- [psp2hfw](https://github.com/SKGleba/psp2hfw) - Hybrid Firmware toolset for Playstation Vita (Dual firmware)
 ### 🗃️ Apps
 - [VitaDB Downloader](https://github.com/Rinnegatamante/VitaDB-Downloader) - Official client for VitaDB by Rinnegatamante
 - [VitaShell](https://github.com/TheOfficialFloW/VitaShell) - File manager
@@ -114,6 +115,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [RIF Ripper](https://forum.devchroma.nl/index.php/topic,354.0.html) - License backup tool for purchased digital content for PSP, PS3, PS Vita
 - [VBackup](https://github.com/GrapheneCt/VBackup) - Advanced backup tool for PS Vita
 - [Apps for 3.74](https://wololo.net/2022/07/23/ps-vita-vitashell-2-04-by-yoti-and-other-vita-tools-get-3-74-firmware-support) - Main apps with 3.74 support by [RealYoti](https://github.com/RealYoti)
+- [RepoHub](https://github.com/robDevs/RepoHub) - View Github users, repos, and releases
 ### 💾 Memory
 - [PSVita-StorageMgr](https://github.com/CelesteBlue-dev/PSVita-StorageMgr) - Mounts/redirects storage devices to mount points
 - [yamt-vita](https://github.com/SKGleba/yamt-vita) - Yet another (re)mount tool kernel plugin
@@ -164,6 +166,7 @@ Contains all most important, actual and cool things in my humble opinion.
 ### 🖥️ Computers
 - [Basilisk II](https://github.com/rsn8887/basiliskii-vita) - Apple Macintosh II emulator
 - [UAE4ALL](https://github.com/rsn8887/uae4all2) - Amiga emulator
+- [UniPCemu](https://vitadb.rinnegatamante.it/#/info/798) - Intel 8086 - Pentium II emulator
 - [VICEVita](https://github.com/ammeir/vicevita) - Commodore 64 emulator
 - [ZXVita](https://vitadb.rinnegatamante.it/#/info/478) - Sinclair ZX Spectrum emulator
 ### 💎 Game Engines
@@ -199,6 +202,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [vitabright](https://github.com/devnoname120/vitabright) - Expand bright levels range
 - [dt2s-vita](https://github.com/joel16/dt2s-vita) - Puts your PS VITA to sleep if you double tap the touch screen
 - [TransparentImpose](https://github.com/GrapheneCt/TransparentImpose) - Makes impose menu transparent
+- [ShaRKBR33D](https://vitadb.rinnegatamante.it/#/info/997) - One-click extractor/installer of libshacccg.suprx
 - [VitaTweaks](https://github.com/TheOfficialFloW/VitaTweaks) - A collection of small tweaks
 - [vitatricks.tk](https://vitatricks.tk) - Online set of useful PS Vita tools
 - [VitaTools](https://github.com/SKGleba/VitaTools) - Useful tools for PSP2 Vita and Dolce
@@ -233,7 +237,7 @@ games
 - [Sharpscale](https://forum.devchroma.nl/index.php/topic,112.0.html) - Changes the display scaling method on higher resolutions
 ### ⚓ VitaDock
 - [VitaDock Lite](https://github.com/FroscoInnovativeTechnologies/VitaDockLite) - Standalone VitaDock utility for PC
-- [VitaDock+](https://github.com/SilentNightx/VitaDockPlus) - Linux distribution for Raspberry Pi used to create a PlayStation Vita docking station for video output to a TV
+- [VitaDock+](https://github.com/SilentNightx/VitaDockPlus) - Raspberry Pi Linux distribution for docking station with video output to a TV
 - [VitaDock tutorial](https://www.reddit.com/r/vitahacks/comments/bhaclc/psvitaopz_beta_b_stream_psvita_to_tv_with_pi_zero) - [VitaDock](https://github.com/CrashCortez/VitaDock-DIY) tutorial
 
 <br>
@@ -257,7 +261,7 @@ games
 - [Viimote](https://github.com/xerpi/viimote) - Adds Wiimote support
 - [VitaMote](https://www.reddit.com/r/vitahacks/comments/x5negr/release_vitamote_with_useu_button_layout_and_l2r2) - Modded Viimote
 ### 🖱 Device Emulation
-- [VitaPad](https://github.com/carlelieser/vitapad) - Plugin that turns your Playstation Vita into a fully functional gaming controller (improved version of the vitastick)
+- [VitaPad](https://github.com/carlelieser/vitapad) - Allows to use PS Vita as a gaming controller (improved version of the vitastick)
 - [VitaPad](https://www.psx-place.com/threads/vitapad.30520) - Allows to use PS Vita as a wireless gamepad
 - [vitastick](https://github.com/xerpi/vitastick) - Allows to use PS Vita as an USB gamepad
 - [hidmouse](https://github.com/xerpi/hidmouse) - Allows to use PS Vita as an USB Mouse
