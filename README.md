@@ -466,6 +466,7 @@ games
 - [PS Vita Dev Wiki](https://playstationdev.wiki/psvitadevwiki/index.php?title=Main_Page) - Another wiki for developers
 - [Unity setup](https://www.patreon.com/posts/guide-how-to-to-24906451) - How to setup Unity to develop PS Vita Games
 - [Compiling VitaQuake](https://forum.devchroma.nl/index.php?topic=148.0) - Compiling VitaQuake tutorial
+- [LiveArea specifications](https://github.com/Hammerill/livearea-specs) - Documentation how to make PS Vita happy with images for LiveArea, resolves 0x8010113D error
 ### 🧶 RE Tutorials
 - [Dots_tb tutorials](https://forum.devchroma.nl/index.php/topic,204.msg524.html#msg524) - Useful RE tutorials by [dots_tb](https://github.com/dots-tb)
 - [Unity debugging](https://forum.devchroma.nl/index.php/topic,21.0.html) - Debugging some Unity games
