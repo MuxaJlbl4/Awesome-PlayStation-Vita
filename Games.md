@@ -2,7 +2,6 @@
 
 | Game Title | Homebrew | Developer | Comment |
 | ---------- | -------- | --------- | ------- |
-| [Blood](https://store.steampowered.com/app/1010750/Blood_Fresh_Supply) | [NBlood-Vita](https://github.com/Rinnegatamante/NBlood-Vita) | [Rinnegatamante](https://github.com/Rinnegatamante) | Some performance issues; [VPK file](https://rutracker.org/forum/viewtopic.php?t=6063876) |
 | [Cannon Fodder](https://www.gog.com/game/cannon_fodder) | [openfodder](https://github.com/isage/openfodder) | [Isage](https://github.com/isage) |  |
 | [Cave Story](https://www.nicalis.com/games/cavestory+) | [NXEngine-Evo-Vita](https://github.com/nxengine/nxengine-evo) | [NXEngine-evo](https://github.com/nxengine) | Also available as RetroArch core |
 | [Doom 3](https://www.gog.com/ru/game/doom_3_bfg_edition) | [d3es-vita](https://github.com/Rinnegatamante/d3es-vita) | [Rinnegatamante](https://github.com/Rinnegatamante) |  |
@@ -19,7 +18,6 @@
 | [Septerra Core: Legacy of the Creator](https://www.gog.com/ru/game/septerra_core_legacy_of_the_creator) | [septerra-core-vita](https://github.com/isage/septerra-core-vita) | [Isage](https://github.com/isage) |  |
 | [Streets of Rage Remake](https://sorr.forumotion.net/t838-new-streets-of-rage-remake-v5-2-download-and-info) | [SoRR](https://github.com/isage/sorr-vita) | [Isage](https://github.com/isage) |  |
 | [Super Mario 64](https://www.nintendo.ru/-/Nintendo-64/Super-Mario-64-269745.html) | [sm64-vita](https://github.com/bythos14/sm64-vita) | [Bythos14](https://github.com/bythos14) | Supports 60 FPS and [puppycam](https://github.com/FazanaJ/puppycam); [VPK file](https://drive.google.com/drive/folders/12JO4SOzOT89pXLxZ3WXfGI8cLSp6u2Gm) |
-| [Tomb Raider](https://www.gog.com/ru/game/tomb_raider_123) | [OpenLara](https://github.com/XProger/OpenLara) | [XProger](https://github.com/XProger) | Better use [raider-vita](https://github.com/Rinnegatamante/raider-vita) by [Rinnegatamante](https://github.com/Rinnegatamante) |
 | [VVVVVV](https://www.gog.com/ru/game/vvvvvv) | [VVVVVV](https://github.com/isage/VVVVVV) | [Isage](https://github.com/isage) | Supports 60 FPS and mods |
 | [Zork I: The Great Underground Empire](https://www.gog.com/ru/game/the_zork_anthology) | [zork](https://github.com/robDevs/zork) | [robDevs](https://github.com/robDevs) |  |
 
