@@ -87,12 +87,13 @@ Contains all most important, actual and cool things in my humble opinion.
 
 ## ⚙️ Basic Stuff
 ### 🔓 Hacking
-- [Final h-encore²](https://github.com/soarqin/finalhe) - Homebrew enabler auto installer for firmwares 3.69 - 3.74
-- [Auto h-encore](https://github.com/noahc3/auto-h-encore) - Homebrew enabler auto installer for firmwares 3.65 - 3.68
+- [HENlo](https://github.com/SKGleba/henlo_jb) - Homebrew enabler auto installer for firmwares 3.65 - 3.74 (without a PC or Sony PS Vita Memory Card)
+- [Final h-encore²](https://github.com/soarqin/finalhe) - Homebrew enabler auto installer for firmwares 3.60 - 3.74
 - [HENkaku](https://henkaku.xyz) - Homebrew enabler for firmware 3.60
-- [MLTHaku](http://mlthaku.tk) - Homebrew enabler for firmware 3.60 without memory card (for [SD2VITA](https://github.com/xyzz/gamecard-microsd))
+- [Project Amber](https://wololo.net/2023/01/13/ps-vita-project-amber-henlo-jailbreak-for-ps-vita-3-74-updated-adds-sd-cardsd2vita-support-for-psv-1xxx) - Homebrew enabler for firmwares 3.65 - 3.74 with [SD2VITA](https://github.com/xyzz/gamecard-microsd) (without Sony PS Vita Memory Card)
+- [MLTHaku](http://mlthaku.tk) - Homebrew enabler for firmware 3.60 with [SD2VITA](https://github.com/xyzz/gamecard-microsd) (without Sony PS Vita Memory Card)
 - [Modoru](https://github.com/SKGleba/modoru) - Firmware downgrader
-- [0syscall6](https://github.com/SKGleba/0syscall6) - Remove SELF checks (allows play games on lower firmware)
+- [0syscall6](https://github.com/SKGleba/0syscall6) - Remove SELF checks (allows play games on lower firmwares)
 - [NoNpDrm](https://github.com/TheOfficialFloW/NoNpDrm) - Disable DRM protection in games
 - [NoPsmDrm](https://github.com/frangarcj/NoPsmDrm) - Disable DRM protection in PSM games
 - [FreePSM](https://bitbucket.org/SilicaAndPina/freepsm/src/master) - Free in app purchases in PSM games
@@ -215,7 +216,9 @@ Contains all most important, actual and cool things in my humble opinion.
 - [accountswitcher](https://github.com/elpendor/accountswitcher) - Switch between your PSN accounts on your Vita
 - [Download Enabler](https://github.com/TheOfficialFloW/VitaTweaks/releases/tag/DownloadEnabler) - Allows download any files from PS Vita browser
 - [Multidownload Vita](https://github.com/DavisDev/Multidownload-Vita) - Advanced downloader app
-- [Vita Ftp Client](https://github.com/cy33hc/vita-ftp-client) - Simple FTP client app
+- [Vita FTP Client](https://github.com/cy33hc/vita-ftp-client) - Simple FTP client app
+- [Vita SMB Client](https://github.com/cy33hc/vita-smb-client) - Simple SMB client app
+- [Vita WebDAV Client](https://github.com/cy33hc/vita-webdav-client) - Simple WebDAV client app
 - [NPS Proxy](https://www.reddit.com/r/VitaPiracy/comments/a6mwik/nps_temporary_workaround_for_pkgj_https_errors) - Preventing HTTPS errors in PKGj by using NPS proxy
 - [UserAgentSpoofer](https://github.com/GrapheneCt/UserAgentSpoofer) - Changes what device the browser/web page sees your vita as
 - [Vita generic RTL enabler](https://github.com/isage/vita-usb-ether) - Allows to use pc usb-ethernet rtl8152 dongle on vita
@@ -228,6 +231,8 @@ Contains all most important, actual and cool things in my humble opinion.
 - [PS1 games fix](https://gbatemp.net/threads/new-mode-to-fix-ps1-games-for-psp-and-psvita.607286) - Way to fix broken PS1 games for PSP and PSVita
 - [PocketstationUnlocker](https://silica.codes/SilicaAndPina/PocketstationUnlocker) - Forces pocketstation support in all PS1
 games
+- [ParentalControlBypass](https://bitbucket.org/SilicaAndPina/parentalcontrolbypass/src/master) - Reset PSVita Parental Control
+- [psv_trophfix](https://github.com/Yoti/psv_trophfix) - Trophies Fixer
 - [hide-autoplugin](https://silica.codes/SilicaAndPina/hide-autoplugin) - Hides ux0:/app/AUTOPLUG2 from any app its loaded into
 ### 🔅 PS Vita 2000
 - [LCD Color Saturation](https://github.com/Electric1447/lcd-color-saturation) - App for improving color saturation on your Vita 2000
@@ -246,12 +251,14 @@ games
 ### ⚖️ Calibration
 - [reVita](https://github.com/MERLev/reVita) - Allows you to remap inputs and trigger actions
 - [vita-ps4linkcontrols](https://github.com/nowrep/vita-ps4linkcontrols) - Button configuration plugin for Remote Play
+- [ps4linkcontrols-gui](https://github.com/keltar/ps4linkcontrols-gui) - GUI configuration utility for vita-ps4linkcontrols
 - [Button Swap](https://github.com/Scorpeg/Button-Swap) - Swapping X and O buttons
 - [VitaTester](https://github.com/NamelessGhoul0/VitaTester) - Testing input
 - [Analog Enhancer](http://wololo.net/talk/viewtopic.php?f=116&t=49475) - Sets deadzones for sticks
 - [WDNR](https://github.com/Rinnegatamante/WDNR) - Disables rear touchpad
 ### 🪛 Controller Drivers
 - [ds34vita](https://github.com/MERLev/ds34vita) - Allows to use Dualshock 3/4 controllers
+- [System-Integrated DualSense Driver](https://forum.devchroma.nl/index.php/topic,358.0.html) - Allows to use DualSense controllers
 - [DS34Motion](https://github.com/MERLev/DS34Motion) - Adds motion control support for PlayStation TV with DualShock
 - [MiniVitaTV](https://github.com/TheOfficialFloW/MiniVitaTV) - Allows you to connect up to 4 DS3/DS4 controllers to PS Vita
 - [ds4vita](https://github.com/xerpi/ds4vita) - Adds DualShock support
@@ -317,7 +324,9 @@ games
 - [Bookr](https://github.com/pathway27/bookr-mod-vita) - PDF, CBZ, HTML, ePub, FB2 reader
 - [Noboru](https://github.com/Creckeryop/NOBORU) - Manga/comics browser/reader
 ### 🎥 Streaming
+- [NetStream](https://github.com/GrapheneCt/NetStream) - Universal video streaming client (from YouTube, HTTP server, FTP server, Local storage ...)
 - [Vita Moonlight](https://github.com/xyzz/vita-moonlight) - NVIDIA Gamestream client for Vita
+- [cspot_vita](https://github.com/michal4132/cspot_vita) - A Spotify player (supports only premium accounts)
 - [udcd_uvc](https://github.com/xerpi/vita-udcd-uvc) -  Allows you stream your PSVita screen to PC/Android via USB
 
 <br>
@@ -392,6 +401,7 @@ games
 - [TempAR](https://github.com/raing3/tempar) - PSP cheat plugin
 - [60 FPS Patches List](https://forums.ppsspp.org/showthread.php?tid=22800) - 60 FPS patches for PSP games (for CWCheat/TempAR)
 - [CWCheat Database +](https://github.com/Saramagrean/CWCheat-Database-Plus-) - List of cheats for CWCheat/TempAR
+- [Random fixes/hacks](https://forums.ppsspp.org/showthread.php?tid=22787) - Random fixes/hacks to improve PSP games on PPSSPP/PSP/Vita
 - [psp-dev.org](http://psp-dev.org/hb) - PSP Homebrew Store
 - [GameBrew PSP](https://www.gamebrew.org/wiki/List_of_all_PSP_homebrew) - List of PSP homebrews
 
@@ -409,6 +419,7 @@ games
 - [TriGL](https://github.com/GrapheneCt/TriGL) - WebGL implementation for SCE Trilithium Javascript engine
 - [VitaMonoLoader](https://github.com/GrapheneCt/VitaMonoLoader) - Standalone Mono (C#) execution on PS Vita
 - [PHP-Player-plus-plus (pp++)](https://github.com/isage/pppp-vita) - PHP interpreter for PS Vita
+- [FalsoJNI](https://github.com/v-atamanenko/FalsoJNI) - Simple, zero-dependency fake JVM/JNI interface written in C
 - [QuickMenuReborn](https://github.com/Ibrahim778/QuickMenuReborn) - Library for developers to easily add their own widgets, to the Vita's Quick Menu
 - [libAppSettings](https://github.com/GrapheneCt/libAppSettings) - Library that implements simple bridge for system software app settings dialog
 - [PSVita Unity Utilities](https://github.com/GlitcherOG/PSVita-Unity-Utilities) - Tools to help speed up PSVita Unity Development
@@ -443,6 +454,7 @@ games
 - [Bubble Studio](https://anthe.studio/bubblestudio) - Web editor for app.db
 - [PSMRC](https://psmrc.herokuapp.com) - Resource Pack Converter for Minecraft PS Vita Edition
 ### ℹ️ Info
+- [ViBeS](https://github.com/Rinnegatamante/ViBeS) - Minimalistic benchmarking plugin
 - [VGi](https://github.com/Electry/VGi) - Prints useful information about PS Vita games
 - [VITAident](https://github.com/joel16/VITAident) - System/hardware identity tool for PS Vita
 
@@ -451,8 +463,10 @@ games
 ## 🗺️ Guides
 ### 👣 Hacks
 - [PS Vita (TV) Hacks Guide](https://vita.hacks.guide) - A complete hack guide
+- [Vita hacking guide](https://guide.psp2.dev/start) - Another complete hack guide ([HENlo](https://github.com/SKGleba/henlo_jb))
 - [Vita Troubleshooting Guide](https://samilops2.gitbook.io/vita-troubleshooting-guide) - Useful tutorials for installing hacks, complex homebrews/plugins etc
 - [CFWaifu Vita Tutorials](https://www.cfwaifu.com/psvita) - CFWaifu guides
+- [Vita Custom Firmware for dummies](https://wololo.net/vita-cfw4dummies) - Wololo.net complete hack guide
 - [Wololo Tutorials](https://wololo.net/talk/viewforum.php?f=65) - Wololo.net/talk Vita tutorials
 - [PGBook](https://pgtmp.gitbook.io/pgbook) - PortableGaming guides and articles
 - [PortableGaming](https://vk.com/@portablegaming) - Russian PortableGaming guides and articles
@@ -482,7 +496,7 @@ games
 
 ## ♥️ Fans
 ### 😜 Communities
-- [Wololo PS Vita](http://wololo.net/category/psvita) - Lastest homebrews, mods and hacking scene news
+- [Wololo PS Vita](http://wololo.net/category/psvita) - Latest homebrews, mods and hacking scene news
 - [Reddit Vita](https://www.reddit.com/r/vita) - PS Vita Reddit community
 - [Reddit VitaHacks](https://www.reddit.com/r/vitahacks) - PS Vita hacks and homebrew on Reddit
 - [Reddit VitaPiracy](https://www.reddit.com/r/VitaPiracy) - Reddit discussion of things related to piracy on the PS Vita
