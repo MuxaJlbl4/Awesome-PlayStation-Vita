@@ -25,6 +25,11 @@
 - Start/Stop recording - **L + Start**
 <br>
 
+## <u>[ViBeS Hotkeys](https://github.com/Rinnegatamante/ViBeS#controls)</u>
+- Change verbosity - **Start + ←**
+- Reset max/min values - **Start + →**
+<br>
+
 ## <u>[PSVshell Hotkeys](https://github.com/Electry/PSVshell#how-to-use)</u>
 - Toggle between 3 GUI modes - **(Select + ↑) / (Select + ↓)**
 - Navigation - **↑ / ↓ / ← / → / ╳** *(GUI mode)*
@@ -42,7 +47,7 @@
 - Load state from slot - **L + (Select / Start / △ / ◯ / ╳ / ⧠) + PS**
 <br>
 
-## <u>[GePatch Hotkeys](https://github.com/TheOfficialFloW/GePatch#changelog-v02)
+## <u>[GePatch Hotkeys](https://github.com/TheOfficialFloW/GePatch#changelog-v02)</u>
 - Skip GE patch - **Hold L (during starting a game)**
 <br>
 
@@ -87,6 +92,6 @@
 
 ## <u>Miscellaneous Hotkeys</u>
 - Adrenaline menu - **Hold PS; Tap Settings**
-- Minimize Adrenaline - **Double tap PS**
+- Minimize Adrenaline - **Double press PS**
 - RetroArch quick menu - **L + R + Start + Select** *(default)*
 <br>
