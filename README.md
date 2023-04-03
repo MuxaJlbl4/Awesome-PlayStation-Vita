@@ -3,8 +3,6 @@
 List of awesome stuff for Playstation Vita.
 Contains all most important, actual and cool things in my humble opinion.
 
-<br>
-
 ## 🧭 Table of Contents
 - **[✅ Main Links](#-main-links)**
 - **[⚙️ Basic Stuff](#%EF%B8%8F-basic-stuff)**
@@ -76,14 +74,10 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [🧪 Compatibility Lists](#-compatibility-lists)
 	- [🧩 Misc](#-misc)
 
-<br>
-
 ## ✅ Main Links
 - [VitaDB](https://vitadb.rinnegatamante.it/#) - Main database of PS Vita Homebrews, Plugins and PC Tools
 - [NoPayStation](https://nopaystation.com) - List of PSV, PSX, PSP, PS3, PS2 and PSM game links
-- [Brewology](https://store.brewology.com/vita/whatsnew.php) - Yet another homebrew source for PS Vita and other consoles<br>
-
-<br>
+- [Brewology](https://store.brewology.com/vita/whatsnew.php) - Yet another homebrew source for PS Vita and other consoles
 
 ## ⚙️ Basic Stuff
 ### 🔓 Hacking
@@ -130,8 +124,6 @@ Contains all most important, actual and cool things in my humble opinion.
 - [Gamecard-microSD (SD2VITA)](https://github.com/xyzz/gamecard-microsd) - Gamecard to MicroSD adapter driver
 - [usbmc](https://github.com/yifanlu/usbmc) - Driver for PSVSD and external USB storage
 
-<br>
-
 ## 🎮 Games
 ### 👾 Native
 - [Wiki Game List](https://en.wikipedia.org/wiki/Lists_of_PlayStation_Vita_games) - Wikipedia list of all PS Vita games
@@ -144,8 +136,6 @@ Contains all most important, actual and cool things in my humble opinion.
 - [Lua Games](https://github.com/Rinnegatamante/lpp-vita#showcase) - List of projects using Lua Player Plus
 - [Some Visual Novel](https://www.reddit.com/r/VitaPiracy/comments/90espv/vnds_clone_games_on_this_reddit) - VNDS Clone games for Vita
 - [PSM Reborn](http://psmreborn.com/libary.php) - PSM games list
-
-<br>
 
 ## 🕹️ Emulators
 ### 🌌 Collections
@@ -187,8 +177,6 @@ Contains all most important, actual and cool things in my humble opinion.
 - [YoYo Loader Vita](https://github.com/Rinnegatamante/yoyoloader_vita) - Android GameMaker Studio Runner application for the PS Vita ([Log Reset](https://github.com/DRok17/Log-Reset-for-YYL))
 - [vita2hos](https://github.com/xerpi/vita2hos) - A PlayStation Vita to Horizon OS (Nintendo Switch OS) translation layer
 - [linux_vita](https://github.com/xerpi/linux_vita) - Linux kernel Vita port
-
-<br>
 
 ## 💡 Customization
 ### 🔋 Utilities
@@ -234,6 +222,9 @@ games
 - [ParentalControlBypass](https://bitbucket.org/SilicaAndPina/parentalcontrolbypass/src/master) - Reset PSVita Parental Control
 - [psv_trophfix](https://github.com/Yoti/psv_trophfix) - Trophies Fixer
 - [hide-autoplugin](https://silica.codes/SilicaAndPina/hide-autoplugin) - Hides ux0:/app/AUTOPLUG2 from any app its loaded into
+- [FS Attributes Fix](https://www.reddit.com/r/vitahacks/comments/5nsiwb/fixing_folders_you_cannot_see_or_access_through) - Fixing folders you cannot see or access through USB VitaShell on Windows
+- [Refresh LiveArea](https://lempereurdunet.files.wordpress.com/2020/09/vitashell-refresh-livearea.jpg?w=488) - [VitaShell](https://github.com/TheOfficialFloW/VitaShell); Options; Refresh LiveArea
+
 ### 🔅 PS Vita 2000
 - [LCD Color Saturation](https://github.com/Electric1447/lcd-color-saturation) - App for improving color saturation on your Vita 2000
 - [LCD Colour Space Changer](https://forum.devchroma.nl/index.php?topic=201.0) - Plugin for improving color saturation on your Vita 2000
@@ -244,8 +235,6 @@ games
 - [VitaDock Lite](https://github.com/FroscoInnovativeTechnologies/VitaDockLite) - Standalone VitaDock utility for PC
 - [VitaDock+](https://github.com/SilentNightx/VitaDockPlus) - Raspberry Pi Linux distribution for docking station with video output to a TV
 - [VitaDock tutorial](https://www.reddit.com/r/vitahacks/comments/bhaclc/psvitaopz_beta_b_stream_psvita_to_tv_with_pi_zero) - [VitaDock](https://github.com/CrashCortez/VitaDock-DIY) tutorial
-
-<br>
 
 ## 🗝 Input
 ### ⚖️ Calibration
@@ -264,6 +253,8 @@ games
 - [ds4vita](https://github.com/xerpi/ds4vita) - Adds DualShock support
 - [ds4Touch](https://github.com/MERLev/ds4Touch) - Adds DualShock touchpad support ([ds4vita](https://github.com/xerpi/ds4vita) way) to PS TV and Vita with [MiniVitaTV](https://github.com/TheOfficialFloW/MiniVitaTV)
 - [X1Vita](https://github.com/Ibrahim778/X1Vita) - Adds Xbox One controller support
+- [ViXEn](https://github.com/isage/vixen) - Driver for XInput gamepads
+- [VXHelper](https://github.com/isage/vixen-helper) - Support app for ViXEn
 - [8BitVita](https://github.com/Ibrahim778/8BitVita) - Adds 8BitDo controller support
 - [Viimote](https://github.com/xerpi/viimote) - Adds Wiimote support
 - [VitaMote](https://www.reddit.com/r/vitahacks/comments/x5negr/release_vitamote_with_useu_button_layout_and_l2r2) - Modded Viimote
@@ -273,8 +264,6 @@ games
 - [vitastick](https://github.com/xerpi/vitastick) - Allows to use PS Vita as an USB gamepad
 - [hidmouse](https://github.com/xerpi/hidmouse) - Allows to use PS Vita as an USB Mouse
 - [VitaKeyboard](https://github.com/mswlandi/vitakeyboard) - Allows to use PS Vita as an USB Keyboard
-
-<br>
 
 ## 🎨 Appearance
 ### 🧮 Launchers
@@ -294,11 +283,11 @@ games
 - [Shortcuts Enhancer](https://github.com/ONElua/Shortcuts-Enhancer) - Custom shortcuts in the PS Vita index menu
 - [QuickLaunch-Installer](https://github.com/DRok17/QuickLaunch-Installer) - Allows you to customize the quick menu shortcuts
 - [Theme Manager Ex](https://bitbucket.org/kylon/theme-manager-ex-theme-engine/src/master) - Advanced theme manger
+- [TEMA](https://github.com/Mithrenes/TEMA) - Live Area and Vita Shell Theme Installer
+
 ### 🔮 Bubbles
 - [Multi-Builder](https://github.com/DRok17/Multi-Builder) - LiveArea bubble creation and editing tool for PC
 - [FAQ to Vita Manual Converter](https://github.com/RawBOT/faq-to-vita-manual) - Converts HTML to bubble manual
-
-<br>
 
 ## 🎞️ Media
 ### 🖼️ Image
@@ -308,7 +297,7 @@ games
 ### 🎵 Music
 - [ElevenMPV-A](https://github.com/GrapheneCt/ElevenMPV-A) - Music player with background playback
 - [Music Premium](https://forum.devchroma.nl/index.php/topic,60.0.html) - Enables background music playback
-- [VITA-NoAutoAvls](https://github.com/SKGleba/VITA-NoAutoAvls) - Enable/disable the auto-avls feature
+- [VITA-NoAutoAvls](https://github.com/SKGleba/VITA-NoAutoAvls) - Enable/disable the auto-avls feature (bypass 20 hours timing)
 - [Monaural](https://forum.devchroma.nl/index.php/topic,57.0.html) - Mono audio and channel balance
 ### 🎬 Video
 - [Vita Recorder](https://github.com/Rinnegatamante/Vita-Recorder) - Allows to record video clips
@@ -328,8 +317,6 @@ games
 - [Vita Moonlight](https://github.com/xyzz/vita-moonlight) - NVIDIA Gamestream client for Vita
 - [cspot_vita](https://github.com/michal4132/cspot_vita) - A Spotify player (supports only premium accounts)
 - [udcd_uvc](https://github.com/xerpi/vita-udcd-uvc) -  Allows you stream your PSVita screen to PC/Android via USB
-
-<br>
 
 ## 🔆 Enhances
 ### 🚀 Overclocking
@@ -360,8 +347,6 @@ games
 - [Déjàvu](https://github.com/TheOfficialFloW/dejavu) - Save state plugin
 - [TurboPad](https://wololo.net/talk/viewtopic.php?t=48065) - Allows you to enable RapidFire on any button
 - [save-editor.com](http://www.save-editor.com/tools) - Set of save editor tools
-
-<br>
 
 ## 🛠️ Mods
 ### 💊 Game Patches
@@ -405,8 +390,6 @@ games
 - [psp-dev.org](http://psp-dev.org/hb) - PSP Homebrew Store
 - [GameBrew PSP](https://www.gamebrew.org/wiki/List_of_all_PSP_homebrew) - List of PSP homebrews
 
-<br>
-
 ## 🧰 Tools
 ### 👨‍💻 Development
 - [PSM Reborn](http://psmreborn.com/devtools.php) - SDK's and Unity Builds and bunch of other development tools for Vita
@@ -433,7 +416,7 @@ games
 - [MaiDumpToolEN](https://github.com/LioMajor/MaiDumpToolEN) - Game dumper and patcher
 - [PS Vita Decrypted Firmwares](https://files.olebeck.com/firmware/vita/decrypted) - A collection of decrypted PS Vita firmwares
 ### 💻 PC
-- [Vita3K](https://github.com/Vita3K/Vita3K) - PlayStation Vita emulator for PC
+- [Vita3K](https://github.com/Vita3K) - PlayStation Vita emulator
 - [PSMUI](http://psmreborn.com) - GUI for PSM Simulator (allow to play PSM Games on PC)
 - [QCMA](https://github.com/codestation/qcma) - Open Source Content Manager Assistant for PS Vita
 - [HandBrake](https://github.com/HandBrake/HandBrake) - Video files converter (contains Playstation presets)
@@ -457,8 +440,7 @@ games
 - [ViBeS](https://github.com/Rinnegatamante/ViBeS) - Minimalistic benchmarking plugin
 - [VGi](https://github.com/Electry/VGi) - Prints useful information about PS Vita games
 - [VITAident](https://github.com/joel16/VITAident) - System/hardware identity tool for PS Vita
-
-<br>
+- [PSVident](https://github.com/Freakler/vita-PSVident) - An application that displays various information of your console
 
 ## 🗺️ Guides
 ### 👣 Hacks
@@ -466,6 +448,7 @@ games
 - [Vita hacking guide](https://guide.psp2.dev/start) - Another complete hack guide ([HENlo](https://github.com/SKGleba/henlo_jb))
 - [Vita Troubleshooting Guide](https://samilops2.gitbook.io/vita-troubleshooting-guide) - Useful tutorials for installing hacks, complex homebrews/plugins etc
 - [CFWaifu Vita Tutorials](https://www.cfwaifu.com/psvita) - CFWaifu guides
+- [Vita-Guide](https://github.com/ZHassanQ/Vita-Guide) - How to install CFW and everything to do with it
 - [Vita Custom Firmware for dummies](https://wololo.net/vita-cfw4dummies) - Wololo.net complete hack guide
 - [Wololo Tutorials](https://wololo.net/talk/viewforum.php?f=65) - Wololo.net/talk Vita tutorials
 - [PGBook](https://pgtmp.gitbook.io/pgbook) - PortableGaming guides and articles
@@ -480,7 +463,7 @@ games
 - [PS Vita Dev Wiki](https://playstationdev.wiki/psvitadevwiki/index.php?title=Main_Page) - Another wiki for developers
 - [Unity setup](https://www.patreon.com/posts/guide-how-to-to-24906451) - How to setup Unity to develop PS Vita Games
 - [Compiling VitaQuake](https://forum.devchroma.nl/index.php?topic=148.0) - Compiling VitaQuake tutorial
-- [LiveArea Specs](https://gist.github.com/Hammerill/64411eebf071b93396b7d310ba8d6776) - Documentation how to make PS Vita happy with images for LiveArea, resolves 0x8010113D error
+- [LiveArea Specs](https://gist.github.com/Hammerill/64411eebf071b93396b7d310ba8d6776) - How to make PS Vita happy with images for LiveArea, resolves 0x8010113D error
 ### 🧶 RE Tutorials
 - [Dots_tb tutorials](https://forum.devchroma.nl/index.php/topic,204.msg524.html#msg524) - Useful RE tutorials by [dots_tb](https://github.com/dots-tb)
 - [Unity debugging](https://forum.devchroma.nl/index.php/topic,21.0.html) - Debugging some Unity games
@@ -491,8 +474,6 @@ games
 - [Illusion Patches](https://wololo.net/2022/06/17/ps-vita-release-uncharted-golden-abyss-debug-menu) - How to install [illusion0001](https://illusion0001.com) patches
 - [VitaCheat/FinalCheat Database](https://gbatemp.net/threads/vitacheat-finalcheat-database.485343) - VitaCheat User Manuals
 - [Creating Cheats with PPSSPP](https://github.com/raing3/psp-cheat-guides) - Creating cheats with PPSSPP and CheatEngine
-
-<br>
 
 ## ♥️ Fans
 ### 😜 Communities
@@ -509,14 +490,13 @@ games
 - [4PDA PS Vita](https://4pda.to/forum/index.php?showtopic=214976) - Russian PS Vita discussions and guides
 - [VK Portablegaming](https://vk.com/wall-47742407?own=1) - Portablegaming VK group
 - [Dan's Palace](https://discord.gg/ZANjvz8EUH) - Unity games porting Discord community
+- [Donkey Kong And Friends - Vita & Android Porting](https://discord.gg/z2Cffntfas) - Vita & Android Porting Discord community
 ### 💬 Game Translations
 - [English Translations](https://www.reddit.com/r/VitaPiracy/comments/b9kxta/list_of_fan_translated_vita_games) - List of fan translated Vita games
 - [English Translations](https://vitaenglishtranslations.wordpress.com) - Fan translations and patches for Playstation Vita games
 - [Russian Translations](https://4pda.to/forum/index.php?showtopic=771459) - A collection of russian language patches
 - [Russian Language Games](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9UEPSbNOi39PugwWJlXERBJGfYgDhrh3FDHoJ74hUbtq9ZNL3qd3vtj9W8FR7ObuUSpoLpGZrGHBP/pubhtml) - List of games with russian language and russian patches
 - [forcelang](https://github.com/xdanieldzd/forcelang) - Overrides application language
-
-<br>
 
 ## 🍂 Miscellaneous
 ### 📦 Emulation Necessaries
@@ -535,10 +515,10 @@ games
 - [Unity games](https://docs.google.com/spreadsheets/d/1Hhxr2ODdtAlR8WM08m9v7yVi4_crwoXQe0XvSnd1raU/edit#gid=0) - List of Unity games theoretically portable to PS Vita
 - [Bounties](https://github.com/vita-nuova/bounties/issues) - Bounties for new Vita projects
 - [Compass](https://www.reddit.com/r/vitahacks/comments/us2woq/not_release_simple_compass_for_ps_vita) - Built in Vita browser compass/gyro app ([about:compass](about:compass))
+- [LiveRig](https://github.com/GrapheneCt/LiveRig) - Live2D face tracking software PoC
 - [Plugin descriptions](https://github.com/ONElua/AutoPlugin2/tree/master/AUTOPLUG2/lang) - Short plugin descriptions from [Autoplugin 2](https://github.com/ONElua/AutoPlugin2)
 - [Tech Specs](https://www.reddit.com/r/vita/wiki/thehardware/#wiki_specifications) - PS Vita/PS TV technical specifications
 - [PlayStation Vita Secrets](http://www.edepot.com/playstation.html) - PS Vita Fat technical specifications, some features and secrets
 - [SKU Models](https://playstationdev.wiki/psvitadevwiki/index.php?title=SKU_Models) - PS Vita models table
-- [Plugin hotkeys](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/Hotkeys.md) - List of plugin hotkeys
+- [Hotkeys](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/Hotkeys.md) - Awesome list of app/plugin and system hotkeys
 - [Missed Games](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/Games.md) - Awesome games that not mentioned in [VitaDB](https://vitadb.rinnegatamante.it/#) and [NoPayStation](https://nopaystation.com)
-
