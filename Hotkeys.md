@@ -1,97 +1,88 @@
-# <u>PlayStation Vita plugin hotkeys</u>
-<br>
+# PlayStation Vita Hotkeys
 
-## <u>Basic Hotkeys</u>
+## System
 - Power off - **Hold Power; Tap Power Off**
 - Quick menu - **Hold PS**
 - Mute - **Hold (VOL+ + VOL-)**
 - Screenshot - **PS + Start**
 - Zoom - **PS + ⧠** *(enables in settings)*
-<br>
 
-## <u>Safe Mode Hotkeys</u>
-- Disable all taiHEN plugins - **Hold L (during PS Vita startup)**
-- Disable taiHEN plugins for single app - **Hold L (during app launch)**
-- Start in safe mode - **Hold (R + PS + Power) (5 sec)**
-- Reboot to safe mode - **Hold Power (30 sec)**
-<br>
+## Safe Mode
+- Disable all taiHEN plugins - **Hold L** *(during PS Vita startup)*
+- Disable taiHEN plugins for single app - **Hold L** *(during app launch)*
+- Start in safe mode - **Hold (R + PS + Power)** *(5 sec)*
+- Reboot to safe mode - **Hold Power** *(30 sec)*
 
-## <u>[Pngshot Hotkeys](https://github.com/xyzz/pngshot#usage)</u>
+## [Pngshot](https://github.com/xyzz/pngshot#usage)
 - Take a screenshot - **PS + Start**
-<br>
 
-## <u>[Vita Recorder Hotkeys](https://github.com/Rinnegatamante/Vita-Recorder#controls)</u>
+## [Vita Recorder](https://github.com/Rinnegatamante/Vita-Recorder#controls)
 - Open/Close config menu - **L + Select / △**
 - Start/Stop recording - **L + Start**
-<br>
 
-## <u>[ViBeS Hotkeys](https://github.com/Rinnegatamante/ViBeS#controls)</u>
+## [ViBeS](https://github.com/Rinnegatamante/ViBeS#controls)
 - Change verbosity - **Start + ←**
 - Reset max/min values - **Start + →**
-<br>
 
-## <u>[PSVshell Hotkeys](https://github.com/Electry/PSVshell#how-to-use)</u>
+## [PSVshell](https://github.com/Electry/PSVshell#how-to-use)
 - Toggle between 3 GUI modes - **(Select + ↑) / (Select + ↓)**
 - Navigation - **↑ / ↓ / ← / → / ╳** *(GUI mode)*
 - Change profile - **Hold L** *(GUI mode)*
-<br>
 
-## <u>[ReRescaler Hotkeys](http://wololo.net/talk/viewtopic.php?f=52&t=49666)</u>
-- Lock/Unlock mode/bilinear mode change - **Hold Start (2 sec)** 
-- Change current rescaling mode - **Hold L (4 sec)**
-- Enable/Disable bilinear filtering - **Hold R (4 sec)**
-<br>
+## [ReRescaler](http://wololo.net/talk/viewtopic.php?f=52&t=49666)
+- Lock/Unlock mode/bilinear mode change - **Hold Start** *(2 sec)*
+- Change current rescaling mode - **Hold L** *(4 sec)*
+- Enable/Disable bilinear filtering - **Hold R** *(4 sec)*
 
-## <u>[Déjàvu Hotkeys](https://github.com/TheOfficialFloW/dejavu#saveload-state-procedure)</u>
+## [Déjàvu](https://github.com/TheOfficialFloW/dejavu#saveload-state-procedure)
 - Save state to slot - **R + (Select / Start / △ / ◯ / ╳ / ⧠) + PS**
 - Load state from slot - **L + (Select / Start / △ / ◯ / ╳ / ⧠) + PS**
-<br>
 
-## <u>[GePatch Hotkeys](https://github.com/TheOfficialFloW/GePatch#changelog-v02)</u>
-- Skip GE patch - **Hold L (during starting a game)**
-<br>
+## [GePatch](https://github.com/TheOfficialFloW/GePatch#changelog-v02)
+- Skip GE patch - **Hold L** *(during starting a game)*
 
-## <u>[EmergencyMount Hotkeys](https://forum.devchroma.nl/index.php/topic,183.0.html)</u>
-- Call recovery menu - **Hold △ (during startup)**
-<br>
+## [EmergencyMount](https://forum.devchroma.nl/index.php/topic,183.0.html)
+- Call recovery menu - **Hold △** *(during startup)*
 
-## <u>[VITABatteryPlus Hotkeys](https://github.com/Electric1447/VITABatteryPlus#controls)</u>
+## [VITABatteryPlus](https://github.com/Electric1447/VITABatteryPlus#controls)
 - Battery percentage - **Start + ↑**
 - Battery temperature - **Start + →**
 - Battery life time - **Start + ←**
 - Change text position - **Start + L**
 - Change text color - **Start + R**
 - Close all - **Start + ↓**
-<br>
 
-## <u>[PSV-VSH-Menu Hotkeys](https://github.com/SilentNightx/PSV-VSH-Menu#installation)</u>
+## [PSV-VSH-Menu](https://github.com/SilentNightx/PSV-VSH-Menu#installation)
 - Open/Close VSH - **L + R + Start / L + R + Select**
-<br>
 
-## <u>[VGi Hotkeys](https://github.com/Electry/VGi#controls)</u>
+## [VGi](https://github.com/Electry/VGi#controls)
 - Open/Close VGi - **Select + L**
 - Move and scroll - **L / R / ↑ / ↓** *(GUI mode)*
-<br>
 
-## <u>[ReVita ](https://github.com/MERLev/reVita#usage)[/ RemaPSV ](https://wololo.net/talk/viewtopic.php?t=49752)[/ RemaPSV2 Hotkeys](https://github.com/MERLev/remaPSV2#installation)</u>
+## [ReVita ](https://github.com/MERLev/reVita#usage)[/ RemaPSV ](https://wololo.net/talk/viewtopic.php?t=49752)[/ RemaPSV2](https://github.com/MERLev/remaPSV2#installation)
 - Config menu - **Start + ⧠**
 - Enable/Disable - **Start + △** *(reVita)*
-<br>
 
-## <u>[TurboPad Hotkeys](https://wololo.net/talk/viewtopic.php?t=48065)</u>
+## [TurboPad](https://wololo.net/talk/viewtopic.php?t=48065)
 - Config menu - **Start + △**
-<br>
 
-## <u>[VitaCheat Hotkeys](https://www.cfwaifu.com/vitacheat)</u>
+## [VitaCheat](https://www.cfwaifu.com/vitacheat)
 - VitaCheat menu - **L + →** *(default)*
-<br>
 
-## <u>[RinCheat](https://github.com/Rinnegatamante/rinCheat#controls)</u>
+## [RinCheat](https://github.com/Rinnegatamante/rinCheat#controls)
 - RinCheat menu - **Start + Select**
-<br>
 
-## <u>Miscellaneous Hotkeys</u>
+## [Adrenaline](https://github.com/TheOfficialFloW/Adrenaline)
 - Adrenaline menu - **Hold PS; Tap Settings**
-- Minimize Adrenaline - **Double press PS**
+- Minimize Adrenaline - **Double Press PS**
+- VSH menu - **Select** *(on PSP XMB screen)*
+- Skip [GE Patch](https://github.com/TheOfficialFloW/GePatch) - **Hold L** *(during game startup)*
+
+## [VitaShell](https://github.com/TheOfficialFloW/VitaShell)
+- Main settings - **Start**
+- USB/FTP connection - **Select**
+- Refresh LiveArea - **△; `Refresh LiveArea™`** *(in home section)*
+- Install package from folder - **△; `More`; `Install folder`** *(in package folder)*
+
+## Miscellaneous
 - RetroArch quick menu - **L + R + Start + Select** *(default)*
-<br>
