@@ -364,12 +364,13 @@ games
 - [LittleBigPlanet Project Lighthouse](https://www.lbpunion.com/post/project-lighthouse-littlebigplanet-private-servers) - LittleBigPlanet alternative server (currently only private access)
 ### 🍬 Content Mods
 - [Vita Mods Table](https://docs.google.com/spreadsheets/d/1OkS1S2sJqs2p8jp6pxBfrQkHT4Tn2-__NmAl6BYIUw8/edit#gid=17733003) - PS Vita mods and repatches list
-- [GTA III 10th Anniversary Edition](https://pgtmp.gitbook.io/pgbook/grand-theft-auto/revisited-trilogy/gta-iii) - 10th Anniversary Edition extensions for [re3](https://dl.coolatoms.org/vitadb/GTA3.vpk)[-vita](https://dl.coolatoms.org/vitadb/gta3.zip)
-- [GTA: VC 10th Anniversary Edition](https://pgtmp.gitbook.io/pgbook/grand-theft-auto/revisited-trilogy/gta-vice-city) - 10th Anniversary Edition extensions for [re3-miami](https://dl.coolatoms.org/vitadb/GTAVC.vpk)[-vita](https://dl.coolatoms.org/vitadb/vcdata.zip)
-- [GTA: SA 10th Anniversary Edition](https://pgtmp.gitbook.io/pgbook/grand-theft-auto/revisited-trilogy/gta-san-andreas) - 10th Anniversary Edition extensions for [GTA:SA-vita](https://github.com/TheOfficialFloW/gtasa_vita)
+- [PG Mods](https://pgtmp.gitbook.io/pgmods) - Mods by PortableGaming group ([Russian version](https://pgtmp.gitbook.io/pgmods_rus))
+- [GTA III 10th Anniversary Edition](https://pgtmp.gitbook.io/pgmods/grand-theft-auto/revisited-trilogy/gta-iii) - 10th Anniversary Edition extensions for [re3](https://dl.coolatoms.org/vitadb/GTA3.vpk)[-vita](https://dl.coolatoms.org/vitadb/gta3.zip)
+- [GTA: VC 10th Anniversary Edition](https://pgtmp.gitbook.io/pgmods/grand-theft-auto/revisited-trilogy/gta-vice-city) - 10th Anniversary Edition extensions for [re3-miami](https://dl.coolatoms.org/vitadb/GTAVC.vpk)[-vita](https://dl.coolatoms.org/vitadb/vcdata.zip)
+- [GTA: SA 10th Anniversary Edition](https://pgtmp.gitbook.io/pgmods/grand-theft-auto/revisited-trilogy/gta-san-andreas) - 10th Anniversary Edition extensions for [GTA:SA-vita](https://github.com/TheOfficialFloW/gtasa_vita)
 - [Various GTA Downgraders](https://gtaforums.com/topic/936600-iii-iv-various-gta-downgraders) - Downgrade guides for GTA games (PC)
-- [Max Payne PC Anniversary Edition](https://pgtmp.gitbook.io/pgbook/other/max-payne) - PC version features for [max_vita](https://github.com/fgsfdsfgs/max_vita)
-- [Minecraft: Enhanced](https://pgtmp.gitbook.io/pgbook/other-games/minecraft-enhanced) - Minecraft 1.49 with tons of restores and improves
+- [Max Payne PC Anniversary Edition](https://pgtmp.gitbook.io/pgmods/other-games/max-payne) - PC version features for [max_vita](https://github.com/fgsfdsfgs/max_vita)
+- [Minecraft: Enhanced](https://pgtmp.gitbook.io/pgmods/other-games/minecraft-enhanced) - Minecraft 1.83 with tons of restores and improves
 - [Minecraft Texture Port](https://www.mediafire.com/file/oz05izc5gqyfnv0/1.14.4_Textures_-_PS_Vita.zip/file) - Minecraft texture pack from PC version 1.14.4
 - [God of War Remastered Videos](https://discord.gg/w6pnxJmebx) - GoW HQ Cutscenes
 - [Sly Cooper Remastered Videos](https://discord.gg/w6pnxJmebx) - SC HQ Cutscenes
@@ -451,8 +452,8 @@ games
 - [Vita-Guide](https://github.com/ZHassanQ/Vita-Guide) - How to install CFW and everything to do with it
 - [Vita Custom Firmware for dummies](https://wololo.net/vita-cfw4dummies) - Wololo.net complete hack guide
 - [Wololo Tutorials](https://wololo.net/talk/viewforum.php?f=65) - Wololo.net/talk Vita tutorials
-- [PGBook](https://pgtmp.gitbook.io/pgbook) - PortableGaming guides and articles
-- [PortableGaming](https://vk.com/@portablegaming) - Russian PortableGaming guides and articles
+- [PGBook](https://pgtmp.gitbook.io/pgbook) - Russian PortableGaming guides
+- [PortableGaming](https://vk.com/@portablegaming) - Russian PortableGaming community
 - [PSV Hacking 4PDA](https://4pda.to/forum/index.php?showtopic=465175) - Russian guides for hacking
 - [Project Rinascita](https://wololo.net/2021/07/10/project-rinascita-taking-the-vita-from-zero-to-hero) - Most common hacking problems and solves
 - [Remove PSN Account](https://www.reddit.com/r/vitahacks/comments/tbjbqa/guide_how_to_completely_remove_psn_account_from) - How to Completely Remove PSN Account From PS Vita + Earn Trophies Again
