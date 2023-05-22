@@ -85,4 +85,5 @@
 - Install package from folder - **△; `More`; `Install folder`** *(in package folder)*
 
 ## Miscellaneous
-- RetroArch quick menu - **L + R + Start + Select** *(default)*
+- [RetroArch](https://buildbot.libretro.com/nightly/playstation/vita/) quick menu - **L + R + Start + Select** *(default)*
+- [GTA: SA Vita](https://github.com/TheOfficialFloW/gtasa_vita) on-screen keyboard for cheats - **L + Select**
