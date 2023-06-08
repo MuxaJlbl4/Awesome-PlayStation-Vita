@@ -372,8 +372,8 @@ games
 - [Max Payne PC Anniversary Edition](https://pgtmp.gitbook.io/pgmods/other-games/max-payne) - PC version features for [max_vita](https://github.com/fgsfdsfgs/max_vita)
 - [Minecraft: Enhanced](https://pgtmp.gitbook.io/pgmods/other-games/minecraft-enhanced) - Minecraft 1.83 with tons of restores and improves
 - [Minecraft Texture Port](https://www.mediafire.com/file/oz05izc5gqyfnv0/1.14.4_Textures_-_PS_Vita.zip/file) - Minecraft texture pack from PC version 1.14.4
-- [God of War Remastered Videos](https://discord.gg/w6pnxJmebx) - GoW HQ Cutscenes
-- [Sly Cooper Remastered Videos](https://discord.gg/w6pnxJmebx) - SC HQ Cutscenes
+- [God of War Remastered Videos](https://www.reddit.com/r/VitaPiracy/comments/pcrir6/release_god_of_war_ps_vita_remastered_videos_v20) - GoW HQ Cutscenes
+- [Sly Cooper Remastered Videos](https://www.reddit.com/r/VitaPiracy/comments/tc0sy6/release_sly_cooper_trilogy_remastered_edited_hd/) - SC HQ Cutscenes
 - [P4G Vita Mod Ports](https://github.com/ARandomGuy231/p4gvitamodports) - P4G mods and enhances ports
 ### 🎼 OST Patches
 - [Super Meat Boy Original Music](https://www.reddit.com/r/VitaPiracy/comments/52g7fa/super_meat_boy_danny_b_music_mod) - Original music by Danny Baranowsky for SMB
