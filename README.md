@@ -184,7 +184,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [VITABatteryPlus](https://github.com/Electric1447/VITABatteryPlus) - Battery info plugin
 - [PSV-VSH-Menu](https://github.com/SilentNightx/PSV-VSH-Menu) - Visual SHell menu for PS Vita
 - [BetterTrackPlug](https://github.com/fmudanyali/BetterTrackPlug) - Playtime tracker plugin for PS Vita
-- [Quietshot](https://github.com/Princess-of-Sleeping/Quietshot) - Disables camera shutter sound
+- [Quietshot](https://store.brewology.com/vita/ahomebrew.php?brewid=804) - Disables camera shutter sound
 - [jav](https://git.shotatoshounenwachigau.moe/vita/jav/about) - Automatic volume level switching for each audio device
 - [PasteUnlock](https://github.com/GrapheneCt/PasteUnlock) - Unlocks hidden copy/paste feature in system software
 - [Staybright](https://www.psx-place.com/resources/staybright.1032) - Disable screen auto-dimming but retain auto-suspend
