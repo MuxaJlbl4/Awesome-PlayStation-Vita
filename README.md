@@ -436,7 +436,7 @@ games
 - [NPS Browser](https://github.com/IllusionMan1212/NPS-Browser) - [NoPayStation](https://nopaystation.com) client app for Android
 ### 🕸️ Web
 - [Bubble Studio](https://anthe.studio/bubblestudio) - Web editor for app.db
-- [PSMRC](https://psmrc.herokuapp.com) - Resource Pack Converter for Minecraft PS Vita Edition
+- [PSMRC](https://github.com/darkenvy/PSMRC-Node) - Resource Pack Converter for Minecraft PS Vita Edition
 ### ℹ️ Info
 - [ViBeS](https://github.com/Rinnegatamante/ViBeS) - Minimalistic benchmarking plugin
 - [VGi](https://github.com/Electry/VGi) - Prints useful information about PS Vita games
