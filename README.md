@@ -395,6 +395,7 @@ games
 ### 👨‍💻 Development
 - [PSM Reborn](http://psmreborn.com/devtools.php) - SDK's and Unity Builds and bunch of other development tools for Vita
 - [Vita SDK](https://vitasdk.org) - Development SDK for PS Vita
+- [Vitadev Package manager](https://github.com/vitasdk/vdpm) - Quickly resetting VitaSDK and getting common libraries building for the PS Vita
 - [Vita Development Suite](https://forum.devchroma.nl/index.php?topic=332.0) - Additional features for the PlayStation Vita SDK
 - [VitaDeploy](https://github.com/SKGleba/VitaDeploy) - Toolbox that makes homebrewing the Playstation Vita/TV easier
 - [VitaGL](https://github.com/Rinnegatamante/vitaGL) - Wrapper between OpenGL and sceGxm
