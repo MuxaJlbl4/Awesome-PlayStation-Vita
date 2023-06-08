@@ -142,7 +142,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [RetroArch](https://buildbot.libretro.com/nightly/playstation/vita) -  Frontend for emulators, game engines and media players with bunch of cores
 - [Cores List](https://github.com/libretro/libretro-super/blob/master/recipes/playstation/vita) - List of RetroArch Cores for Vita
 - [Recommended Cores](https://www.reddit.com/r/vitahacks/comments/rts9an/my_recommended_retroarch_cores_to_emulate_nes) - Best cores for Vita
-- [pFBN](https://github.com/Cpasjuste/pemu/tree/master/pfba) - Several Arcade and Console systems emulator
+- [pFBN](https://github.com/Cpasjuste/pemu) - Several Arcade and Console systems emulator
 ### 7️⃣ 7th Gen
 - [Adrenaline](https://github.com/TheOfficialFloW/Adrenaline) - Allows you to run natively PlayStation Portable (PSP) games on Vita
 - [NooDS](https://github.com/Hydr8gon/NooDS) - Multiplatform DS/GBA emulator (slow on Vita)
@@ -162,7 +162,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [ZXVita](https://vitadb.rinnegatamante.it/#/info/478) - Sinclair ZX Spectrum emulator
 ### 💎 Game Engines
 - [Godot](https://github.com/SonicMastr/godot) - Godot engine with included support for PS Vita
-- [ScummVM](https://buildbot.scummvm.org/snapshots/stable/psp2-stable-latest.zip) - Script Creation Utility for Maniac Mansion Virtual Machine
+- [ScummVM](https://buildbot.scummvm.org/dailybuilds/master/vita-master-latest.zip) - Script Creation Utility for Maniac Mansion Virtual Machine
 - [GemRB](https://github.com/Northfear/gemrb-vita) - Infinity Engine reimplementation (Game Engine Made with preRendered Background)
 - [EasyRPG Player](https://github.com/EasyRPG/Player) - Interpreter for RPG Maker 2000, 2003 and EasyRPG engines
 - [OpenBOR](https://github.com/rsn8887/openbor) - Beats Of Rage 2D game engine
@@ -193,7 +193,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [TransparentImpose](https://github.com/GrapheneCt/TransparentImpose) - Makes impose menu transparent
 - [ShaRKBR33D](https://vitadb.rinnegatamante.it/#/info/997) - One-click extractor/installer of libshacccg.suprx
 - [VitaTweaks](https://github.com/TheOfficialFloW/VitaTweaks) - A collection of small tweaks
-- [vitatricks.tk](https://vitatricks.tk) - Online set of useful PS Vita tools
+- [vitatricks.xyz](https://vitatricks.xyz) - Online set of useful PS Vita tools
 - [VitaTools](https://github.com/SKGleba/VitaTools) - Useful tools for PSP2 Vita and Dolce
 - [CbpsDB](https://db.cbps.xyz) - Alternative source for PS Vita Homebrew apps and Plugins
 - [Homebrew Software](https://git.shotatoshounenwachigau.moe/vita) - Another homebrew list
