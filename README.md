@@ -514,7 +514,6 @@ games
 ### 🧩 Misc
 - [AR Play Cards](https://www.retrocomputers.gr/media/kunena/attachments/155/AR-Play-Cards.pdf) - Augmented Reality cards for PS Vita
 - [Android games](https://android.rinnegatamante.it) - List of Android games theoretically portable to PS Vita
-- [Unity games](https://docs.google.com/spreadsheets/d/1Hhxr2ODdtAlR8WM08m9v7yVi4_crwoXQe0XvSnd1raU/edit#gid=0) - List of Unity games theoretically portable to PS Vita
 - [Bounties](https://github.com/vita-nuova/bounties/issues) - Bounties for new Vita projects
 - [Compass](https://www.reddit.com/r/vitahacks/comments/us2woq/not_release_simple_compass_for_ps_vita) - Built in Vita browser compass/gyro app ([about:compass](about:compass))
 - [LiveRig](https://github.com/GrapheneCt/LiveRig) - Live2D face tracking software PoC
