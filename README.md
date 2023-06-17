@@ -142,7 +142,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [RetroArch](https://buildbot.libretro.com/nightly/playstation/vita) -  Frontend for emulators, game engines and media players with bunch of cores
 - [Cores List](https://github.com/libretro/libretro-super/blob/master/recipes/playstation/vita) - List of RetroArch Cores for Vita
 - [Recommended Cores](https://www.reddit.com/r/vitahacks/comments/rts9an/my_recommended_retroarch_cores_to_emulate_nes) - Best cores for Vita
-- [pFBN](https://github.com/Cpasjuste/pemu/tree/master/pfba) - Several Arcade and Console systems emulator
+- [pFBN](https://github.com/Cpasjuste/pemu) - Several Arcade and Console systems emulator
 ### 7️⃣ 7th Gen
 - [Adrenaline](https://github.com/TheOfficialFloW/Adrenaline) - Allows you to run natively PlayStation Portable (PSP) games on Vita
 - [NooDS](https://github.com/Hydr8gon/NooDS) - Multiplatform DS/GBA emulator (slow on Vita)
@@ -162,7 +162,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [ZXVita](https://vitadb.rinnegatamante.it/#/info/478) - Sinclair ZX Spectrum emulator
 ### 💎 Game Engines
 - [Godot](https://github.com/SonicMastr/godot) - Godot engine with included support for PS Vita
-- [ScummVM](https://buildbot.scummvm.org/snapshots/stable/psp2-stable-latest.zip) - Script Creation Utility for Maniac Mansion Virtual Machine
+- [ScummVM](https://buildbot.scummvm.org/dailybuilds/master/vita-master-latest.zip) - Script Creation Utility for Maniac Mansion Virtual Machine
 - [GemRB](https://github.com/Northfear/gemrb-vita) - Infinity Engine reimplementation (Game Engine Made with preRendered Background)
 - [EasyRPG Player](https://github.com/EasyRPG/Player) - Interpreter for RPG Maker 2000, 2003 and EasyRPG engines
 - [OpenBOR](https://github.com/rsn8887/openbor) - Beats Of Rage 2D game engine
@@ -184,7 +184,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [VITABatteryPlus](https://github.com/Electric1447/VITABatteryPlus) - Battery info plugin
 - [PSV-VSH-Menu](https://github.com/SilentNightx/PSV-VSH-Menu) - Visual SHell menu for PS Vita
 - [BetterTrackPlug](https://github.com/fmudanyali/BetterTrackPlug) - Playtime tracker plugin for PS Vita
-- [Quietshot](https://github.com/Princess-of-Sleeping/Quietshot) - Disables camera shutter sound
+- [Quietshot](https://store.brewology.com/vita/ahomebrew.php?brewid=804) - Disables camera shutter sound
 - [jav](https://git.shotatoshounenwachigau.moe/vita/jav/about) - Automatic volume level switching for each audio device
 - [PasteUnlock](https://github.com/GrapheneCt/PasteUnlock) - Unlocks hidden copy/paste feature in system software
 - [Staybright](https://www.psx-place.com/resources/staybright.1032) - Disable screen auto-dimming but retain auto-suspend
@@ -193,7 +193,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [TransparentImpose](https://github.com/GrapheneCt/TransparentImpose) - Makes impose menu transparent
 - [ShaRKBR33D](https://vitadb.rinnegatamante.it/#/info/997) - One-click extractor/installer of libshacccg.suprx
 - [VitaTweaks](https://github.com/TheOfficialFloW/VitaTweaks) - A collection of small tweaks
-- [vitatricks.tk](https://vitatricks.tk) - Online set of useful PS Vita tools
+- [vitatricks.xyz](https://vitatricks.xyz) - Online set of useful PS Vita tools
 - [VitaTools](https://github.com/SKGleba/VitaTools) - Useful tools for PSP2 Vita and Dolce
 - [CbpsDB](https://db.cbps.xyz) - Alternative source for PS Vita Homebrew apps and Plugins
 - [Homebrew Software](https://git.shotatoshounenwachigau.moe/vita) - Another homebrew list
@@ -372,8 +372,8 @@ games
 - [Max Payne PC Anniversary Edition](https://pgtmp.gitbook.io/pgmods/other-games/max-payne) - PC version features for [max_vita](https://github.com/fgsfdsfgs/max_vita)
 - [Minecraft: Enhanced](https://pgtmp.gitbook.io/pgmods/other-games/minecraft-enhanced) - Minecraft 1.83 with tons of restores and improves
 - [Minecraft Texture Port](https://www.mediafire.com/file/oz05izc5gqyfnv0/1.14.4_Textures_-_PS_Vita.zip/file) - Minecraft texture pack from PC version 1.14.4
-- [God of War Remastered Videos](https://discord.gg/w6pnxJmebx) - GoW HQ Cutscenes
-- [Sly Cooper Remastered Videos](https://discord.gg/w6pnxJmebx) - SC HQ Cutscenes
+- [God of War Remastered Videos](https://www.reddit.com/r/VitaPiracy/comments/pcrir6/release_god_of_war_ps_vita_remastered_videos_v20) - GoW HQ Cutscenes
+- [Sly Cooper Remastered Videos](https://www.reddit.com/r/VitaPiracy/comments/tc0sy6/release_sly_cooper_trilogy_remastered_edited_hd/) - SC HQ Cutscenes
 - [P4G Vita Mod Ports](https://github.com/ARandomGuy231/p4gvitamodports) - P4G mods and enhances ports
 ### 🎼 OST Patches
 - [Super Meat Boy Original Music](https://www.reddit.com/r/VitaPiracy/comments/52g7fa/super_meat_boy_danny_b_music_mod) - Original music by Danny Baranowsky for SMB
@@ -395,6 +395,7 @@ games
 ### 👨‍💻 Development
 - [PSM Reborn](http://psmreborn.com/devtools.php) - SDK's and Unity Builds and bunch of other development tools for Vita
 - [Vita SDK](https://vitasdk.org) - Development SDK for PS Vita
+- [Vitadev Package manager](https://github.com/vitasdk/vdpm) - Quickly resetting VitaSDK and getting common libraries building for the PS Vita
 - [Vita Development Suite](https://forum.devchroma.nl/index.php?topic=332.0) - Additional features for the PlayStation Vita SDK
 - [VitaDeploy](https://github.com/SKGleba/VitaDeploy) - Toolbox that makes homebrewing the Playstation Vita/TV easier
 - [VitaGL](https://github.com/Rinnegatamante/vitaGL) - Wrapper between OpenGL and sceGxm
@@ -436,7 +437,7 @@ games
 - [NPS Browser](https://github.com/IllusionMan1212/NPS-Browser) - [NoPayStation](https://nopaystation.com) client app for Android
 ### 🕸️ Web
 - [Bubble Studio](https://anthe.studio/bubblestudio) - Web editor for app.db
-- [PSMRC](https://psmrc.herokuapp.com) - Resource Pack Converter for Minecraft PS Vita Edition
+- [PSMRC](https://github.com/darkenvy/PSMRC-Node) - Resource Pack Converter for Minecraft PS Vita Edition
 ### ℹ️ Info
 - [ViBeS](https://github.com/Rinnegatamante/ViBeS) - Minimalistic benchmarking plugin
 - [VGi](https://github.com/Electry/VGi) - Prints useful information about PS Vita games
@@ -513,7 +514,6 @@ games
 ### 🧩 Misc
 - [AR Play Cards](https://www.retrocomputers.gr/media/kunena/attachments/155/AR-Play-Cards.pdf) - Augmented Reality cards for PS Vita
 - [Android games](https://android.rinnegatamante.it) - List of Android games theoretically portable to PS Vita
-- [Unity games](https://docs.google.com/spreadsheets/d/1Hhxr2ODdtAlR8WM08m9v7yVi4_crwoXQe0XvSnd1raU/edit#gid=0) - List of Unity games theoretically portable to PS Vita
 - [Bounties](https://github.com/vita-nuova/bounties/issues) - Bounties for new Vita projects
 - [Compass](https://www.reddit.com/r/vitahacks/comments/us2woq/not_release_simple_compass_for_ps_vita) - Built in Vita browser compass/gyro app ([about:compass](about:compass))
 - [LiveRig](https://github.com/GrapheneCt/LiveRig) - Live2D face tracking software PoC
