@@ -216,6 +216,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [FdFix](https://github.com/TheOfficialFloW/FdFix) - Fixes invalidated file descriptors after suspend and resume (for [re3-vita](https://www.psx-place.com/threads/re3-vita-a-full-reverse-engineered-reimplementation-of-gta-iii.31588))
 - [PSP2-batteryFixer](https://github.com/SKGleba/PSP2-batteryFixer) - Fixes most battery related problems
 - [USBDisable](https://github.com/Ibrahim778/USBDisable) - Disable the annoying "Connecting" dialog when you connect your Vita to your PC
+- [Adrenaline usb enabler](https://github.com/isage/adrenaline_usb_enabler) - Enable USB pairing between Adrenaline and PS2/PS3
 - [PS1 games fix](https://gbatemp.net/threads/new-mode-to-fix-ps1-games-for-psp-and-psvita.607286) - Way to fix broken PS1 games for PSP and PSVita
 - [PocketstationUnlocker](https://silica.codes/SilicaAndPina/PocketstationUnlocker) - Forces pocketstation support in all PS1
 games
@@ -242,7 +243,7 @@ games
 - [vita-ps4linkcontrols](https://github.com/nowrep/vita-ps4linkcontrols) - Button configuration plugin for Remote Play
 - [ps4linkcontrols-gui](https://github.com/keltar/ps4linkcontrols-gui) - GUI configuration utility for vita-ps4linkcontrols
 - [Button Swap](https://github.com/Scorpeg/Button-Swap) - Swapping X and O buttons
-- [VitaTester](https://github.com/NamelessGhoul0/VitaTester) - Testing input
+- [VitaTester](https://github.com/Avellea/VitaTester) - Testing input, gyro and acceleration sensor
 - [Analog Enhancer](http://wololo.net/talk/viewtopic.php?f=116&t=49475) - Sets deadzones for sticks
 - [WDNR](https://github.com/Rinnegatamante/WDNR) - Disables rear touchpad
 ### 🪛 Controller Drivers
@@ -258,6 +259,7 @@ games
 - [8BitVita](https://github.com/Ibrahim778/8BitVita) - Adds 8BitDo controller support
 - [Viimote](https://github.com/xerpi/viimote) - Adds Wiimote support
 - [VitaMote](https://www.reddit.com/r/vitahacks/comments/x5negr/release_vitamote_with_useu_button_layout_and_l2r2) - Modded Viimote
+- [Tvikey](https://github.com/isage/tvikey) - PSTV kernel driver for mouse/keyboard
 ### 🖱 Device Emulation
 - [VitaPad](https://github.com/carlelieser/vitapad) - Allows to use PS Vita as a gaming controller (improved version of the vitastick)
 - [VitaPad](https://www.psx-place.com/threads/vitapad.30520) - Allows to use PS Vita as a wireless gamepad
@@ -299,6 +301,7 @@ games
 - [Music Premium](https://forum.devchroma.nl/index.php/topic,60.0.html) - Enables background music playback
 - [VITA-NoAutoAvls](https://github.com/SKGleba/VITA-NoAutoAvls) - Enable/disable the auto-avls feature (bypass 20 hours timing)
 - [Monaural](https://forum.devchroma.nl/index.php/topic,57.0.html) - Mono audio and channel balance
+- [MilkyTrackerVita](https://github.com/TheMorc/MilkyTrackerVita) - Music application for creating .MOD and .XM
 ### 🎬 Video
 - [Vita Recorder](https://github.com/Rinnegatamante/Vita-Recorder) - Allows to record video clips
 - [CBPSTube](https://forum.devchroma.nl/index.php/topic,331.0.html) - YouTube client with more features
@@ -479,7 +482,10 @@ games
 
 ## ♥️ Fans
 ### 😜 Communities
+- [PSVita at 2am](https://www.youtube.com/PSVitaat2am) - PSVita at 2am YouTube channel
+- [2 old 4 gaming](https://www.youtube.com/2old4gaming) - 2 old 4 gaming YouTube channel
 - [Wololo PS Vita](http://wololo.net/category/psvita) - Latest homebrews, mods and hacking scene news
+- [Vita Player](https://www.vitaplayer.co.uk/) - PS Vita news and articles
 - [Reddit Vita](https://www.reddit.com/r/vita) - PS Vita Reddit community
 - [Reddit VitaHacks](https://www.reddit.com/r/vitahacks) - PS Vita hacks and homebrew on Reddit
 - [Reddit VitaPiracy](https://www.reddit.com/r/VitaPiracy) - Reddit discussion of things related to piracy on the PS Vita
