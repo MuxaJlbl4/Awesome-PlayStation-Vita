@@ -87,3 +87,5 @@
 ## Miscellaneous
 - [RetroArch](https://buildbot.libretro.com/nightly/playstation/vita/) quick menu - **L + R + Start + Select** *(default)*
 - [GTA: SA Vita](https://github.com/TheOfficialFloW/gtasa_vita) on-screen keyboard for cheats - **L + Select**
+- Unpair DualShock 4 - **Hold (Share + PS)** *(3 sec)*
+- Turn Off DualShock 4 - **Hold PS** *(10 sec)*
