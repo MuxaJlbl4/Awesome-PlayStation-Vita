@@ -20,6 +20,7 @@
 | [Gish](https://store.steampowered.com/app/9500/Gish) | [Gish-vita](https://github.com/isage/Gish-vita) | [Isage](https://github.com/isage) | |
 | [Golfing Over It with Alva Majo](https://store.steampowered.com/app/817510/Golfing_Over_It_with_Alva_Majo) | [GolfingOverIt](https://discord.gg/z2Cffntfas) | [PatnosD](https://www.youtube.com/@PatnosD) |  |
 | [Grand Theft Auto 3](https://www.rockstargames.com/games/grandtheftauto3) | [re3](https://dl.coolatoms.org/vitadb/GTA3.vpk) | [Rinnegatamante](https://github.com/Rinnegatamante) | [Data Files](https://dl.coolatoms.org/vitadb/gta3.zip); [How to Install](https://samilops2.gitbook.io/vita-troubleshooting-guide/grand-theft-auto/gta-iii) |
+| [Grand Theft Auto: Forelli Redemption](https://www.moddb.com/mods/gta-fr) | [GTA FR-vita](https://disk.yandex.ru/d/oPJ0V1JBPPrrIQ) | [Barcode Studia](https://barcode-studia.ru); [PGteam](https://dev.pgteam.org) |  |
 | [Grand Theft Auto: Vice City](https://www.rockstargames.com/games/vicecity) | [re3-miami](https://dl.coolatoms.org/vitadb/GTAVC.vpk) | [Rinnegatamante](https://github.com/Rinnegatamante) | [Data Files](https://dl.coolatoms.org/vitadb/vcdata.zip) |
 | [Hellrider](https://apps.apple.com/app/hellrider/id973429655) | [Hellrider](https://discord.gg/z2Cffntfas) | [PatnosD](https://www.youtube.com/@PatnosD) | Graphical glitches |
 | [Hollow Knight](https://www.gog.com/game/hollow_knight) | [hk-vita](https://dsc.gg/danspalace) | [Dan Cooper](https://www.youtube.com/channel/UCnmRRj6fy_RItoJKNFQIF6A) | Early version |
