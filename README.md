@@ -22,6 +22,7 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [💎 Game Engines](#-game-engines)
 	- [⌨️ Interpreters & Virtual Machines](#%EF%B8%8F-interpreters--virtual-machines)
 	- [🙅‍♀️ Non-Emulation](#%EF%B8%8F-non-emulation)
+	- [🍊 Vita Emulation](#-vita-emulation)
 - **[💡 Customization](#-customization)**
 	- [🔋 Utilities](#-utilities)
 	- [🌍 Network](#-network)
@@ -45,7 +46,7 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [📖 Reading](#-reading)
 	- [🎥 Streaming](#-streaming)
 - **[🔆 Enhances](#-enhances)**
-	- [🚀 Overclocking](#-overclocking)
+	- [🚀 Overclocking & Optimization](#-overclocking--optimization)
 	- [☢️ Game Tweaks](#%EF%B8%8F-game-tweaks)
 	- [🏆 Trophies](#-trophies)
 	- [📝 Cheats](#-cheats)
@@ -89,6 +90,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [Modoru](https://github.com/SKGleba/modoru) - Firmware downgrader
 - [0syscall6](https://github.com/SKGleba/0syscall6) - Remove SELF checks (allows play games on lower firmwares)
 - [NoNpDrm](https://github.com/TheOfficialFloW/NoNpDrm) - Disable DRM protection in games
+- [NoTrpDrm](https://github.com/Rinnegatamante/NoTrpDrm) - Trophies for homebrews
 - [NoPsmDrm](https://github.com/frangarcj/NoPsmDrm) - Disable DRM protection in PSM games
 - [FreePSM](https://bitbucket.org/SilicaAndPina/freepsm/src/master) - Free in app purchases in PSM games
 - [rePatch reLoaded](https://github.com/SonicMastr/rePatch-reLoaded) - Allows to install custom patches
@@ -167,6 +169,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [EasyRPG Player](https://github.com/EasyRPG/Player) - Interpreter for RPG Maker 2000, 2003 and EasyRPG engines
 - [OpenBOR](https://github.com/rsn8887/openbor) - Beats Of Rage 2D game engine
 - [renpy-vita](https://github.com/SonicMastr/renpy-vita) - Visual novel engine Ren'Py
+- [Flare Vita](https://github.com/Rinnegatamante/flare-engine) - Flare RPG engine
 ### ⌨️ Interpreters & Virtual Machines
 - [cpython-vita](https://github.com/SonicMastr/cpython-vita) - Python 2.7.18 Interpreter
 - [fake-08](https://github.com/jtothebell/fake-08) - PICO-8 virtual machine emulator
@@ -174,9 +177,12 @@ Contains all most important, actual and cool things in my humble opinion.
 - [VITA-8](https://github.com/xerpi/VITA-8/tree/sw-render) - CHIP-8 emulator
 - [PSPKVM](https://sourceforge.net/projects/pspkvm) - Java ME emulator for PSP (analog for RetroArch [SquirrelJME core](https://github.com/SquirrelJME/SquirrelJME))
 ### 🙅‍♀️ Non-Emulation
+- [Adrenaline](https://github.com/TheOfficialFloW/Adrenaline) - Actually not an emulator
 - [YoYo Loader Vita](https://github.com/Rinnegatamante/yoyoloader_vita) - Android GameMaker Studio Runner application for the PS Vita ([Log Reset](https://github.com/DRok17/Log-Reset-for-YYL))
 - [vita2hos](https://github.com/xerpi/vita2hos) - A PlayStation Vita to Horizon OS (Nintendo Switch OS) translation layer
 - [linux_vita](https://github.com/xerpi/linux_vita) - Linux kernel Vita port
+### 🍊 Vita Emulation
+- [Vita3K](https://github.com/Vita3K) - PlayStation Vita emulator
 
 ## 💡 Customization
 ### 🔋 Utilities
@@ -204,9 +210,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [accountswitcher](https://github.com/elpendor/accountswitcher) - Switch between your PSN accounts on your Vita
 - [Download Enabler](https://github.com/TheOfficialFloW/VitaTweaks/releases/tag/DownloadEnabler) - Allows download any files from PS Vita browser
 - [Multidownload Vita](https://github.com/DavisDev/Multidownload-Vita) - Advanced downloader app
-- [Vita FTP Client](https://github.com/cy33hc/vita-ftp-client) - Simple FTP client app
-- [Vita SMB Client](https://github.com/cy33hc/vita-smb-client) - Simple SMB client app
-- [Vita WebDAV Client](https://github.com/cy33hc/vita-webdav-client) - Simple WebDAV client app
+- [ezRemote Client](https://github.com/cy33hc/vita-ezremote-client) - FTP, SMB, NFS, WebDAV client
 - [NPS Proxy](https://www.reddit.com/r/VitaPiracy/comments/a6mwik/nps_temporary_workaround_for_pkgj_https_errors) - Preventing HTTPS errors in PKGj by using NPS proxy
 - [UserAgentSpoofer](https://github.com/GrapheneCt/UserAgentSpoofer) - Changes what device the browser/web page sees your vita as
 - [Vita generic RTL enabler](https://github.com/isage/vita-usb-ether) - Allows to use pc usb-ethernet rtl8152 dongle on vita
@@ -317,19 +321,20 @@ games
 - [Noboru](https://github.com/Creckeryop/NOBORU) - Manga/comics browser/reader
 ### 🎥 Streaming
 - [NetStream](https://github.com/GrapheneCt/NetStream) - Universal video streaming client (from YouTube, HTTP server, FTP server, Local storage ...)
-- [Vita Moonlight](https://github.com/xyzz/vita-moonlight) - NVIDIA Gamestream client for Vita
+- [Vita Moonlight](https://github.com/xyzz/vita-moonlight) - NVIDIA Gamestream (or [Sunshine](https://github.com/LizardByte/Sunshine)) client for Vita
 - [cspot_vita](https://github.com/michal4132/cspot_vita) - A Spotify player (supports only premium accounts)
 - [udcd_uvc](https://github.com/xerpi/vita-udcd-uvc) -  Allows you stream your PSVita screen to PC/Android via USB
 
 ## 🔆 Enhances
-### 🚀 Overclocking
+### 🚀 Overclocking & Optimization
 - [PSVshellPlus](https://github.com/GrapheneCt/PSVshellPlus) - Advanced overclock and info plugin for PS Vita
 - [PSVshell](https://github.com/Electry/PSVshell) - Overclock plugin with FPS counter and CPU usage
 - [CapUnlocker](https://github.com/GrapheneCt/CapUnlocker) - Allows to use system reserved 4th CPU core and other capabilities
 - [Thread Optimizer](https://github.com/GrapheneCt/ThreadOptimizer) - Adjusts thread parameters
 - [CPU Affinity Mask Changer](https://github.com/GrapheneCt/Affinity-Changer) - Changes CPU affinity mask to all cores
 - [LowMemMode](https://github.com/GrapheneCt/LowMemMode) - Allows launch applications in LOWPHYMEM mode
-- [NoPowerLimits](https://github.com/Electry/NoPowerLimitsVita) - Remove power mode restrictions
+- [NoPowerLimits](https://github.com/Electry/NoPowerLimitsVita) - Removes power mode restrictions
+- [IOStaging](https://github.com/bythos14/IOStaging) - Improves sequential I/O speeds
 ### ☢️ Game Tweaks
 - [VitaGrafix](https://github.com/Electry/VitaGrafix) - Change resolution and FPS cap in games
 - [VitaGrafixConfigurator](https://github.com/Kirezar/VitaGrafixConfigurator) - GUI configurator for VitaGrafix
@@ -341,6 +346,7 @@ games
 - [TropHAXSE](https://bitbucket.org/SilicaAndPina/trophaxse/src/master) - Trophy unlocker app
 - [Trophy Manager](https://github.com/ONElua/TrophyManager) - Trophy remover app
 - [TrophyShot](https://github.com/FMudanyali/TrophyShot) - Takes a screenshot whenever you unlock a trophy
+- [TRP Builder](https://fuhen.homebrew-contest.com/submissions/34) - Build or modify unencrypted TROPHY.TRP (PC tool)
 ### 📝 Cheats
 - [Apollo Save Tool](https://github.com/bucanero/apollo-vita) - Allows to download, unlock, patch and resign save-games
 - [VitaCheat](https://github.com/r0ah/vitacheat) - Cheat plugin
@@ -368,12 +374,12 @@ games
 ### 🍬 Content Mods
 - [Vita Mods Table](https://docs.google.com/spreadsheets/d/1OkS1S2sJqs2p8jp6pxBfrQkHT4Tn2-__NmAl6BYIUw8/edit#gid=17733003) - PS Vita mods and repatches list
 - [PG Mods](https://pgtmp.gitbook.io/pgmods) - Mods by PortableGaming group ([Russian version](https://pgtmp.gitbook.io/pgmods_rus))
-- [GTA III 10th Anniversary Edition](https://pgtmp.gitbook.io/pgmods/grand-theft-auto/revisited-trilogy/gta-iii) - 10th Anniversary Edition extensions for [re3](https://dl.coolatoms.org/vitadb/GTA3.vpk)[-vita](https://dl.coolatoms.org/vitadb/gta3.zip)
-- [GTA: VC 10th Anniversary Edition](https://pgtmp.gitbook.io/pgmods/grand-theft-auto/revisited-trilogy/gta-vice-city) - 10th Anniversary Edition extensions for [re3-miami](https://dl.coolatoms.org/vitadb/GTAVC.vpk)[-vita](https://dl.coolatoms.org/vitadb/vcdata.zip)
-- [GTA: SA 10th Anniversary Edition](https://pgtmp.gitbook.io/pgmods/grand-theft-auto/revisited-trilogy/gta-san-andreas) - 10th Anniversary Edition extensions for [GTA:SA-vita](https://github.com/TheOfficialFloW/gtasa_vita)
+- [GTA III 10th Anniversary Edition](https://dev.pgteam.org/mods/grand-theft-auto/revisited-trilogy/gta-iii) - 10th Anniversary Edition extensions for [re3](https://dl.coolatoms.org/vitadb/GTA3.vpk)[-vita](https://dl.coolatoms.org/vitadb/gta3.zip)
+- [GTA: VC 10th Anniversary Edition](https://dev.pgteam.org/mods/grand-theft-auto/revisited-trilogy/gta-vice-city) - 10th Anniversary Edition extensions for [re3-miami](https://dl.coolatoms.org/vitadb/GTAVC.vpk)[-vita](https://dl.coolatoms.org/vitadb/vcdata.zip)
+- [GTA: SA 10th Anniversary Edition](https://dev.pgteam.org/mods/grand-theft-auto/revisited-trilogy/gta-san-andreas) - 10th Anniversary Edition extensions for [GTA:SA-vita](https://github.com/TheOfficialFloW/gtasa_vita)
 - [Various GTA Downgraders](https://gtaforums.com/topic/936600-iii-iv-various-gta-downgraders) - Downgrade guides for GTA games (PC)
-- [Max Payne PC Anniversary Edition](https://pgtmp.gitbook.io/pgmods/other-games/max-payne) - PC version features for [max_vita](https://github.com/fgsfdsfgs/max_vita)
-- [Minecraft: Enhanced](https://pgtmp.gitbook.io/pgmods/other-games/minecraft-enhanced) - Minecraft 1.83 with tons of restores and improves
+- [Max Payne PC Anniversary Edition](https://dev.pgteam.org/mods/other-games/max-payne) - PC version features for [max_vita](https://github.com/fgsfdsfgs/max_vita)
+- [Minecraft: Enhanced](https://dev.pgteam.org/mods/other-games/minecraft-enhanced) - Minecraft 1.83 with tons of restores and improves
 - [Minecraft Texture Port](https://www.mediafire.com/file/oz05izc5gqyfnv0/1.14.4_Textures_-_PS_Vita.zip/file) - Minecraft texture pack from PC version 1.14.4
 - [God of War Remastered Videos](https://www.reddit.com/r/VitaPiracy/comments/pcrir6/release_god_of_war_ps_vita_remastered_videos_v20) - GoW HQ Cutscenes
 - [Sly Cooper Remastered Videos](https://www.reddit.com/r/VitaPiracy/comments/tc0sy6/release_sly_cooper_trilogy_remastered_edited_hd/) - SC HQ Cutscenes
@@ -393,6 +399,7 @@ games
 - [Random fixes/hacks](https://forums.ppsspp.org/showthread.php?tid=22787) - Random fixes/hacks to improve PSP games on PPSSPP/PSP/Vita
 - [psp-dev.org](http://psp-dev.org/hb) - PSP Homebrew Store
 - [GameBrew PSP](https://www.gamebrew.org/wiki/List_of_all_PSP_homebrew) - List of PSP homebrews
+- [Adrenaline usb enabler](https://github.com/isage/adrenaline_usb_enabler) - Adrenaline USB pairing with PS2/PS3
 
 ## 🧰 Tools
 ### 👨‍💻 Development
@@ -421,7 +428,6 @@ games
 - [MaiDumpToolEN](https://github.com/LioMajor/MaiDumpToolEN) - Game dumper and patcher
 - [PS Vita Decrypted Firmwares](https://files.olebeck.com/firmware/vita/decrypted) - A collection of decrypted PS Vita firmwares
 ### 💻 PC
-- [Vita3K](https://github.com/Vita3K) - PlayStation Vita emulator
 - [PSMUI](http://psmreborn.com) - GUI for PSM Simulator (allow to play PSM Games on PC)
 - [QCMA](https://github.com/codestation/qcma) - Open Source Content Manager Assistant for PS Vita
 - [HandBrake](https://github.com/HandBrake/HandBrake) - Video files converter (contains Playstation presets)
