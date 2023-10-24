@@ -85,12 +85,14 @@ Contains all most important, actual and cool things in my humble opinion.
 - [HENlo](https://github.com/SKGleba/henlo_jb) - Homebrew enabler auto installer for firmwares 3.65 - 3.74 (without a PC or Sony PS Vita Memory Card)
 - [Final h-encore²](https://github.com/soarqin/finalhe) - Homebrew enabler auto installer for firmwares 3.60 - 3.74
 - [HENkaku](https://henkaku.xyz) - Homebrew enabler for firmware 3.60
+- [Enso_Ex](https://github.com/SKGleba/enso_ex) - Jailbreak and CFW loader for PlayStation Vita/TV 3.65
 - [Project Amber](https://wololo.net/2023/01/13/ps-vita-project-amber-henlo-jailbreak-for-ps-vita-3-74-updated-adds-sd-cardsd2vita-support-for-psv-1xxx) - Homebrew enabler for firmwares 3.65 - 3.74 with [SD2VITA](https://github.com/xyzz/gamecard-microsd) (without Sony PS Vita Memory Card)
 - [MLTHaku](http://mlthaku.tk) - Homebrew enabler for firmware 3.60 with [SD2VITA](https://github.com/xyzz/gamecard-microsd) (without Sony PS Vita Memory Card)
 - [Modoru](https://github.com/SKGleba/modoru) - Firmware downgrader
 - [0syscall6](https://github.com/SKGleba/0syscall6) - Remove SELF checks (allows play games on lower firmwares)
 - [NoNpDrm](https://github.com/TheOfficialFloW/NoNpDrm) - Disable DRM protection in games
 - [NoTrpDrm](https://github.com/Rinnegatamante/NoTrpDrm) - Trophies for homebrews
+- [NoPSPEmuDRM](https://github.com/LiEnby/NoPspEmuDrm) - Bypass DRM Check in PspEmu
 - [NoPsmDrm](https://github.com/frangarcj/NoPsmDrm) - Disable DRM protection in PSM games
 - [FreePSM](https://bitbucket.org/SilicaAndPina/freepsm/src/master) - Free in app purchases in PSM games
 - [rePatch reLoaded](https://github.com/SonicMastr/rePatch-reLoaded) - Allows to install custom patches
@@ -251,6 +253,7 @@ games
 - [Analog Enhancer](http://wololo.net/talk/viewtopic.php?f=116&t=49475) - Sets deadzones for sticks
 - [WDNR](https://github.com/Rinnegatamante/WDNR) - Disables rear touchpad
 ### 🪛 Controller Drivers
+- [VitaControl](https://github.com/Hydr8gon/VitaControl) - Allows to use a wide variety of bluetooth controllers
 - [ds34vita](https://github.com/MERLev/ds34vita) - Allows to use Dualshock 3/4 controllers
 - [System-Integrated DualSense Driver](https://forum.devchroma.nl/index.php/topic,358.0.html) - Allows to use DualSense controllers
 - [DS34Motion](https://github.com/MERLev/DS34Motion) - Adds motion control support for PlayStation TV with DualShock
