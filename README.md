@@ -87,7 +87,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [HENkaku](https://henkaku.xyz) - Homebrew enabler for firmware 3.60
 - [Enso_Ex](https://github.com/SKGleba/enso_ex) - Jailbreak and CFW loader for PlayStation Vita/TV 3.65
 - [Project Amber](https://wololo.net/2023/01/13/ps-vita-project-amber-henlo-jailbreak-for-ps-vita-3-74-updated-adds-sd-cardsd2vita-support-for-psv-1xxx) - Homebrew enabler for firmwares 3.65 - 3.74 with [SD2VITA](https://github.com/xyzz/gamecard-microsd) (without Sony PS Vita Memory Card)
-- [MLTHaku](http://mlthaku.tk) - Homebrew enabler for firmware 3.60 with [SD2VITA](https://github.com/xyzz/gamecard-microsd) (without Sony PS Vita Memory Card)
+- [MLTHaku](https://github.com/MLTHaKu/MLTHaKu) - Homebrew enabler for firmware 3.60 with [SD2VITA](https://github.com/xyzz/gamecard-microsd) (without Sony PS Vita Memory Card)
 - [Modoru](https://github.com/SKGleba/modoru) - Firmware downgrader
 - [0syscall6](https://github.com/SKGleba/0syscall6) - Remove SELF checks (allows play games on lower firmwares)
 - [NoNpDrm](https://github.com/TheOfficialFloW/NoNpDrm) - Disable DRM protection in games
@@ -131,7 +131,7 @@ Contains all most important, actual and cool things in my humble opinion.
 ## 🎮 Games
 ### 👾 Native
 - [Wiki Game List](https://en.wikipedia.org/wiki/Lists_of_PlayStation_Vita_games) - Wikipedia list of all PS Vita games
-- [Metacritic List](https://www.metacritic.com/browse/games/release-date/available/vita/date?view=detailed&page=0) - All PS Vita game releases at Metacritic
+- [Metacritic List](https://www.metacritic.com/browse/game/ps-vita) - All PS Vita game releases at Metacritic
 - [Exclusives List](https://www.giantbomb.com/profile/blacklagoon/lists/vita-exclusives/86370) - List of PS Vita exclusives
 - [PlayStation Vita undumped](https://wiki.no-intro.org/index.php?title=Sony_-_PlayStation_Vita_undumped) - List of undumped games
 ### 🌱 HomeBrew
@@ -193,7 +193,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [PSV-VSH-Menu](https://github.com/SilentNightx/PSV-VSH-Menu) - Visual SHell menu for PS Vita
 - [BetterTrackPlug](https://github.com/fmudanyali/BetterTrackPlug) - Playtime tracker plugin for PS Vita
 - [Quietshot](https://store.brewology.com/vita/ahomebrew.php?brewid=804) - Disables camera shutter sound
-- [jav](https://git.shotatoshounenwachigau.moe/vita/jav/about) - Automatic volume level switching for each audio device
+- [Jav](https://store.brewology.com/vita/ahomebrew.php?brewid=763) - Automatic volume level switching for each audio device
 - [PasteUnlock](https://github.com/GrapheneCt/PasteUnlock) - Unlocks hidden copy/paste feature in system software
 - [Staybright](https://www.psx-place.com/resources/staybright.1032) - Disable screen auto-dimming but retain auto-suspend
 - [vitabright](https://github.com/devnoname120/vitabright) - Expand bright levels range
@@ -228,7 +228,7 @@ Contains all most important, actual and cool things in my humble opinion.
 games
 - [ParentalControlBypass](https://bitbucket.org/SilicaAndPina/parentalcontrolbypass/src/master) - Reset PSVita Parental Control
 - [psv_trophfix](https://github.com/Yoti/psv_trophfix) - Trophies Fixer
-- [hide-autoplugin](https://silica.codes/SilicaAndPina/hide-autoplugin) - Hides ux0:/app/AUTOPLUG2 from any app its loaded into
+- [hide-autoplugin](https://www.gamebrew.org/wiki/Hide_Autoplugin_Vita) - Hides ux0:/app/AUTOPLUG2 from any app its loaded into
 - [FS Attributes Fix](https://www.reddit.com/r/vitahacks/comments/5nsiwb/fixing_folders_you_cannot_see_or_access_through) - Fixing folders you cannot see or access through USB VitaShell on Windows
 - [Refresh LiveArea](https://lempereurdunet.files.wordpress.com/2020/09/vitashell-refresh-livearea.jpg?w=488) - [VitaShell](https://github.com/TheOfficialFloW/VitaShell); Options; Refresh LiveArea
 
@@ -370,15 +370,15 @@ games
 - [Killzone: Mercenary Threads Profile](https://github.com/GrapheneCt/ThreadOptimizer/issues/7) - Optimized threads profile for Kz:M (US)
 - [Persona 4 Golden Patches](https://github.com/zarroboogs/p4g-patches) - Set of patches for P4G
 - [Persona 3/4/5 Dancing Patches](https://github.com/zarroboogs/pXd-patches) - Set of patches for P3D, P4D and P5D
-- [Super Mario 64 Patches](https://drive.google.com/drive/folders/12JO4SOzOT89pXLxZ3WXfGI8cLSp6u2Gm) - [SM64](https://github.com/bythos14/sm64-vita) with 60 FPS and Puppy Camera patches
+- [Super Mario 64 Patches](https://www.pspx.ru/forum/showthread.php?t=112651) - [SM64](https://github.com/bythos14/sm64-vita) with 60 FPS and Puppy Camera patches
 - [Need for Speed: Most Wanted REDUX](https://www.reddit.com/r/VitaPiracy/comments/pnnif4/mod_need_for_speed_most_wanted_psvita_redux) - Makes NfS:MW(2012) more similar to the PC version
 - [Need for Speed: Most Wanted Settings](https://github.com/Electry/NFSMW_Settings) - Fixes some of the glaring issues with NfS:MW
 - [LittleBigPlanet Project Lighthouse](https://www.lbpunion.com/post/project-lighthouse-littlebigplanet-private-servers) - LittleBigPlanet alternative server (currently only private access)
 ### 🍬 Content Mods
 - [Vita Mods Table](https://docs.google.com/spreadsheets/d/1OkS1S2sJqs2p8jp6pxBfrQkHT4Tn2-__NmAl6BYIUw8/edit#gid=17733003) - PS Vita mods and repatches list
-- [PG Mods](https://pgtmp.gitbook.io/pgmods) - Mods by PortableGaming group ([Russian version](https://pgtmp.gitbook.io/pgmods_rus))
-- [GTA III 10th Anniversary Edition](https://dev.pgteam.org/mods/grand-theft-auto/revisited-trilogy/gta-iii) - 10th Anniversary Edition extensions for [re3](https://dl.coolatoms.org/vitadb/GTA3.vpk)[-vita](https://dl.coolatoms.org/vitadb/gta3.zip)
-- [GTA: VC 10th Anniversary Edition](https://dev.pgteam.org/mods/grand-theft-auto/revisited-trilogy/gta-vice-city) - 10th Anniversary Edition extensions for [re3-miami](https://dl.coolatoms.org/vitadb/GTAVC.vpk)[-vita](https://dl.coolatoms.org/vitadb/vcdata.zip)
+- [PG Mods](https://dev.pgteam.org/mods) - Mods by PortableGaming group ([Russian version](https://dev.pgteam.org/mods_ru))
+- [GTA III 10th Anniversary Edition](https://dev.pgteam.org/mods/grand-theft-auto/revisited-trilogy/gta-iii) - 10th Anniversary Edition extensions for [re3-vita](https://archive.org/details/gta-3-re-3-v-1.4)
+- [GTA: VC 10th Anniversary Edition](https://dev.pgteam.org/mods/grand-theft-auto/revisited-trilogy/gta-vice-city) - 10th Anniversary Edition extensions for [re3-vc-vita](https://archive.org/details/gtavc-v-1.1)
 - [GTA: SA 10th Anniversary Edition](https://dev.pgteam.org/mods/grand-theft-auto/revisited-trilogy/gta-san-andreas) - 10th Anniversary Edition extensions for [GTA:SA-vita](https://github.com/TheOfficialFloW/gtasa_vita)
 - [Various GTA Downgraders](https://gtaforums.com/topic/936600-iii-iv-various-gta-downgraders) - Downgrade guides for GTA games (PC)
 - [Max Payne PC Anniversary Edition](https://dev.pgteam.org/mods/other-games/max-payne) - PC version features for [max_vita](https://github.com/fgsfdsfgs/max_vita)
@@ -388,8 +388,8 @@ games
 - [Sly Cooper Remastered Videos](https://www.reddit.com/r/VitaPiracy/comments/tc0sy6/release_sly_cooper_trilogy_remastered_edited_hd/) - SC HQ Cutscenes
 - [P4G Vita Mod Ports](https://github.com/ARandomGuy231/p4gvitamodports) - P4G mods and enhances ports
 ### 🎼 OST Patches
-- [Super Meat Boy Original Music](https://www.reddit.com/r/VitaPiracy/comments/52g7fa/super_meat_boy_danny_b_music_mod) - Original music by Danny Baranowsky for SMB
-- [The Binding of Isaac: Rebirth Original Music](https://www.reddit.com/r/themoddingofisaac/comments/50rvkg/ps_vita_original_music_for_binding_of_isaac) - Original music by Danny Baranowsky for TBoI:R
+- [Super Meat Boy Original Music](https://rutracker.org/forum/viewtopic.php?t=5332074) - Original music by Danny Baranowsky for SMB
+- [The Binding of Isaac: Rebirth Original Music](https://rutracker.org/forum/viewtopic.php?t=5335068) - Original music by Danny Baranowsky for TBoI:R
 ### 💉 Adrenaline Plugins
 - [GePatch](https://github.com/TheOfficialFloW/GePatch) - Allows you to play some PSP games in native PS Vita resolution
 - [Remastered Controls Collection](https://github.com/TheOfficialFloW/RemasteredControls) - Enables second stick in some PSP games
@@ -465,7 +465,7 @@ games
 - [Vita-Guide](https://github.com/ZHassanQ/Vita-Guide) - How to install CFW and everything to do with it
 - [Vita Custom Firmware for dummies](https://wololo.net/vita-cfw4dummies) - Wololo.net complete hack guide
 - [Wololo Tutorials](https://wololo.net/talk/viewforum.php?f=65) - Wololo.net/talk Vita tutorials
-- [PGBook](https://pgtmp.gitbook.io/pgbook) - Russian PortableGaming guides
+- [PGBook](https://dev.pgteam.org/guides) - Russian PortableGaming guides
 - [PortableGaming](https://vk.com/@portablegaming) - Russian PortableGaming community
 - [PSV Hacking 4PDA](https://4pda.to/forum/index.php?showtopic=465175) - Russian guides for hacking
 - [Project Rinascita](https://wololo.net/2021/07/10/project-rinascita-taking-the-vita-from-zero-to-hero) - Most common hacking problems and solves
@@ -506,8 +506,8 @@ games
 - [PSNProfiles](https://psnprofiles.com/games?order=owners&platform=psvita) - Trophies stats and guides
 - [4PDA PS Vita](https://4pda.to/forum/index.php?showtopic=214976) - Russian PS Vita discussions and guides
 - [VK Portablegaming](https://vk.com/wall-47742407?own=1) - Portablegaming VK group
-- [Dan's Palace](https://discord.gg/ZANjvz8EUH) - Unity games porting Discord community
-- [Donkey Kong And Friends - Vita & Android Porting](https://discord.gg/z2Cffntfas) - Vita & Android Porting Discord community
+- [Dan's Palace](https://dsc.gg/danspalace) - Unity games porting Discord community
+- [Donkey Kong And Friends - Vita & Android Porting](https://discord.gg/kdU2dqH84K) - Vita & Android Porting Discord community
 ### 💬 Game Translations
 - [English Translations](https://www.reddit.com/r/VitaPiracy/comments/b9kxta/list_of_fan_translated_vita_games) - List of fan translated Vita games
 - [English Translations](https://vitaenglishtranslations.wordpress.com) - Fan translations and patches for Playstation Vita games
