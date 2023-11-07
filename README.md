@@ -45,6 +45,7 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [🎬 Video](#-video)
 	- [📖 Reading](#-reading)
 	- [🎥 Streaming](#-streaming)
+	- [📶 Remote Play](#-remote-play)
 - **[🔆 Enhances](#-enhances)**
 	- [🚀 Overclocking & Optimization](#-overclocking--optimization)
 	- [☢️ Game Tweaks](#%EF%B8%8F-game-tweaks)
@@ -115,7 +116,6 @@ Contains all most important, actual and cool things in my humble opinion.
 - [VBackup](https://github.com/GrapheneCt/VBackup) - Advanced backup tool for PS Vita
 - [Apps for 3.74](https://wololo.net/2022/07/23/ps-vita-vitashell-2-04-by-yoti-and-other-vita-tools-get-3-74-firmware-support) - Main apps with 3.74 support by [RealYoti](https://github.com/RealYoti)
 - [RepoHub](https://github.com/robDevs/RepoHub) - View Github users, repos, and releases
-- [VItaki](https://www.gamebrew.org/wiki/VItaki) - is a port of Chiaki (PS5 Remote Play homebrew) on the PS Vita
 ### 💾 Memory
 - [PSVita-StorageMgr](https://github.com/CelesteBlue-dev/PSVita-StorageMgr) - Mounts/redirects storage devices to mount points
 - [yamt-vita](https://github.com/SKGleba/yamt-vita) - Yet another (re)mount tool kernel plugin
@@ -325,9 +325,11 @@ games
 - [Noboru](https://github.com/Creckeryop/NOBORU) - Manga/comics browser/reader
 ### 🎥 Streaming
 - [NetStream](https://github.com/GrapheneCt/NetStream) - Universal video streaming client (from YouTube, HTTP server, FTP server, Local storage ...)
-- [Vita Moonlight](https://github.com/xyzz/vita-moonlight) - NVIDIA Gamestream (or [Sunshine](https://github.com/LizardByte/Sunshine)) client for Vita
-- [cspot_vita](https://github.com/michal4132/cspot_vita) - A Spotify player (supports only premium accounts)
 - [udcd_uvc](https://github.com/xerpi/vita-udcd-uvc) -  Allows you stream your PSVita screen to PC/Android via USB
+- [cspot_vita](https://github.com/michal4132/cspot_vita) - A Spotify player (supports only premium accounts)
+### 📶 Remote Play
+- [Vita Moonlight](https://github.com/xyzz/vita-moonlight) - NVIDIA Gamestream (or [Sunshine](https://github.com/LizardByte/Sunshine)) client for Vita
+- [VItaki](https://www.gamebrew.org/wiki/VItaki) - Playstation 5 Remote Play on PSVita ([Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) port)
 
 ## 🔆 Enhances
 ### 🚀 Overclocking & Optimization
