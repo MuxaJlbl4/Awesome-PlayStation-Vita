@@ -115,6 +115,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [VBackup](https://github.com/GrapheneCt/VBackup) - Advanced backup tool for PS Vita
 - [Apps for 3.74](https://wololo.net/2022/07/23/ps-vita-vitashell-2-04-by-yoti-and-other-vita-tools-get-3-74-firmware-support) - Main apps with 3.74 support by [RealYoti](https://github.com/RealYoti)
 - [RepoHub](https://github.com/robDevs/RepoHub) - View Github users, repos, and releases
+- [VItaki](https://www.gamebrew.org/wiki/VItaki) - is a port of Chiaki (PS5 Remote Play homebrew) on the PS Vita
 ### 💾 Memory
 - [PSVita-StorageMgr](https://github.com/CelesteBlue-dev/PSVita-StorageMgr) - Mounts/redirects storage devices to mount points
 - [yamt-vita](https://github.com/SKGleba/yamt-vita) - Yet another (re)mount tool kernel plugin
