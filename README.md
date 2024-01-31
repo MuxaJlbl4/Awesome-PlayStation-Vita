@@ -95,7 +95,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [NoTrpDrm](https://github.com/Rinnegatamante/NoTrpDrm) - Trophies for homebrews
 - [NoPSPEmuDRM](https://github.com/LiEnby/NoPspEmuDrm) - Bypass DRM Check in PspEmu
 - [NoPsmDrm](https://github.com/frangarcj/NoPsmDrm) - Disable DRM protection in PSM games
-- [FreePSM](https://bitbucket.org/SilicaAndPina/freepsm/src/master) - Free in app purchases in PSM games
+- [FreePSM](https://silica.codes/SilicaAndPina/freepsm) - Free in app purchases in PSM games
 - [rePatch reLoaded](https://github.com/SonicMastr/rePatch-reLoaded) - Allows to install custom patches
 - [vshPatch](https://github.com/KuromeSan/vshPatch) - Like rePatch, but for system applications
 - [ioPlus](https://github.com/CelesteBlue-dev/PSVita-RE-tools/blob/master/ioPlus/ioPlus-0.1/release/ioplus.skprx) - Elevated IO permissions
@@ -227,7 +227,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [PS1 games fix](https://gbatemp.net/threads/new-mode-to-fix-ps1-games-for-psp-and-psvita.607286) - Way to fix broken PS1 games for PSP and PSVita
 - [PocketstationUnlocker](https://silica.codes/SilicaAndPina/PocketstationUnlocker) - Forces pocketstation support in all PS1
 games
-- [ParentalControlBypass](https://bitbucket.org/SilicaAndPina/parentalcontrolbypass/src/master) - Reset PSVita Parental Control
+- [ParentalControlBypass](https://www.gamebrew.org/wiki/Parental_Control_Bypass_Vita) - Reset PSVita Parental Control
 - [psv_trophfix](https://github.com/Yoti/psv_trophfix) - Trophies Fixer
 - [hide-autoplugin](https://www.gamebrew.org/wiki/Hide_Autoplugin_Vita) - Hides ux0:/app/AUTOPLUG2 from any app its loaded into
 - [FS Attributes Fix](https://www.reddit.com/r/vitahacks/comments/5nsiwb/fixing_folders_you_cannot_see_or_access_through) - Fixing folders you cannot see or access through USB VitaShell on Windows
@@ -349,7 +349,7 @@ games
 - [Vita Bilinear](https://github.com/swosho/Vita-Bilinear) - Changes texture sampling to linear filtering method
 - [reRescaler](http://wololo.net/talk/viewtopic.php?f=52&t=49666) - Replacement for built-in rescaler
 ### 🏆 Trophies
-- [TropHAXSE](https://bitbucket.org/SilicaAndPina/trophaxse/src/master) - Trophy unlocker app
+- [TropHAXSE](https://gitlab.com/jeroenlammersma/trophaxse) - Trophy unlocker app
 - [Trophy Manager](https://github.com/ONElua/TrophyManager) - Trophy remover app
 - [TrophyShot](https://github.com/FMudanyali/TrophyShot) - Takes a screenshot whenever you unlock a trophy
 - [TRP Builder](https://fuhen.homebrew-contest.com/submissions/34) - Build or modify unencrypted TROPHY.TRP (PC tool)
@@ -429,7 +429,7 @@ games
 - [KVDB](https://github.com/DaveeFTW/kvdb) - Vita Debugger Kernel Plugin
 - [Ghidra Vita Loader](https://github.com/xerpi/GhidraVitaLoader) - Scripts for loading PSVita ELF Binaries into NSA's Ghidra
 - [Vita Loader](https://github.com/mailwl/vitaldr) - IDA Plugin for loading PSVita ELF Binaries into IDA Pro
-- [CXML-Decompiler](https://bitbucket.org/SilicaAndPina/cxml-decompiler/src/master) - Playstation Mobile (app.info), RCOF (.rco) and RCSF (.rcs) decompiler
+- [CXML-Decompiler](https://silica.codes/SilicaAndPina/cxml-decompiler) - Playstation Mobile (app.info), RCOF (.rco) and RCSF (.rcs) decompiler
 - [RegistryEditorMOD](https://github.com/devnoname120/RegistryEditorMOD) - Allows you to read and edit all registry settings
 - [MaiDumpToolEN](https://github.com/LioMajor/MaiDumpToolEN) - Game dumper and patcher
 - [PS Vita Decrypted Firmwares](https://files.olebeck.com/firmware/vita/decrypted) - A collection of decrypted PS Vita firmwares
