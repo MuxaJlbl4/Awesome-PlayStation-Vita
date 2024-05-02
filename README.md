@@ -275,6 +275,7 @@ games
 - [vitastick](https://github.com/xerpi/vitastick) - Allows to use PS Vita as an USB gamepad
 - [hidmouse](https://github.com/xerpi/hidmouse) - Allows to use PS Vita as an USB Mouse
 - [VitaKeyboard](https://github.com/mswlandi/vitakeyboard) - Allows to use PS Vita as an USB Keyboard
+- [ViViD](https://github.com/isage/vivid) - Allows to use PS Vita as a DualShock 3
 
 ## 🎨 Appearance
 ### 🧮 Launchers
