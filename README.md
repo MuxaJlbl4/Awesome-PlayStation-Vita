@@ -543,4 +543,4 @@ games
 - [PlayStation Vita Secrets](http://www.edepot.com/playstation.html) - PS Vita Fat technical specifications, some features and secrets
 - [SKU Models](https://playstationdev.wiki/psvitadevwiki/index.php?title=SKU_Models) - PS Vita models table
 - [Hotkeys](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/Hotkeys.md) - Awesome list of app/plugin and system hotkeys
-- [Missed Games](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/Games.md) - Awesome games that not mentioned in [VitaDB](https://vitadb.rinnegatamante.it/#) and [NoPayStation](https://nopaystation.com)
+- [Missed Games](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/Games.md) - Awesome games that not mentioned in [VitaDB](https://vitadb.rinnegatamante.it/#)
