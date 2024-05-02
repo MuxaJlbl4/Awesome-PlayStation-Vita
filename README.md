@@ -100,6 +100,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [vshPatch](https://github.com/KuromeSan/vshPatch) - Like rePatch, but for system applications
 - [ioPlus](https://github.com/CelesteBlue-dev/PSVita-RE-tools/blob/master/ioPlus/ioPlus-0.1/release/ioplus.skprx) - Elevated IO permissions
 - [psp2hfw](https://github.com/SKGleba/psp2hfw) - Hybrid Firmware toolset for Playstation Vita (Dual firmware)
+- [psp2sdboot](https://github.com/SKGleba/psp2sdboot) - SD boot mode
 ### 🗃️ Apps
 - [VitaDB Downloader](https://github.com/Rinnegatamante/VitaDB-Downloader) - Official client for VitaDB by Rinnegatamante
 - [VitaShell](https://github.com/TheOfficialFloW/VitaShell) - File manager
@@ -388,7 +389,7 @@ games
 - [Minecraft: Enhanced](https://dev.pgteam.org/mods/other-games/minecraft-enhanced) - Minecraft 1.83 with tons of restores and improves
 - [Minecraft Texture Port](https://www.mediafire.com/file/oz05izc5gqyfnv0/1.14.4_Textures_-_PS_Vita.zip/file) - Minecraft texture pack from PC version 1.14.4
 - [God of War Remastered Videos](https://www.reddit.com/r/VitaPiracy/comments/pcrir6/release_god_of_war_ps_vita_remastered_videos_v20) - GoW HQ Cutscenes
-- [Sly Cooper Remastered Videos](https://www.reddit.com/r/VitaPiracy/comments/tc0sy6/release_sly_cooper_trilogy_remastered_edited_hd/) - SC HQ Cutscenes
+- [Sly Cooper Remastered Videos](https://www.reddit.com/r/VitaPiracy/comments/tc0sy6/release_sly_cooper_trilogy_remastered_edited_hd) - SC HQ Cutscenes
 - [P4G Vita Mod Ports](https://github.com/ARandomGuy231/p4gvitamodports) - P4G mods and enhances ports
 ### 🎼 OST Patches
 - [Super Meat Boy Original Music](https://rutracker.org/forum/viewtopic.php?t=5332074) - Original music by Danny Baranowsky for SMB
@@ -474,6 +475,7 @@ games
 - [Project Rinascita](https://wololo.net/2021/07/10/project-rinascita-taking-the-vita-from-zero-to-hero) - Most common hacking problems and solves
 - [Remove PSN Account](https://www.reddit.com/r/vitahacks/comments/tbjbqa/guide_how_to_completely_remove_psn_account_from) - How to Completely Remove PSN Account From PS Vita + Earn Trophies Again
 - [Hacking without Memory Card](https://www.reddit.com/r/vitahacks/comments/wfd5vu/guide_complete_guide_of_hacking_a_psvita_1xxx) - Complete Guide of Hacking a PSVita 1xxx without Memory Card
+- [Upgrade SD2Vita Micro SD](https://www.youtube.com/watch?v=L34NUXK4498) - Upgrade SD2Vita Micro SD To Larger Size
 ### 👩‍💻 Dev Docs
 - [Vita SDK Docs](https://docs.vitasdk.org) - Vita SDK Docs
 - [Vita Development Wiki](https://wiki.henkaku.xyz/vita/Main_Page) - Vita SDK wiki
@@ -496,8 +498,9 @@ games
 ### 😜 Communities
 - [PSVita at 2am](https://www.youtube.com/PSVitaat2am) - PSVita at 2am YouTube channel
 - [2 old 4 gaming](https://www.youtube.com/2old4gaming) - 2 old 4 gaming YouTube channel
+- [Zealous Chuck](https://www.youtube.com/@ZealousChuck) - Zealous Chuck YouTube channel
 - [Wololo PS Vita](http://wololo.net/category/psvita) - Latest homebrews, mods and hacking scene news
-- [Vita Player](https://www.vitaplayer.co.uk/) - PS Vita news and articles
+- [Vita Player](https://www.vitaplayer.co.uk) - PS Vita news and articles
 - [Reddit Vita](https://www.reddit.com/r/vita) - PS Vita Reddit community
 - [Reddit VitaHacks](https://www.reddit.com/r/vitahacks) - PS Vita hacks and homebrew on Reddit
 - [Reddit VitaPiracy](https://www.reddit.com/r/VitaPiracy) - Reddit discussion of things related to piracy on the PS Vita
