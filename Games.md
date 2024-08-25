@@ -33,6 +33,7 @@
 | [Super Mario 64](https://www.nintendo.ru/-/Nintendo-64/Super-Mario-64-269745.html) | [sm64-vita](https://github.com/bythos14/sm64-vita) | [Bythos14](https://github.com/bythos14) | Supports 60 FPS and [puppycam](https://github.com/FazanaJ/puppycam); [VPK file](https://www.pspx.ru/forum/showthread.php?t=112651) |
 | [The Henry Stickmin Collection](https://store.steampowered.com/app/1089980/The_Henry_Stickmin_Collection) | [The Henry Stickmin Collection](https://db.cbps.xyz/getdownload.php?id=ABCD12345_1) | [???](https://github.com/ghost) |  |
 | [The Silent Age](https://store.steampowered.com/app/352520/The_Silent_Age) | [SilentAge](https://discord.gg/kdU2dqH84K) | [PatnosD](https://www.youtube.com/@PatnosD) |  |
+| [The Simpsons: Hit & Run](https://en.wikipedia.org/wiki/The_Simpsons:_Hit_%26_Run) | [SimpsonsNTSC/PAL](https://github.com/ZenoArrows/The-Simpsons-Hit-and-Run) | [ZenoArrows](https://github.com/ZenoArrows) |  |
 | [Traffix](https://store.steampowered.com/app/1102580/Traffix) | [Traffix](https://discord.gg/kdU2dqH84K) | [PatnosD](https://www.youtube.com/@PatnosD) |  |
 | [VVVVVV](https://www.gog.com/ru/game/vvvvvv) | [VVVVVV](https://github.com/isage/VVVVVV) | [Isage](https://github.com/isage) | Supports 60 FPS and mods |
 | [Zork I: The Great Underground Empire](https://www.gog.com/ru/game/the_zork_anthology) | [zork](https://github.com/robDevs/zork) | [robDevs](https://github.com/robDevs) |  |
