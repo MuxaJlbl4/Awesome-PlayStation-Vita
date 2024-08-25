@@ -135,13 +135,16 @@ Contains all most important, actual and cool things in my humble opinion.
 - [Wiki Game List](https://en.wikipedia.org/wiki/Lists_of_PlayStation_Vita_games) - Wikipedia list of all PS Vita games
 - [Metacritic List](https://www.metacritic.com/browse/game/ps-vita) - All PS Vita game releases at Metacritic
 - [Exclusives List](https://www.giantbomb.com/profile/blacklagoon/lists/vita-exclusives/86370) - List of PS Vita exclusives
+- [Vita Gaming on PC](https://store.steampowered.com/curator/43446723-Vita-Gaming-on-PC/) - PS Vita games available on [Steam](https://store.steampowered.com)
 - [PlayStation Vita undumped](https://wiki.no-intro.org/index.php?title=Sony_-_PlayStation_Vita_undumped) - List of undumped games
+- [NonPayStation](https://t.me/nonpays) - [NoPayStation](https://nopaystation.com) unavailable games collection
 ### 🌱 HomeBrew
 - [VitaDB](https://vitadb.rinnegatamante.it/#) - A collection of ports, emulators and original games
 - [VitaGL Games](https://github.com/Rinnegatamante/vitaGL#projects-actually-using-vitagl) - List of projects using VitaGL
 - [Lua Games](https://github.com/Rinnegatamante/lpp-vita#showcase) - List of projects using Lua Player Plus
 - [Some Visual Novel](https://www.reddit.com/r/VitaPiracy/comments/90espv/vnds_clone_games_on_this_reddit) - VNDS Clone games for Vita
 - [PSM Reborn](http://psmreborn.com/libary.php) - PSM games list
+- [Non VitaDB](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/Games.md#non-vitadb) - [VitaDB](https://vitadb.rinnegatamante.it/#) unavailable games collection
 
 ## 🕹️ Emulators
 ### 🌌 Collections
@@ -154,6 +157,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [NooDS](https://github.com/Hydr8gon/NooDS) - Multiplatform DS/GBA emulator (slow on Vita)
 - [DeSmuME-Vita](https://github.com/masterfeizz/DeSmuME-Vita) - DeSmuME port for Vita (slow)
 - [MelonDS-Vita](https://github.com/Rinnegatamante/melonDS-Vita) - Nintendo DS emulator (slow)
+- [DSVita](https://github.com/Grarak/DSVita) - Nintendo DS emulator on Rust (experimental)
 ### 6️⃣ 6th Gen
 - [Flycast-vita​](https://www.psx-place.com/threads/release-flycast-vita-dreamcast-emulator-for-psvita-pstv.32449) - Sega Dreamcast emulator
 - [mGBA](https://github.com/mgba-emu/mgba) - Nintendo Game Boy Advance emulator
@@ -229,11 +233,11 @@ Contains all most important, actual and cool things in my humble opinion.
 - [PocketstationUnlocker](https://silica.codes/SilicaAndPina/PocketstationUnlocker) - Forces pocketstation support in all PS1
 games
 - [ParentalControlBypass](https://www.gamebrew.org/wiki/Parental_Control_Bypass_Vita) - Reset PSVita Parental Control
-- [psv_trophfix](https://github.com/Yoti/psv_trophfix) - Trophies Fixer
+- [psv_trophfix](https://github.com/Yoti/psv_trophfix) - Trophies fixer
+- [psv_npsthmfxr](https://github.com/Yoti/psv_npsthmfxr) - NPS themes fixer
 - [hide-autoplugin](https://www.gamebrew.org/wiki/Hide_Autoplugin_Vita) - Hides ux0:/app/AUTOPLUG2 from any app its loaded into
 - [FS Attributes Fix](https://www.reddit.com/r/vitahacks/comments/5nsiwb/fixing_folders_you_cannot_see_or_access_through) - Fixing folders you cannot see or access through USB VitaShell on Windows
 - [Refresh LiveArea](https://lempereurdunet.files.wordpress.com/2020/09/vitashell-refresh-livearea.jpg?w=488) - [VitaShell](https://github.com/TheOfficialFloW/VitaShell); Options; Refresh LiveArea
-
 ### 🔅 PS Vita 2000
 - [LCD Color Saturation](https://github.com/Electric1447/lcd-color-saturation) - App for improving color saturation on your Vita 2000
 - [LCD Colour Space Changer](https://forum.devchroma.nl/index.php?topic=201.0) - Plugin for improving color saturation on your Vita 2000
@@ -294,6 +298,7 @@ games
 - [psp2wpp](https://github.com/Princess-of-Sleeping/psp2wpp) - Adds wave on background
 - [Shortcuts Enhancer](https://github.com/ONElua/Shortcuts-Enhancer) - Custom shortcuts in the PS Vita index menu
 - [QuickLaunch-Installer](https://github.com/DRok17/QuickLaunch-Installer) - Allows you to customize the quick menu shortcuts
+- [Fruitpeel](https://forum.devchroma.nl/index.php?topic=338.0) - Changes lockscreen background wallpaper
 - [Theme Manager Ex](https://bitbucket.org/kylon/theme-manager-ex-theme-engine/src/master) - Advanced theme manger
 - [TEMA](https://github.com/Mithrenes/TEMA) - Live Area and Vita Shell Theme Installer
 
@@ -316,6 +321,7 @@ games
 - [Vita Recorder](https://github.com/Rinnegatamante/Vita-Recorder) - Allows to record video clips
 - [CBPSTube](https://forum.devchroma.nl/index.php/topic,331.0.html) - YouTube client with more features
 - [TubeVita](https://github.com/theheroGAC/TubeVita) - Alternative YouTube client
+- [Wiliwili](https://github.com/xfangfang/wiliwili) - [Bilibili](https://www.bilibili.com/) client
 - [Vita Media Center](http://wololo.net/talk/viewtopic.php?f=116&t=48887&sid=dbbf2c139506b7daab4486cf84ff41db) - MP4 video player
 - [Vita Media Importer](https://github.com/cnsldv/MediaImporter) - Imports media into the PS Vita video and music players
 - [Vita Media Player](https://github.com/SonicMastr/Vita-Media-Player) - An Open Source PSVita/TV MP4 player with 1080p playback and subtitle support
@@ -449,6 +455,8 @@ games
 - [Chovy Sign](https://github.com/KuromeSan/chovy-sign) - PSP ISOs on unhacked PSVita
 - [PSX2PSP​](https://www.psx-place.com/resources/psx2psp.586) - Allows you to convert PS1/PSX game into format playable on PSP/Adrenaline
 - [PSP2-CBAnim](https://github.com/SKGleba/PSP2-CBAnim) - Boot animation creator for [CBS-Manager](https://github.com/SKGleba/CBS-Manager)
+- [pkg2zip](https://github.com/lusid1/pkg2zip) - Converts PKG files to ZIP package ([themes support](https://github.com/mmozeiko/pkg2zip/pull/14#issuecomment-374249397))
+- [unpkg_vita](https://github.com/RikuKH3/unpkg_vita) - PKG Unpacker 
 ### 📱 Android
 - [VHBB-Android](https://github.com/Electric1447/VHBB-Android) - [VitaDB](https://vitadb.rinnegatamante.it/#) & [cbpsDB](https://db.cbps.xyz) client for Android
 - [NPS Browser](https://github.com/IllusionMan1212/NPS-Browser) - [NoPayStation](https://nopaystation.com) client app for Android
@@ -467,6 +475,7 @@ games
 - [Vita hacking guide](https://guide.psp2.dev/start) - Another complete hack guide ([HENlo](https://github.com/SKGleba/henlo_jb))
 - [Vita Troubleshooting Guide](https://samilops2.gitbook.io/vita-troubleshooting-guide) - Useful tutorials for installing hacks, complex homebrews/plugins etc
 - [CFWaifu Vita Tutorials](https://www.cfwaifu.com/psvita) - CFWaifu guides
+- [CFWaifu NoPayStation Guide](https://www.cfwaifu.com/nopaystation)
 - [Vita-Guide](https://github.com/ZHassanQ/Vita-Guide) - How to install CFW and everything to do with it
 - [Vita Custom Firmware for dummies](https://wololo.net/vita-cfw4dummies) - Wololo.net complete hack guide
 - [Wololo Tutorials](https://wololo.net/talk/viewforum.php?f=65) - Wololo.net/talk Vita tutorials
@@ -500,6 +509,7 @@ games
 - [PSVita at 2am](https://www.youtube.com/PSVitaat2am) - PSVita at 2am YouTube channel
 - [2 old 4 gaming](https://www.youtube.com/2old4gaming) - 2 old 4 gaming YouTube channel
 - [Zealous Chuck](https://www.youtube.com/@ZealousChuck) - Zealous Chuck YouTube channel
+- [The PSVita Project](https://www.youtube.com/playlist?list=PLKAsY1n2dIeDCSzs6PihwLD8f69Wvtv5O) - 10 seconds gameplay for each released title by [VGL](https://www.youtube.com/@VirtualGamingLibrary)
 - [Wololo PS Vita](http://wololo.net/category/psvita) - Latest homebrews, mods and hacking scene news
 - [Vita Player](https://www.vitaplayer.co.uk) - PS Vita news and articles
 - [Reddit Vita](https://www.reddit.com/r/vita) - PS Vita Reddit community
@@ -513,6 +523,8 @@ games
 - [PSNProfiles](https://psnprofiles.com/games?order=owners&platform=psvita) - Trophies stats and guides
 - [4PDA PS Vita](https://4pda.to/forum/index.php?showtopic=214976) - Russian PS Vita discussions and guides
 - [VK Portablegaming](https://vk.com/wall-47742407?own=1) - Portablegaming VK group
+- [Vita Nuova](https://discord.gg/PyCaBx9) - Vita Nuova official Discord server
+- [NoPayStation](https://discord.com/invite/rNGrkUY) - NoPayStation Discord community
 - [Dan's Palace](https://dsc.gg/danspalace) - Unity games porting Discord community
 - [Donkey Kong And Friends - Vita & Android Porting](https://discord.gg/kdU2dqH84K) - Vita & Android Porting Discord community
 ### 💬 Game Translations
@@ -544,4 +556,3 @@ games
 - [PlayStation Vita Secrets](http://www.edepot.com/playstation.html) - PS Vita Fat technical specifications, some features and secrets
 - [SKU Models](https://playstationdev.wiki/psvitadevwiki/index.php?title=SKU_Models) - PS Vita models table
 - [Hotkeys](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/Hotkeys.md) - Awesome list of app/plugin and system hotkeys
-- [Missed Games](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/Games.md) - Awesome games that not mentioned in [VitaDB](https://vitadb.rinnegatamante.it/#)
