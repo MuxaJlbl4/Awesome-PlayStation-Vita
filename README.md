@@ -521,6 +521,7 @@ games
 - [GBAtemp](https://gbatemp.net/categories/sony-ps-vita-discussions.214) - Sony PS Vita discussions and guides
 - [Wololo.net/talk](https://wololo.net/talk/viewforum.php?f=22) - Wololo PS Vita forum
 - [PSNProfiles](https://psnprofiles.com/games?order=owners&platform=psvita) - Trophies stats and guides
+- [Planète Vita](https://planetevita.fr) - French PS Vita website
 - [4PDA PS Vita](https://4pda.to/forum/index.php?showtopic=214976) - Russian PS Vita discussions and guides
 - [VK Portablegaming](https://vk.com/wall-47742407?own=1) - Portablegaming VK group
 - [Vita Nuova](https://discord.gg/PyCaBx9) - Vita Nuova official Discord server
@@ -530,8 +531,9 @@ games
 ### 💬 Game Translations
 - [English Translations](https://www.reddit.com/r/VitaPiracy/comments/b9kxta/list_of_fan_translated_vita_games) - List of fan translated Vita games
 - [English Translations](https://vitaenglishtranslations.wordpress.com) - Fan translations and patches for Playstation Vita games
-- [Russian Translations](https://4pda.to/forum/index.php?showtopic=771459) - A collection of russian language patches
-- [Russian Language Games](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9UEPSbNOi39PugwWJlXERBJGfYgDhrh3FDHoJ74hUbtq9ZNL3qd3vtj9W8FR7ObuUSpoLpGZrGHBP/pubhtml) - List of games with russian language and russian patches
+- [French Translations](https://planetevita.fr/liste-patchs-francais-jeux-psvita) - A collection of French language patches
+- [Russian Translations](https://4pda.to/forum/index.php?showtopic=771459) - A collection of Russian language patches
+- [Russian Language Games](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9UEPSbNOi39PugwWJlXERBJGfYgDhrh3FDHoJ74hUbtq9ZNL3qd3vtj9W8FR7ObuUSpoLpGZrGHBP/pubhtml) - List of games with included Russian language and available patches
 - [forcelang](https://github.com/xdanieldzd/forcelang) - Overrides application language
 
 ## 🍂 Miscellaneous
