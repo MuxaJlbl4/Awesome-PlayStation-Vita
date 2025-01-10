@@ -222,6 +222,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [NPS Proxy](https://www.reddit.com/r/VitaPiracy/comments/a6mwik/nps_temporary_workaround_for_pkgj_https_errors) - Preventing HTTPS errors in PKGj by using NPS proxy
 - [UserAgentSpoofer](https://github.com/GrapheneCt/UserAgentSpoofer) - Changes what device the browser/web page sees your vita as
 - [Vita generic RTL enabler](https://github.com/isage/vita-usb-ether) - Allows to use pc usb-ethernet rtl8152 dongle on vita
+- [Vita Ports Scanner](https://github.com/lp1dev/vita_ports_scanner) - Scan devices on local networks and their open TCP ports
 ### 🔧 Fixes
 - [ShaRKF00D](https://github.com/OsirizX/ShaRKF00D) - Allows you to access runtime shader compiler (for [AvP Gold](https://www.psx-place.com/threads/avp-gold.30555))
 - [kubridge](https://github.com/bythos14/kubridge) - DynaRec feature extender for VitaGL games
