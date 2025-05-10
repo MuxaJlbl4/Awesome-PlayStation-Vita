@@ -135,6 +135,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [Wiki Game List](https://en.wikipedia.org/wiki/Lists_of_PlayStation_Vita_games) - Wikipedia list of all PS Vita games
 - [Metacritic List](https://www.metacritic.com/browse/game/ps-vita) - All PS Vita game releases at Metacritic
 - [Exclusives List](https://www.giantbomb.com/profile/blacklagoon/lists/vita-exclusives/86370) - List of PS Vita exclusives
+- [Alternate Exclusives List](https://www.gematsu.com/exclusives/ps-vita) - List of PS Vita exclusives (bigger, more regions)
 - [Vita Gaming on PC](https://store.steampowered.com/curator/43446723-Vita-Gaming-on-PC/) - PS Vita games available on [Steam](https://store.steampowered.com)
 - [PlayStation Vita undumped](https://wiki.no-intro.org/index.php?title=Sony_-_PlayStation_Vita_undumped) - List of undumped games
 - [NonPayStation](https://t.me/nonpays) - [NoPayStation](https://nopaystation.com) unavailable games collection
