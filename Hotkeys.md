@@ -1,17 +1,16 @@
 # PlayStation Vita Hotkeys
 
 ## System
-- Power off - **Hold Power; Tap Power Off**
+- Power off - **Hold Power** *(5 sec)* or **Hold Power; Tap Power Off**
+- Start in safe mode - **Hold (R + PS + Power)** *(5 sec)*
 - Quick menu - **Hold PS**
 - Mute - **Hold (VOL+ + VOL-)**
 - Screenshot - **PS + Start**
 - Zoom - **PS + ⧠** *(enables in settings)*
 
-## Safe Mode
+## taiHEN
 - Disable all taiHEN plugins - **Hold L** *(during PS Vita startup)*
 - Disable taiHEN plugins for single app - **Hold L** *(during app launch)*
-- Start in safe mode - **Hold (R + PS + Power)** *(5 sec)*
-- Reboot to safe mode - **Hold Power** *(30 sec)*
 
 ## [Pngshot](https://github.com/xyzz/pngshot#usage)
 - Take a screenshot - **PS + Start**
