@@ -116,7 +116,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [RIF Ripper](https://forum.devchroma.nl/index.php/topic,354.0.html) - License backup tool for purchased digital content for PSP, PS3, PS Vita
 - [VBackup](https://github.com/GrapheneCt/VBackup) - Advanced backup tool for PS Vita
 - [Apps for 3.74](https://wololo.net/2022/07/23/ps-vita-vitashell-2-04-by-yoti-and-other-vita-tools-get-3-74-firmware-support) - Main apps with 3.74 support by [RealYoti](https://github.com/RealYoti)
-- [RepoHub](https://github.com/robDevs/RepoHub) - View Github users, repos, and releases
+- [RepoHub](https://github.com/robDevs/RepoHub) - Viewer and downloader for GitHub repos and releases
 ### 💾 Memory
 - [PSVita-StorageMgr](https://github.com/CelesteBlue-dev/PSVita-StorageMgr) - Mounts/redirects storage devices to mount points
 - [yamt-vita](https://github.com/SKGleba/yamt-vita) - Yet another (re)mount tool kernel plugin
@@ -406,6 +406,7 @@ games
 - [God of War Remastered Videos](https://www.reddit.com/r/VitaPiracy/comments/pcrir6/release_god_of_war_ps_vita_remastered_videos_v20) - GoW HQ Cutscenes
 - [Sly Cooper Remastered Videos](https://www.reddit.com/r/VitaPiracy/comments/tc0sy6/release_sly_cooper_trilogy_remastered_edited_hd) - SC HQ Cutscenes
 - [P4G Vita Mod Ports](https://github.com/ARandomGuy231/p4gvitamodports) - P4G mods and enhances ports
+- [The Binding of Isaac Mod Conversion Kit](https://github.com/ItsDeidara/The-Binding-of-Isaac-Mod-Conversion-Kit) - TBoI:R PC mods conversion to console counterparts
 ### 🎼 OST Patches
 - [Super Meat Boy Original Music](https://rutracker.org/forum/viewtopic.php?t=5332074) - Original music by Danny Baranowsky for SMB
 - [The Binding of Isaac: Rebirth Original Music](https://rutracker.org/forum/viewtopic.php?t=5335068) - Original music by Danny Baranowsky for TBoI:R
@@ -468,7 +469,7 @@ games
 - [pkg2zip](https://github.com/lusid1/pkg2zip) - Converts PKG files to ZIP package ([themes support](https://github.com/mmozeiko/pkg2zip/pull/14#issuecomment-374249397))
 - [unpkg_vita](https://github.com/RikuKH3/unpkg_vita) - PKG Unpacker 
 ### 📱 Android
-- [VHBB-Android](https://github.com/Electric1447/VHBB-Android) - [VitaDB](https://rinnegatamante.eu/vitadb) & [cbpsDB](https://db.cbps.xyz) client for Android
+- [VHBB-Android](https://github.com/Electric1447/VHBB-Android) - [VitaDB](https://rinnegatamante.eu/vitadb) client for Android
 - [NPS Browser](https://github.com/IllusionMan1212/NPS-Browser) - [NoPayStation](https://nopaystation.com) client app for Android
 ### 🕸️ Web
 - [Bubble Studio](https://anthe.studio/bubblestudio) - Web editor for app.db
@@ -528,7 +529,7 @@ games
 - [Reddit Vita3k](https://www.reddit.com/r/vita3k) - Vita3k Reddit community
 - [PSX-Place](https://www.psx-place.com/forums/#playstation-vita-forums.8) - Latest Homebrew, Hacking, Exploits, CFW, Jailbreak & PlayStation Scene News
 - [CBPS forum](https://forum.devchroma.nl/index.php/board,2.0.html) - Hacking information or applications related to the PS Vita
-- [GBAtemp](https://gbatemp.net/categories/sony-ps-vita-discussions.214) - Sony PS Vita discussions and guides
+- [GBAtemp](https://gbatemp.net/forums/sony-ps-vita.215) - Sony PS Vita discussions and guides
 - [Wololo.net/talk](https://wololo.net/talk/viewforum.php?f=22) - Wololo PS Vita forum
 - [PSNProfiles](https://psnprofiles.com/games?order=owners&platform=psvita) - Trophies stats and guides
 - [Planète Vita](https://planetevita.fr) - French PS Vita website
