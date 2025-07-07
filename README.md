@@ -301,6 +301,7 @@ games
 - [PSVita Custom Themes Free Repository](https://psv.altervista.org/index.php) - Custom Themes Repository
 - [Custom Themes Manager](http://redsquirrel87.altervista.org/doku.php/custom-themes-manager) - App to browse, view, download and install custom themes
 - [Quick Menu Plus](https://forum.devchroma.nl/index.php/topic,78.html) - Function and style enhancements for the Quick Menu
+- [Quick Menu Plus Fork](https://github.com/VitaArchive/QuickMenuPlus) - Power features in the Vita Quick Menu
 - [psp2wpp](https://github.com/Princess-of-Sleeping/psp2wpp) - Adds wave on background
 - [Shortcuts Enhancer](https://github.com/ONElua/Shortcuts-Enhancer) - Custom shortcuts in the PS Vita index menu
 - [QuickLaunch-Installer](https://github.com/DRok17/QuickLaunch-Installer) - Allows you to customize the quick menu shortcuts
@@ -558,13 +559,13 @@ games
 ### 🧪 Compatibility Lists
 - [GePatch](https://docs.google.com/spreadsheets/d/1aZlmKwELcdpCb9ezI5iRfgcX9hoGxgL4tNC-673aKqk/edit#gid=0) - Compatibility list for [GePatch](https://github.com/TheOfficialFloW/GePatch)
 - [Adrenaline 60 FPS](https://docs.google.com/spreadsheets/d/1yunmCa_7zmoI0H8qPRYJEd7D7rm6Vxc1SJFYPF9DCIM) - Compatibility list for Adrenaline 60 FPS patches via [CWCheat](https://www.cfwaifu.com/cwcheat-adrenaline)/[TempAR](https://www.brewology.com/downloads/download.php?id=13092&mcid=1)
-- [DaedalusX64](https://rinnegatamante.eu/daedalusx64) - Compatibility list for [DaedalusX64-vitaGL](https://github.com/Rinnegatamante/daedalusx64-vitagl)
-- [Flycast](https://rinnegatamante.eu/newflycast) - Compatibility list for [Flycast-vita](https://www.psx-place.com/threads/release-flycast-vita-dreamcast-emulator-for-psvita-pstv.32449)
+- [DaedalusX64](https://github.com/Rinnegatamante/DaedalusX64-vitaGL-Compatibility/issues) - Compatibility list for [DaedalusX64-vitaGL](https://github.com/Rinnegatamante/daedalusx64-vitagl)
+- [Flycast](https://github.com/Rinnegatamante/flycast-vita-compatibility-list/issues) - Compatibility list for [Flycast-vita](https://www.psx-place.com/threads/release-flycast-vita-dreamcast-emulator-for-psvita-pstv.32449)
 - [Vita3K](https://github.com/Vita3K/compatibility/issues) - Compatibility list for [Vita3K](https://github.com/Vita3K/Vita3K)
-- [YoYo Loader](https://rinnegatamante.eu/yoyo) - Compatibility list for [YoYo Loader Vita](https://github.com/Rinnegatamante/yoyoloader_vita)
+- [YoYo Loader](https://github.com/Rinnegatamante/YoYo-Loader-Vita-Compatibility/issues) - Compatibility list for [YoYo Loader Vita](https://github.com/Rinnegatamante/yoyoloader_vita)
 ### 🧩 Misc
 - [AR Play Cards](https://www.retrocomputers.gr/media/kunena/attachments/155/AR-Play-Cards.pdf) - Augmented Reality cards for PS Vita
-- [Android games](https://rinnegatamante.eu/android) - List of Android games theoretically portable to PS Vita
+- [Android games](https://github.com/Rinnegatamante/Android2Vita-Candidate-Ports-List/issues) - List of Android games theoretically portable to PS Vita
 - [Bounties](https://github.com/vita-nuova/bounties/issues) - Bounties for new Vita projects
 - [Compass](https://www.reddit.com/r/vitahacks/comments/us2woq/not_release_simple_compass_for_ps_vita) - Built in Vita browser compass/gyro app ([about:compass](about:compass))
 - [LiveRig](https://github.com/GrapheneCt/LiveRig) - Live2D face tracking software PoC
