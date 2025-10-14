@@ -29,7 +29,7 @@
 | 💫 | [Septerra Core: Legacy of the Creator](https://www.gog.com/ru/game/septerra_core_legacy_of_the_creator) | [septerra-core-vita](https://disk.yandex.ru/d/Lac0V5XhbgSRVQ) | [Isage](https://github.com/isage) |  |
 | 🍁 | [The Silent Age](https://store.steampowered.com/app/352520/The_Silent_Age) | [SilentAge](https://disk.yandex.ru/d/aVDPpw9AzSr5SQ) | [PatnosD](https://www.youtube.com/@PatnosD) |  |
 | 🍩 | [The Simpsons: Hit & Run](https://en.wikipedia.org/wiki/The_Simpsons:_Hit_%26_Run) | [SimpsonsNTSC/PAL](https://disk.yandex.ru/d/JlLWeZNpt2DNnw) | [ZenoArrows](https://github.com/ZenoArrows) |  |
-| ⭐ | [Star Girl Proxima](https://store.steampowered.com/app/1135370/Star_Girl_Proxima) | [Star Girl Proxima](https://disk.yandex.ru/d/eNIcXo7gJT4hkw) | [Unknown](https://github.com/ghost) |  |
+| ⭐ | [Star Girl Proxima](https://store.steampowered.com/app/1135370/Star_Girl_Proxima) | [Star Girl Proxima](https://disk.yandex.ru/d/eNIcXo7gJT4hkw) | [Unknown](https://github.com/ghost) | [YoYo alternate](https://github.com/Rinnegatamante/YoYo-Loader-Vita-Compatibility/issues/222) |
 | 🌃 | [Streets of Rage Remake](https://sorr.forumotion.net/t838-new-streets-of-rage-remake-v5-2-download-and-info) | [SoRR](https://disk.yandex.ru/d/ieTZbq1HyNXMEw) | [Isage](https://github.com/isage) |  |
 | 🍄 | [Super Mario 64](https://www.nintendo.ru/-/Nintendo-64/Super-Mario-64-269745.html) | [sm64-vita](https://disk.yandex.ru/d/8EqNRdwz8jgN2g) | [Bythos14](https://github.com/bythos14) | [Installation](https://www.pspx.ru/forum/showthread.php?t=112651) |
 | 👾 | [Sync Simple](https://www.mobygames.com/game/50970/sync-simple) | [Sync Simple](https://disk.yandex.ru/d/_Hb2te9t5Tk70g) | [tijesef](https://www.reddit.com/user/tijesef) |  |
