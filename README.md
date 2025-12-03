@@ -186,6 +186,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [OpenBOR](https://github.com/rsn8887/openbor) - Beats Of Rage 2D game engine
 - [renpy-vita](https://github.com/SonicMastr/renpy-vita) - Visual novel engine Ren'Py
 - [Flare Vita](https://github.com/Rinnegatamante/flare-engine) - Flare RPG engine
+- [Xenity Engine](https://github.com/Fewnity/Xenity-Engine) - PSP, PsVita and PS3 game engine
 ### ⌨️ Interpreters & Virtual Machines
 - [cpython-vita](https://github.com/SonicMastr/cpython-vita) - Python 2.7.18 Interpreter
 - [fake-08](https://github.com/jtothebell/fake-08) - PICO-8 virtual machine emulator
