@@ -21,7 +21,8 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [🖥️ Computers](#%EF%B8%8F-computers)
 	- [💎 Game Engines](#-game-engines)
 	- [⌨️ Interpreters & Virtual Machines](#%EF%B8%8F-interpreters--virtual-machines)
-	- [🙅‍♀️ Non-Emulation](#%EF%B8%8F-non-emulation)
+	- [🌉 Platforms](#-platforms)
+	- [🧅 Translation Layers](#-translation-layers)
 	- [🍊 Vita Emulation](#-vita-emulation)
 - **[💡 Customization](#-customization)**
 	- [🔋 Utilities](#-utilities)
@@ -186,16 +187,18 @@ Contains all most important, actual and cool things in my humble opinion.
 - [OpenBOR](https://github.com/rsn8887/openbor) - Beats Of Rage 2D game engine
 - [renpy-vita](https://github.com/SonicMastr/renpy-vita) - Visual novel engine Ren'Py
 - [Flare Vita](https://github.com/Rinnegatamante/flare-engine) - Flare RPG engine
-- [Xenity Engine](https://github.com/Fewnity/Xenity-Engine) - PSP, PsVita and PS3 game engine
+- [Xenity Engine](https://github.com/Fewnity/Xenity-Engine) - PSP, PSVita and PS3 game engine
 ### ⌨️ Interpreters & Virtual Machines
 - [cpython-vita](https://github.com/SonicMastr/cpython-vita) - Python 2.7.18 Interpreter
 - [fake-08](https://github.com/jtothebell/fake-08) - PICO-8 virtual machine emulator
 - [MicroCHIP](https://wololo.net/talk/viewtopic.php?f=116&t=48620) - Interpreter for CHIP-8/SCHIP-8 games
 - [VITA-8](https://github.com/xerpi/VITA-8/tree/sw-render) - CHIP-8 emulator
 - [PSPKVM](https://sourceforge.net/projects/pspkvm) - Java ME emulator for PSP (analog for RetroArch [SquirrelJME core](https://github.com/SquirrelJME/SquirrelJME))
-### 🙅‍♀️ Non-Emulation
-- [Adrenaline](https://github.com/TheOfficialFloW/Adrenaline) - Actually not an emulator
+### 🌉 Platforms
 - [YoYo Loader Vita](https://github.com/Rinnegatamante/yoyoloader_vita) - Android GameMaker Studio Runner application for the PS Vita ([Log Reset](https://github.com/DRok17/Log-Reset-for-YYL))
+- [XnaFlashPlayer Vita](https://www.gamebrew.org/wiki/XnaFlashPlayer_Vita) - Flash Player with ActionScript 2 support and limited compatibility
+- [Ruffle Flash Player Vita](https://www.gamebrew.org/wiki/Ruffle_Flash_Player_Vita) - Flash Player with ActionScript 1/2/3 support and better compatibility
+### 🧅 Translation Layers
 - [vita2hos](https://github.com/xerpi/vita2hos) - A PlayStation Vita to Horizon OS (Nintendo Switch OS) translation layer
 - [linux_vita](https://github.com/xerpi/linux_vita) - Linux kernel Vita port
 ### 🍊 Vita Emulation
@@ -203,6 +206,7 @@ Contains all most important, actual and cool things in my humble opinion.
 
 ## 💡 Customization
 ### 🔋 Utilities
+- [PSV Cleaner](https://theherogac00.itch.io/psv-cleaner-playstation-vita-temporary-files-cleaner) - Cleans temporary files
 - [vita-shellbat](https://github.com/nowrep/vita-shellbat) - Shows battery percent in statusbar
 - [VITABatteryPlus](https://github.com/Electric1447/VITABatteryPlus) - Battery info plugin
 - [PSV-VSH-Menu](https://github.com/SilentNightx/PSV-VSH-Menu) - Visual SHell menu for PS Vita
@@ -329,8 +333,10 @@ games
 - [VITA-NoAutoAvls](https://github.com/SKGleba/VITA-NoAutoAvls) - Enable/disable the auto-avls feature (bypass 20 hours timing)
 - [Monaural](https://forum.devchroma.nl/index.php/topic,57.0.html) - Mono audio and channel balance
 - [MilkyTrackerVita](https://github.com/TheMorc/MilkyTrackerVita) - Music application for creating .MOD and .XM
+- [vitaTrak](https://github.com/thexkey/vitaTrak) - Tracker music player
 - [VX7 Vita FM Synthesizer](https://clickbatedubs.itch.io/vx7-vita-fm-synthesizer) - Frequency modulation synthesizer
 - [vita-webradios](https://github.com/Aztorius/vita-webradios) - Web radio player
+- [TRAC Player](https://anthj.itch.io/trac-player) - [KHInsider](https://downloads.khinsider.com) music browser
 ### 🎬 Video
 - [Vita Recorder](https://github.com/Rinnegatamante/Vita-Recorder) - Allows to record video clips
 - [CBPSTube](https://forum.devchroma.nl/index.php/topic,331.0.html) - YouTube client with more features
@@ -342,6 +348,7 @@ games
 - [Video Bubbles Creator](https://rinnegatamante.eu/vitadb/#/info/323) - Convert a video in whatever format to a Vita bubble (.vpk)
 - [MVPlayer](https://github.com/AntHJ/MVPlayer) - Video library app
 - [Boxset-Bubble-Creator](https://github.com/AntHJ/Boxset-Bubble-Creator) - Convert and prepare video files for MVPlayer
+- [Reaction Station](https://www.psx-place.com/resources/reaction-station-by-anthj.1616) - Interactive video editor
 ### 📷 Camera
 - [AR Play Cards](https://www.retrocomputers.gr/media/kunena/attachments/155/AR-Play-Cards.pdf) - Augmented Reality cards for PS Vita
 - [Better QR Scanner](https://github.com/HarommelRabbid/BetterQRScanner) - QR code tool
@@ -349,7 +356,7 @@ games
 ### 📖 Reading
 - [Bookr](https://github.com/pathway27/bookr-mod-vita) - PDF, CBZ, HTML, ePub, FB2 reader
 - [Noboru](https://github.com/Creckeryop/NOBORU) - ZIP, CBZ reader
-- [vitaPDF](https://joel16dev.itch.io/vitapdf) -  CBT, CBZ, ePub, FB2, MOBI, PDF, XPS reader
+- [vitaPDF](https://github.com/joel16/vitaPDF) -  CBT, CBZ, ePub, FB2, MOBI, PDF, XPS reader
 ### 🎥 Streaming
 - [Switchfin](https://github.com/dragonflylee/switchfin) - [Jellyfin](https://jellyfin.org) client for PC/PS4/PSVita/Nintendo Switch 
 - [NetStream](https://github.com/GrapheneCt/NetStream) - Universal video streaming client from YouTube, HTTP, FTP... Requires active [Invidious Instance](https://github.com/iv-org/documentation/blob/master/docs/instances.md)
@@ -407,7 +414,7 @@ games
 - [Need for Speed: Most Wanted REDUX](https://www.reddit.com/r/VitaPiracy/comments/pnnif4/mod_need_for_speed_most_wanted_psvita_redux) - Makes NfS:MW(2012) more similar to the PC version
 - [Need for Speed: Most Wanted Settings](https://github.com/Electry/NFSMW_Settings) - Fixes some of the glaring issues with NfS:MW
 - [Mirage](https://mirage.yuv.pink/guide/) - Revived Killzone: Mercenary multiplayer
-- [LittleBigPlanet Project Lighthouse](https://www.lbpunion.com/post/project-lighthouse-littlebigplanet-private-servers) - LittleBigPlanet alternative server (currently only private access)
+- [LittleBigPlanet Project Lighthouse](https://www.lbpunion.com/post/how-to-patch-littlebigplanet-vita-for-project-lighthouse) - LittleBigPlanet alternative server
 ### 🍬 Content Mods
 - [PG Mods](https://dev.pgteam.org/mods) - Mods by PortableGaming
 - [GTA III 10th Anniversary Edition](https://dev.pgteam.org/mods/grand-theft-auto/revisited-trilogy/gta-iii) - 10th Anniversary Edition extensions for [re3-vita](https://archive.org/details/gta-3-re-3-v-1.4)
@@ -462,7 +469,8 @@ games
 - [PSVita Reverse Engineering Tools](https://github.com/CelesteBlue-dev/PSVita-RE-tools) - A bundle of RE tools for PSVita
 - [KVDB](https://github.com/DaveeFTW/kvdb) - Vita Debugger Kernel Plugin
 - [Ghidra Vita Loader](https://github.com/xerpi/GhidraVitaLoader) - Scripts for loading PSVita ELF Binaries into NSA's Ghidra
-- [Vitaldr](https://github.com/mailwl/vitaldr) - IDA Plugin for loading PSVita ELF Binaries into IDA Pro
+- [Vitaldr](https://github.com/LinkOFF7/vitaldr) - PSVita ELF loader for IDA 7
+- [IDA Game ELF Loaders](https://github.com/aerosoul94/ida_gel) - PS3, PS Vita and Wii U ELF loader for IDA 6
 - [BinaryNinja-PSVitaLoader](https://github.com/computerman00/BinaryNinja-PSVitaLoader) - ELF/PRX2 loader plugin for Binary Ninja
 - [CXML-Decompiler](https://silica.codes/SilicaAndPina/cxml-decompiler) - PlayStation Mobile (app.info), RCOF (.rco) and RCSF (.rcs) decompiler
 - [RegistryEditorMOD](https://github.com/devnoname120/RegistryEditorMOD) - Allows you to read and edit all registry settings
