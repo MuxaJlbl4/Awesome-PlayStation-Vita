@@ -1,7 +1,7 @@
 ## Non [VitaDB](https://rinnegatamante.eu/vitadb)
 || Game | Developer | Comment |
 | :--: | ---- | ---- | ---- |
-| 🔵 | [A Dance of Fire and Ice](https://disk.yandex.ru/d/Eq5RYi19b5KQWg) | [PatnosD](https://www.youtube.com/@PatnosD) ||
+| 🔥 | [A Dance of Fire and Ice](https://disk.yandex.ru/d/Eq5RYi19b5KQWg) | [PatnosD](https://www.youtube.com/@PatnosD) ||
 | 🚗 | [Absolute Drift](https://disk.yandex.ru/d/kXDguMGzsCVZww) | [PatnosD](https://www.youtube.com/@PatnosD) ||
 | 🗡️ | [Assassin's Creed: Altaïr's Chronicles](https://disk.yandex.ru/d/MWMZs26R3DvwVg) | [Rinnegatamante](https://github.com/Rinnegatamante) ||
 | ✒️ | [Bendy and the Ink Machine](https://disk.yandex.ru/d/wm8D7XDPTf9y4w) | [PatnosD](https://www.youtube.com/@PatnosD) | Chapter one, Graphical glitches |
@@ -23,11 +23,13 @@
 | 👦 | [Kindergarten](https://disk.yandex.ru/d/Ag3YNIBJXKlGAQ) | [PatnosD](https://www.youtube.com/@PatnosD) ||
 | 👧 | [Kindergarten 2](https://disk.yandex.ru/d/AnCR0gR9cYqG6g) | [PatnosD](https://www.youtube.com/@PatnosD) | No touch controls |
 | 🏰 | [Kingdom: New Lands](https://disk.yandex.ru/d/B1zc85N_QUHsqg) | [PatnosD](https://www.youtube.com/@PatnosD) | Graphical glitches |
+| 🏝️ | [Lego Island (isle-portable)](https://disk.yandex.ru/d/y_uUZt8DjGcUqg) | [isledecomp](https://github.com/orgs/isledecomp/people) ||
 | ⛳ | [Let's Golf 2](https://disk.yandex.ru/d/2GaBrUpC1HcjkQ) | [Rinnegatamante](https://github.com/Rinnegatamante) ||
 | 🌀 | [Mari0](https://disk.yandex.ru/d/l9BxiiAec0gy6w) | [Isage](https://github.com/isage) ||
 | 1️⃣  | [Modern Combat: Sandstorm](https://disk.yandex.ru/d/3NMciWDq1jg5Rg) | [Rinnegatamante](https://github.com/Rinnegatamante) ||
 | 3️⃣  | [Modern Combat 3: Fallen Nation](https://disk.yandex.ru/d/LS0LjVWq-5_b9g) | [gl33ntwine](https://github.com/v-atamanenko) ||
 | 🚔 | [PAKO 2](https://disk.yandex.ru/d/U3OGV6vkuDBSpQ) | [Dan Cooper](https://www.youtube.com/channel/UCnmRRj6fy_RItoJKNFQIF6A) ||
+| 🩸 | [Party Hard](https://disk.yandex.ru/d/SggY6s_2Oa29Gg) | [danssmnt](https://github.com/danssmnt) ||
 | 🔴 | [Prune](https://disk.yandex.ru/d/noGN-WdNR47lpA) | [PatnosD](https://www.youtube.com/@PatnosD) ||
 | ⚽ | [Real Football 2011](https://disk.yandex.ru/d/yIyr388a_Ujspw) | [Rinnegatamante](https://github.com/Rinnegatamante) ||
 | 👙 | [Sakura Swim Club](https://disk.yandex.ru/d/QVCyBJYb84vlww) | [Deepestdrive](https://github.com/deepestdrive) ||
@@ -48,10 +50,9 @@
 | ✨ | [VVVVVV](https://disk.yandex.ru/d/cbYCUIONgrRoQA) | [Isage](https://github.com/isage) | 60 FPS + mods support ||
 | 📜 | [Zork I: The Great Underground Empire](https://disk.yandex.ru/d/Cj6bytMSw8MwEA) | [robDevs](https://github.com/robDevs) ||
 
-
 ## Global Mods
 || Mod | Developer | Game |
 | :--: | ---- | ---- | ---- |
-| λ | [Counter-Strike](https://github.com/Velaron/cs16-client/releases) | [Flying With Gauss](https://github.com/FWGS); [Velaron](https://github.com/Velaron) | [Xash3D FWGS](https://github.com/FWGS/xash3d-fwgs) |
+| λ  | [Counter-Strike](https://github.com/Velaron/cs16-client/releases) | [Flying With Gauss](https://github.com/orgs/FWGS/people) | [Xash3D FWGS](https://github.com/FWGS/xash3d-fwgs) |
 | 🍕 | [Grand Theft Auto: Forelli Redemption](https://disk.yandex.ru/d/oPJ0V1JBPPrrIQ) | [Barcode Studia](https://barcode-studia.ru); [PGteam](https://dev.pgteam.org) | Grand Theft Auto III |
 | 🐘 | [Grand Theft Auto: Sindacco Chronicles](https://barcode-studia.ru/mods/sindacco-chronicles) | [Barcode Studia](https://barcode-studia.ru) | Grand Theft Auto: Liberty City Stories (PSP) |
