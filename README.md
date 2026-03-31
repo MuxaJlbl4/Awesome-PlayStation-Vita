@@ -25,7 +25,11 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [🧅 Translation Layers](#-translation-layers)
 	- [🍊 Vita Emulation](#-vita-emulation)
 - **[💡 Customization](#-customization)**
-	- [🔋 Utilities](#-utilities)
+	- [🔊 Audio](#-audio)
+	- [👀 Display](#-display)
+	- [🔋 Battery](#-battery)
+	- [🪚 Utilities](#-utilities)
+	- [🔨 Toolsets](#-toolsets)
 	- [🌍 Network](#-network)
 	- [🔧 Fixes](#-fixes)
 	- [🔅 PS Vita 2000](#-ps-vita-2000)
@@ -105,7 +109,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [psp2sdboot](https://github.com/SKGleba/psp2sdboot) - SD boot mode
 ### 🗃️ Apps
 - [VitaDB Downloader](https://github.com/Rinnegatamante/VitaDB-Downloader) - Official client for VitaDB by Rinnegatamante
-- [VitaShell](https://github.com/TheOfficialFloW/VitaShell) - File manager
+- [VitaShell](https://github.com/TheOfficialFloW/VitaShell) - File manager, package installer, USB flash mounter, FTP client
 - [PKGj](https://github.com/blastrock/pkgj) - [NoPayStation](https://nopaystation.com) browser and installer
 - [Autoplugin 2](https://github.com/ONElua/AutoPlugin2) - Plugin browser and installer
 - [rePatch-Manager](https://github.com/Eyeman420/rePatch-Manager) - Tool to enable and disable specific rePatch game
@@ -120,11 +124,11 @@ Contains all most important, actual and cool things in my humble opinion.
 - [Apps for 3.74](https://wololo.net/2022/07/23/ps-vita-vitashell-2-04-by-yoti-and-other-vita-tools-get-3-74-firmware-support) - Main apps with 3.74 support by [RealYoti](https://github.com/RealYoti)
 - [RepoHub](https://github.com/robDevs/RepoHub) - Viewer and downloader for GitHub repos and releases
 ### 💾 Memory
+- [PS Vita Recovery Menu Project](https://github.com/DrinkingSubset/PS-Vita-Recovery-Menu-Project) - Diagnostic and recovery environment
 - [PSVita-StorageMgr](https://github.com/CelesteBlue-dev/PSVita-StorageMgr) - Mounts/redirects storage devices to mount points
 - [yamt-vita](https://github.com/SKGleba/yamt-vita) - Yet another (re)mount tool kernel plugin
 - [yamt-lite](https://github.com/AuroraWright/yamt-vita-lite) - Yamt that doesn't rely on a mounted storage or config
 - [IMCUnlock](https://github.com/SKGleba/IMCUnlock) - Internal ux storage enabler/manager
-- [EmergencyMount](https://github.com/teakhanirons/EmergencyMount) - A pseudo recovery menu
 - [Application Storage Manager](https://bitbucket.org/Lupo511/appstoragemanager/src/master) - Moves apps to/from internal memory
 ### ⚡ Flash Adapters
 - [SD2VITA](https://www.codedonut.com/ps-vita-hacking/ps-vita-how-to-set-up-sd2vita-tutorial-storagemgr-plugin) - Game card to MicroSD adapter
@@ -187,7 +191,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [OpenBOR](https://github.com/rsn8887/openbor) - Beats Of Rage 2D game engine
 - [renpy-vita](https://github.com/SonicMastr/renpy-vita) - Visual novel engine Ren'Py
 - [Flare Vita](https://github.com/Rinnegatamante/flare-engine) - Flare RPG engine
-- [Xenity Engine](https://github.com/Fewnity/Xenity-Engine) - PSP, PSVita and PS3 game engine
+- [Xenity Engine](https://github.com/Fewnity/Xenity-Engine) - PSP, PS Vita and PS3 game engine
 ### ⌨️ Interpreters & Virtual Machines
 - [cpython-vita](https://github.com/SonicMastr/cpython-vita) - Python 2.7.18 Interpreter
 - [fake-08](https://github.com/jtothebell/fake-08) - PICO-8 virtual machine emulator
@@ -205,22 +209,26 @@ Contains all most important, actual and cool things in my humble opinion.
 - [Vita3K](https://github.com/Vita3K) - PlayStation Vita emulator
 
 ## 💡 Customization
-### 🔋 Utilities
-- [PSV Cleaner](https://theherogac00.itch.io/psv-cleaner-playstation-vita-temporary-files-cleaner) - Cleans temporary files
-- [vita-shellbat](https://github.com/nowrep/vita-shellbat) - Shows battery percent in statusbar
-- [VITABatteryPlus](https://github.com/Electric1447/VITABatteryPlus) - Battery info plugin
-- [PSV-VSH-Menu](https://github.com/SilentNightx/PSV-VSH-Menu) - Visual SHell menu for PS Vita
-- [BetterTrackPlug](https://github.com/fmudanyali/BetterTrackPlug) - Playtime tracker plugin for PS Vita
+### 🔊 Audio
 - [Quietshot](https://store.brewology.com/vita/ahomebrew.php?brewid=804) - Disables camera shutter sound
+- [EQVita](https://github.com/shev0k/EQVita) - System-wide 8-band graphic equalizer kernel plugin
 - [Jav](https://store.brewology.com/vita/ahomebrew.php?brewid=763) - Automatic volume level switching for each audio device
-- [PasteUnlock](https://github.com/GrapheneCt/PasteUnlock) - Unlocks hidden copy/paste feature in system software
+### 👀 Display
 - [Staybright](https://www.psx-place.com/resources/staybright.1032) - Disable screen auto-dimming but retain auto-suspend
-- [vitabright](https://github.com/devnoname120/vitabright) - Expand bright levels range
-- [dt2s-vita](https://github.com/joel16/dt2s-vita) - Puts your PS VITA to sleep if you double tap the touch screen
-- [TransparentImpose](https://github.com/GrapheneCt/TransparentImpose) - Makes impose menu transparent
+- [Vitabright](https://github.com/devnoname120/vitabright) - Expand bright levels range
+- [Vita Screen Test](https://github.com/ibrahim-dogan/vita-screen-test) - Screen test utility
+### 🔋 Battery
+- [VITABatteryPlus](https://github.com/Electric1447/VITABatteryPlus) - Battery info plugin
+- [Vita-Shellbat](https://github.com/nowrep/vita-shellbat) - Shows battery percent in statusbar
+### 🪚 Utilities
+- [DT2S-Vita](https://github.com/joel16/dt2s-vita) - Double tap to sleep
+- [PSV Cleaner](https://theherogac00.itch.io/psv-cleaner-playstation-vita-temporary-files-cleaner) - Cleans temporary files
+- [BetterTrackPlug](https://github.com/fmudanyali/BetterTrackPlug) - Playtime tracker plugin for PS Vita
+- [PasteUnlock](https://github.com/GrapheneCt/PasteUnlock) - Unlocks hidden copy/paste feature in system software
 - [ShaRKBR33D](https://rinnegatamante.eu/vitadb/#/info/997) - One-click extractor/installer of libshacccg.suprx
+### 🔨 Toolsets
 - [VitaTweaks](https://github.com/TheOfficialFloW/VitaTweaks) - A collection of small tweaks
-- [vitatricks.xyz](https://vitatricks.xyz) - Online set of useful PS Vita tools
+- [Vitatricks.xyz](https://vitatricks.xyz) - Online set of useful PS Vita tools
 - [VitaTools](https://github.com/SKGleba/VitaTools) - Useful tools for PSP2 Vita and Dolce
 - [Homebrew Software](https://git.shotatoshounenwachigau.moe/vita) - PS Vita utilities
 ### 🌍 Network
@@ -230,6 +238,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [Download Enabler](https://github.com/TheOfficialFloW/VitaTweaks/releases/tag/DownloadEnabler) - Allows download any files from PS Vita browser
 - [Multidownload Vita](https://github.com/DavisDev/Multidownload-Vita) - Advanced downloader app
 - [ezRemote Client](https://github.com/cy33hc/vita-ezremote-client) - FTP, SMB, NFS, WebDAV client
+- [VitaSSH](https://github.com/rompelhd/VitaSSH) - SSH Client
 - [NPS Proxy](https://www.reddit.com/r/VitaPiracy/comments/a6mwik/nps_temporary_workaround_for_pkgj_https_errors) - Preventing HTTPS errors in PKGj by using NPS proxy
 - [UserAgentSpoofer](https://github.com/GrapheneCt/UserAgentSpoofer) - Changes what device the browser/web page sees your vita as
 - [Vita generic RTL enabler](https://github.com/isage/vita-usb-ether) - Allows to use pc usb-ethernet rtl8152 dongle on vita
@@ -243,10 +252,10 @@ Contains all most important, actual and cool things in my humble opinion.
 - [USBDisable](https://github.com/Ibrahim778/USBDisable) - Disable the annoying "Connecting" dialog when you connect your Vita to your PC
 - [Adrenaline usb enabler](https://github.com/isage/adrenaline_usb_enabler) - Enable USB pairing between Adrenaline and PS2/PS3
 - [PSP games fix](https://www.youtube.com/shorts/nNLMJaYRbms) - Adrenaline Recovery Menu (Select) -> Advanced -> Adv. Conf. -> Force High Mem. Layout
-- [PS1 games fix](https://gbatemp.net/threads/new-mode-to-fix-ps1-games-for-psp-and-psvita.607286) - Way to fix broken PS1 games for PSP and PSVita
+- [PS1 games fix](https://gbatemp.net/threads/new-mode-to-fix-ps1-games-for-psp-and-psvita.607286) - Way to fix broken PS1 games for PSP and PS Vita
 - [PocketstationUnlocker](https://silica.codes/SilicaAndPina/PocketstationUnlocker) - Forces pocketstation support in all PS1
 games
-- [ParentalControlBypass](https://www.gamebrew.org/wiki/Parental_Control_Bypass_Vita) - Reset PSVita Parental Control
+- [ParentalControlBypass](https://www.gamebrew.org/wiki/Parental_Control_Bypass_Vita) - Reset PS Vita Parental Control
 - [psv_trophfix](https://github.com/Yoti/psv_trophfix) - Trophies fixer
 - [psv_npsthmfxr](https://github.com/Yoti/psv_npsthmfxr) - NPS themes fixer
 - [hide-autoplugin](https://www.gamebrew.org/wiki/Hide_Autoplugin_Vita) - Hides ux0:/app/AUTOPLUG2 from any app its loaded into
@@ -311,13 +320,13 @@ games
 - [Custom Themes Manager](http://redsquirrel87.altervista.org/doku.php/custom-themes-manager) - App to browse, view, download and install custom themes
 - [Quick Menu Plus](https://forum.devchroma.nl/index.php/topic,78.html) - Function and style enhancements for the Quick Menu
 - [Quick Menu Plus Fork](https://github.com/VitaArchive/QuickMenuPlus) - Power features in the Vita Quick Menu
+- [TransparentImpose](https://github.com/GrapheneCt/TransparentImpose) - Makes impose menu transparent
 - [psp2wpp](https://github.com/Princess-of-Sleeping/psp2wpp) - Adds wave on background
 - [Shortcuts Enhancer](https://github.com/ONElua/Shortcuts-Enhancer) - Custom shortcuts in the PS Vita index menu
 - [QuickLaunch-Installer](https://github.com/DRok17/QuickLaunch-Installer) - Allows you to customize the quick menu shortcuts
 - [Fruitpeel](https://forum.devchroma.nl/index.php?topic=338.0) - Changes lockscreen background wallpaper
 - [Theme Manager Ex](https://bitbucket.org/kylon/theme-manager-ex-theme-engine/src/master) - Advanced theme manger
 - [TEMA](https://github.com/Mithrenes/TEMA) - LiveArea and VitaShell Theme Installer
-
 ### 🔮 Bubbles
 - [Multi-Builder](https://github.com/DRok17/Multi-Builder) - LiveArea bubble creation and editing tool for PC
 - [FAQ to Vita Manual Converter](https://github.com/RawBOT/faq-to-vita-manual) - Converts HTML to bubble manual
@@ -329,6 +338,7 @@ games
 - [PSOneScrot](https://forum.devchroma.nl/index.php/topic,106.msg162.html) - Fixes screenshots in PS1 games
 ### 🎵 Music
 - [ElevenMPV-A](https://github.com/GrapheneCt/ElevenMPV-A) - Music player with background playback
+- [VitaWave](https://github.com/Jyotiraditya-Samal/Vitawave) - Music player with background playback
 - [Music Premium](https://forum.devchroma.nl/index.php/topic,60.0.html) - Enables background music playback
 - [VITA-NoAutoAvls](https://github.com/SKGleba/VITA-NoAutoAvls) - Enable/disable the auto-avls feature (bypass 20 hours timing)
 - [Monaural](https://forum.devchroma.nl/index.php/topic,57.0.html) - Mono audio and channel balance
@@ -344,7 +354,7 @@ games
 - [Wiliwili](https://github.com/xfangfang/wiliwili) - [Bilibili](https://www.bilibili.com) client
 - [Vita Media Center](http://wololo.net/talk/viewtopic.php?f=116&t=48887&sid=dbbf2c139506b7daab4486cf84ff41db) - MP4 video player
 - [Vita Media Importer](https://github.com/cnsldv/MediaImporter) - Imports media into the PS Vita video and music players
-- [Vita Media Player](https://github.com/SonicMastr/Vita-Media-Player) - An Open Source PSVita/TV MP4 player with 1080p playback and subtitle support
+- [Vita Media Player](https://github.com/SonicMastr/Vita-Media-Player) - An Open Source PS Vita/TV MP4 player with 1080p playback and subtitle support
 - [Video Bubbles Creator](https://rinnegatamante.eu/vitadb/#/info/323) - Convert a video in whatever format to a Vita bubble (.vpk)
 - [MVPlayer](https://github.com/AntHJ/MVPlayer) - Video library app
 - [Boxset-Bubble-Creator](https://github.com/AntHJ/Boxset-Bubble-Creator) - Convert and prepare video files for MVPlayer
@@ -358,18 +368,20 @@ games
 - [Noboru](https://github.com/Creckeryop/NOBORU) - ZIP, CBZ reader
 - [vitaPDF](https://github.com/joel16/vitaPDF) -  CBT, CBZ, ePub, FB2, MOBI, PDF, XPS reader
 ### 🎥 Streaming
-- [Switchfin](https://github.com/dragonflylee/switchfin) - [Jellyfin](https://jellyfin.org) client for PC/PS4/PSVita/Nintendo Switch 
+- [Switchfin](https://github.com/dragonflylee/switchfin) - [Jellyfin](https://jellyfin.org) client for PC/PS4/PS Vita/Nintendo Switch 
 - [NetStream](https://github.com/GrapheneCt/NetStream) - Universal video streaming client from YouTube, HTTP, FTP... Requires active [Invidious Instance](https://github.com/iv-org/documentation/blob/master/docs/instances.md)
-- [udcd_uvc](https://github.com/xerpi/vita-udcd-uvc) -  Allows you stream your PSVita screen to PC/Android via USB
+- [udcd_uvc](https://github.com/xerpi/vita-udcd-uvc) -  Allows you stream your PS Vita screen to PC/Android via USB
 - [cspot_vita](https://github.com/michal4132/cspot_vita) - A Spotify player (supports only premium accounts)
 ### 📶 Remote Play
 - [Vita Moonlight](https://github.com/xyzz/vita-moonlight) - NVIDIA Gamestream (or [Sunshine](https://github.com/LizardByte/Sunshine)) client for Vita
-- [VItaki](https://www.gamebrew.org/wiki/VItaki) - PlayStation 5 Remote Play on PSVita ([Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) port)
+- [VitaRPS5](https://github.com/mauricio-gg/vitaki-vitarps5) - PlayStation 5 Remote Play on PS Vita
+- [VItaki](https://www.gamebrew.org/wiki/VItaki) - PlayStation 5 Remote Play on PS Vita ([Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) port)
 
 ## 🔆 Enhances
 ### 🚀 Overclocking & Optimization
 - [PSVshellPlus](https://github.com/GrapheneCt/PSVshellPlus) - Advanced overclock and info plugin for PS Vita
 - [PSVshell](https://github.com/Electry/PSVshell) - Overclock plugin with FPS counter and CPU usage
+- [PSV-VSH-Menu](https://github.com/SilentNightx/PSV-VSH-Menu) - Overclock plugin with temperature and FPS tracking
 - [CapUnlocker](https://github.com/GrapheneCt/CapUnlocker) - Allows to use system reserved 4th CPU core and other capabilities
 - [Thread Optimizer](https://github.com/GrapheneCt/ThreadOptimizer) - Adjusts thread parameters
 - [CPU Affinity Mask Changer](https://github.com/GrapheneCt/Affinity-Changer) - Changes CPU affinity mask to all cores
@@ -383,7 +395,7 @@ games
 - [Vita Nearest Neighbour](https://github.com/MuxaJlbl4/Vita-Nearest-Neighbour) - Changes texture sampling to point filtering method
 - [Vita Bilinear](https://github.com/swosho/Vita-Bilinear) - Changes texture sampling to linear filtering method
 - [reRescaler](http://wololo.net/talk/viewtopic.php?f=52&t=49666) - Replacement for built-in rescaler
-- [Framecapper](https://github.com/Rinnegatamante/Framecapper) - force a 20/30 FPS framecap on PSVita apps by forcing specific VSync intervals
+- [Framecapper](https://github.com/Rinnegatamante/Framecapper) - force a 20/30 FPS framecap on PS Vita apps by forcing specific VSync intervals
 ### 🏆 Trophies
 - [TropHAXSE](https://gitlab.com/jeroenlammersma/trophaxse) - Trophy unlocker app
 - [Trophy Manager](https://github.com/ONElua/TrophyManager) - Trophy remover app
@@ -434,10 +446,12 @@ games
 - [Super Meat Boy Original Music](https://rutracker.org/forum/viewtopic.php?t=5332074) - Original music by Danny Baranowsky for SMB
 - [The Binding of Isaac: Rebirth Original Music](https://rutracker.org/forum/viewtopic.php?t=5335068) - Original music by Danny Baranowsky for TBoI:R
 ### 💉 Adrenaline Plugins
+- [PSP Achievements System](https://github.com/avetis-dev/PSPAchievementsSystem) - [RetroAchievements](https://retroachievements.org) for PSP (ARK-4)
 - [GePatch](https://github.com/TheOfficialFloW/GePatch) - Allows you to play some PSP games in native PS Vita resolution
 - [Remastered Controls Collection](https://github.com/TheOfficialFloW/RemasteredControls) - Enables second stick in some PSP games
 - [PSP camera patch lite](https://github.com/Freakler/psp-camera_patch_lite) - Add right analog stick support to some PSP games (based on [DS3Remapper](http://wololo.net/talk/viewtopic.php?f=28&t=47794))
 - [GTA Native Resolution Patch](https://github.com/TheOfficialFloW/GTANativeResolution) - Forces native PS Vita resolution in GTA:LCS and GTA:VCS PSP games
+- [Resistance PSP Infected](https://github.com/adamfisher90/ResistancePSP_Infected) - Activates Infected Mode on the Resistance Retribution
 - [CWCheat Adrenaline](https://www.cfwaifu.com/cwcheat-adrenaline) - Allows you to use custom cheats and patches in PSP and PSX games
 - [TempAR](https://github.com/raing3/tempar) - PSP cheat plugin
 - [60 FPS Patches List](https://forums.ppsspp.org/showthread.php?tid=22800) - 60 FPS patches for PSP games (for CWCheat/TempAR)
@@ -446,6 +460,7 @@ games
 - [psp-dev.org](http://psp-dev.org/hb) - PSP Homebrew Store
 - [GameBrew PSP](https://www.gamebrew.org/wiki/List_of_all_PSP_homebrew) - List of PSP homebrews
 - [Adrenaline usb enabler](https://github.com/isage/adrenaline_usb_enabler) - Adrenaline USB pairing with PS2/PS3
+- [Aemu](https://github.com/Kethen/aemu) - Allows to play offline PSP games online (æmu)
 
 ## 🧰 Tools
 ### 👨‍💻 Development
@@ -463,13 +478,13 @@ games
 - [FalsoJNI](https://github.com/v-atamanenko/FalsoJNI) - Simple, zero-dependency fake JVM/JNI interface written in C
 - [QuickMenuReborn](https://github.com/Ibrahim778/QuickMenuReborn) - Library for developers to easily add their own widgets, to the Vita's Quick Menu
 - [libAppSettings](https://github.com/GrapheneCt/libAppSettings) - Library that implements simple bridge for system software app settings dialog
-- [PSVita Unity Utilities](https://github.com/GlitcherOG/PSVita-Unity-Utilities) - Tools to help speed up PSVita Unity Development
+- [PSVita Unity Utilities](https://github.com/GlitcherOG/PSVita-Unity-Utilities) - Tools to help speed up PS Vita Unity Development
 - [Soloader](https://github.com/v-atamanenko/soloader-boilerplate) - A boilerplate project for TheFloW's so-loader
 ### 🔎 Reverse Engineering
-- [PSVita Reverse Engineering Tools](https://github.com/CelesteBlue-dev/PSVita-RE-tools) - A bundle of RE tools for PSVita
+- [PSVita Reverse Engineering Tools](https://github.com/CelesteBlue-dev/PSVita-RE-tools) - A bundle of RE tools for PS Vita
 - [KVDB](https://github.com/DaveeFTW/kvdb) - Vita Debugger Kernel Plugin
-- [Ghidra Vita Loader](https://github.com/xerpi/GhidraVitaLoader) - Scripts for loading PSVita ELF Binaries into NSA's Ghidra
-- [Vitaldr](https://github.com/LinkOFF7/vitaldr) - PSVita ELF loader for IDA 7
+- [Ghidra Vita Loader](https://github.com/xerpi/GhidraVitaLoader) - Scripts for loading PS Vita ELF Binaries into NSA's Ghidra
+- [Vitaldr](https://github.com/LinkOFF7/vitaldr) - PS Vita ELF loader for IDA 7
 - [IDA Game ELF Loaders](https://github.com/aerosoul94/ida_gel) - PS3, PS Vita and Wii U ELF loader for IDA 6
 - [BinaryNinja-PSVitaLoader](https://github.com/computerman00/BinaryNinja-PSVitaLoader) - ELF/PRX2 loader plugin for Binary Ninja
 - [CXML-Decompiler](https://silica.codes/SilicaAndPina/cxml-decompiler) - PlayStation Mobile (app.info), RCOF (.rco) and RCSF (.rcs) decompiler
@@ -487,9 +502,9 @@ games
 - [NPS Browser](https://nopaystation.com/vita/npsReleases/NPS_Browser_0.94.exe) - [NoPayStation](https://nopaystation.com) client for Windows
 - [TempAR-Vita](https://github.com/Yohoki/TempAR-Vita) - Pointer scanner for use with Vita, PSP, and NDS
 - [ContentServer](https://github.com/KuromeSan/ContentServer) - Server for Content Downloader
-- [GayMaker](https://github.com/KuromeSan/GayMaker/tree/master/GayMaker) - GameMaker:Studio to PSVita compiler
+- [GayMaker](https://github.com/KuromeSan/GayMaker/tree/master/GayMaker) - GameMaker:Studio to PS Vita compiler
 - [GameMakerVPKBuilder](https://wololo.net/2021/08/12/vita-release-gamemakervpkbuilder-1-0) - GameMaker PC games recompiler
-- [Chovy Sign](https://github.com/KuromeSan/chovy-sign) - PSP ISOs on unhacked PSVita
+- [Chovy Sign](https://github.com/KuromeSan/chovy-sign) - PSP and PS1 ISO converter for non-hacked PS Vita
 - [PSX2PSP​](https://www.psx-place.com/resources/psx2psp.586) - Allows you to convert PS1/PSX game into format playable on PSP/Adrenaline
 - [PSP2-CBAnim](https://github.com/SKGleba/PSP2-CBAnim) - Boot animation creator for [CBS-Manager](https://github.com/SKGleba/CBS-Manager)
 - [pkg2zip](https://github.com/lusid1/pkg2zip) - Converts PKG files to ZIP package ([themes support](https://github.com/mmozeiko/pkg2zip/pull/14#issuecomment-374249397))
@@ -520,7 +535,7 @@ games
 - [PSV Hacking 4PDA](https://4pda.to/forum/index.php?showtopic=465175) - Guides for hacking
 - [Project Rinascita](https://wololo.net/2021/07/10/project-rinascita-taking-the-vita-from-zero-to-hero) - Most common hacking problems and solves
 - [Remove PSN Account](https://www.reddit.com/r/vitahacks/comments/tbjbqa/guide_how_to_completely_remove_psn_account_from) - How to Completely Remove PSN Account From PS Vita + Earn Trophies Again
-- [Hacking without Memory Card](https://www.reddit.com/r/vitahacks/comments/wfd5vu/guide_complete_guide_of_hacking_a_psvita_1xxx) - Complete Guide of Hacking a PSVita 1xxx without Memory Card
+- [Hacking without Memory Card](https://www.reddit.com/r/vitahacks/comments/wfd5vu/guide_complete_guide_of_hacking_a_psvita_1xxx) - Complete Guide of Hacking a PS Vita 1xxx without Memory Card
 - [Upgrade SD2Vita Micro SD](https://www.youtube.com/watch?v=L34NUXK4498) - Upgrade SD2Vita Micro SD To Larger Size
 ### 👩‍💻 Dev Tutorials
 - [Vita SDK Docs](https://docs.vitasdk.org) - Vita SDK Docs
@@ -574,7 +589,7 @@ games
 - [French Translations](https://planetevita.fr/liste-patchs-francais-jeux-psvita) - A collection of French language patches
 - [Russian Translations](https://4pda.to/forum/index.php?showtopic=771459) - A collection of Russian language patches
 - [Russian Language Games](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9UEPSbNOi39PugwWJlXERBJGfYgDhrh3FDHoJ74hUbtq9ZNL3qd3vtj9W8FR7ObuUSpoLpGZrGHBP/pubhtml) - List of games with included Russian language and available patches
-- [Vitohlyad](https://github.com/v-atamanenko/vitohlyad) - Ukrainian language for the PSVita
+- [Vitohlyad](https://github.com/v-atamanenko/vitohlyad) - Ukrainian language for the PS Vita
 - [forcelang](https://github.com/xdanieldzd/forcelang) - Overrides application language
 
 ## 🍂 Miscellaneous
