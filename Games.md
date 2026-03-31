@@ -26,6 +26,7 @@
 | 🏝️ | [Lego Island (isle-portable)](https://disk.yandex.ru/d/y_uUZt8DjGcUqg) | [isledecomp](https://github.com/orgs/isledecomp/people) ||
 | ⛳ | [Let's Golf 2](https://disk.yandex.ru/d/2GaBrUpC1HcjkQ) | [Rinnegatamante](https://github.com/Rinnegatamante) ||
 | 🌀 | [Mari0](https://disk.yandex.ru/d/l9BxiiAec0gy6w) | [Isage](https://github.com/isage) ||
+| ⛏️ | [Minecraft: Pocket Edition](https://disk.yandex.ru/d/FR9JwDgJLDIL4A) | [minecraftpe-vita](https://github.com/minecraftpe-vita) ||
 | 1️⃣  | [Modern Combat: Sandstorm](https://disk.yandex.ru/d/3NMciWDq1jg5Rg) | [Rinnegatamante](https://github.com/Rinnegatamante) ||
 | 3️⃣  | [Modern Combat 3: Fallen Nation](https://disk.yandex.ru/d/LS0LjVWq-5_b9g) | [gl33ntwine](https://github.com/v-atamanenko) ||
 | 🚔 | [PAKO 2](https://disk.yandex.ru/d/U3OGV6vkuDBSpQ) | [Dan Cooper](https://www.youtube.com/channel/UCnmRRj6fy_RItoJKNFQIF6A) ||
@@ -54,5 +55,4 @@
 || Mod | Developer | Game |
 | :--: | ---- | ---- | ---- |
 | λ  | [Counter-Strike](https://github.com/Velaron/cs16-client/releases) | [Flying With Gauss](https://github.com/orgs/FWGS/people) | [Xash3D FWGS](https://github.com/FWGS/xash3d-fwgs) |
-| 🍕 | [Grand Theft Auto: Forelli Redemption](https://disk.yandex.ru/d/oPJ0V1JBPPrrIQ) | [Barcode Studia](https://barcode-studia.ru); [PGteam](https://dev.pgteam.org) | Grand Theft Auto III |
-| 🐘 | [Grand Theft Auto: Sindacco Chronicles](https://barcode-studia.ru/mods/sindacco-chronicles) | [Barcode Studia](https://barcode-studia.ru) | Grand Theft Auto: Liberty City Stories (PSP) |
+| 🍕 | [Grand Theft Auto: Forelli Redemption](https://disk.yandex.ru/d/oPJ0V1JBPPrrIQ) | [Barcode Studia](https://barcode-studia.ru) [PG Team](https://dev.pgteam.org) | Grand Theft Auto III |
