@@ -395,7 +395,8 @@ games
 - [Vita Nearest Neighbour](https://github.com/MuxaJlbl4/Vita-Nearest-Neighbour) - Changes texture sampling to point filtering method
 - [Vita Bilinear](https://github.com/swosho/Vita-Bilinear) - Changes texture sampling to linear filtering method
 - [reRescaler](http://wololo.net/talk/viewtopic.php?f=52&t=49666) - Replacement for built-in rescaler
-- [Framecapper](https://github.com/Rinnegatamante/Framecapper) - force a 20/30 FPS framecap on PS Vita apps by forcing specific VSync intervals
+- [Framecapper](https://github.com/Rinnegatamante/Framecapper) - Limits frame rate to 20/30 FPS by forcing VSync
+- [novsync](https://github.com/junminlee2004/novsync) - Unlimits frame rate by disabling VSync
 ### 🏆 Trophies
 - [TropHAXSE](https://gitlab.com/jeroenlammersma/trophaxse) - Trophy unlocker app
 - [Trophy Manager](https://github.com/ONElua/TrophyManager) - Trophy remover app
@@ -419,6 +420,7 @@ games
 - [Filter Fix for Duke Nukem 3D: Megaton Edition](https://github.com/MuxaJlbl4/DN3DME-Vita-Filter-Fix) - Linear filter disabler for DN3D:ME
 - [Alien Shooter DLC unlocker](https://github.com/isage/alienhook) - Unlocks Alien Shooter DLCs for free
 - [Borderlands-2-Altered-Config](https://github.com/justalex95/Borderlands-2-Vita-TweakyBlinders-config) - An altered config file for Borderlands 2 to increase playability and fps
+- [GR544P](https://github.com/junminlee2004/GR544P) - Native resolution for Gravity Rush with fixes
 - [Killzone: Mercenary Threads Profile](https://github.com/GrapheneCt/ThreadOptimizer/issues/7) - Optimized threads profile for Kz:M (US)
 - [Persona 4 Golden Patches](https://github.com/zarroboogs/p4g-patches) - Set of patches for P4G
 - [Persona 3/4/5 Dancing Patches](https://github.com/zarroboogs/pXd-patches) - Set of patches for P3D, P4D and P5D
