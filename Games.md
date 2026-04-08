@@ -10,11 +10,12 @@
 | 🧢 | [Cave Story (NXEngine-Evo)](https://disk.yandex.ru/d/qLi9ep84aRr4wQ) | [Isage](https://github.com/isage) | Alternate to [Cave Story](https://gbatemp.net/threads/cave-story-ps-vita-port-based-on-cse2.653601) |
 | 🏃 | [Chameleon Run](https://disk.yandex.ru/d/7ImVxAeFrQzP_w) | [PatnosD](https://www.youtube.com/@PatnosD) ||
 | 🍎 | [Chip 'n Dale Rescue Rangers: Remastered](https://disk.yandex.ru/d/RE-AWZx2W33TQQ) | [tijesef](https://www.reddit.com/user/tijesef) ||
+| 🦆 | [DuckTales: Remastered](https://disk.yandex.ru/d/WF1HGnj7MWXH-A) | [technicaljicama](https://github.com/technicaljicama) ||
 | ♥️  | [Deltarune](https://disk.yandex.ru/d/e64heWf1l4gA3Q) | [tijesef](https://www.reddit.com/user/tijesef) | Chapter one, [YoYo alternate](https://github.com/Rinnegatamante/YoYo-Loader-Vita-Compatibility/issues/18) |
 | 🦝 | [Donut County](https://disk.yandex.ru/d/HOfoZ3RYEiA9QQ) | [PatnosD](https://www.youtube.com/@PatnosD) | Glitches |
 | 🐉 | [Double Dragon IV](https://disk.yandex.ru/d/8TFtva1r7fj53A) | [Moqi01](https://github.com/Moqi01) ||
 | 🚘 | [Gangstar: West Coast Hustle](https://disk.yandex.ru/d/pAtbHkzSGVp9sw) | [Rinnegatamante](https://github.com/Rinnegatamante) ||
-| 🪠 | [Gish](https://disk.yandex.ru/d/lInU1ADM-95TKA) | [Isage](https://github.com/isage) | |
+| 🪠 | [Gish](https://disk.yandex.ru/d/lInU1ADM-95TKA) | [Isage](https://github.com/isage) ||
 | 🌆 | [Grand Theft Auto III (re3)](https://disk.yandex.ru/d/MdZ9cioe35ilBA) | [Rinnegatamante](https://github.com/Rinnegatamante) | [Installation](https://samilops2.gitbook.io/vita-troubleshooting-guide/grand-theft-auto/gta-iii) |
 | 🌴 | [Grand Theft Auto: Vice City (reVC)](https://disk.yandex.ru/d/whWrhZhYFLMV6g) | [Rinnegatamante](https://github.com/Rinnegatamante) ||
 | 💀 | [Hellrider](https://disk.yandex.ru/d/Uem7O6avm9pkwQ) | [PatnosD](https://www.youtube.com/@PatnosD) | Graphical glitches |
@@ -56,3 +57,8 @@
 | :--: | ---- | ---- | ---- |
 | λ  | [Counter-Strike](https://github.com/Velaron/cs16-client/releases) | [Flying With Gauss](https://github.com/orgs/FWGS/people) | [Xash3D FWGS](https://github.com/FWGS/xash3d-fwgs) |
 | 🍕 | [Grand Theft Auto: Forelli Redemption](https://disk.yandex.ru/d/oPJ0V1JBPPrrIQ) | [Barcode Studia](https://barcode-studia.ru) [PG Team](https://dev.pgteam.org) | Grand Theft Auto III |
+| 💎 | [Grand Theft Auto: Revisited Trilogy](https://dev.pgteam.org/mods/gta/rt) | [PG Team](https://dev.pgteam.org) | Grand Theft Auto III / Vice City / [San Andreas](https://github.com/TheOfficialFloW/gtasa_vita) |
+| ⌛ | [Max Payne PC Anniversary Edition](https://dev.pgteam.org/mods/other/maxpayne) | [PG Team](https://dev.pgteam.org) | [Max Payne](https://github.com/fgsfdsfgs/max_vita) |
+| ⚒️ | [Minecraft: Enhanced](https://dev.pgteam.org/mods/minecraft/enhanced) | [PG Team](https://dev.pgteam.org) | Minecraft |
+| 🛻 | [RVGL Community Edition](https://dev.pgteam.org/mods/other/rvgl) | [PG Team](https://dev.pgteam.org) | [Re-Volt](https://github.com/Rinnegatamante/rvgl-vita-native) |
+| 💧 | [The Binding of Isaac: I Repent](https://lordchickenblaster.itch.io/i-repent) | [Lordchickenblaster](https://lordchickenblaster.itch.io/) | The Binding of Isaac: Rebirth |
