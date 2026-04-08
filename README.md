@@ -344,6 +344,7 @@ games
 - [Monaural](https://forum.devchroma.nl/index.php/topic,57.0.html) - Mono audio and channel balance
 - [MilkyTrackerVita](https://github.com/TheMorc/MilkyTrackerVita) - Music application for creating .MOD and .XM
 - [vitaTrak](https://github.com/thexkey/vitaTrak) - Tracker music player
+- [PSV MIDI Player](https://gbatemp.net/threads/psv-midi-player-v1-0-native-fluidsynth-based-midi-player-for-vita.680692) - MIDI player powered by the FluidSynth engine
 - [VX7 Vita FM Synthesizer](https://clickbatedubs.itch.io/vx7-vita-fm-synthesizer) - Frequency modulation synthesizer
 - [vita-webradios](https://github.com/Aztorius/vita-webradios) - Web radio player
 - [TRAC Player](https://anthj.itch.io/trac-player) - [KHInsider](https://downloads.khinsider.com) music browser
@@ -565,7 +566,7 @@ games
 - [Zealous Chuck](https://www.youtube.com/@ZealousChuck) - Zealous Chuck YouTube channel
 - [The PSVita Project](https://www.youtube.com/playlist?list=PLKAsY1n2dIeDCSzs6PihwLD8f69Wvtv5O) - 10 seconds gameplay for each released title by [VGL](https://www.youtube.com/@VirtualGamingLibrary)
 - [Wololo PS Vita](http://wololo.net/category/psvita) - Latest homebrews, mods and hacking scene news
-- [BiteYourVonsole PS Vita] - Latest homebrews, mods and hacking scene news
+- [BiteYourConsole PS Vita](https://www.biteyourconsole.net/category/sony/ps-vita) - Latest homebrews, mods and hacking scene news
 - [Vita Player](https://www.vitaplayer.co.uk) - PS Vita news and articles
 - [Reddit Vita](https://www.reddit.com/r/vita) - PS Vita Reddit community
 - [Reddit VitaHacks](https://www.reddit.com/r/vitahacks) - PS Vita hacks and homebrew on Reddit
