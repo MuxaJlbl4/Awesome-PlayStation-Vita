@@ -11,7 +11,7 @@
 | 🏃 | [Chameleon Run](https://disk.yandex.ru/d/7ImVxAeFrQzP_w) | [PatnosD](https://www.youtube.com/@PatnosD) ||
 | 🍎 | [Chip 'n Dale Rescue Rangers: Remastered](https://disk.yandex.ru/d/RE-AWZx2W33TQQ) | [tijesef](https://www.reddit.com/user/tijesef) ||
 | 🦆 | [DuckTales: Remastered](https://disk.yandex.ru/d/WF1HGnj7MWXH-A) | [technicaljicama](https://github.com/technicaljicama) ||
-| ♥️  | [Deltarune](https://disk.yandex.ru/d/e64heWf1l4gA3Q) | [tijesef](https://www.reddit.com/user/tijesef) | Chapter one, [YoYo alternate](https://github.com/Rinnegatamante/YoYo-Loader-Vita-Compatibility/issues/18) |
+| ♥️  | [Deltarune](https://disk.yandex.ru/d/e64heWf1l4gA3Q) | [tijesef](https://www.reddit.com/user/tijesef) | Outdated, see: [Deltarune Vita](https://github.com/WolffsRoom/DeltaruneVita) |
 | 🦝 | [Donut County](https://disk.yandex.ru/d/HOfoZ3RYEiA9QQ) | [PatnosD](https://www.youtube.com/@PatnosD) | Glitches |
 | 🐉 | [Double Dragon IV](https://disk.yandex.ru/d/8TFtva1r7fj53A) | [Moqi01](https://github.com/Moqi01) ||
 | 🚘 | [Gangstar: West Coast Hustle](https://disk.yandex.ru/d/pAtbHkzSGVp9sw) | [Rinnegatamante](https://github.com/Rinnegatamante) ||
@@ -39,14 +39,14 @@
 | 💫 | [Septerra Core: Legacy of the Creator](https://disk.yandex.ru/d/Lac0V5XhbgSRVQ) | [Isage](https://github.com/isage) ||
 | ⭐ | [Star Girl Proxima](https://disk.yandex.ru/d/eNIcXo7gJT4hkw) | [Unknown](https://github.com/ghost) | [YoYo alternate](https://github.com/Rinnegatamante/YoYo-Loader-Vita-Compatibility/issues/222) |
 | 🌃 | [Streets of Rage Remake (BennuGD)](https://disk.yandex.ru/d/ieTZbq1HyNXMEw) | [Isage](https://github.com/isage) ||
-| 🍄 | [Super Mario 64](https://disk.yandex.ru/d/8EqNRdwz8jgN2g) | [Bythos14](https://github.com/bythos14) | [Installation](https://www.pspx.ru/forum/showthread.php?t=112651) |
+| 🍄 | [Super Mario 64 (sm64-port)](https://disk.yandex.ru/d/8EqNRdwz8jgN2g) | [Bythos14](https://github.com/bythos14) | Outdated, see: [Ghostship Vita](https://github.com/Rinnegatamante/Ghostship) |
 | 👾 | [Sync Simple](https://disk.yandex.ru/d/_Hb2te9t5Tk70g) | [tijesef](https://www.reddit.com/user/tijesef) ||
 | 🦇 | [The Dark Knight Rises](https://disk.yandex.ru/d/KKt5h48RMr5xuA) | [Rinnegatamante](https://github.com/Rinnegatamante) ||
 | 🤜 | [The Friends of Ringo Ishikawa](https://disk.yandex.ru/d/pHckMjzfuGpE-w) | [Unknown](https://github.com/ghost) ||
 | 🍁 | [The Silent Age](https://disk.yandex.ru/d/aVDPpw9AzSr5SQ) | [PatnosD](https://www.youtube.com/@PatnosD) ||
 | 🍩 | [The Simpsons: Hit & Run](https://disk.yandex.ru/d/JlLWeZNpt2DNnw) | [ZenoArrows](https://github.com/ZenoArrows) ||
 | 🔫 | [Tom Clancy's Splinter Cell: Conviction](https://disk.yandex.ru/d/ueVKjUcSguddZA) | [Rinnegatamante](https://github.com/Rinnegatamante) ||
-| 🤸‍♀️ | [Tomb Raider (OpenLara)](https://disk.yandex.ru/d/f87F3B3EcllA4g) | [XProger](https://github.com/XProger) | Alternate to [raider-vita](https://github.com/Rinnegatamante/raider-vita) |
+| 🤸‍♀️ | [Tomb Raider (OpenLara)](https://disk.yandex.ru/d/f87F3B3EcllA4g) | [XProger](https://github.com/XProger) | Outdated, see: [Raider Vita](https://github.com/Rinnegatamante/raider-vita) |
 | 🚥 | [Traffix](https://disk.yandex.ru/d/C28b8DxUPjQl-g) | [PatnosD](https://www.youtube.com/@PatnosD) ||
 | 🕸️ | [Ultimate Spider-Man: Total Mayhem](https://disk.yandex.ru/d/1FvwV79R9bJ4ow) | [Rinnegatamante](https://github.com/Rinnegatamante) ||
 | ✨ | [VVVVVV](https://disk.yandex.ru/d/cbYCUIONgrRoQA) | [Isage](https://github.com/isage) | 60 FPS + mods support ||
