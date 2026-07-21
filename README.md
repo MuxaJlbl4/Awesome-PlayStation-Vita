@@ -116,6 +116,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [Better Homebrew Browser](https://store.brewology.com/vita/ahomebrew.php?brewid=1022) - [VitaDB](https://rinnegatamante.eu/vitadb) browser and installer
 - [EasyVPK](https://github.com/Electric1447/EasyVPK) - [VitaDB](https://rinnegatamante.eu/vitadb) browser and installer
 - [vita-savemgr](https://github.com/d3m3vilurr/vita-savemgr) - Savegame manager
+- [Save Sync](https://github.com/unveroleone/save-sync) - Self-hosted cloud save sync for PS Vita, PPSSPP, and RetroArch, across all your devices
 - [hbRedirect](https://github.com/Rinnegatamante/hbRedirect) - Redirects ux0 usage to other partitions
 - [reAuth](https://forum.devchroma.nl/index.php/topic,362.0.html) - Use PlayStation Store and sign-in on 3.60-3.65
 - [PlayStation Mini Store](https://forum.devchroma.nl/index.php/topic,353.0.html) - Fast text UI store app for Vita and PS3 stores
@@ -192,6 +193,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [renpy-vita](https://github.com/SonicMastr/renpy-vita) - Visual novel engine Ren'Py
 - [Flare Vita](https://github.com/Rinnegatamante/flare-engine) - Flare RPG engine
 - [Xenity Engine](https://github.com/Fewnity/Xenity-Engine) - PSP, PS Vita and PS3 game engine
+- [ScratchEverywhere](https://github.com/ScratchEverywhere/ScratchEverywhere) - Custom Scratch runtime
 ### ⌨️ Interpreters & Virtual Machines
 - [cpython-vita](https://github.com/SonicMastr/cpython-vita) - Python 2.7.18 Interpreter
 - [fake-08](https://github.com/jtothebell/fake-08) - PICO-8 virtual machine emulator
@@ -250,7 +252,6 @@ Contains all most important, actual and cool things in my humble opinion.
 - [FdFix](https://github.com/TheOfficialFloW/FdFix) - Fixes invalidated file descriptors after suspend and resume (for [re3-vita](https://www.psx-place.com/threads/re3-vita-a-full-reverse-engineered-reimplementation-of-gta-iii.31588))
 - [PSP2-batteryFixer](https://github.com/SKGleba/PSP2-batteryFixer) - Fixes most battery related problems
 - [USBDisable](https://github.com/Ibrahim778/USBDisable) - Disable the annoying "Connecting" dialog when you connect your Vita to your PC
-- [Adrenaline usb enabler](https://github.com/isage/adrenaline_usb_enabler) - Enable USB pairing between Adrenaline and PS2/PS3
 - [PSP games fix](https://www.youtube.com/shorts/nNLMJaYRbms) - Adrenaline Recovery Menu (Select) -> Advanced -> Adv. Conf. -> Force High Mem. Layout
 - [PS1 games fix](https://gbatemp.net/threads/new-mode-to-fix-ps1-games-for-psp-and-psvita.607286) - Way to fix broken PS1 games for PSP and PS Vita
 - [PocketstationUnlocker](https://silica.codes/SilicaAndPina/PocketstationUnlocker) - Forces pocketstation support in all PS1
@@ -297,6 +298,7 @@ games
 - [Viimote](https://github.com/xerpi/viimote) - Adds Wiimote support
 - [VitaMote](https://www.reddit.com/r/vitahacks/comments/x5negr/release_vitamote_with_useu_button_layout_and_l2r2) - Modded Viimote
 - [Tvikey](https://github.com/isage/tvikey) - PSTV kernel driver for mouse/keyboard
+- [GMCA](https://github.com/thcolin/gamepad-media-center-aggregator) - Gamepad media center aggregator
 ### 🖱 Device Emulation
 - [VitaPad](https://github.com/carlelieser/vitapad) - Allows to use PS Vita as a gaming controller (improved version of the vitastick)
 - [VitaPad](https://www.psx-place.com/threads/vitapad.30520) - Allows to use PS Vita as a wireless gamepad
@@ -312,6 +314,7 @@ games
 - [HexFlow-Launcher](https://github.com/VitaHEX-Games/HexFlow-Launcher) - A 3d coverflow like launcher for PS Vita
 - [vita-launcher](https://github.com/cy33hc/vita-launcher) - App/game launcher application
 - [ONEMenu](https://github.com/ONElua/ONEMenu-for-PSVita) - Custom UI, title name editor and installer
+- [Emu4Vita++](https://github.com/noword/Emu4VitaPlus) - Frontend for libretro cores
 ### 🧬 System
 - [fontInstaller](https://github.com/cxziaho/fontInstaller) - An app for installing the [fontRedirect](https://github.com/cxziaho/fontRedirect) plugin for injecting custom fonts
 - [vita-bootanim](https://github.com/SKGleba/VitaTools#vita-bootanim) - Custom boot animations
@@ -330,12 +333,14 @@ games
 ### 🔮 Bubbles
 - [Multi-Builder](https://github.com/DRok17/Multi-Builder) - LiveArea bubble creation and editing tool for PC
 - [FAQ to Vita Manual Converter](https://github.com/RawBOT/faq-to-vita-manual) - Converts HTML to bubble manual
+- [FakeName-Changer](https://github.com/Eywa186/FakeName-Changer-For-PSVita) - Renames LiveArea bubble titles without touching PARAM.SFO
 
 ## 🎞️ Media
 ### 🖼️ Image
 - [VITAlbum](https://github.com/joel16/VITAlbum) - Image viewer
 - [Pngshot](https://github.com/xyzz/pngshot) - Makes screenshot in PNG format
 - [PSOneScrot](https://forum.devchroma.nl/index.php/topic,106.msg162.html) - Fixes screenshots in PS1 games
+- [vitaImmich](https://codeberg.org/SadsArches/vitaImmich) - Immich client
 ### 🎵 Music
 - [ElevenMPV-A](https://github.com/GrapheneCt/ElevenMPV-A) - Music player with background playback
 - [VitaWave](https://github.com/Jyotiraditya-Samal/Vitawave) - Music player with background playback
@@ -346,8 +351,10 @@ games
 - [vitaTrak](https://github.com/thexkey/vitaTrak) - Tracker music player
 - [PSV MIDI Player](https://gbatemp.net/threads/psv-midi-player-v1-0-native-fluidsynth-based-midi-player-for-vita.680692) - MIDI player powered by the FluidSynth engine
 - [VX7 Vita FM Synthesizer](https://clickbatedubs.itch.io/vx7-vita-fm-synthesizer) - Frequency modulation synthesizer
+- [DS8 Drumstream](https://intermynd-instruments.itch.io/ds-8) - Drum synthesizer and groovebox
 - [vita-webradios](https://github.com/Aztorius/vita-webradios) - Web radio player
 - [TRAC Player](https://anthj.itch.io/trac-player) - [KHInsider](https://downloads.khinsider.com) music browser
+- [iMango](https://capitanbarbacoa.itch.io/imango-psvita) - Coverflow style media player
 ### 🎬 Video
 - [Vita Recorder](https://github.com/Rinnegatamante/Vita-Recorder) - Allows to record video clips
 - [CBPSTube](https://forum.devchroma.nl/index.php/topic,331.0.html) - YouTube client with more features
@@ -364,6 +371,7 @@ games
 - [AR Play Cards](https://www.retrocomputers.gr/media/kunena/attachments/155/AR-Play-Cards.pdf) - Augmented Reality cards for PS Vita
 - [Better QR Scanner](https://github.com/HarommelRabbid/BetterQRScanner) - QR code tool
 - [LiveRig](https://github.com/GrapheneCt/LiveRig) - Live2D face tracking software PoC
+- [PNGLive](https://www.rinnegatamante.eu/vitadb/#/info/1113) - PNGtuber for PS Vita
 ### 📖 Reading
 - [Bookr](https://github.com/pathway27/bookr-mod-vita) - PDF, CBZ, HTML, ePub, FB2 reader
 - [Noboru](https://github.com/Creckeryop/NOBORU) - ZIP, CBZ reader
@@ -377,6 +385,7 @@ games
 - [Vita Moonlight](https://github.com/xyzz/vita-moonlight) - NVIDIA Gamestream (or [Sunshine](https://github.com/LizardByte/Sunshine)) client for Vita
 - [VitaRPS5](https://github.com/mauricio-gg/vitaki-vitarps5) - PlayStation 5 Remote Play on PS Vita
 - [VItaki](https://www.gamebrew.org/wiki/VItaki) - PlayStation 5 Remote Play on PS Vita ([Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) port)
+- [GreenVita](https://github.com/Day-OS/green-vita) - Xbox Cloud Gaming on PS Vita
 
 ## 🔆 Enhances
 ### 🚀 Overclocking & Optimization
