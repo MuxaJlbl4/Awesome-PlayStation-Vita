@@ -82,6 +82,15 @@
 - **Minimize Adrenaline** - Double Press **`PS`**
 - **VSH menu** - **`Select`** (on PSP XMB screen)
 - **Skip [GE Patch](https://github.com/TheOfficialFloW/GePatch)** - Hold **`L`** (during game startup)
+- **Start CFW on recovery mode** - Hold **`R`** ([for isage fork](https://github.com/isage/Adrenaline))
+- **Toggle PS1 fast forward** - **`L`** + **`Select`** ([for isage fork](https://github.com/isage/Adrenaline))
+- **Hide Adrenaline graphic settings menu** - Hold **`⧠`** ([for isage fork](https://github.com/isage/Adrenaline))
+
+### 🧬 [Epinephrine CFW](https://github.com/isage/Adrenaline/blob/master/docs/src/01-Intro.md#epinephrine-cfw-key-combos-cheat-sheet)
+- **Fast exit to XMB/VSH from PSP title** - **`L`** + **`R`** + **`Down`** + **`Select`** / **`Start`** 
+- **Fast exit to XMB/VSH from PS1 title** - **`L2`** + **`R2`** + **`Down`** + **`Select`** / **`Start`** 
+- **Disable plugins** - Hold **`L`** (during PSP/PS1 title reset / power-on / launch)
+- **Execute BOOT.BIN in UMDemu ISO** - Hold **`R`** (during PSP ISO title / games launch)
 
 ### 📁 [VitaShell](https://github.com/TheOfficialFloW/VitaShell)
 - **Main settings** - **`Start`**
