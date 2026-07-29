@@ -152,7 +152,7 @@ Contains all most important, actual and cool things in my humble opinion.
 ### 🌱 HomeBrew
 - [VitaDB](https://www.rinnegatamante.eu/vitadb) - A collection of ports, emulators and original games
 - [Non VitaDB](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/Games.md#non-vitadb) - VitaDB unavailable games collection
-- [PG Community Homebrew Downloads](https://dev.pgteam.org/main/psv_dl) - Another homebrew source with data files
+- [PG Community Homebrew Downloads](https://dev.pgteam.org/main/hb_hub/platform/psvdl) - Another homebrew source with data files
 - [GameBrew](https://www.gamebrew.org/wiki/List_of_all_Vita_homebrew) - Another homebrew source
 - [Brewology](https://store.brewology.com/vita/whatsnew.php) - Yet another homebrew source
 - [VitaGL Games](https://github.com/Rinnegatamante/vitaGL#projects-actually-using-vitagl) - List of projects using VitaGL
@@ -162,6 +162,7 @@ Contains all most important, actual and cool things in my humble opinion.
 
 ## 🕹️ Emulators
 ### 🌌 Collections
+- [Emu4Vita++](https://github.com/noword/Emu4VitaPlus) - Frontend for libretro cores
 - [RetroArch](https://buildbot.libretro.com/nightly/playstation/vita) -  Frontend for emulators, game engines and media players with bunch of cores
 - [Cores List](https://github.com/libretro/libretro-super/blob/master/recipes/playstation/vita) - List of RetroArch Cores for Vita
 - [Recommended Cores](https://www.reddit.com/r/vitahacks/comments/rts9an/my_recommended_retroarch_cores_to_emulate_nes) - Best cores for Vita
@@ -314,7 +315,6 @@ games
 - [HexFlow-Launcher](https://github.com/VitaHEX-Games/HexFlow-Launcher) - A 3d coverflow like launcher for PS Vita
 - [vita-launcher](https://github.com/cy33hc/vita-launcher) - App/game launcher application
 - [ONEMenu](https://github.com/ONElua/ONEMenu-for-PSVita) - Custom UI, title name editor and installer
-- [Emu4Vita++](https://github.com/noword/Emu4VitaPlus) - Frontend for libretro cores
 ### 🧬 System
 - [fontInstaller](https://github.com/cxziaho/fontInstaller) - An app for installing the [fontRedirect](https://github.com/cxziaho/fontRedirect) plugin for injecting custom fonts
 - [vita-bootanim](https://github.com/SKGleba/VitaTools#vita-bootanim) - Custom boot animations
@@ -441,9 +441,9 @@ games
 - [LittleBigPlanet Project Lighthouse](https://www.lbpunion.com/post/how-to-patch-littlebigplanet-vita-for-project-lighthouse) - LittleBigPlanet alternative server
 ### 🍬 Content Mods
 - [PG Mods](https://dev.pgteam.org/mods) - Mods by PortableGaming
-- [GTA III 10th Anniversary Edition](https://dev.pgteam.org/mods/grand-theft-auto/revisited-trilogy/gta-iii) - 10th Anniversary Edition extensions for [re3-vita](https://archive.org/details/gta-3-re-3-v-1.4)
-- [GTA: VC 10th Anniversary Edition](https://dev.pgteam.org/mods/grand-theft-auto/revisited-trilogy/gta-vice-city) - 10th Anniversary Edition extensions for [re3-vc-vita](https://archive.org/details/gtavc-v-1.1)
-- [GTA: SA 10th Anniversary Edition](https://dev.pgteam.org/mods/grand-theft-auto/revisited-trilogy/gta-san-andreas) - 10th Anniversary Edition extensions for [GTA:SA-vita](https://github.com/TheOfficialFloW/gtasa_vita)
+- [GTA III 10th Anniversary Edition](https://dev.pgteam.org/mods/gta/rt/gta3) - 10th Anniversary Edition extensions for [re3-vita](https://archive.org/details/gta-3-re-3-v-1.4)
+- [GTA: VC 10th Anniversary Edition](https://dev.pgteam.org/mods/gta/rt/vc) - 10th Anniversary Edition extensions for [re3-vc-vita](https://archive.org/details/gtavc-v-1.1)
+- [GTA: SA 10th Anniversary Edition](https://dev.pgteam.org/mods/gta/rt/sa) - 10th Anniversary Edition extensions for [GTA:SA-vita](https://github.com/TheOfficialFloW/gtasa_vita)
 - [Various GTA Downgraders](https://gtaforums.com/topic/936600-iii-iv-various-gta-downgraders) - Downgrade guides for GTA games (PC)
 - [Max Payne PC Anniversary Edition](https://dev.pgteam.org/mods/other/maxpayne) - PC version features for [max_vita](https://github.com/fgsfdsfgs/max_vita)
 - [Minecraft: Enhanced](https://dev.pgteam.org/mods/minecraft/enhanced) - Minecraft 1.83 with tons of restores and improves
