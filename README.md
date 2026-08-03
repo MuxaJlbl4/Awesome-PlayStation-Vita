@@ -109,6 +109,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [psp2sdboot](https://github.com/SKGleba/psp2sdboot) - SD boot mode
 ### 🗃️ Apps
 - [VitaDB Downloader](https://github.com/Rinnegatamante/VitaDB-Downloader) - Official client for VitaDB by Rinnegatamante
+- [NeoVitaDB Downloader](https://github.com/robin994/NeoVitaDB-Downloader) - Fork of VitaDB Downloader running on [NeoVitaDB-Catalog](https://github.com/robin994/NeoVitaDB-Catalog), a community-run replacement catalog after the original VitaDB backend shut down
 - [VitaShell](https://github.com/TheOfficialFloW/VitaShell) - File manager, package installer, USB flash mounter, FTP client
 - [PKGj](https://github.com/blastrock/pkgj) - [NoPayStation](https://nopaystation.com) browser and installer
 - [Autoplugin 2](https://github.com/ONElua/AutoPlugin2) - Plugin browser and installer
