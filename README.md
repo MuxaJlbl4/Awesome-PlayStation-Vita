@@ -209,6 +209,7 @@ Contains all most important, actual and cool things in my humble opinion.
 ### 🧅 Translation Layers
 - [vita2hos](https://github.com/xerpi/vita2hos) - A PlayStation Vita to Horizon OS (Nintendo Switch OS) translation layer
 - [linux_vita](https://github.com/xerpi/linux_vita) - Linux kernel Vita port
+- [LinuxOnVita](https://github.com/devwithzachary/LinuxOnVita) - A complete distribution, automated build environment, and handheld userland for running Linux 6.12 on hacked PlayStation Vita consoles
 ### 🍊 Vita Emulation
 - [Vita3K](https://github.com/Vita3K) - PlayStation Vita emulator
 
