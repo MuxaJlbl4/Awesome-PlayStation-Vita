@@ -15,6 +15,7 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [🌱 HomeBrew](#-homebrew)
 - **[🕹️ Emulators](#%EF%B8%8F-emulators)**
 	- [🌌 Collections](#-collections)
+	- [8️⃣ 8th Gen](#8%EF%B8%8F%E2%83%A3-8th-gen)
 	- [7️⃣ 7th Gen](#7%EF%B8%8F%E2%83%A3-7th-gen)
 	- [6️⃣ 6th Gen](#6%EF%B8%8F%E2%83%A3-6th-gen)
 	- [5️⃣ 5th Gen](#5%EF%B8%8F%E2%83%A3-5th-gen)
@@ -50,8 +51,10 @@ Contains all most important, actual and cool things in my humble opinion.
 	- [🎬 Video](#-video)
 	- [📷 Camera](#-camera)
 	- [📖 Reading](#-reading)
-	- [🎥 Streaming](#-streaming)
-	- [📶 Remote Play](#-remote-play)
+	- [📹 Local Streaming](#-local-streaming)
+	- [🎥 Online Streaming](#-online-streaming)
+	- [🛜 Local Remote Play](#-local-remote-play)
+	- [📶 Cloud Remote Play](#-cloud-remote-play)
 - **[🔆 Enhances](#-enhances)**
 	- [🚀 Overclocking & Optimization](#-overclocking--optimization)
 	- [☢️ Game Tweaks](#%EF%B8%8F-game-tweaks)
@@ -92,11 +95,11 @@ Contains all most important, actual and cool things in my humble opinion.
 - [HENlo](https://github.com/SKGleba/henlo_jb) - Homebrew enabler auto installer for firmwares 3.65 - 3.74 (without a PC or Sony PS Vita Memory Card)
 - [Final h-encore²](https://github.com/soarqin/finalhe) - Homebrew enabler auto installer for firmwares 3.60 - 3.74
 - [HENkaku](https://henkaku.xyz) - Homebrew enabler for firmware 3.60
-- [Enso_Ex](https://github.com/SKGleba/enso_ex) - Jailbreak and CFW loader for PlayStation Vita/TV 3.65
+- [Enso_Ex](https://github.com/SKGleba/enso_ex) - Jailbreak and CFW loader for firmware 3.65
 - [Project Amber](https://wololo.net/2023/01/13/ps-vita-project-amber-henlo-jailbreak-for-ps-vita-3-74-updated-adds-sd-cardsd2vita-support-for-psv-1xxx) - Homebrew enabler for firmwares 3.65 - 3.74 with [SD2VITA](https://github.com/xyzz/gamecard-microsd) (without Sony PS Vita Memory Card)
 - [MLTHaku](https://github.com/MLTHaKu/MLTHaKu) - Homebrew enabler for firmware 3.60 with [SD2VITA](https://github.com/xyzz/gamecard-microsd) (without Sony PS Vita Memory Card)
 - [Modoru](https://github.com/SKGleba/modoru) - Firmware downgrader
-- [0syscall6](https://github.com/SKGleba/0syscall6) - Remove SELF checks (allows play games on lower firmwares)
+- [0syscall6](https://github.com/SKGleba/0syscall6) - Remove SELF checks (allows to play new games on lower firmwares)
 - [NoNpDrm](https://github.com/TheOfficialFloW/NoNpDrm) - Disable DRM protection in games
 - [NoTrpDrm](https://github.com/Rinnegatamante/NoTrpDrm) - Trophies for homebrews
 - [NoPSPEmuDRM](https://github.com/LiEnby/NoPspEmuDrm) - Bypass DRM Check in PspEmu
@@ -105,18 +108,18 @@ Contains all most important, actual and cool things in my humble opinion.
 - [rePatch reLoaded](https://github.com/SonicMastr/rePatch-reLoaded) - Allows to install custom patches
 - [vshPatch](https://github.com/KuromeSan/vshPatch) - Like rePatch, but for system applications
 - [ioPlus](https://github.com/CelesteBlue-dev/PSVita-RE-tools/blob/master/ioPlus/ioPlus-0.1/release/ioplus.skprx) - Elevated IO permissions
-- [psp2hfw](https://github.com/SKGleba/psp2hfw) - Hybrid Firmware toolset for PlayStation Vita (Dual firmware)
+- [psp2hfw](https://github.com/SKGleba/psp2hfw) - Hybrid firmware toolset (dual firmware)
 - [psp2sdboot](https://github.com/SKGleba/psp2sdboot) - SD boot mode
 ### 🗃️ Apps
-- [VitaDB Downloader](https://github.com/Rinnegatamante/VitaDB-Downloader) - Official client for VitaDB by Rinnegatamante
-- [NeoVitaDB Downloader](https://github.com/robin994/NeoVitaDB-Downloader) - Fork of VitaDB Downloader running on [NeoVitaDB-Catalog](https://github.com/robin994/NeoVitaDB-Catalog), a community-run replacement catalog after the original VitaDB backend shut down
+- [VitaDB Downloader](https://github.com/Rinnegatamante/VitaDB-Downloader) - Official client for [VitaDB](https://www.rinnegatamante.eu/vitadb) by [Rinnegatamante](https://github.com/Rinnegatamante)
+- [NeoVitaDB Downloader](https://github.com/robin994/NeoVitaDB-Downloader) - Fork of VitaDB Downloader, based on [alternate community catalog](https://robin994.github.io/NeoVitaDB-Catalog)
 - [VitaShell](https://github.com/TheOfficialFloW/VitaShell) - File manager, package installer, USB flash mounter, FTP client
 - [PKGj](https://github.com/blastrock/pkgj) - [NoPayStation](https://nopaystation.com) browser and installer
 - [Autoplugin 2](https://github.com/ONElua/AutoPlugin2) - Plugin browser and installer
 - [rePatch-Manager](https://github.com/Eyeman420/rePatch-Manager) - Tool to enable and disable specific rePatch game
 - [Better Homebrew Browser](https://store.brewology.com/vita/ahomebrew.php?brewid=1022) - [VitaDB](https://rinnegatamante.eu/vitadb) browser and installer
 - [EasyVPK](https://github.com/Electric1447/EasyVPK) - [VitaDB](https://rinnegatamante.eu/vitadb) browser and installer
-- [vita-savemgr](https://github.com/d3m3vilurr/vita-savemgr) - Savegame manager
+- [Vita Save Manager++](https://github.com/rreha/vita-savemgrpp) - Save data manager
 - [Save Sync](https://github.com/unveroleone/save-sync) - Self-hosted cloud save sync for PS Vita, PPSSPP, and RetroArch, across all your devices
 - [hbRedirect](https://github.com/Rinnegatamante/hbRedirect) - Redirects ux0 usage to other partitions
 - [reAuth](https://forum.devchroma.nl/index.php/topic,362.0.html) - Use PlayStation Store and sign-in on 3.60-3.65
@@ -169,17 +172,20 @@ Contains all most important, actual and cool things in my humble opinion.
 - [Recommended Cores](https://www.reddit.com/r/vitahacks/comments/rts9an/my_recommended_retroarch_cores_to_emulate_nes) - Best cores for Vita
 - [Emulators on Vita](https://emulation.gametechwiki.com/index.php/Emulators_on_Vita)- List of available emulators for PS Vita
 - [pFBN](https://github.com/Cpasjuste/pemu) - Several Arcade and Console systems emulator
+### 8️⃣ 8th Gen
+- [Azahar](https://github.com/Grarak/azahar) - 3DS emulator based on [Citra](https://citra-emulator.com)
 ### 7️⃣ 7th Gen
 - [Adrenaline](https://github.com/TheOfficialFloW/Adrenaline) - Allows you to run natively PlayStation Portable (PSP) games on Vita
 - [Adrenaline Isage](https://github.com/isage/Adrenaline) - Adrenaline fork by [Isage](https://github.com/isage)
 - [DSVita](https://github.com/Grarak/DSVita) - Nintendo DS emulator on Rust
-- [NooDS](https://github.com/Hydr8gon/NooDS) - Multiplatform DS/GBA emulator (slow on Vita)
 ### 6️⃣ 6th Gen
 - [Flycast-vita​](https://www.psx-place.com/threads/release-flycast-vita-dreamcast-emulator-for-psvita-pstv.32449) - Sega Dreamcast emulator
 - [mGBA](https://github.com/mgba-emu/mgba) - Nintendo Game Boy Advance emulator
 ### 5️⃣ 5th Gen
-- [Adrenaline](https://github.com/TheOfficialFloW/Adrenaline) - Allows you to run natively PlayStation One games as on PSP ([PSX2PSP​](https://www.psx-place.com/resources/psx2psp.586) might be helpful)
+- [PCSX AwO](https://github.com/Rinnegatamante/PCSX_AwO) - PCSX ReARMed fork
+- [PCSX ReArcade](https://github.com/frangarcj/pcsx_rearmed) - PCSX ReArcade fork
 - [DaedalusX64-vitaGL](https://github.com/Rinnegatamante/daedalusx64-vitagl) - Nintendo 64 emulator ([Nightly](https://github.com/Rinnegatamante/DaedalusX64-vitaGL/releases/tag/Nightly))
+- [Adrenaline](https://github.com/TheOfficialFloW/Adrenaline) - Allows you to run natively PlayStation One games as on PSP ([PSX2PSP​](https://www.psx-place.com/resources/psx2psp.586) might be helpful)
 ### 🖥️ Computers
 - [Basilisk II](https://github.com/rsn8887/basiliskii-vita) - Apple Macintosh II emulator
 - [UAE4ALL](https://github.com/rsn8887/uae4all2) - Amiga emulator
@@ -237,6 +243,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [VitaTools](https://github.com/SKGleba/VitaTools) - Useful tools for PSP2 Vita and Dolce
 - [Homebrew Software](https://git.shotatoshounenwachigau.moe/vita) - PS Vita utilities
 ### 🌍 Network
+- [vitals] - Adds TLS 1.2 and 1.3 support
 - [iTLS-Enso](https://github.com/SKGleba/iTLS-Enso) - Adds TLS v1.2 and custom web certificates support
 - [Vita netcheck Bypass](https://github.com/yifanlu/netcheck_bypass) - Bypass PSN login requirement for apps
 - [accountswitcher](https://github.com/elpendor/accountswitcher) - Switch between your PSN accounts on your Vita
@@ -333,6 +340,7 @@ games
 - [Theme Manager Ex](https://bitbucket.org/kylon/theme-manager-ex-theme-engine/src/master) - Advanced theme manger
 - [TEMA](https://github.com/Mithrenes/TEMA) - LiveArea and VitaShell Theme Installer
 ### 🔮 Bubbles
+- [livearea_nolimits](https://github.com/devnoname120/livearea_nolimits) - Expands LiveArea home screen page limit from 10 to 50
 - [Multi-Builder](https://github.com/DRok17/Multi-Builder) - LiveArea bubble creation and editing tool for PC
 - [FAQ to Vita Manual Converter](https://github.com/RawBOT/faq-to-vita-manual) - Converts HTML to bubble manual
 - [FakeName-Changer](https://github.com/Eywa186/FakeName-Changer-For-PSVita) - Renames LiveArea bubble titles without touching PARAM.SFO
@@ -346,6 +354,7 @@ games
 ### 🎵 Music
 - [ElevenMPV-A](https://github.com/GrapheneCt/ElevenMPV-A) - Music player with background playback
 - [VitaWave](https://github.com/Jyotiraditya-Samal/Vitawave) - Music player with background playback
+- [PSVITAMAN](https://www.obsoletesony.com/psvitaman) - Walkman-inspired FLAC and MP3 player
 - [Music Premium](https://forum.devchroma.nl/index.php/topic,60.0.html) - Enables background music playback
 - [VITA-NoAutoAvls](https://github.com/SKGleba/VITA-NoAutoAvls) - Enable/disable the auto-avls feature (bypass 20 hours timing)
 - [Monaural](https://forum.devchroma.nl/index.php/topic,57.0.html) - Mono audio and channel balance
@@ -359,9 +368,6 @@ games
 - [iMango](https://capitanbarbacoa.itch.io/imango-psvita) - Coverflow style media player
 ### 🎬 Video
 - [Vita Recorder](https://github.com/Rinnegatamante/Vita-Recorder) - Allows to record video clips
-- [CBPSTube](https://forum.devchroma.nl/index.php/topic,331.0.html) - YouTube client with more features
-- [TubeVita](https://github.com/theheroGAC/TubeVita) - Alternative YouTube client
-- [Wiliwili](https://github.com/xfangfang/wiliwili) - [Bilibili](https://www.bilibili.com) client
 - [Vita Media Center](http://wololo.net/talk/viewtopic.php?f=116&t=48887&sid=dbbf2c139506b7daab4486cf84ff41db) - MP4 video player
 - [Vita Media Importer](https://github.com/cnsldv/MediaImporter) - Imports media into the PS Vita video and music players
 - [Vita Media Player](https://github.com/SonicMastr/Vita-Media-Player) - An Open Source PS Vita/TV MP4 player with 1080p playback and subtitle support
@@ -378,16 +384,22 @@ games
 - [Bookr](https://github.com/pathway27/bookr-mod-vita) - PDF, CBZ, HTML, ePub, FB2 reader
 - [Noboru](https://github.com/Creckeryop/NOBORU) - ZIP, CBZ reader
 - [vitaPDF](https://github.com/joel16/vitaPDF) -  CBT, CBZ, ePub, FB2, MOBI, PDF, XPS reader
-### 🎥 Streaming
+### 📹 Local Streaming
 - [Switchfin](https://github.com/dragonflylee/switchfin) - [Jellyfin](https://jellyfin.org) client for PC/PS4/PS Vita/Nintendo Switch 
-- [NetStream](https://github.com/GrapheneCt/NetStream) - Universal video streaming client from YouTube, HTTP, FTP... Requires active [Invidious Instance](https://github.com/iv-org/documentation/blob/master/docs/instances.md)
 - [udcd_uvc](https://github.com/xerpi/vita-udcd-uvc) -  Allows you stream your PS Vita screen to PC/Android via USB
-- [cspot_vita](https://github.com/michal4132/cspot_vita) - A Spotify player (supports only premium accounts)
-### 📶 Remote Play
+### 🎥 Online Streaming
+- [NetStream](https://github.com/GrapheneCt/NetStream) - Universal video streaming client from YouTube, HTTP, FTP... Requires active [Invidious Instance](https://github.com/iv-org/documentation/blob/master/docs/instances.md)
+- [TubeVita](https://github.com/theheroGAC/TubeVita) - Alternative YouTube client
+- [VitaSpot](https://github.com/0oPerryo0/VitaSpot) - Spotify client (premium required)
+- [Wiliwili](https://github.com/xfangfang/wiliwili) - [Bilibili](https://www.bilibili.com) client
+### 🛜 Local Remote Play
 - [Vita Moonlight](https://github.com/xyzz/vita-moonlight) - NVIDIA Gamestream (or [Sunshine](https://github.com/LizardByte/Sunshine)) client for Vita
 - [VitaRPS5](https://github.com/mauricio-gg/vitaki-vitarps5) - PlayStation 5 Remote Play on PS Vita
 - [VItaki](https://www.gamebrew.org/wiki/VItaki) - PlayStation 5 Remote Play on PS Vita ([Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) port)
-- [GreenVita](https://github.com/Day-OS/green-vita) - Xbox Cloud Gaming on PS Vita
+- [Vita Steam Link](https://vankash.de/steamonvita) - Steam games streaming from your PC to a PS Vita over your home network
+### 📶 Cloud Remote Play
+- [GreenVita](https://github.com/Day-OS/green-vita) - Xbox Cloud Gaming client
+- [OpenNOW Vita](https://github.com/OpenCloudGaming/OpenNOW-vita) - GeForce NOW client
 
 ## 🔆 Enhances
 ### 🚀 Overclocking & Optimization
@@ -439,7 +451,7 @@ games
 - [Super Mario 64 Patches](https://www.pspx.ru/forum/showthread.php?t=112651) - [SM64](https://github.com/bythos14/sm64-vita) with 60 FPS and Puppy Camera patches
 - [Need for Speed: Most Wanted REDUX](https://www.reddit.com/r/VitaPiracy/comments/pnnif4/mod_need_for_speed_most_wanted_psvita_redux) - Makes NfS:MW(2012) more similar to the PC version
 - [Need for Speed: Most Wanted Settings](https://github.com/Electry/NFSMW_Settings) - Fixes some of the glaring issues with NfS:MW
-- [Mirage](https://mirage.yuv.pink/guide/) - Revived Killzone: Mercenary multiplayer
+- [Mirage](https://mirage.yuv.pink/guide) - Revived Killzone: Mercenary multiplayer
 - [LittleBigPlanet Project Lighthouse](https://www.lbpunion.com/post/how-to-patch-littlebigplanet-vita-for-project-lighthouse) - LittleBigPlanet alternative server
 ### 🍬 Content Mods
 - [PG Mods](https://dev.pgteam.org/mods) - Mods by PortableGaming
