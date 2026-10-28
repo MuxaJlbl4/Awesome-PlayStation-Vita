@@ -243,7 +243,7 @@ Contains all most important, actual and cool things in my humble opinion.
 - [VitaTools](https://github.com/SKGleba/VitaTools) - Useful tools for PSP2 Vita and Dolce
 - [Homebrew Software](https://git.shotatoshounenwachigau.moe/vita) - PS Vita utilities
 ### 🌍 Network
-- [vitals] - Adds TLS 1.2 and 1.3 support
+- [vitals](https://github.com/nyirsh/vitals) - Adds TLS 1.2 and 1.3 support
 - [iTLS-Enso](https://github.com/SKGleba/iTLS-Enso) - Adds TLS v1.2 and custom web certificates support
 - [Vita netcheck Bypass](https://github.com/yifanlu/netcheck_bypass) - Bypass PSN login requirement for apps
 - [accountswitcher](https://github.com/elpendor/accountswitcher) - Switch between your PSN accounts on your Vita
