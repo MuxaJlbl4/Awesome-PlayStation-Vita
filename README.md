@@ -506,6 +506,7 @@ games
 - [libAppSettings](https://github.com/GrapheneCt/libAppSettings) - Library that implements simple bridge for system software app settings dialog
 - [PSVita Unity Utilities](https://github.com/GlitcherOG/PSVita-Unity-Utilities) - Tools to help speed up PS Vita Unity Development
 - [Soloader](https://github.com/v-atamanenko/soloader-boilerplate) - A boilerplate project for TheFloW's so-loader
+- [flutter-vita](https://github.com/flutter-vita/flutter-vita) - Port of Flutter to PS Vita with a CLI to build and install apps
 ### 🔎 Reverse Engineering
 - [PSVita Reverse Engineering Tools](https://github.com/CelesteBlue-dev/PSVita-RE-tools) - A bundle of RE tools for PS Vita
 - [KVDB](https://github.com/DaveeFTW/kvdb) - Vita Debugger Kernel Plugin
